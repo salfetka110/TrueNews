@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T17:04:47.363060+00:00",
+  "updated": "2026-09-09T17:37:10.464094+00:00",
   "count": 40,
   "news": [
     {
@@ -10,16 +10,58 @@
       "pub": "Wed, 15 Nov 2023 06:58:20 GMT"
     },
     {
-      "title": "Financial Times назвала претендента на нового переговорщика по Украине - ФОНТАНКА.ру",
+      "title": "В России стало меньше бедных людей - fontanka.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oMWltVFZ2aWs1emNIQVRpREFfNDNTc2dUbGctX25BM0pzUnpoYS1aM3poSjUzM0w0NEFqVTFGX2Z2Q1d0aTdFM0FJYXNyWERrV1dLS1IyWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oMWltVFZ2aWs1emNIQVRpREFfNDNTc2dUbGctX25BM0pzUnpoYS1aM3poSjUzM0w0NEFqVTFGX2Z2Q1d0aTdFM0FJYXNyWERrV1dLS1IyWQ?oc=5\" target=\"_blank\">В России стало меньше бедных людей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 09 Sep 2026 17:28:00 GMT"
+    },
+    {
+      "title": "Путин рассказал, когда во Вьетнаме пройдут \"Русские сезоны\" - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkQXJOdXQzWktwemFDVURsUDB4X1Fnc2F0SDNTNnNZRXRpM0l4NEhrYWptUkhseGlLZ2dRWTdjeThGRHU5c1RMR3NVMG93YktQWHVBd1ZidUo1QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkQXJOdXQzWktwemFDVURsUDB4X1Fnc2F0SDNTNnNZRXRpM0l4NEhrYWptUkhseGlLZ2dRWTdjeThGRHU5c1RMR3NVMG93YktQWHVBd1ZidUo1QQ?oc=5\" target=\"_blank\">Путин рассказал, когда во Вьетнаме пройдут \"Русские сезоны\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 09 Sep 2026 17:05:00 GMT"
+    },
+    {
+      "title": "Аксенов отправил в отставку главу «Крымэнерго» после жалоб предпринимателей - 9 сентября 2026 - fontanka.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsR0ljR3oyZDVCYmdvY0pvYlNqVkkyTW9ydlV2WDdXalRNV1ZWTkl3bGNlOTVpOUhfdE5fZjlTMEttQUNEYmJVWDByNEN6RUM5c3BKeEtxYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsR0ljR3oyZDVCYmdvY0pvYlNqVkkyTW9ydlV2WDdXalRNV1ZWTkl3bGNlOTVpOUhfdE5fZjlTMEttQUNEYmJVWDByNEN6RUM5c3BKeEtxYw?oc=5\" target=\"_blank\">Аксенов отправил в отставку главу «Крымэнерго» после жалоб предпринимателей - 9 сентября 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 09 Sep 2026 17:04:00 GMT"
+    },
+    {
+      "title": "Россия и Вьетнам подписали 17 документов в ходе визита То Лама - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2aHJkUG1PZENXcG9LMHlQV2s2QTdzSng3T3Bic19ibzNGcnRWdEt4MTNfTlJ5amRuZ1Ywb2xKSkJMekRxSndCN2owTzRSQWd3SFpDWGhhNndsaDg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2aHJkUG1PZENXcG9LMHlQV2s2QTdzSng3T3Bic19ibzNGcnRWdEt4MTNfTlJ5amRuZ1Ywb2xKSkJMekRxSndCN2owTzRSQWd3SFpDWGhhNndsaDg?oc=5\" target=\"_blank\">Россия и Вьетнам подписали 17 документов в ходе визита То Лама</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 09 Sep 2026 17:01:00 GMT"
+    },
+    {
+      "title": "Отключенное из-за атаки БПЛА электричество в Геленджике восстановлено - kuban.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjFuMlhZZ3ZxMU54LVhHX2dFTFNmNjdqUWp6N1VidFVaemlXbzJCZ1FXRTFzT0hlWXNEXzJqb2lIaEpBZy14SURFUnZOeHQ4Vm12UFV4MXpqZDNfZjNtZjM0SVJJNUtfVUM0U2FoSGs3c3ZlTXhUdUZNOHhVOEhLZTBCY2phQjRM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjFuMlhZZ3ZxMU54LVhHX2dFTFNmNjdqUWp6N1VidFVaemlXbzJCZ1FXRTFzT0hlWXNEXzJqb2lIaEpBZy14SURFUnZOeHQ4Vm12UFV4MXpqZDNfZjNtZjM0SVJJNUtfVUM0U2FoSGs3c3ZlTXhUdUZNOHhVOEhLZTBCY2phQjRM?oc=5\" target=\"_blank\">Отключенное из-за атаки БПЛА электричество в Геленджике восстановлено</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kuban.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 09 Sep 2026 16:59:09 GMT"
+    },
+    {
+      "title": "Financial Times назвала претендента на нового переговорщика по Украине - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14cDZud01pWTB3T2g0RXZNczIwY2lKZnF2dFVlSXBfQVA2YWFlbFlLcTVFVmJtT0xYVDhQWEVaUUxpd3d2R2xLOE9zQ3hCd2h6anhUd3pXUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE14cDZud01pWTB3T2g0RXZNczIwY2lKZnF2dFVlSXBfQVA2YWFlbFlLcTVFVmJtT0xYVDhQWEVaUUxpd3d2R2xLOE9zQ3hCd2h6anhUd3pXUQ?oc=5\" target=\"_blank\">Financial Times назвала претендента на нового переговорщика по Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE14cDZud01pWTB3T2g0RXZNczIwY2lKZnF2dFVlSXBfQVA2YWFlbFlLcTVFVmJtT0xYVDhQWEVaUUxpd3d2R2xLOE9zQ3hCd2h6anhUd3pXUQ?oc=5\" target=\"_blank\">Financial Times назвала претендента на нового переговорщика по Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 16:54:00 GMT"
     },
     {
-      "title": "Банки обяжут сообщать о попытках операций с замороженными средствами - ФОНТАНКА.ру",
+      "title": "Болельщица «Марселя» заявила о сексуализированном насилии во время матча - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4N2llSC05YVo2R3Y4YlA0TEltR2dLZzdXcnd1ZktTdTJ5RFNvdHFyTnMyNE9xdEdDOW1tS2RHdV84TTAwbUNEMU9Qc19CUUpDT25zS1BfbFBZblVQT0pubDhveWp5SlFTZkxyNQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA4N2llSC05YVo2R3Y4YlA0TEltR2dLZzdXcnd1ZktTdTJ5RFNvdHFyTnMyNE9xdEdDOW1tS2RHdV84TTAwbUNEMU9Qc19CUUpDT25zS1BfbFBZblVQT0pubDhveWp5SlFTZkxyNQ?oc=5\" target=\"_blank\">Болельщица «Марселя» заявила о сексуализированном насилии во время матча</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 09 Sep 2026 16:46:13 GMT"
+    },
+    {
+      "title": "Банки обяжут сообщать о попытках операций с замороженными средствами - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05OW5MZGRINVVZMTVFeS1Rb09mN0ZtcG1QbktHY0ctTVM1NHNlU0Y2UmNGdHdkdU8yX1lUV28wbjJmV2ZoaTU0eUIzMndwUHFkZ2VDdlZabw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE05OW5MZGRINVVZMTVFeS1Rb09mN0ZtcG1QbktHY0ctTVM1NHNlU0Y2UmNGdHdkdU8yX1lUV28wbjJmV2ZoaTU0eUIzMndwUHFkZ2VDdlZabw?oc=5\" target=\"_blank\">Банки обяжут сообщать о попытках операций с замороженными средствами</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE05OW5MZGRINVVZMTVFeS1Rb09mN0ZtcG1QbktHY0ctTVM1NHNlU0Y2UmNGdHdkdU8yX1lUV28wbjJmV2ZoaTU0eUIzMndwUHFkZ2VDdlZabw?oc=5\" target=\"_blank\">Банки обяжут сообщать о попытках операций с замороженными средствами</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 16:43:00 GMT"
     },
@@ -31,11 +73,25 @@
       "pub": "Wed, 09 Sep 2026 16:38:13 GMT"
     },
     {
+      "title": "ВС России поразили буксир, осуществляющий сопровождение судов в Одессу - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mM0ZBMm1JbmZobkJmOEI1XzRSVlpIekRVVmYzUF9sRktWTE94ZkY4VHFEaEZVdkphdVh0VUpLWC1jZHdJNU1RX1F5OEZ4NW5TWElvMXVHQjlnZU0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mM0ZBMm1JbmZobkJmOEI1XzRSVlpIekRVVmYzUF9sRktWTE94ZkY4VHFEaEZVdkphdVh0VUpLWC1jZHdJNU1RX1F5OEZ4NW5TWElvMXVHQjlnZU0?oc=5\" target=\"_blank\">ВС России поразили буксир, осуществляющий сопровождение судов в Одессу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 09 Sep 2026 16:38:00 GMT"
+    },
+    {
       "title": "ВС России поразили логистический центр, где хранилось имущество для ВСУ - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtTVVQSTJSNXBXRmJZcHUySnN3cWluNmRGQzFaZEhvRWxndTN6VFJhWE9WZFAwb1RTc05kRTdNM1lhM21USUNGOHY2R0xqb25IWGtwYU5R?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtTVVQSTJSNXBXRmJZcHUySnN3cWluNmRGQzFaZEhvRWxndTN6VFJhWE9WZFAwb1RTc05kRTdNM1lhM21USUNGOHY2R0xqb25IWGtwYU5R?oc=5\" target=\"_blank\">ВС России поразили логистический центр, где хранилось имущество для ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Wed, 09 Sep 2026 16:36:00 GMT"
+    },
+    {
+      "title": "Песков — о запрете на книги из России: бацилла русофобии пожирает Латвию - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4ajZaa0JFSGxicVk4dE5WY1RYNUFGOWRLcGRraVFLY3d6ZzljZG9FcWMwTmlmRk1vOFgwRVpsQXNzMXpLWVBFUjhESzVVV0gyYXFCY0FDczhRWEpyTHhjSmNkanN1MmxYQWVVNFJVTW9BTS1keURqNXF0c9IBe0FVX3lxTFB4ajZaa0JFSGxicVk4dE5WY1RYNUFGOWRLcGRraVFLY3d6ZzljZG9FcWMwTmlmRk1vOFgwRVpsQXNzMXpLWVBFUjhESzVVV0gyYXFCY0FDczhRWEpyTHhjSmNkanN1MmxYQWVVNFJVTW9BTS1keURqNXF0cw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB4ajZaa0JFSGxicVk4dE5WY1RYNUFGOWRLcGRraVFLY3d6ZzljZG9FcWMwTmlmRk1vOFgwRVpsQXNzMXpLWVBFUjhESzVVV0gyYXFCY0FDczhRWEpyTHhjSmNkanN1MmxYQWVVNFJVTW9BTS1keURqNXF0c9IBe0FVX3lxTFB4ajZaa0JFSGxicVk4dE5WY1RYNUFGOWRLcGRraVFLY3d6ZzljZG9FcWMwTmlmRk1vOFgwRVpsQXNzMXpLWVBFUjhESzVVV0gyYXFCY0FDczhRWEpyTHhjSmNkanN1MmxYQWVVNFJVTW9BTS1keURqNXF0cw?oc=5\" target=\"_blank\">Песков — о запрете на книги из России: бацилла русофобии пожирает Латвию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 09 Sep 2026 16:33:40 GMT"
     },
     {
       "title": "В Киеве пожаловались на русский язык во время перестрелки СБУ и ГУР - rbc.ru",
@@ -66,6 +122,13 @@
       "pub": "Wed, 09 Sep 2026 16:31:00 GMT"
     },
     {
+      "title": "Россия и Вьетнам укрепят сотрудничество в области морской безопасности - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43Qkp1bUxBWDZGZkNlTkpwQjNvWW9XZWJwUHhNak5vdFRNQVhwRk1rYS1ra0hQLU83dWZCN1JoWElYY2N5N3RhNksxaE41QTluTUp3RFNTdVBrQVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE43Qkp1bUxBWDZGZkNlTkpwQjNvWW9XZWJwUHhNak5vdFRNQVhwRk1rYS1ra0hQLU83dWZCN1JoWElYY2N5N3RhNksxaE41QTluTUp3RFNTdVBrQVE?oc=5\" target=\"_blank\">Россия и Вьетнам укрепят сотрудничество в области морской безопасности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 09 Sep 2026 16:26:00 GMT"
+    },
+    {
       "title": "Глава Крыма уволил гендиректора «Крымэнерго» после жалоб граждан - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sNGZXckxfYjVzeHZWRWM0UEZqakM0bXhFUDJoS1FMLXFETzNmbG9kb1p4ZDAtSTNPQUxCUTNaOHpRZUpUNFozQUNPeFE1NkJkQUlJT0lVSk5NTTNwelhVR1NQeWJZWm1ESk5aTTllbGUyMGtuM0lLV3kzOA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1sNGZXckxfYjVzeHZWRWM0UEZqakM0bXhFUDJoS1FMLXFETzNmbG9kb1p4ZDAtSTNPQUxCUTNaOHpRZUpUNFozQUNPeFE1NkJkQUlJT0lVSk5NTTNwelhVR1NQeWJZWm1ESk5aTTllbGUyMGtuM0lLV3kzOA?oc=5\" target=\"_blank\">Глава Крыма уволил гендиректора «Крымэнерго» после жалоб граждан</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
@@ -80,9 +143,9 @@
       "pub": "Wed, 09 Sep 2026 16:03:53 GMT"
     },
     {
-      "title": "Кирилл Ласкин отсудил у Минюста компенсацию за уголовное преследование - ФОНТАНКА.ру",
+      "title": "Кирилл Ласкин отсудил у Минюста компенсацию за уголовное преследование - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rTDlHQmt6Qnpyek9IOHlIVTREd0pMbGRwazBOSTJHQ0QtR1BoSEZQbS01SG9oMzB4WDJmbFJlODZxdHR6a2lDLWozQXc3NUs3cXZDTHJ0MG1XSWRNV3dRTThJbw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rTDlHQmt6Qnpyek9IOHlIVTREd0pMbGRwazBOSTJHQ0QtR1BoSEZQbS01SG9oMzB4WDJmbFJlODZxdHR6a2lDLWozQXc3NUs3cXZDTHJ0MG1XSWRNV3dRTThJbw?oc=5\" target=\"_blank\">Кирилл Ласкин отсудил у Минюста компенсацию за уголовное преследование</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rTDlHQmt6Qnpyek9IOHlIVTREd0pMbGRwazBOSTJHQ0QtR1BoSEZQbS01SG9oMzB4WDJmbFJlODZxdHR6a2lDLWozQXc3NUs3cXZDTHJ0MG1XSWRNV3dRTThJbw?oc=5\" target=\"_blank\">Кирилл Ласкин отсудил у Минюста компенсацию за уголовное преследование</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 16:03:00 GMT"
     },
@@ -94,23 +157,16 @@
       "pub": "Wed, 09 Sep 2026 16:00:10 GMT"
     },
     {
-      "title": "AI-AINA: Петербург остывает к зарплатам, Канье и большим обещаниям - ФОНТАНКА.ру",
+      "title": "AI-AINA: Петербург остывает к зарплатам, Канье и большим обещаниям - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pNW42NHpzSjFNaDVvZUpueEFxaFdWRmlTbzZIcGJ3Q1RfaTVhWjBrekJzeE5jUXNuWF9scHN4TEo2Y3lwZnRuV3pXdDhMT1M2a0pLVzFSNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pNW42NHpzSjFNaDVvZUpueEFxaFdWRmlTbzZIcGJ3Q1RfaTVhWjBrekJzeE5jUXNuWF9scHN4TEo2Y3lwZnRuV3pXdDhMT1M2a0pLVzFSNA?oc=5\" target=\"_blank\">AI-AINA: Петербург остывает к зарплатам, Канье и большим обещаниям</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pNW42NHpzSjFNaDVvZUpueEFxaFdWRmlTbzZIcGJ3Q1RfaTVhWjBrekJzeE5jUXNuWF9scHN4TEo2Y3lwZnRuV3pXdDhMT1M2a0pLVzFSNA?oc=5\" target=\"_blank\">AI-AINA: Петербург остывает к зарплатам, Канье и большим обещаниям</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 16:00:00 GMT"
     },
     {
-      "title": "Путин: Россия работает над введением безвиза для граждан Вьетнама - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYktlRzVvOVFlUTdBbVJ0VFl3d2dxVWRaVWUzN0N5QmdoazJnUGtfWGstUndCMi04VjJIMUVfNmJoZFRuQ0h1bFBGNllaUWd5S2VTdXB6dWxXek90NEV3eEtDeW5RUk9ManBWUFhidjNUeDY5VHYzQ0huTWRFVEtIMk1Iem1lTV9IUE9WMdIBjAFBVV95cUxPYktlRzVvOVFlUTdBbVJ0VFl3d2dxVWRaVWUzN0N5QmdoazJnUGtfWGstUndCMi04VjJIMUVfNmJoZFRuQ0h1bFBGNllaUWd5S2VTdXB6dWxXek90NEV3eEtDeW5RUk9ManBWUFhidjNUeDY5VHYzQ0huTWRFVEtIMk1Iem1lTV9IUE9WMQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPYktlRzVvOVFlUTdBbVJ0VFl3d2dxVWRaVWUzN0N5QmdoazJnUGtfWGstUndCMi04VjJIMUVfNmJoZFRuQ0h1bFBGNllaUWd5S2VTdXB6dWxXek90NEV3eEtDeW5RUk9ManBWUFhidjNUeDY5VHYzQ0huTWRFVEtIMk1Iem1lTV9IUE9WMdIBjAFBVV95cUxPYktlRzVvOVFlUTdBbVJ0VFl3d2dxVWRaVWUzN0N5QmdoazJnUGtfWGstUndCMi04VjJIMUVfNmJoZFRuQ0h1bFBGNllaUWd5S2VTdXB6dWxXek90NEV3eEtDeW5RUk9ManBWUFhidjNUeDY5VHYzQ0huTWRFVEtIMk1Iem1lTV9IUE9WMQ?oc=5\" target=\"_blank\">Путин: Россия работает над введением безвиза для граждан Вьетнама</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 09 Sep 2026 15:54:09 GMT"
-    },
-    {
-      "title": "Путин: РФ работает над введением безвизового режима для граждан Вьетнама - ФОНТАНКА.ру",
+      "title": "Путин: РФ работает над введением безвизового режима для граждан Вьетнама - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQRGs1WlB5bE41N0NTaTUwMjJDd2REa3p2eVdXV093cE85cEl6ZUg5aXJhNWhZOFl4eWVzRjN4eU5aaXNMSGY1UXFqamFqbHMtd2FXUDQtTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQRGs1WlB5bE41N0NTaTUwMjJDd2REa3p2eVdXV093cE85cEl6ZUg5aXJhNWhZOFl4eWVzRjN4eU5aaXNMSGY1UXFqamFqbHMtd2FXUDQtTQ?oc=5\" target=\"_blank\">Путин: РФ работает над введением безвизового режима для граждан Вьетнама</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQRGs1WlB5bE41N0NTaTUwMjJDd2REa3p2eVdXV093cE85cEl6ZUg5aXJhNWhZOFl4eWVzRjN4eU5aaXNMSGY1UXFqamFqbHMtd2FXUDQtTQ?oc=5\" target=\"_blank\">Путин: РФ работает над введением безвизового режима для граждан Вьетнама</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 15:54:00 GMT"
     },
@@ -122,11 +178,11 @@
       "pub": "Wed, 09 Sep 2026 15:51:40 GMT"
     },
     {
-      "title": "Путин: Россия и Вьетнам переходят на нацвалюты во взаимной торговле - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFNNU3Q1WU82a0kwcEl1eTZPSzUxcldiUHB2ZkhVOHFHXzJMRjFfd3J5R1FBN1B0MjBmRUNTSzh4MnFiWU5QTXdzOU5MZTJvSEJGSFJ2cVRtMmRDUUJLTmw3X04yNlMwOF9PT25wRWRtaUI1X3EyakJ1QjFsb212a2szUDhlY1lwd3AzLXdMM080YkZh0gGUAUFVX3lxTFBoU01TdDVZTzZrSTBwSXV5Nk9LNTFyV2JQcHZmSFU4cUdfMkxGMV93cnlHUUE3UHQyMGZFQ1NLOHgycWJZTlBNd3M5TkxlMm9IQkZIUnZxVG0yZENRQktObDdfTjI2UzA4X09PbnBFZG1pQjVfcTJqQnVCMWxvbXZrazNQOGVjWXB3cDMtd0wzTzRiRmE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFNNU3Q1WU82a0kwcEl1eTZPSzUxcldiUHB2ZkhVOHFHXzJMRjFfd3J5R1FBN1B0MjBmRUNTSzh4MnFiWU5QTXdzOU5MZTJvSEJGSFJ2cVRtMmRDUUJLTmw3X04yNlMwOF9PT25wRWRtaUI1X3EyakJ1QjFsb212a2szUDhlY1lwd3AzLXdMM080YkZh0gGUAUFVX3lxTFBoU01TdDVZTzZrSTBwSXV5Nk9LNTFyV2JQcHZmSFU4cUdfMkxGMV93cnlHUUE3UHQyMGZFQ1NLOHgycWJZTlBNd3M5TkxlMm9IQkZIUnZxVG0yZENRQktObDdfTjI2UzA4X09PbnBFZG1pQjVfcTJqQnVCMWxvbXZrazNQOGVjWXB3cDMtd0wzTzRiRmE?oc=5\" target=\"_blank\">Путин: Россия и Вьетнам переходят на нацвалюты во взаимной торговле</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "title": "Путин: Россия работает над введением безвиза для граждан Вьетнама - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRlJBeWVhTzRfUWJBUnpNRGE2cGpSS1daNmN2eDBCM1ZpTmJkalE0TDM0ejV5UXU5SzFWNzA5X2w2dkFFeVZXMzFFZXVXOGpWRGJXT2Z2eHRPdTYwekRVWTV3SmJSMy1nTzJ3NjNQS2FIeE9Ub084MC0tSlg1d3huMnJrbkdYMWPSAYwBQVVfeXFMT2JLZUc1bzlRZVE3QW1SdFRZd3dncVVkWlVlMzdDeUJnaGsyZ1BrX1hrLVJ3QjItOFYySDFFXzZiaGRUbkNIdWxQRjZZWlFneUtlU3VwenVsV3pPdDRFd3hLQ3luUVJPTGpwVlBYYnYzVHg2OVR2M0NIbk1kRVRLSDJNSHptZU1fSFBPVjE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRlJBeWVhTzRfUWJBUnpNRGE2cGpSS1daNmN2eDBCM1ZpTmJkalE0TDM0ejV5UXU5SzFWNzA5X2w2dkFFeVZXMzFFZXVXOGpWRGJXT2Z2eHRPdTYwekRVWTV3SmJSMy1nTzJ3NjNQS2FIeE9Ub084MC0tSlg1d3huMnJrbkdYMWPSAYwBQVVfeXFMT2JLZUc1bzlRZVE3QW1SdFRZd3dncVVkWlVlMzdDeUJnaGsyZ1BrX1hrLVJ3QjItOFYySDFFXzZiaGRUbkNIdWxQRjZZWlFneUtlU3VwenVsV3pPdDRFd3hLQ3luUVJPTGpwVlBYYnYzVHg2OVR2M0NIbk1kRVRLSDJNSHptZU1fSFBPVjE?oc=5\" target=\"_blank\">Путин: Россия работает над введением безвиза для граждан Вьетнама</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
-      "pub": "Wed, 09 Sep 2026 15:45:20 GMT"
+      "pub": "Wed, 09 Sep 2026 15:47:28 GMT"
     },
     {
       "title": "Путин рассказал о проектах, реализуемых совместно с Вьетнамом - ria.ru",
@@ -136,11 +192,11 @@
       "pub": "Wed, 09 Sep 2026 15:43:00 GMT"
     },
     {
-      "title": "В Ленобласти готовятся к подаче отопления в Пикалево и Бокситогорске - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjcHJ6b3F4LUxsVWt3NFExaElWVDlfeXBGVkZrcXF4clJoVlpzSlBpX29NcWZyUzYzQUJmUUFMQVNjZzhocmJGbXctVTZBTFQyd0xJU1d0cXkzRjVha3BPUU11bw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjcHJ6b3F4LUxsVWt3NFExaElWVDlfeXBGVkZrcXF4clJoVlpzSlBpX29NcWZyUzYzQUJmUUFMQVNjZzhocmJGbXctVTZBTFQyd0xJU1d0cXkzRjVha3BPUU11bw?oc=5\" target=\"_blank\">В Ленобласти готовятся к подаче отопления в Пикалево и Бокситогорске</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 09 Sep 2026 15:40:01 GMT"
+      "title": "Путин: Россия и Вьетнам переходят на нацвалюты во взаимной торговле - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejRBaUY4d0gxLTBtNW5wSHk3cTZxeWhWZE9lWUdsb2dVWmhtaFdfLTdjdEpnbWRHVzVPYXRFT3dWVVlGSUdZS3NObGszNGJEX2lQQmxxclFzWFF5ZG13RFJmNmRudFhSckZRemF4dnlsRmUwZ2pYMjF1QTVVd0l3cWpvTGdSTmNldnZ5NktYMNIBlAFBVV95cUxQaFNNU3Q1WU82a0kwcEl1eTZPSzUxcldiUHB2ZkhVOHFHXzJMRjFfd3J5R1FBN1B0MjBmRUNTSzh4MnFiWU5QTXdzOU5MZTJvSEJGSFJ2cVRtMmRDUUJLTmw3X04yNlMwOF9PT25wRWRtaUI1X3EyakJ1QjFsb212a2szUDhlY1lwd3AzLXdMM080YkZh?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPejRBaUY4d0gxLTBtNW5wSHk3cTZxeWhWZE9lWUdsb2dVWmhtaFdfLTdjdEpnbWRHVzVPYXRFT3dWVVlGSUdZS3NObGszNGJEX2lQQmxxclFzWFF5ZG13RFJmNmRudFhSckZRemF4dnlsRmUwZ2pYMjF1QTVVd0l3cWpvTGdSTmNldnZ5NktYMNIBlAFBVV95cUxQaFNNU3Q1WU82a0kwcEl1eTZPSzUxcldiUHB2ZkhVOHFHXzJMRjFfd3J5R1FBN1B0MjBmRUNTSzh4MnFiWU5QTXdzOU5MZTJvSEJGSFJ2cVRtMmRDUUJLTmw3X04yNlMwOF9PT25wRWRtaUI1X3EyakJ1QjFsb212a2szUDhlY1lwd3AzLXdMM080YkZh?oc=5\" target=\"_blank\">Путин: Россия и Вьетнам переходят на нацвалюты во взаимной торговле</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 09 Sep 2026 15:39:15 GMT"
     },
     {
       "title": "Захарова: статья Politiken создаёт угрозу для российской школы в Дании - russian.rt.com",
@@ -150,9 +206,16 @@
       "pub": "Wed, 09 Sep 2026 15:33:04 GMT"
     },
     {
-      "title": "В Казахстане рассказали, как атака БПЛА на Новороссийск повлияла на ситуацию с нефтью - ФОНТАНКА.ру",
+      "title": "Взаимодействие России и Вьетнама в энергетике продвигается, заявил Путин - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QN3pPYk1CdGNvSnI2ZEZCNklWVGt1MENLYVRyTWNHekxib2hQNFBxd3cwRE41QjhZbVJoaHVTMmNtZ0ZhQ0d3QmRfNXByd3FlQ3JoUHZBdnc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QN3pPYk1CdGNvSnI2ZEZCNklWVGt1MENLYVRyTWNHekxib2hQNFBxd3cwRE41QjhZbVJoaHVTMmNtZ0ZhQ0d3QmRfNXByd3FlQ3JoUHZBdnc?oc=5\" target=\"_blank\">Взаимодействие России и Вьетнама в энергетике продвигается, заявил Путин</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 09 Sep 2026 15:33:00 GMT"
+    },
+    {
+      "title": "В Казахстане рассказали, как атака БПЛА на Новороссийск повлияла на ситуацию с нефтью - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SZGc1TXVNVmhLcmtNMVBlSG5Hb3UzLUFnN1RaZU5mYjRJaHp5ak5TZHRCYVZ0UUs2R2QyOVdoQWpsX0txZGNFMVYweVVkd09VYmVId3NtTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SZGc1TXVNVmhLcmtNMVBlSG5Hb3UzLUFnN1RaZU5mYjRJaHp5ak5TZHRCYVZ0UUs2R2QyOVdoQWpsX0txZGNFMVYweVVkd09VYmVId3NtTQ?oc=5\" target=\"_blank\">В Казахстане рассказали, как атака БПЛА на Новороссийск повлияла на ситуацию с нефтью</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SZGc1TXVNVmhLcmtNMVBlSG5Hb3UzLUFnN1RaZU5mYjRJaHp5ak5TZHRCYVZ0UUs2R2QyOVdoQWpsX0txZGNFMVYweVVkd09VYmVId3NtTQ?oc=5\" target=\"_blank\">В Казахстане рассказали, как атака БПЛА на Новороссийск повлияла на ситуацию с нефтью</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 15:32:00 GMT"
     },
@@ -171,25 +234,18 @@
       "pub": "Wed, 09 Sep 2026 15:32:00 GMT"
     },
     {
+      "title": "Главный раввин России открыл новое кошерное кафе в Москве - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54OFpxNHpCc3o4TjZDYm55X2lTRElLOVlhdU9pd2pWY2ZDay13WmJ0SF9ldk41ZUNIMVpURVpZMmZRQVFfSE5VMVloSkRaSjFLd0VTUDluY3hlQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE54OFpxNHpCc3o4TjZDYm55X2lTRElLOVlhdU9pd2pWY2ZDay13WmJ0SF9ldk41ZUNIMVpURVpZMmZRQVFfSE5VMVloSkRaSjFLd0VTUDluY3hlQQ?oc=5\" target=\"_blank\">Главный раввин России открыл новое кошерное кафе в Москве</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 09 Sep 2026 15:30:00 GMT"
+    },
+    {
       "title": "«Выход на рынок ушей»: как рекламировать деловое радио в 2026 - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tWWVUVk90S29nQkxmOHlLTHJjZlM0T3AxdmZkLXl0QUJtVkdaUjZzdHpyOWNMbFl3Umx1eXQyQjczMU5CdUxHbklRcnBVNXlOZFZwLWoycFZCVHM3enZ5ZG40MmRDc2FhUzREUg?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5tWWVUVk90S29nQkxmOHlLTHJjZlM0T3AxdmZkLXl0QUJtVkdaUjZzdHpyOWNMbFl3Umx1eXQyQjczMU5CdUxHbklRcnBVNXlOZFZwLWoycFZCVHM3enZ5ZG40MmRDc2FhUzREUg?oc=5\" target=\"_blank\">«Выход на рынок ушей»: как рекламировать деловое радио в 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 09 Sep 2026 15:28:42 GMT"
-    },
-    {
-      "title": "Песков: американская делегация не передавала в Кремль \"настроения\" из Киева - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zeS01M3pqUVg0U3ExVVA0d1BpNzV1VnU3WWwzSkhDUmtWY2lxY21NMlBfam5zY0Q1alJaMTZBT0xPU1dldGJ0N0ZsdGltNF85T3djQjlHSnllUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zeS01M3pqUVg0U3ExVVA0d1BpNzV1VnU3WWwzSkhDUmtWY2lxY21NMlBfam5zY0Q1alJaMTZBT0xPU1dldGJ0N0ZsdGltNF85T3djQjlHSnllUQ?oc=5\" target=\"_blank\">Песков: американская делегация не передавала в Кремль \"настроения\" из Киева</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 09 Sep 2026 15:27:00 GMT"
-    },
-    {
-      "title": "МЧС предупреждает о сильных дождях в Петербурге 10 сентября - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DbzdwUlFNeF9WbUxhWW1NaUgxLVVIUDRqWmxVb2l1WWQwTGtfQU1QWHZQc0NMUG0zY0ZicG8tOGRZblNxRlF4X2NHRENhMndZbDlqSmthWmhrdTJ1WHZtWXNOOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DbzdwUlFNeF9WbUxhWW1NaUgxLVVIUDRqWmxVb2l1WWQwTGtfQU1QWHZQc0NMUG0zY0ZicG8tOGRZblNxRlF4X2NHRENhMndZbDlqSmthWmhrdTJ1WHZtWXNOOA?oc=5\" target=\"_blank\">МЧС предупреждает о сильных дождях в Петербурге 10 сентября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 09 Sep 2026 15:26:03 GMT"
     },
     {
       "title": "Опасная альтернатива: чем немецкая АдГ пугает Польшу - tass.ru",
@@ -199,9 +255,9 @@
       "pub": "Wed, 09 Sep 2026 15:22:43 GMT"
     },
     {
-      "title": "Председатель совета директоров и гендиректор телеканала «Дождь»* заочно арестованы в РФ - ФОНТАНКА.ру",
+      "title": "Председатель совета директоров и гендиректор телеканала «Дождь»* заочно арестованы в РФ - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zM2g2VGhURjUwblU4MUMySktTV1pOck9ZNGtLTVNrUlYxX2w5RVFDc1pCbTNYUTlldEVfLTFuUnhHZENieE1QY3dpT2RrQk5YSHdCU1I0aw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zM2g2VGhURjUwblU4MUMySktTV1pOck9ZNGtLTVNrUlYxX2w5RVFDc1pCbTNYUTlldEVfLTFuUnhHZENieE1QY3dpT2RrQk5YSHdCU1I0aw?oc=5\" target=\"_blank\">Председатель совета директоров и гендиректор телеканала «Дождь»* заочно арестованы в РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zM2g2VGhURjUwblU4MUMySktTV1pOck9ZNGtLTVNrUlYxX2w5RVFDc1pCbTNYUTlldEVfLTFuUnhHZENieE1QY3dpT2RrQk5YSHdCU1I0aw?oc=5\" target=\"_blank\">Председатель совета директоров и гендиректор телеканала «Дождь»* заочно арестованы в РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 15:21:00 GMT"
     },
@@ -220,67 +276,11 @@
       "pub": "Wed, 09 Sep 2026 15:10:48 GMT"
     },
     {
-      "title": "Арестованный рассказал о втором убийстве: тело залили бетоном в Челябинской области - ФОНТАНКА.ру",
+      "title": "Арестованный рассказал о втором убийстве: тело залили бетоном в Челябинской области - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nN1dXdFVpNHI1TElaM3R5dEFlZHhuZjlMX0d5WXhvVkRDVWJ3ZXZaYXZCVV9IMFQ1X0lJYzByT0xnSHZrOF9kaFV2aWgybnZlNU92WFlxSlBxWkpnV2dIa0ZOVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nN1dXdFVpNHI1TElaM3R5dEFlZHhuZjlMX0d5WXhvVkRDVWJ3ZXZaYXZCVV9IMFQ1X0lJYzByT0xnSHZrOF9kaFV2aWgybnZlNU92WFlxSlBxWkpnV2dIa0ZOVQ?oc=5\" target=\"_blank\">Арестованный рассказал о втором убийстве: тело залили бетоном в Челябинской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nN1dXdFVpNHI1TElaM3R5dEFlZHhuZjlMX0d5WXhvVkRDVWJ3ZXZaYXZCVV9IMFQ1X0lJYzByT0xnSHZrOF9kaFV2aWgybnZlNU92WFlxSlBxWkpnV2dIa0ZOVQ?oc=5\" target=\"_blank\">Арестованный рассказал о втором убийстве: тело залили бетоном в Челябинской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Wed, 09 Sep 2026 15:09:45 GMT"
-    },
-    {
-      "title": "Арестованный за убийство в Кудрово рассказал о теле, залитом в бетон - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAya1RwR0NMaE1oTTFzMU9mdEJhYlBjZ2pNcmd2UVZiaWVlcmJqMGN6MGdtSEgwVUlMQl9LVzBUTzFHbldaQXYzUTNKUzFJdExKU2dFdmRPRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAya1RwR0NMaE1oTTFzMU9mdEJhYlBjZ2pNcmd2UVZiaWVlcmJqMGN6MGdtSEgwVUlMQl9LVzBUTzFHbldaQXYzUTNKUzFJdExKU2dFdmRPRQ?oc=5\" target=\"_blank\">Арестованный за убийство в Кудрово рассказал о теле, залитом в бетон</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 09 Sep 2026 15:09:45 GMT"
-    },
-    {
-      "title": "Дефицит бюджета Татарстана в 2029 году снизится до ₽3,5 млрд - rt.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HSnJqWWltaHR4TUtzN3g0VFR3N0xXZ3p5OF9WRGhNWXhsS1lCZEZGcFpiQXpfMVh5LUE4cDVaZkJhUjM2TkVTQnpFT0d3VjFVMF8zVUtEb1dxcHlvRWJibW1lVlluV1FvRHY1OERn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5HSnJqWWltaHR4TUtzN3g0VFR3N0xXZ3p5OF9WRGhNWXhsS1lCZEZGcFpiQXpfMVh5LUE4cDVaZkJhUjM2TkVTQnpFT0d3VjFVMF8zVUtEb1dxcHlvRWJibW1lVlluV1FvRHY1OERn?oc=5\" target=\"_blank\">Дефицит бюджета Татарстана в 2029 году снизится до ₽3,5 млрд</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rt.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 09 Sep 2026 15:07:28 GMT"
-    },
-    {
-      "title": "Автоэксперт Славнов: перед стоянкой авто осенью и зимой гараж лучше утеплить - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXNNSWloS1NBaGh1aUxjd0trdjBETDFYQnRZVzVuSGZDdkNILUZEZERRMDQ3dFJtU1JHejRyYVpQYXQ2QVF3RzNKcmxvOV9BbTlCbWVhdFlnWmtaYXc1UUhtWjJ3NVBUUERoR2NIVnlrTlVDdVppQnhzMzJ3RVZVaUxVdkt3d9IBiwFBVV95cUxPanpvR3FsWDBCZGY0dFp5bnY5Zk0tMDQ1aUlPNXpHV2Jjd3FhYzkzSFlZOTAwSEM5Rnp1MFJQd2t2bENjeWx4eDBIemVxczgtTHBJazN0ZUtSNmliUnBpbUtDc0tjU3V4YVlhbHZacXA2aHJDQUdMRURreU5YQklPblRTQl9ncXJ2a19r?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXNNSWloS1NBaGh1aUxjd0trdjBETDFYQnRZVzVuSGZDdkNILUZEZERRMDQ3dFJtU1JHejRyYVpQYXQ2QVF3RzNKcmxvOV9BbTlCbWVhdFlnWmtaYXc1UUhtWjJ3NVBUUERoR2NIVnlrTlVDdVppQnhzMzJ3RVZVaUxVdkt3d9IBiwFBVV95cUxPanpvR3FsWDBCZGY0dFp5bnY5Zk0tMDQ1aUlPNXpHV2Jjd3FhYzkzSFlZOTAwSEM5Rnp1MFJQd2t2bENjeWx4eDBIemVxczgtTHBJazN0ZUtSNmliUnBpbUtDc0tjU3V4YVlhbHZacXA2aHJDQUdMRURreU5YQklPblRTQl9ncXJ2a19r?oc=5\" target=\"_blank\">Автоэксперт Славнов: перед стоянкой авто осенью и зимой гараж лучше утеплить</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 09 Sep 2026 15:03:49 GMT"
-    },
-    {
-      "title": "Самоед: дружелюбная северная ездовая собака - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jVmp5dDRsXzNjZ2VFTl9zbXd2Q2M2a1ZsdGh6SG1nY3VDOUlUbTJmemU5Tm9PZVBYRE1pUDdKMEtsUUxzTEppWkRlWThlaEV0NVBwRg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jVmp5dDRsXzNjZ2VFTl9zbXd2Q2M2a1ZsdGh6SG1nY3VDOUlUbTJmemU5Tm9PZVBYRE1pUDdKMEtsUUxzTEppWkRlWThlaEV0NVBwRg?oc=5\" target=\"_blank\">Самоед: дружелюбная северная ездовая собака</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 09 Sep 2026 15:00:00 GMT"
-    },
-    {
-      "title": "Глава Сортавальского округа Карелии вступил в мобильную огневую группу - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3hsOHd4Y084dTF4SGdlNkJOdVdrd1NqWV91bndIeWk4V2VmTTJoaWlnRjJoSFUyVjRIenlDVHVPNzdPSzBvZXEwNXA5LXhIby1hTjZfVkRST2FPaHpmeEFJTmljVEFraDJDOUJXNlFfczFjcnRicGpSVnhQVW9QbWRkYXJGUV9VM2k0S1lPb2ItMHpYNDdUWXdxdURIZ9IBowFBVV95cUxPTzlKdFJUSFVfRHBDZkRCZHBGM2ZSUEU3MlRPc0JiVjA5TU9Ea2Rqc2t2c0FDbXk1RXVwcGlTbXJKYXZZcGtuYkx4WVRLMUZ4TkJwSkJGVGNBOEN5UG5TOUgtajZFN0pEcjJzUDUzUjJvcHZWbkRWQWFLY2YtMEhHa3VGVFVaaHRoY2RscWRjbVo5d1NUU0owX21VQjVCQTVWYWg4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNY3hsOHd4Y084dTF4SGdlNkJOdVdrd1NqWV91bndIeWk4V2VmTTJoaWlnRjJoSFUyVjRIenlDVHVPNzdPSzBvZXEwNXA5LXhIby1hTjZfVkRST2FPaHpmeEFJTmljVEFraDJDOUJXNlFfczFjcnRicGpSVnhQVW9QbWRkYXJGUV9VM2k0S1lPb2ItMHpYNDdUWXdxdURIZ9IBowFBVV95cUxPTzlKdFJUSFVfRHBDZkRCZHBGM2ZSUEU3MlRPc0JiVjA5TU9Ea2Rqc2t2c0FDbXk1RXVwcGlTbXJKYXZZcGtuYkx4WVRLMUZ4TkJwSkJGVGNBOEN5UG5TOUgtajZFN0pEcjJzUDUzUjJvcHZWbkRWQWFLY2YtMEhHa3VGVFVaaHRoY2RscWRjbVo5d1NUU0owX21VQjVCQTVWYWg4?oc=5\" target=\"_blank\">Глава Сортавальского округа Карелии вступил в мобильную огневую группу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 09 Sep 2026 14:55:04 GMT"
-    },
-    {
-      "title": "Найдено тело еще одного альпиниста, попавшего под лавину в Кабардино-Балкарии. Операцию приостановили - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN1J6clZHUGVWWDFOMG9mUm9KazZZbDJlMi1ZT1gxOEhMWmZsYy03dzE0MTFmLUFrWVZrOUtab1NONG05bEJ3aEJQMjNiSFhYenFtWkxhMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN1J6clZHUGVWWDFOMG9mUm9KazZZbDJlMi1ZT1gxOEhMWmZsYy03dzE0MTFmLUFrWVZrOUtab1NONG05bEJ3aEJQMjNiSFhYenFtWkxhMA?oc=5\" target=\"_blank\">Найдено тело еще одного альпиниста, попавшего под лавину в Кабардино-Балкарии. Операцию приостановили</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 09 Sep 2026 14:55:00 GMT"
-    },
-    {
-      "title": "Геленджик частично обесточен после атаки БПЛА на электроподстанцию - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnhUUDJWaWFidU1HWHVQc3J6YW9lT2RrMmxfY2pwTXFuM3VGcUJVT2U2MTd5ZTNwdlpYVHdxcFR2d0dJeVZPN1BCY2dFdTZ5NWNuT1VNR3h3dndvb1lWaENUd3RjY2ZsZk1LNGk5a3N5bHljZTBIaU5SMlNSUjkyN0V5eGFtTm9TZ0HSAY8BQVVfeXFMTTlCTWg0VllPdlFaQ1lIV1BhbkdzRUtROGlrREhoMmxGQWczSEJsVEFjMFU3cW9BMXJ4N1RpeE4xVENldmpPUW5iSEJzbWdCN0VYUVdtNGlTR08xM0V2MmNqalZWMW9ubktkajc0MDBUTWlMcm45U3BHMmZ5R0M2LVdMdjhqb25LdDRCWWU0dzQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnhUUDJWaWFidU1HWHVQc3J6YW9lT2RrMmxfY2pwTXFuM3VGcUJVT2U2MTd5ZTNwdlpYVHdxcFR2d0dJeVZPN1BCY2dFdTZ5NWNuT1VNR3h3dndvb1lWaENUd3RjY2ZsZk1LNGk5a3N5bHljZTBIaU5SMlNSUjkyN0V5eGFtTm9TZ0HSAY8BQVVfeXFMTTlCTWg0VllPdlFaQ1lIV1BhbkdzRUtROGlrREhoMmxGQWczSEJsVEFjMFU3cW9BMXJ4N1RpeE4xVENldmpPUW5iSEJzbWdCN0VYUVdtNGlTR08xM0V2MmNqalZWMW9ubktkajc0MDBUTWlMcm45U3BHMmZ5R0M2LVdMdjhqb25LdDRCWWU0dzQ?oc=5\" target=\"_blank\">Геленджик частично обесточен после атаки БПЛА на электроподстанцию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 09 Sep 2026 14:52:37 GMT"
-    },
-    {
-      "title": "Колобков считает честью, что три федерации выдвинули его в FIDE - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YLTJuZzd6VTNhSUdSOXVqZnlPX2NaQ3NiSU8xalZCdFFIc0s5ZU03bl9lYzR1QzhyeHJPMWI2eEJpU2N5eVZRTmRGeS1TOGZFajdKd1RHaklEVDg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YLTJuZzd6VTNhSUdSOXVqZnlPX2NaQ3NiSU8xalZCdFFIc0s5ZU03bl9lYzR1QzhyeHJPMWI2eEJpU2N5eVZRTmRGeS1TOGZFajdKd1RHaklEVDg?oc=5\" target=\"_blank\">Колобков считает честью, что три федерации выдвинули его в FIDE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 09 Sep 2026 14:51:00 GMT"
     }
   ]
 }
