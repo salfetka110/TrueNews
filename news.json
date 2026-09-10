@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T15:38:27.282010+00:00",
+  "updated": "2026-09-10T16:05:29.938646+00:00",
   "count": 40,
   "news": [
     {
@@ -43,13 +43,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE5hY2tZYXdlRGs3UWhNNXl0NXlqNEN4SG5HbkdYMkJqUnlCNmloaWFpSDRTR3R1UGhrbkNfaEdyaVMySDZq?oc=5\" target=\"_blank\">В МОК воздержались от оценки решения ISU по Валиевой и Кондратюку</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Wed, 09 Sep 2026 23:33:00 GMT"
-    },
-    {
-      "title": "В Дагестане рассказали о повреждениях зрительного зала театра после атаки БПЛА - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yR2NXdmZjV1AxbWVMNkxpdFpkNjlCajEwMnl5WVBGQ3N5d3dwTElaYmNUajZoVUllU2lQamoxODUyajdmSXRjdWZ6T1dqNWhC?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yR2NXdmZjV1AxbWVMNkxpdFpkNjlCajEwMnl5WVBGQ3N5d3dwTElaYmNUajZoVUllU2lQamoxODUyajdmSXRjdWZ6T1dqNWhC?oc=5\" target=\"_blank\">В Дагестане рассказали о повреждениях зрительного зала театра после атаки БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Wed, 09 Sep 2026 23:30:00 GMT"
     },
     {
       "title": "Внуково принимает и отправляет рейсы по согласованию - tass.ru",
@@ -192,13 +185,6 @@
       "pub": "Wed, 09 Sep 2026 22:19:00 GMT"
     },
     {
-      "title": "В Горловке ВСУ ударили по теплоснабжающей организации - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5SXEwaGF4SE1ral93MmdmZlRWd0E4aFFFbHVnVW9EanEwSjhLT3RfdW1yQTMwc3ZBa2pTdUVnWEw0Ym9XNGphNFlNZXp1NTIt?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5SXEwaGF4SE1ral93MmdmZlRWd0E4aFFFbHVnVW9EanEwSjhLT3RfdW1yQTMwc3ZBa2pTdUVnWEw0Ym9XNGphNFlNZXp1NTIt?oc=5\" target=\"_blank\">В Горловке ВСУ ударили по теплоснабжающей организации</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Wed, 09 Sep 2026 22:16:00 GMT"
-    },
-    {
       "title": "Глава Камчатки назвал основное правило поведения в лесу с медведями - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbnZiYXVhMERfLUluU0I1Z0lHR2lBa2c3a0hmQ3NxU1Zqb1h4QnBMY2pQVlBwNFlvZ0YtWTFqRV9Ldm40aGxXclBZaHA1V2NsMWtoVjMyem93UQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbnZiYXVhMERfLUluU0I1Z0lHR2lBa2c3a0hmQ3NxU1Zqb1h4QnBMY2pQVlBwNFlvZ0YtWTFqRV9Ldm40aGxXclBZaHA1V2NsMWtoVjMyem93UQ?oc=5\" target=\"_blank\">Глава Камчатки назвал основное правило поведения в лесу с медведями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
@@ -281,6 +267,20 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WN1ltT21MTzRjZjQ3dXUwUllJUTFHQjA2MUlHbGRSdl9EUWtydElKd2hqVDBzMDFBUFhZRXlaWVJUdFFjWmNNMlFJNUgtUDRJLXNyX3R0MEppT1FaX0E?oc=5\" target=\"_blank\">МИД КНР прокомментировал процесс против Huawei в США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Wed, 09 Sep 2026 21:53:00 GMT"
+    },
+    {
+      "title": "Адвокат Багатурия: контент от ИИ перед публикацией нужно проверять - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIS1hBeWdJS2VISjA1WU55R0g0MEdtYnBnbUozUkpuanpINGNSVXFEcUdjWE9xRUVIVHVkaVBRbmxCSlgtUWk2NktZaE1jMzRKNFFNWHNIZ3B4VXAwUGxLRVRiREQ0MS1WY0FvbEUycDVVVW9iV2N30gF8QVVfeXFMUDMtLWh6aVhlTHNJaURoNV9YdTJubjhrSlFIbEFVcF9hTHp4cmxQVzVRd3FSTlFaX3ZiaTk2eWVFR3hOSTFCenNOMDlVNjNhOWJFSkw3ZERCLTVIN1lYZVN6STVMRmRWdWFRdDdsazc3SGJPZ09JNGpRMk82SQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBIS1hBeWdJS2VISjA1WU55R0g0MEdtYnBnbUozUkpuanpINGNSVXFEcUdjWE9xRUVIVHVkaVBRbmxCSlgtUWk2NktZaE1jMzRKNFFNWHNIZ3B4VXAwUGxLRVRiREQ0MS1WY0FvbEUycDVVVW9iV2N30gF8QVVfeXFMUDMtLWh6aVhlTHNJaURoNV9YdTJubjhrSlFIbEFVcF9hTHp4cmxQVzVRd3FSTlFaX3ZiaTk2eWVFR3hOSTFCenNOMDlVNjNhOWJFSkw3ZERCLTVIN1lYZVN6STVMRmRWdWFRdDdsazc3SGJPZ09JNGpRMk82SQ?oc=5\" target=\"_blank\">Адвокат Багатурия: контент от ИИ перед публикацией нужно проверять</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 09 Sep 2026 21:48:18 GMT"
+    },
+    {
+      "title": "Медведев: защита гражданских объектов России от БПЛА — важнейшая задача - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV2pWUzhtamtnN2hGeVg3WDAxem81MjRIUFgxTzRJTTVLZjBGcEtZOWFSSVJnSTBCaEk5QU85T3drUVRESzkyRGJsZmwtTVBnWko1MnFtWmlHcDg2WDRINVFnSnl5UlNXS3FGRlFn0gFzQVVfeXFMT0VBdS0wTTRhZG1hLXNNbGpfZEF1dVpQZS1KcnpIZlI0aGZmU2prMmFacExPeVpnX09SWXFqLThvRUhQUzQzeUJsdVo1SmZPdnRud05Zcmd0bFBTQkpIRXRsb0ExZDQ4UDFXNVVmekpJTTkwcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV2pWUzhtamtnN2hGeVg3WDAxem81MjRIUFgxTzRJTTVLZjBGcEtZOWFSSVJnSTBCaEk5QU85T3drUVRESzkyRGJsZmwtTVBnWko1MnFtWmlHcDg2WDRINVFnSnl5UlNXS3FGRlFn0gFzQVVfeXFMT0VBdS0wTTRhZG1hLXNNbGpfZEF1dVpQZS1KcnpIZlI0aGZmU2prMmFacExPeVpnX09SWXFqLThvRUhQUzQzeUJsdVo1SmZPdnRud05Zcmd0bFBTQkpIRXRsb0ExZDQ4UDFXNVVmekpJTTkwcw?oc=5\" target=\"_blank\">Медведев: защита гражданских объектов России от БПЛА — важнейшая задача</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 09 Sep 2026 21:47:42 GMT"
     }
   ]
 }
