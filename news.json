@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T23:04:34.849995+00:00",
+  "updated": "2026-09-11T23:34:01.968604+00:00",
   "count": 40,
   "news": [
     {
@@ -24,41 +24,6 @@
       "pub": "Thu, 10 Sep 2026 23:38:00 GMT"
     },
     {
-      "title": "В Брянской области стартовало досрочное голосование - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VZF9rVDVxbHl0M1lwZHlxV3JuNVNOZkw4VzVBQlZQa2hsMXRub1pwMmh6OXQ2VURja2EzVmJ2VzRXQWJWc0tHUA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VZF9rVDVxbHl0M1lwZHlxV3JuNVNOZkw4VzVBQlZQa2hsMXRub1pwMmh6OXQ2VURja2EzVmJ2VzRXQWJWc0tHUA?oc=5\" target=\"_blank\">В Брянской области стартовало досрочное голосование</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 10 Sep 2026 23:32:00 GMT"
-    },
-    {
-      "title": "Anthropic помешала возможным попыткам ученых создать биооружие - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQVptOVJJTUFGR2FZU0plSXo3N2h1ZE9Vb25mNXVyUk5HUWNwWG9OdkVpb3NOUVlPMTFLaXZLZWstanlmOC1aUk9CeEFKdVYtdHVqYWVMa2ZuaExXRmJjcTVudmY3MFZULTBkOEtCdEtIT3Z0M3R2SGJWOHJFYy1BXw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQVptOVJJTUFGR2FZU0plSXo3N2h1ZE9Vb25mNXVyUk5HUWNwWG9OdkVpb3NOUVlPMTFLaXZLZWstanlmOC1aUk9CeEFKdVYtdHVqYWVMa2ZuaExXRmJjcTVudmY3MFZULTBkOEtCdEtIT3Z0M3R2SGJWOHJFYy1BXw?oc=5\" target=\"_blank\">Anthropic помешала возможным попыткам ученых создать биооружие</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Thu, 10 Sep 2026 23:19:00 GMT"
-    },
-    {
-      "title": "В аэропорту Кирова ввели временные ограничения - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhcmk5STZDUGNCblE3V3BuT09XRjc1VURPQ1RYWUJTbzd0dm5yLVp5Sy1QWHNZX3o4aEl1NlJQSkhVVEppUlBzNUp1Nm5zRVpBVkJwb2Y5VU1HN1di?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhcmk5STZDUGNCblE3V3BuT09XRjc1VURPQ1RYWUJTbzd0dm5yLVp5Sy1QWHNZX3o4aEl1NlJQSkhVVEppUlBzNUp1Nm5zRVpBVkJwb2Y5VU1HN1di?oc=5\" target=\"_blank\">В аэропорту Кирова ввели временные ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Thu, 10 Sep 2026 23:14:00 GMT"
-    },
-    {
-      "title": "Россия нарастила производство яиц до 23,7 млрд штук - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXTmg5SFlTVHdhMndhb0dSTWFRRGQ3M0QtZFd1aUV2UWU3WmhZM2dCbHQzbGlWXzR5ZXgxZUMzNTdrSFlxWnAwTFNQSThPNmxkYW1iNnRwaTFWMnFjVm5WRGg3SGxZYVp6VGpJMnJVanI3Vndz0gF6QVVfeXFMTU53b2tsMk81S3kxVk11am9jVW1hZmZyZjIzZmhMQ2dQcFN0QXhCLTltdnB3TVhrN3ZuLW54ZjlHaURRQXhndVE0bWEtXzVqMHp5MF8tWWVPSGtLR19xYzZYV0tjVVU2a3Z4aDRBTTNBdmRJQ0lsQ2ZBOHc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBXTmg5SFlTVHdhMndhb0dSTWFRRGQ3M0QtZFd1aUV2UWU3WmhZM2dCbHQzbGlWXzR5ZXgxZUMzNTdrSFlxWnAwTFNQSThPNmxkYW1iNnRwaTFWMnFjVm5WRGg3SGxZYVp6VGpJMnJVanI3Vndz0gF6QVVfeXFMTU53b2tsMk81S3kxVk11am9jVW1hZmZyZjIzZmhMQ2dQcFN0QXhCLTltdnB3TVhrN3ZuLW54ZjlHaURRQXhndVE0bWEtXzVqMHp5MF8tWWVPSGtLR19xYzZYV0tjVVU2a3Z4aDRBTTNBdmRJQ0lsQ2ZBOHc?oc=5\" target=\"_blank\">Россия нарастила производство яиц до 23,7 млрд штук</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Thu, 10 Sep 2026 23:11:40 GMT"
-    },
-    {
-      "title": "Глава ЕЦБ ожидает роста инфляции в еврозоне - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtUXFKYVJqUkhTMmE2S3NGUmlPZllwbWF5NFZ3WDZ2Z2hqdnYxZEYzQjBWV002bWRiYTJVWUZlVUZwQzlEWGRtNnJB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtUXFKYVJqUkhTMmE2S3NGUmlPZllwbWF5NFZ3WDZ2Z2hqdnYxZEYzQjBWV002bWRiYTJVWUZlVUZwQzlEWGRtNnJB?oc=5\" target=\"_blank\">Глава ЕЦБ ожидает роста инфляции в еврозоне</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 10 Sep 2026 23:08:00 GMT"
-    },
-    {
       "title": "Индийский министр предложил Алиханову сняться в болливудском фильме - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NN2pvNDhRMXdNS1lma0J4blRDdkNDNjFUazdUVW03YVNudmpSb1F1VVZTazJPR1FHTDZ6NHc4VV9OdjV3eXg3NnhXRDNNNWpEbHBBRENqQWloR1d0TlRFQUhCdEpKZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NN2pvNDhRMXdNS1lma0J4blRDdkNDNjFUazdUVW03YVNudmpSb1F1VVZTazJPR1FHTDZ6NHc4VV9OdjV3eXg3NnhXRDNNNWpEbHBBRENqQWloR1d0TlRFQUhCdEpKZw?oc=5\" target=\"_blank\">Индийский министр предложил Алиханову сняться в болливудском фильме</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
@@ -66,23 +31,51 @@
       "pub": "Thu, 10 Sep 2026 15:06:23 GMT"
     },
     {
-      "title": "Страница 11 - Fitomarket: скидки, купоны, акции, промокоды на сентябрь 2026 - ФОНТАНКА.ру",
+      "title": "Страница 11 - Fitomarket: скидки, купоны, акции, промокоды на сентябрь 2026 - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZXBjOE9pbUJhNm1xRm94SnZic0JJY2NYblg2MWtGUTdHOVoxcnFadWtoSEsza0t6aEZzaTk2U3Z6c0x0Mk5INF9mVk1SSnczaWd4NWZndXJsbVAtaUd0ME1hUFIwRkY1?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZXBjOE9pbUJhNm1xRm94SnZic0JJY2NYblg2MWtGUTdHOVoxcnFadWtoSEsza0t6aEZzaTk2U3Z6c0x0Mk5INF9mVk1SSnczaWd4NWZndXJsbVAtaUd0ME1hUFIwRkY1?oc=5\" target=\"_blank\">Страница 11 - Fitomarket: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZXBjOE9pbUJhNm1xRm94SnZic0JJY2NYblg2MWtGUTdHOVoxcnFadWtoSEsza0t6aEZzaTk2U3Z6c0x0Mk5INF9mVk1SSnczaWd4NWZndXJsbVAtaUd0ME1hUFIwRkY1?oc=5\" target=\"_blank\">Страница 11 - Fitomarket: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Sat, 05 Sep 2026 12:23:21 GMT"
     },
     {
-      "title": "В Саудовской Аравии был атакован ключевой нефтепровод «Восток-Запад». Его работа приостановлена - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoLTlZQkxLU3hkdW1ZVGoxNDd1dzdna0hoM0x2SEoyank1SWFuN1lseFJsN2JMbmdkaElpMWhobDNQY1lCZ3o0MlVsNWhVYm9iM09LbHBSTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoLTlZQkxLU3hkdW1ZVGoxNDd1dzdna0hoM0x2SEoyank1SWFuN1lseFJsN2JMbmdkaElpMWhobDNQY1lCZ3o0MlVsNWhVYm9iM09LbHBSTQ?oc=5\" target=\"_blank\">В Саудовской Аравии был атакован ключевой нефтепровод «Восток-Запад». Его работа приостановлена</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Fri, 11 Sep 2026 21:45:00 GMT"
+      "title": "Роспотребнадзор разъяснил условия возврата очков для зрения - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xak8xZ0M4UkE3YU93cjlaWlpjcTNONFFpUjlzaTV2RXRIbkZMSkNHTTZkSWV5QjVadFktZ2xNOXpWSkVadnpveHdPZW5rM205c3pfRklldlRnUzlBZHZ0cG1YZ3V0QlBFbU51MUVmRWFNUUFoQnBzcHdHa0tnUdIBgwFBVV95cUxOdFhSbG5QYzNwaFRCYkItNFFWeklvLW8zMERlTFFJbzNZMXJiekxsb3dkaF90OGpNOWtmOTFVRnFFc2NncG1oNG9lMzRtenEyWUktTEVHUnhZXzdJcHpmYjdJMkRxYlFra3k5WV9pWjh6MGlCM01RWVhUdnlrSnFqU0xfYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1xak8xZ0M4UkE3YU93cjlaWlpjcTNONFFpUjlzaTV2RXRIbkZMSkNHTTZkSWV5QjVadFktZ2xNOXpWSkVadnpveHdPZW5rM205c3pfRklldlRnUzlBZHZ0cG1YZ3V0QlBFbU51MUVmRWFNUUFoQnBzcHdHa0tnUdIBgwFBVV95cUxOdFhSbG5QYzNwaFRCYkItNFFWeklvLW8zMERlTFFJbzNZMXJiekxsb3dkaF90OGpNOWtmOTFVRnFFc2NncG1oNG9lMzRtenEyWUktTEVHUnhZXzdJcHpmYjdJMkRxYlFra3k5WV9pWjh6MGlCM01RWVhUdnlrSnFqU0xfYw?oc=5\" target=\"_blank\">Роспотребнадзор разъяснил условия возврата очков для зрения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 11 Sep 2026 23:01:56 GMT"
     },
     {
-      "title": "На проспекте Художников горела квартира. Госпитализирован мужчина - ФОНТАНКА.ру",
+      "title": "Бывший министр связи Николай Никифоров объявлен в розыск по делу о Finiko - fontanka.ru",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQ1p5NDUzV25vUHJWN0JQMldra0lEUWp4UFA4ZGtyX2tyYXdiTUNhM3ZaTnhwb2Y5YUNKNEtlbFhUYmpFWTEtQ3Z1LW9vWE1OdEFSNXFnWmRXTWtRODhhY1BvYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQ1p5NDUzV25vUHJWN0JQMldra0lEUWp4UFA4ZGtyX2tyYXdiTUNhM3ZaTnhwb2Y5YUNKNEtlbFhUYmpFWTEtQ3Z1LW9vWE1OdEFSNXFnWmRXTWtRODhhY1BvYw?oc=5\" target=\"_blank\">Бывший министр связи Николай Никифоров объявлен в розыск по делу о Finiko</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "source": "Фонтанка",
+      "pub": "Fri, 11 Sep 2026 22:52:59 GMT"
+    },
+    {
+      "title": "«У России нет оснований для конфликта»: Путин заявил о попытках Европы подтолкнуть свои страны к войне с РФ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZngyN24wTXVYQkZwVENNSFQ0VzlsZG5JWm1FN0k0ZTZvRTdHWnNrelp5OWc2MjIwcVoycm0zQ0k2S1ExTHlBM0dUZnc4VkEwMEZINUUzbU5QbGVwN3BUcnVHdGNwY0VPRjVxcTVDbHEtMHlpRTRJTtIBeEFVX3lxTE9TZngyN24wTXVYQkZwVENNSFQ0VzlsZG5JWm1FN0k0ZTZvRTdHWnNrelp5OWc2MjIwcVoycm0zQ0k2S1ExTHlBM0dUZnc4VkEwMEZINUUzbU5QbGVwN3BUcnVHdGNwY0VPRjVxcTVDbHEtMHlpRTRJTg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZngyN24wTXVYQkZwVENNSFQ0VzlsZG5JWm1FN0k0ZTZvRTdHWnNrelp5OWc2MjIwcVoycm0zQ0k2S1ExTHlBM0dUZnc4VkEwMEZINUUzbU5QbGVwN3BUcnVHdGNwY0VPRjVxcTVDbHEtMHlpRTRJTtIBeEFVX3lxTE9TZngyN24wTXVYQkZwVENNSFQ0VzlsZG5JWm1FN0k0ZTZvRTdHWnNrelp5OWc2MjIwcVoycm0zQ0k2S1ExTHlBM0dUZnc4VkEwMEZINUUzbU5QbGVwN3BUcnVHdGNwY0VPRjVxcTVDbHEtMHlpRTRJTg?oc=5\" target=\"_blank\">«У России нет оснований для конфликта»: Путин заявил о попытках Европы подтолкнуть свои страны к войне с РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 11 Sep 2026 22:41:16 GMT"
+    },
+    {
+      "title": "Губернатор Архангельской области объявил траур по погибшим в ДТП на трассе М-8 - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOdkMtOXR6MXJ4YVlKc2UtVTZUcHNybXljaVhEM1FvZ2M1TFpVbHNLNF9Obm45UkQwY0JtLXRDVUg0ZmozNUM3bzJLLWhVN1UxdU9YNWVocUgxQWQ0UEhKa3VZZlJhUS1tU0hlZUs4RdIBdEFVX3lxTE9FZFQ0VTgzYXdrQURiWDNPUTdYME1fcHBweUZUU3F5d0otY2tTTGxaTkxRZGZrMVJUdlA4bHI1QmV4MGRFdlpvbC11LVdJOWZKMWxRc29GeEQtV1RTVmRXSHdUQVNUTFJVcU1aUEVrbk1UUGlF?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBOdkMtOXR6MXJ4YVlKc2UtVTZUcHNybXljaVhEM1FvZ2M1TFpVbHNLNF9Obm45UkQwY0JtLXRDVUg0ZmozNUM3bzJLLWhVN1UxdU9YNWVocUgxQWQ0UEhKa3VZZlJhUS1tU0hlZUs4RdIBdEFVX3lxTE9FZFQ0VTgzYXdrQURiWDNPUTdYME1fcHBweUZUU3F5d0otY2tTTGxaTkxRZGZrMVJUdlA4bHI1QmV4MGRFdlpvbC11LVdJOWZKMWxRc29GeEQtV1RTVmRXSHdUQVNUTFJVcU1aUEVrbk1UUGlF?oc=5\" target=\"_blank\">Губернатор Архангельской области объявил траур по погибшим в ДТП на трассе М-8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 11 Sep 2026 21:56:08 GMT"
+    },
+    {
+      "title": "СК возбудил два дела и провёл обыски после ДТП в Архангельской области - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16VUR4ZjRQVnRXZGZaSjBvQ2NqaXNkRlFRSTFZUXpXNGVsQkpwb0pLX0kzYjlBTkI5VWY0ZEFHd00tUW1UeUtzNm1mQ1luSk5XMmtOWERkSXprRERSck9xdmhFdlNhZVNwVnZrNngtWEI1VmU1UW9CQ9IBfkFVX3lxTE1zLVlPNVZsSkZPaGg0enhOTEd4dHNCQ3ZhZmxhdU1ZTWtObmlmNHgzTWFlcVVCTFJPaWQ2LVRGNVd2aXUzXzk3M0lpOWxvR3Y0MGpHbFFhcm9VVzcxZDNQcHpVUVZjaFdRQUFiS2hwWUdwcjRMMXJQclNzRUR5dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE16VUR4ZjRQVnRXZGZaSjBvQ2NqaXNkRlFRSTFZUXpXNGVsQkpwb0pLX0kzYjlBTkI5VWY0ZEFHd00tUW1UeUtzNm1mQ1luSk5XMmtOWERkSXprRERSck9xdmhFdlNhZVNwVnZrNngtWEI1VmU1UW9CQ9IBfkFVX3lxTE1zLVlPNVZsSkZPaGg0enhOTEd4dHNCQ3ZhZmxhdU1ZTWtObmlmNHgzTWFlcVVCTFJPaWQ2LVRGNVd2aXUzXzk3M0lpOWxvR3Y0MGpHbFFhcm9VVzcxZDNQcHpVUVZjaFdRQUFiS2hwWUdwcjRMMXJQclNzRUR5dw?oc=5\" target=\"_blank\">СК возбудил два дела и провёл обыски после ДТП в Архангельской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 11 Sep 2026 21:43:45 GMT"
+    },
+    {
+      "title": "На проспекте Художников горела квартира. Госпитализирован мужчина - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3M3drTkdjRUo5UkJHREVnSE5yNWUyVlh5enE0RnR6UHhEcDRDbUFmNVBqS1g3S0NlSjVLaTdDekxtVmlmT3IzRW96RUVNYmNGMVRoY3hHaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3M3drTkdjRUo5UkJHREVnSE5yNWUyVlh5enE0RnR6UHhEcDRDbUFmNVBqS1g3S0NlSjVLaTdDekxtVmlmT3IzRW96RUVNYmNGMVRoY3hHaw?oc=5\" target=\"_blank\">На проспекте Художников горела квартира. Госпитализирован мужчина</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3M3drTkdjRUo5UkJHREVnSE5yNWUyVlh5enE0RnR6UHhEcDRDbUFmNVBqS1g3S0NlSjVLaTdDekxtVmlmT3IzRW96RUVNYmNGMVRoY3hHaw?oc=5\" target=\"_blank\">На проспекте Художников горела квартира. Госпитализирован мужчина</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Fri, 11 Sep 2026 21:29:00 GMT"
     },
@@ -122,18 +115,11 @@
       "pub": "Fri, 11 Sep 2026 20:37:00 GMT"
     },
     {
-      "title": "В МВД предложили облегчить регистрацию авто владельцам из новых регионов России - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR085Wnc0OHNoTjRtNmxyLTFRcV9KVkU0UTlJU0tKY0JhZXd1MjBpY0hFR1Y4RG1WanJZcmRBWXI1UkpWQzZEaVppZ1VxcXlyNm45RXltemtwdzBnekduOEFOemxXaDRfbG1SZmNuc1dYeXZWTVNlMnd0aUxsVzFrUkEwONIBiAFBVV95cUxPekV4blp0UGx3Q0NZa0RwS0YySFZiSzBseHdmWG54UUlOQ3ZVSHJ6R3hNS1U5YjRlYThSZVpXa2RJU2wxSTNLWFMxYTROd01UR1JINk9fTWMwT0hYS2dobFFmaDB5OE4yczNsT2t2eEVxMUY2ZlpnTWxRTFpTZVJpNWZZdnd3SWct?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOR085Wnc0OHNoTjRtNmxyLTFRcV9KVkU0UTlJU0tKY0JhZXd1MjBpY0hFR1Y4RG1WanJZcmRBWXI1UkpWQzZEaVppZ1VxcXlyNm45RXltemtwdzBnekduOEFOemxXaDRfbG1SZmNuc1dYeXZWTVNlMnd0aUxsVzFrUkEwONIBiAFBVV95cUxPekV4blp0UGx3Q0NZa0RwS0YySFZiSzBseHdmWG54UUlOQ3ZVSHJ6R3hNS1U5YjRlYThSZVpXa2RJU2wxSTNLWFMxYTROd01UR1JINk9fTWMwT0hYS2dobFFmaDB5OE4yczNsT2t2eEVxMUY2ZlpnTWxRTFpTZVJpNWZZdnd3SWct?oc=5\" target=\"_blank\">В МВД предложили облегчить регистрацию авто владельцам из новых регионов России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "title": "Жителя Симферополя отправили в колонию строгого режима за убийство супруги - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVTVfRWtlR1BlbS04Nm00NkpGSG1ORWYtSU1WY0p1R3UzY21jLTc4M1puYUpiQzZzel9LMFRubXItbVEwRXNDdnpPOU1XSTkydWNNYzIxODgwdTNjMFNQT0ZRc3ZyVUt4OF9wWjBBcUxhUlhqZnfSAXtBVV95cUxPQVBtM2I0cGRWN1UyZ3hDZTdOM0hJQjgwUHBYQ3lTRHZwYWZsOTBab25TbExqMTRBS3FHVmd5bXBnajkyeDJFTlZicGNiNU5mQjdlbFM2YWt6WVdRV2drUFJsQWo5TVo1NnZvaWNWbmYwMWpfdkF1eE56WGc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVTVfRWtlR1BlbS04Nm00NkpGSG1ORWYtSU1WY0p1R3UzY21jLTc4M1puYUpiQzZzel9LMFRubXItbVEwRXNDdnpPOU1XSTkydWNNYzIxODgwdTNjMFNQT0ZRc3ZyVUt4OF9wWjBBcUxhUlhqZnfSAXtBVV95cUxPQVBtM2I0cGRWN1UyZ3hDZTdOM0hJQjgwUHBYQ3lTRHZwYWZsOTBab25TbExqMTRBS3FHVmd5bXBnajkyeDJFTlZicGNiNU5mQjdlbFM2YWt6WVdRV2drUFJsQWo5TVo1NnZvaWNWbmYwMWpfdkF1eE56WGc?oc=5\" target=\"_blank\">Жителя Симферополя отправили в колонию строгого режима за убийство супруги</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
-      "pub": "Fri, 11 Sep 2026 20:34:32 GMT"
-    },
-    {
-      "title": "Путин заявил, что Россия не угрожает и не планирует угрожать странам Европы - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5cDVzWWpIOVBTa2tMZTRQR0VjSGludmJYdEVsMklYTmExVUpWX1lUbVpONGpLWkdyOEtjQkVaOTNpaWs0RGUyTF83ODB6YklGVGZrVnVWeHd4SVFPai1fLWI5S25Hcy1jSDBBTDBZR3Nxa3PSAXNBVV95cUxQOXA1c1lqSDlQU2trTGU0UEdFY0hpbnZiWHRFbDJJWE5hMVVKVl9ZVG1aTjRqS1pHcjhLY0JFWjkzaWlrNERlMkxfNzgwemJJRlRma1Z1Vnh3eElRT2otXy1iOUtuR3MtY0gwQUwwWUdzcWtz?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA5cDVzWWpIOVBTa2tMZTRQR0VjSGludmJYdEVsMklYTmExVUpWX1lUbVpONGpLWkdyOEtjQkVaOTNpaWs0RGUyTF83ODB6YklGVGZrVnVWeHd4SVFPai1fLWI5S25Hcy1jSDBBTDBZR3Nxa3PSAXNBVV95cUxQOXA1c1lqSDlQU2trTGU0UEdFY0hpbnZiWHRFbDJJWE5hMVVKVl9ZVG1aTjRqS1pHcjhLY0JFWjkzaWlrNERlMkxfNzgwemJJRlRma1Z1Vnh3eElRT2otXy1iOUtuR3MtY0gwQUwwWUdzcWtz?oc=5\" target=\"_blank\">Путин заявил, что Россия не угрожает и не планирует угрожать странам Европы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Fri, 11 Sep 2026 20:34:24 GMT"
+      "pub": "Fri, 11 Sep 2026 20:36:34 GMT"
     },
     {
       "title": "Михайлов: Зеленский показал неуважение, попросив оружие на трауре в Норвегии — читать подробности - vrf.tass.ru",
@@ -171,11 +157,18 @@
       "pub": "Fri, 11 Sep 2026 20:22:42 GMT"
     },
     {
-      "title": "Палата представителей США проголосует за законопроект о санкциях против РФ - ФОНТАНКА.ру",
+      "title": "Палата представителей США проголосует за законопроект о санкциях против РФ - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zb00zOHk2eEZYN0hMZHJZT1dKVktMTUw1UVp6dDlVRndxVmtfcHgzTUdqRk5zWW5KQW5ZYjVRbjRKR0RUa3NzdzRobll6ZGQ0YXhZRlhpd1VYblh0aDVFYTdrbw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zb00zOHk2eEZYN0hMZHJZT1dKVktMTUw1UVp6dDlVRndxVmtfcHgzTUdqRk5zWW5KQW5ZYjVRbjRKR0RUa3NzdzRobll6ZGQ0YXhZRlhpd1VYblh0aDVFYTdrbw?oc=5\" target=\"_blank\">Палата представителей США проголосует за законопроект о санкциях против РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zb00zOHk2eEZYN0hMZHJZT1dKVktMTUw1UVp6dDlVRndxVmtfcHgzTUdqRk5zWW5KQW5ZYjVRbjRKR0RUa3NzdzRobll6ZGQ0YXhZRlhpd1VYblh0aDVFYTdrbw?oc=5\" target=\"_blank\">Палата представителей США проголосует за законопроект о санкциях против РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Fri, 11 Sep 2026 20:22:00 GMT"
+    },
+    {
+      "title": "Путин заявил, что Россия не угрожает и не планирует угрожать странам Европы - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdDk2b0FDLWVneFRfdWJoTHhHRzJBX1VjMkcyVjRKaG1vZnhYbjhieTZ6RTE4SENnVDJxU3o5TWVfZmtmZm03dXVNVzUyVkxSZnRWTDRzM3VYUDdvVnp5UDFYYU81OGs1ZkRlNnhn0gFzQVVfeXFMUDlwNXNZakg5UFNra0xlNFBHRWNIaW52Ylh0RWwySVhOYTFVSlZfWVRtWk40aktaR3I4S2NCRVo5M2lpazREZTJMXzc4MHpiSUZUZmtWdVZ4d3hJUU9qLV8tYjlLbkdzLWNIMEFMMFlHc3Frcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdDk2b0FDLWVneFRfdWJoTHhHRzJBX1VjMkcyVjRKaG1vZnhYbjhieTZ6RTE4SENnVDJxU3o5TWVfZmtmZm03dXVNVzUyVkxSZnRWTDRzM3VYUDdvVnp5UDFYYU81OGs1ZkRlNnhn0gFzQVVfeXFMUDlwNXNZakg5UFNra0xlNFBHRWNIaW52Ylh0RWwySVhOYTFVSlZfWVRtWk40aktaR3I4S2NCRVo5M2lpazREZTJMXzc4MHpiSUZUZmtWdVZ4d3hJUU9qLV8tYjlLbkdzLWNIMEFMMFlHc3Frcw?oc=5\" target=\"_blank\">Путин заявил, что Россия не угрожает и не планирует угрожать странам Европы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 11 Sep 2026 20:19:30 GMT"
     },
     {
       "title": "Продюсер рассказал о мультфильме про капитана Невельского - ria.ru",
@@ -192,6 +185,13 @@
       "pub": "Fri, 11 Sep 2026 20:13:45 GMT"
     },
     {
+      "title": "Путин: Россия продаёт энергоресурсы по рыночным ценам - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlJiNjNEUEIzelR1MEFDVFMzczFlR243RC1DR0dwS291c1A4RzYwTTJTUkZ5Y2xCanJLcEtDS0hCb08xZk83ejZ6Zm13SC1KQ3RPVmJRTGN5MjJrM2lGUDFIWlJUbGx2aVA0dE5hNTJWQjFXWGltY0g5amRwWThBOWJ30gGCAUFVX3lxTE9GUmI2M0RQQjN6VHUwQUNUUzNzMWVHbjdELUNHR3BLb3VzUDhHNjBNMlNSRnljbEJqcktwS0NLSEJvTzFmTzd6NnpmbXdILUpDdE9WYlFMY3kyMmszaUZQMUhaUlRsbHZpUDR0TmE1MlZCMVdYaW1jSDlqZHBZOEE5Ync?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlJiNjNEUEIzelR1MEFDVFMzczFlR243RC1DR0dwS291c1A4RzYwTTJTUkZ5Y2xCanJLcEtDS0hCb08xZk83ejZ6Zm13SC1KQ3RPVmJRTGN5MjJrM2lGUDFIWlJUbGx2aVA0dE5hNTJWQjFXWGltY0g5amRwWThBOWJ30gGCAUFVX3lxTE9GUmI2M0RQQjN6VHUwQUNUUzNzMWVHbjdELUNHR3BLb3VzUDhHNjBNMlNSRnljbEJqcktwS0NLSEJvTzFmTzd6NnpmbXdILUpDdE9WYlFMY3kyMmszaUZQMUhaUlRsbHZpUDR0TmE1MlZCMVdYaW1jSDlqZHBZOEE5Ync?oc=5\" target=\"_blank\">Путин: Россия продаёт энергоресурсы по рыночным ценам</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 11 Sep 2026 20:13:34 GMT"
+    },
+    {
       "title": "Самая популярная партия Германии подала заявление против канцлера Мерца - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWHRCeFVLalR4UUJ5TTVqdW1aWEx2d2JvNzRFRWxYNkFsdG5XdktpRXdabG5ZcUVISi1qMl9GX2xlUkFWbzg3RzFnS1lMQjlYTjBPcHl1TDA5bmhGOFlIQnJTSGE4RlE1MVBfd2JiaW0?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWHRCeFVLalR4UUJ5TTVqdW1aWEx2d2JvNzRFRWxYNkFsdG5XdktpRXdabG5ZcUVISi1qMl9GX2xlUkFWbzg3RzFnS1lMQjlYTjBPcHl1TDA5bmhGOFlIQnJTSGE4RlE1MVBfd2JiaW0?oc=5\" target=\"_blank\">Самая популярная партия Германии подала заявление против канцлера Мерца</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
@@ -199,16 +199,23 @@
       "pub": "Fri, 11 Sep 2026 20:13:26 GMT"
     },
     {
-      "title": "Крестный ход на Невском: где перекроют и как поедут автобусы - ФОНТАНКА.ру",
+      "title": "В Москве косметолога приговорили к трём годам колонии-поселения после смерти пациентки - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBucGRTc2RjMzhQVlpGeVRNY212UHRmR004Uk5wQjBnZUhnQjR5MDFLN2FJbjFYSlJBWWwwNEt4akdpdXFJRU12S2xQZDV5YUJBbEdic0hHV3VPZ29ORXdSREhMcUhLU2pIemR1aUln0gFzQVVfeXFMUFdOX2c5d0tVZlp6NWEwcHRvRnN0NXNBckk1a09QN2Vycm9vZDRfbzNSdklQZmRMd0NGUXFsTGM2LTE1QkVnVTlrOF9JZV9Va0hJTWNMR19iVHR0X1J6dUM4blhTMVpDQVZpZnltM2c0OFlWMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBucGRTc2RjMzhQVlpGeVRNY212UHRmR004Uk5wQjBnZUhnQjR5MDFLN2FJbjFYSlJBWWwwNEt4akdpdXFJRU12S2xQZDV5YUJBbEdic0hHV3VPZ29ORXdSREhMcUhLU2pIemR1aUln0gFzQVVfeXFMUFdOX2c5d0tVZlp6NWEwcHRvRnN0NXNBckk1a09QN2Vycm9vZDRfbzNSdklQZmRMd0NGUXFsTGM2LTE1QkVnVTlrOF9JZV9Va0hJTWNMR19iVHR0X1J6dUM4blhTMVpDQVZpZnltM2c0OFlWMA?oc=5\" target=\"_blank\">В Москве косметолога приговорили к трём годам колонии-поселения после смерти пациентки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 11 Sep 2026 20:13:02 GMT"
+    },
+    {
+      "title": "Крестный ход на Невском: где перекроют и как поедут автобусы - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlTkJKSnNYMjZ4MzhHbDlpUG1qOF9ESDJXbDlDUThuWEdUMHRCcDhDSEVyUFYtd3VJVTc0cGhERmw2cC1MQjhfcXlPVWRaNXBWTjlEYlcyaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlTkJKSnNYMjZ4MzhHbDlpUG1qOF9ESDJXbDlDUThuWEdUMHRCcDhDSEVyUFYtd3VJVTc0cGhERmw2cC1MQjhfcXlPVWRaNXBWTjlEYlcyaw?oc=5\" target=\"_blank\">Крестный ход на Невском: где перекроют и как поедут автобусы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlTkJKSnNYMjZ4MzhHbDlpUG1qOF9ESDJXbDlDUThuWEdUMHRCcDhDSEVyUFYtd3VJVTc0cGhERmw2cC1MQjhfcXlPVWRaNXBWTjlEYlcyaw?oc=5\" target=\"_blank\">Крестный ход на Невском: где перекроют и как поедут автобусы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Fri, 11 Sep 2026 20:11:00 GMT"
     },
     {
-      "title": "Путин назвал первопричину кризиса на Украине - ФОНТАНКА.ру",
+      "title": "Путин назвал первопричину кризиса на Украине - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVUWtCc1JULWp1Y0gtTlFpbWtEQVRHeUxyWklGb2prTWhsRFlwMUxEdmdRRFp4WDdxWDFsR2ZfemVXVlAxdmcyaVJKT2ZqN2FUMW1zSmk0WQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVUWtCc1JULWp1Y0gtTlFpbWtEQVRHeUxyWklGb2prTWhsRFlwMUxEdmdRRFp4WDdxWDFsR2ZfemVXVlAxdmcyaVJKT2ZqN2FUMW1zSmk0WQ?oc=5\" target=\"_blank\">Путин назвал первопричину кризиса на Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVUWtCc1JULWp1Y0gtTlFpbWtEQVRHeUxyWklGb2prTWhsRFlwMUxEdmdRRFp4WDdxWDFsR2ZfemVXVlAxdmcyaVJKT2ZqN2FUMW1zSmk0WQ?oc=5\" target=\"_blank\">Путин назвал первопричину кризиса на Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Fri, 11 Sep 2026 20:10:00 GMT"
     },
@@ -227,13 +234,6 @@
       "pub": "Fri, 11 Sep 2026 20:09:32 GMT"
     },
     {
-      "title": "Путин: Россия продаёт энергоресурсы по рыночным ценам - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZHF5TW1EOVlHbXhyY2RHYmh0YkM4RWltV3M4eEN1SVc5YjBMRmJKcGM0MFQ3VVJIT1E0a01oek9OTTVlbnQ1NXUybG5Ha2dPWWtaTDJxMmJtMkFRQ0xiZUdzRks4T25ZLVZ4aFN1VVRFdlpPWllYcXFlSE3SAYIBQVVfeXFMT0ZSYjYzRFBCM3pUdTBBQ1RTM3MxZUduN0QtQ0dHcEtvdXNQOEc2ME0yU1JGeWNsQmpyS3BLQ0tIQm9PMWZPN3o2emZtd0gtSkN0T1ZiUUxjeTIyazNpRlAxSFpSVGxsdmlQNHROYTUyVkIxV1hpbWNIOWpkcFk4QTlidw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZHF5TW1EOVlHbXhyY2RHYmh0YkM4RWltV3M4eEN1SVc5YjBMRmJKcGM0MFQ3VVJIT1E0a01oek9OTTVlbnQ1NXUybG5Ha2dPWWtaTDJxMmJtMkFRQ0xiZUdzRks4T25ZLVZ4aFN1VVRFdlpPWllYcXFlSE3SAYIBQVVfeXFMT0ZSYjYzRFBCM3pUdTBBQ1RTM3MxZUduN0QtQ0dHcEtvdXNQOEc2ME0yU1JGeWNsQmpyS3BLQ0tIQm9PMWZPN3o2emZtd0gtSkN0T1ZiUUxjeTIyazNpRlAxSFpSVGxsdmlQNHROYTUyVkIxV1hpbWNIOWpkcFk4QTlidw?oc=5\" target=\"_blank\">Путин: Россия продаёт энергоресурсы по рыночным ценам</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Fri, 11 Sep 2026 20:06:12 GMT"
-    },
-    {
       "title": "Янукович был против вступления Украины в НАТО, заявил Путин - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RT2Fkc2xCTXg3bEhsc0R4ZWZtMG1uRXZnbnNEZWhUZzgwOFBDdnVodEpZdTFkTlYyaUdmQ24wQkxNeDNtai1KNVRhd0lIVUpraHRPQm5xOUQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RT2Fkc2xCTXg3bEhsc0R4ZWZtMG1uRXZnbnNEZWhUZzgwOFBDdnVodEpZdTFkTlYyaUdmQ24wQkxNeDNtai1KNVRhd0lIVUpraHRPQm5xOUQ?oc=5\" target=\"_blank\">Янукович был против вступления Украины в НАТО, заявил Путин</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
@@ -241,9 +241,9 @@
       "pub": "Fri, 11 Sep 2026 20:04:00 GMT"
     },
     {
-      "title": "Путин: ввод европейских войск на Украину будет означать войну с Россией - ФОНТАНКА.ру",
+      "title": "Путин: ввод европейских войск на Украину будет означать войну с Россией - fontanka.ru",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEWU9MRFVjeFdDN3BDUkEtamZGQ3JpZmljd19mQ3hvSE03Q3FEMm1XSGhXS09BUng2N3FYaG0waFVHM0pkQlZBTng2S3RhQkdrUXRsck5OU1NRM0tkb0ZMUmgxdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEWU9MRFVjeFdDN3BDUkEtamZGQ3JpZmljd19mQ3hvSE03Q3FEMm1XSGhXS09BUng2N3FYaG0waFVHM0pkQlZBTng2S3RhQkdrUXRsck5OU1NRM0tkb0ZMUmgxdw?oc=5\" target=\"_blank\">Путин: ввод европейских войск на Украину будет означать войну с Россией</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEWU9MRFVjeFdDN3BDUkEtamZGQ3JpZmljd19mQ3hvSE03Q3FEMm1XSGhXS09BUng2N3FYaG0waFVHM0pkQlZBTng2S3RhQkdrUXRsck5OU1NRM0tkb0ZMUmgxdw?oc=5\" target=\"_blank\">Путин: ввод европейских войск на Украину будет означать войну с Россией</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
       "source": "Фонтанка",
       "pub": "Fri, 11 Sep 2026 20:00:00 GMT"
     },
@@ -262,18 +262,11 @@
       "pub": "Fri, 11 Sep 2026 19:59:06 GMT"
     },
     {
-      "title": "Бывший министр связи Николай Никифоров объявлен в розыск по делу о Finiko - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQ1p5NDUzV25vUHJWN0JQMldra0lEUWp4UFA4ZGtyX2tyYXdiTUNhM3ZaTnhwb2Y5YUNKNEtlbFhUYmpFWTEtQ3Z1LW9vWE1OdEFSNXFnWmRXTWtRODhhY1BvYw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQ1p5NDUzV25vUHJWN0JQMldra0lEUWp4UFA4ZGtyX2tyYXdiTUNhM3ZaTnhwb2Y5YUNKNEtlbFhUYmpFWTEtQ3Z1LW9vWE1OdEFSNXFnWmRXTWtRODhhY1BvYw?oc=5\" target=\"_blank\">Бывший министр связи Николай Никифоров объявлен в розыск по делу о Finiko</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Fri, 11 Sep 2026 19:59:00 GMT"
-    },
-    {
-      "title": "В горящем в Южно-Сахалинске многоквартирном доме обрушилась кровля - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XSkpEVkU0cEZva3FZRG1yTU9RYU9ubFh4NHE3SGF0b0FpV1d5TnIzVWZkV2M5TXJlNjV4UGhBczBnU3ZYOENrQ05KclRXNjR4YjhJVEY5YU5PSXJyWnVLQTlYbGJrcWFBb1A5N0lPTlJaLWwxYUg2RXZCVU5EQdIBgwFBVV95cUxOWjR4MWJPYk9DT2dsbUxBUnZVTm5OdWx5YjBhdXpra0cyWW1Hbk41UUdlTzluQnZXSWdOTnpSeU5rUF9abll3YmhudjlYSTByQ1hRV1pMbDV1THpSWDRZLXhOelMwX2pKMm1CWmVDc2Z2S29JZDZ2cXhpZVhPQTMyUmpBMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9XSkpEVkU0cEZva3FZRG1yTU9RYU9ubFh4NHE3SGF0b0FpV1d5TnIzVWZkV2M5TXJlNjV4UGhBczBnU3ZYOENrQ05KclRXNjR4YjhJVEY5YU5PSXJyWnVLQTlYbGJrcWFBb1A5N0lPTlJaLWwxYUg2RXZCVU5EQdIBgwFBVV95cUxOWjR4MWJPYk9DT2dsbUxBUnZVTm5OdWx5YjBhdXpra0cyWW1Hbk41UUdlTzluQnZXSWdOTnpSeU5rUF9abll3YmhudjlYSTByQ1hRV1pMbDV1THpSWDRZLXhOelMwX2pKMm1CWmVDc2Z2S29JZDZ2cXhpZVhPQTMyUmpBMA?oc=5\" target=\"_blank\">В горящем в Южно-Сахалинске многоквартирном доме обрушилась кровля</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "title": "«Европейские элиты пугают своё население»: Путин — о мнимой угрозе со стороны России - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzeUgxM1p3X19TQXV5VWZXemdEUkZwb1lCaGY0QlF2UmpQTGZrMEZLOUNVbmJLQnNadHV3U21FRC1zdi1SMW13XzJGTXpnMXhZSmdvbkdxN0dUSktZUWNNVXNaQ1dfZ0F2bjF3Y9IBckFVX3lxTE85Mm81c0ZrUmZLNVIwYUhlbE40SUExUXZwMlVhd3M2NmhSd0xRdzZIMmZUWVB4UHAxRENrRlFqZmV5d3BlS1d1Y3dPU2RFbVFIWUlMMUVGRzEzSFdBWFpGd2xEQVlNZm9oRlBUMkVyODhpUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBzeUgxM1p3X19TQXV5VWZXemdEUkZwb1lCaGY0QlF2UmpQTGZrMEZLOUNVbmJLQnNadHV3U21FRC1zdi1SMW13XzJGTXpnMXhZSmdvbkdxN0dUSktZUWNNVXNaQ1dfZ0F2bjF3Y9IBckFVX3lxTE85Mm81c0ZrUmZLNVIwYUhlbE40SUExUXZwMlVhd3M2NmhSd0xRdzZIMmZUWVB4UHAxRENrRlFqZmV5d3BlS1d1Y3dPU2RFbVFIWUlMMUVGRzEzSFdBWFpGd2xEQVlNZm9oRlBUMkVyODhpUQ?oc=5\" target=\"_blank\">«Европейские элиты пугают своё население»: Путин — о мнимой угрозе со стороны России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
-      "pub": "Fri, 11 Sep 2026 19:54:43 GMT"
+      "pub": "Fri, 11 Sep 2026 19:55:00 GMT"
     },
     {
       "title": "Путин: участие России в «восьмёрке» не было полноценным - russian.rt.com",
@@ -281,6 +274,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE56VXRpUDRGanJzSXVtcC15eHRFVnhYLXpDbC1xN0JtVnkxVEVuOXFxZ19BMUV3R09OUDEwSDU4cTIwQVRXYTZaZ0w2RU5HcWQ2blFFMU1XLUlRYmxOa2tnNklpaWZWLWRISUlZc3p1Mkd3QjNsV2JEUk5EdlVwVXPSAYQBQVVfeXFMT095MGhXZGRRUEZSUEFwZHJTc2ExMUhnWG5uS09idy16eF9YYm1tNGNYc21kRnVwUWdLOThYdDlFbXdKU0p6c1dIb0dFNTFJc0UyTC1RbVdHUUM3bEMwZ3dXa1NKemlIT0E4Nm5YUUdFRVZ0ZXNydnpRVko5Z1RPOGEtMW45?oc=5\" target=\"_blank\">Путин: участие России в «восьмёрке» не было полноценным</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Fri, 11 Sep 2026 19:51:08 GMT"
+    },
+    {
+      "title": "Участие России в \"восьмерке\" не было полноценным, заявил Путин - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pSEZkcDVXaXMwdjcxVmJpSjdDa0RQOEtMOW9jLXpGX1dUWm92YXg4dVdxd015LWx1SllkZFM1Mm9EX2VydVhiSkN6bm13ODJsZllfMnp4QWo?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pSEZkcDVXaXMwdjcxVmJpSjdDa0RQOEtMOW9jLXpGX1dUWm92YXg4dVdxd015LWx1SllkZFM1Mm9EX2VydVhiSkN6bm13ODJsZllfMnp4QWo?oc=5\" target=\"_blank\">Участие России в \"восьмерке\" не было полноценным, заявил Путин</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Fri, 11 Sep 2026 19:45:00 GMT"
     }
   ]
 }
