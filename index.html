@@ -158,12 +158,31 @@ const FALLBACK = {
 function esc(s){return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));}
 function stripHtml(v){const d=document.createElement("div");d.innerHTML=v||"";return (d.textContent||d.innerText||"").replace(/\s+/g," ").trim();}
 
+async function fetchXML(url){
+  const proxies=[
+    "https://api.allorigins.win/raw?url="+encodeURIComponent(url),
+    "https://corsproxy.io/?url="+encodeURIComponent(url)
+  ];
+  for(const p of proxies){
+    try{
+      const r=await fetch(p,{cache:"no-store"});
+      if(!r.ok) continue;
+      const text=await r.text();
+      if(!text || text.length<80) continue;
+      return text;
+    }catch(e){}
+  }
+  throw new Error("all proxies failed");
+}
 async function sourceRSS(src){
-  const api="https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(src.url)+"&count=50";
-  const r=await fetch(api,{cache:"no-store"});
-  if(!r.ok) throw new Error("RSS");
-  const d=await r.json();
-  return (d.items||[]).map(x=>({title:x.title,pub:x.pubDate,description:x.description||x.content||""}));
+  const text=await fetchXML(src.url);
+  const xml=new DOMParser().parseFromString(text,"text/xml");
+  const items=[...xml.querySelectorAll("item")];
+  return items.map(it=>({
+    title:(it.querySelector("title")?.textContent||"").trim(),
+    pub:it.querySelector("pubDate")?.textContent||new Date().toUTCString(),
+    description:it.querySelector("description")?.textContent||""
+  }));
 }
 function categoryMatch(item, terms){
   const s=(item.title||"").toLowerCase();
