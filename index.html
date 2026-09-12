@@ -79,7 +79,7 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
     <div id="news_main" class="cards">
       <article class="news loading"><div class="tag">Загрузка</div><h3>Получаем свежие новости…</h3><p>Лента обновится автоматически.</p></article>
     </div>
-    <div class="sources">Материалы подготовлены редакцией TrueNews.</div>
+    <div class="sources" id="debug_main">Материалы подготовлены редакцией TrueNews.</div>
   </section>
 
   <section class="section" id="politics">
@@ -87,7 +87,7 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
     <div id="news_politics" class="cards">
       <article class="news loading"><div class="tag">Загрузка</div><h3>Получаем свежие новости…</h3><p>Лента обновится автоматически.</p></article>
     </div>
-    <div class="sources">Материалы подготовлены редакцией TrueNews.</div>
+    <div class="sources" id="debug_politics">Материалы подготовлены редакцией TrueNews.</div>
   </section>
 
   <section class="section" id="sport">
@@ -95,7 +95,7 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
     <div id="news_sport" class="cards">
       <article class="news loading"><div class="tag">Загрузка</div><h3>Получаем свежие новости…</h3><p>Лента обновится автоматически.</p></article>
     </div>
-    <div class="sources">Материалы подготовлены редакцией TrueNews.</div>
+    <div class="sources" id="debug_sport">Материалы подготовлены редакцией TrueNews.</div>
   </section>
 </main>
 
@@ -121,10 +121,10 @@ const images = [
 ];
 
 const TRUE_NEWS_SOURCES = [
-  {name:"src1", url:"https://news.google.com/rss/search?q=site%3Arbc.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
-  {name:"src2", url:"https://news.google.com/rss/search?q=site%3Afontanka.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
-  {name:"src3", url:"https://news.google.com/rss/search?q=site%3Art.com%20Russia%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
-  {name:"src4", url:"https://news.google.com/rss/search?q=site%3Adzen.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"}
+  {name:"src1", url:"https://ria.ru/export/rss2/archive/index.xml"},
+  {name:"src2", url:"https://tass.ru/rss/v2.xml"},
+  {name:"src3", url:"https://russian.rt.com/rss/"},
+  {name:"src4", url:"https://lenta.ru/rss/news"}
 ];
 
 const CATEGORY = {
@@ -205,14 +205,17 @@ function categoryMatch(item, terms){
 
 async function loadCategory(cat){
   const box=document.getElementById("news_"+cat);
+  const dbg=document.getElementById("debug_"+cat);
   const cfg=CATEGORY[cat];
   try{
-    const all=(await Promise.all(TRUE_NEWS_SOURCES.map(sourceRSS))).flat()
+    const results=await Promise.allSettled(TRUE_NEWS_SOURCES.map(sourceRSS));
+    const errors=results.filter(r=>r.status==="rejected").map(r=>String(r.reason&&r.reason.message||r.reason));
+    const all=results.filter(r=>r.status==="fulfilled").flatMap(r=>r.value)
       .filter(x=>x.title)
       .sort((a,b)=>new Date(b.pub)-new Date(a.pub));
     let items=cfg.terms ? all.filter(x=>categoryMatch(x,cfg.terms)) : all;
     items=items.slice(0, ITEMS_PER_CATEGORY);
-    if(!items.length) throw new Error("empty");
+    if(!items.length) throw new Error("empty. Ошибки источников: "+(errors.join(" | ")||"нет данных"));
     box.innerHTML=items.map((x,i)=>`
       <article class="news live-card" onclick='openArticle(${JSON.stringify(x)})'>
         <img class="news-img" src="${images[i%images.length]}" alt="">
@@ -220,6 +223,7 @@ async function loadCategory(cat){
         <h3>${esc(x.title)}</h3>
         <div class="source-pill">${new Date(x.pub).toLocaleString("ru-RU",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</div>
       </article>`).join("");
+    dbg.textContent="Материалы подготовлены редакцией TrueNews.";
   }catch(e){
     const ex=FALLBACK[cat];
     box.innerHTML=ex.map((x,i)=>`
@@ -229,6 +233,7 @@ async function loadCategory(cat){
         <h3>${esc(x.title)}</h3>
         <div class="source-pill">TrueNews · редакция</div>
       </article>`).join("");
+    dbg.textContent="Диагностика (временно): "+(e&&e.message||e);
   }
 }
 
