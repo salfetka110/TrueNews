@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T19:04:20.907918+00:00",
+  "updated": "2026-09-12T19:33:51.578363+00:00",
   "count": 40,
   "news": [
     {
@@ -17,11 +17,32 @@
       "pub": "Tue, 27 Feb 2018 03:21:39 GMT"
     },
     {
-      "title": "АО «КАМА» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sWnZvMkFXN3AtSldkeC1aX3NEUDdrN21HMWxxTEh2U3JIcXI5VWlBekJhTko3U2NFVU1GQnVLa0VFQklsTDhPVVk3ZmtYbHVYOFJtQWxlTEtmSTEtSVd1ak5CQ3MxUm1qMmotRF9yX0pxc1h3LUlkUGJVMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1sWnZvMkFXN3AtSldkeC1aX3NEUDdrN21HMWxxTEh2U3JIcXI5VWlBekJhTko3U2NFVU1GQnVLa0VFQklsTDhPVVk3ZmtYbHVYOFJtQWxlTEtmSTEtSVd1ak5CQ3MxUm1qMmotRF9yX0pxc1h3LUlkUGJVMA?oc=5\" target=\"_blank\">АО «КАМА»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Thu, 16 Sep 2021 16:08:58 GMT"
+      "title": "Венеция назвала лучше фильмы и роли - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwamY0SzMzZ2xtcUxNNktNT0RucFJFYW10Umt2Yl9fR251Q3B6dWlzQ1RWWlMwRjgxQUROcGo5X2VMMXBRMnZ6Y2NlVUdhSjZxckF3VUVfUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwamY0SzMzZ2xtcUxNNktNT0RucFJFYW10Umt2Yl9fR251Q3B6dWlzQ1RWWlMwRjgxQUROcGo5X2VMMXBRMnZ6Y2NlVUdhSjZxckF3VUVfUQ?oc=5\" target=\"_blank\">Венеция назвала лучше фильмы и роли</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 12 Sep 2026 19:22:33 GMT"
+    },
+    {
+      "title": "В Николаеве прогремел взрыв - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5URUJuZTlRSnR3Q1NKUFRFSEJGYkVHdDREZXdaaVJldnJMOEdESVgtV2dzN0g2UWlXWWJWUXNibDlPT1NaRm1PZGt4azRJU2VUbnhKSTdEcFdfUHlQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5URUJuZTlRSnR3Q1NKUFRFSEJGYkVHdDREZXdaaVJldnJMOEdESVgtV2dzN0g2UWlXWWJWUXNibDlPT1NaRm1PZGt4azRJU2VUbnhKSTdEcFdfUHlQ?oc=5\" target=\"_blank\">В Николаеве прогремел взрыв</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 12 Sep 2026 19:22:00 GMT"
+    },
+    {
+      "title": "Гол Зыкова принес СКА выездную победу над «Сочи» - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FbVZuX1dPSzB3Smplc0ZBVDI3SC1sdC1aSERxVlJuSTg5SG5qS0lYLVFUUUxpbEdTVFcyaXJnQXk0SERFQXdSRU52R1ZRLVVyQ0NsT2c1SXd2THNxYjNOZGthSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FbVZuX1dPSzB3Smplc0ZBVDI3SC1sdC1aSERxVlJuSTg5SG5qS0lYLVFUUUxpbEdTVFcyaXJnQXk0SERFQXdSRU52R1ZRLVVyQ0NsT2c1SXd2THNxYjNOZGthSQ?oc=5\" target=\"_blank\">Гол Зыкова принес СКА выездную победу над «Сочи»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 12 Sep 2026 19:20:06 GMT"
+    },
+    {
+      "title": "Аномальное тепло, метель и «черная пурга». Синоптики рассказали, какой будет эта зима - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kY2t3dzRYNTFoZ09LVWZySTJYLWNFd2FxYkRZQUxMMWNvRDlIaU9CV1g2RzZnVFdESnlfVjJIbXN6bnU1azdOX0RXWGZWSE4xT2NtZkw1TQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kY2t3dzRYNTFoZ09LVWZySTJYLWNFd2FxYkRZQUxMMWNvRDlIaU9CV1g2RzZnVFdESnlfVjJIbXN6bnU1azdOX0RXWGZWSE4xT2NtZkw1TQ?oc=5\" target=\"_blank\">Аномальное тепло, метель и «черная пурга». Синоптики рассказали, какой будет эта зима</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 12 Sep 2026 19:15:00 GMT"
     },
     {
       "title": "Беглов наградил бизнесмена Никиту Леонова, возродившего Шуваловский парк - ФОНТАНКА.ру",
@@ -136,6 +157,13 @@
       "pub": "Sat, 12 Sep 2026 17:52:44 GMT"
     },
     {
+      "title": "В волчанском котле уничтожен призывавший убивать русских боевик ВСУ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pLUQxcWJFMTU4U2pyR19Ra1dHcmJFWkxNQVZveG5MMUpHWUhzMHJMUHNHSGxFaGNWZnZYTWVUaVFaTG5CWlJMMDdCN3FtTDhTVGF3UU1NS0RfQkw2N3BWQ3ZwYUV6djltLS16aHlEeG1mQdIBd0FVX3lxTE1sQWVjVklJRlNxcktLanA2YUhfalFaWXlwa1UycGppNnN3NDVNRjNxbkUzOWR6Tkc3dWUwZEVqNVp6MFhWVFlTeEhNNjFYQUJWZFFnd051dHkzLTAwdE8zWTMtWWFJSS05MUMwcWtPLVFsWW12RTkw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9pLUQxcWJFMTU4U2pyR19Ra1dHcmJFWkxNQVZveG5MMUpHWUhzMHJMUHNHSGxFaGNWZnZYTWVUaVFaTG5CWlJMMDdCN3FtTDhTVGF3UU1NS0RfQkw2N3BWQ3ZwYUV6djltLS16aHlEeG1mQdIBd0FVX3lxTE1sQWVjVklJRlNxcktLanA2YUhfalFaWXlwa1UycGppNnN3NDVNRjNxbkUzOWR6Tkc3dWUwZEVqNVp6MFhWVFlTeEhNNjFYQUJWZFFnd051dHkzLTAwdE8zWTMtWWFJSS05MUMwcWtPLVFsWW12RTkw?oc=5\" target=\"_blank\">В волчанском котле уничтожен призывавший убивать русских боевик ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 12 Sep 2026 17:52:29 GMT"
+    },
+    {
       "title": "В Волгоградской области объявили беспилотную опасность - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQQjJHeUZDSEcyYlJzQy1XMUV1QktWb253LTliMEFiNHF6a1dCbTdtRm1NdkdFVkFzWUpjeDNVcUMyZ2ZsUXVkTGpUT25jOHN2UENDSmVyZmFmX216Wnc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQQjJHeUZDSEcyYlJzQy1XMUV1QktWb253LTliMEFiNHF6a1dCbTdtRm1NdkdFVkFzWUpjeDNVcUMyZ2ZsUXVkTGpUT25jOHN2UENDSmVyZmFmX216Wnc?oc=5\" target=\"_blank\">В Волгоградской области объявили беспилотную опасность</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
@@ -150,25 +178,11 @@
       "pub": "Sat, 12 Sep 2026 17:48:37 GMT"
     },
     {
-      "title": "В Германии отметили пятидесятилетие «Пчёлки Майи» - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QUWpwMnhiQkVVaTh2dWo1dHdBdm0yTHRmanB6ODd3VnJMSzdET0lzZDBPUGlGSGhTSDVZb3BEamlQdDJZZGFTTmhEU25iOU5rdjNpUXg1SQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QUWpwMnhiQkVVaTh2dWo1dHdBdm0yTHRmanB6ODd3VnJMSzdET0lzZDBPUGlGSGhTSDVZb3BEamlQdDJZZGFTTmhEU25iOU5rdjNpUXg1SQ?oc=5\" target=\"_blank\">В Германии отметили пятидесятилетие «Пчёлки Майи»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 17:45:00 GMT"
-    },
-    {
       "title": "\"Монако\" впервые в сезоне потерял очки, Головин получил желтую карточку - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aLWNraTEwUkdXWUlheVpITEZsMktuQXpnOWgwMHNpdWRsM1VRU2NkcU00dkFYa191VExrMk5jQ2gycF9wODBrakJ4WnREeDFaTVBYM2puOTM3QQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aLWNraTEwUkdXWUlheVpITEZsMktuQXpnOWgwMHNpdWRsM1VRU2NkcU00dkFYa191VExrMk5jQ2gycF9wODBrakJ4WnREeDFaTVBYM2puOTM3QQ?oc=5\" target=\"_blank\">\"Монако\" впервые в сезоне потерял очки, Головин получил желтую карточку</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 12 Sep 2026 17:43:00 GMT"
-    },
-    {
-      "title": "RT поговорил с бизнесменами, сфотографировавшимися с Путиным на саммите БРИКС - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xRWVvX3FKVm5xVUw1UTdTSGJHUlZDSDV5RXpkaU5xS0dFeUlnVHVCTDlWVkJoRG9ObVpCOTBjbGd3M19NaC1GTzBkWDR5LU9NQUlBUU0zOTBYT3p2V0w4XzJ6VG9YWFRFaks3aTBjbUHSAXZBVV95cUxOOU9oX0MwTzk1eVd4Z2dVNlVKS0ZWcnpCUHQ0S19aT1NYM3N0MlEwalVNQlJjdnV0b21kbDM4Xy04ZWFVSEVEOWVXWVIxa21QTzAxZ1dNUVUyVHd1X1RHWmZ4YzViby1Yb0RzSEZFMGpKRFc1RWRn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5xRWVvX3FKVm5xVUw1UTdTSGJHUlZDSDV5RXpkaU5xS0dFeUlnVHVCTDlWVkJoRG9ObVpCOTBjbGd3M19NaC1GTzBkWDR5LU9NQUlBUU0zOTBYT3p2V0w4XzJ6VG9YWFRFaks3aTBjbUHSAXZBVV95cUxOOU9oX0MwTzk1eVd4Z2dVNlVKS0ZWcnpCUHQ0S19aT1NYM3N0MlEwalVNQlJjdnV0b21kbDM4Xy04ZWFVSEVEOWVXWVIxa21QTzAxZ1dNUVUyVHd1X1RHWmZ4YzViby1Yb0RzSEZFMGpKRFc1RWRn?oc=5\" target=\"_blank\">RT поговорил с бизнесменами, сфотографировавшимися с Путиным на саммите БРИКС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 12 Sep 2026 17:37:03 GMT"
     },
     {
       "title": "Средства ПВО за день уничтожили 53 украинских беспилотника над Россией - russian.rt.com",
@@ -192,11 +206,25 @@
       "pub": "Sat, 12 Sep 2026 17:28:07 GMT"
     },
     {
+      "title": "Врач рассказал о вреде привычки проверять телефон перед сном - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKOXJGeklPWC1KR2FVczQ0X2EtUmdIMHZ4c2xJLWtUZWJDbmhrdW8tWTVNWXhkTFFqSGdLYXFMMTJZM002cTJOVjNKM3RMcTcwS3ZTOVlwR09CQ0w5MHN6UU82NA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKOXJGeklPWC1KR2FVczQ0X2EtUmdIMHZ4c2xJLWtUZWJDbmhrdW8tWTVNWXhkTFFqSGdLYXFMMTJZM002cTJOVjNKM3RMcTcwS3ZTOVlwR09CQ0w5MHN6UU82NA?oc=5\" target=\"_blank\">Врач рассказал о вреде привычки проверять телефон перед сном</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 12 Sep 2026 17:28:00 GMT"
+    },
+    {
       "title": "Индийские СМИ рассекретили список блюд для ужина участников саммита БРИКС - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJSEVoRm1UWmhHRUNUNEJOdllDLXR0dnpEQlhybTh4OTZlcFFfbm93M1FRMWFhdEczeTFoNjNGbE43ampRZWJRN2lHQng3LWd3VDhJMkR4am13RDkyeGlLeExHNFhhR1RmU1RTN1I0a3M?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJSEVoRm1UWmhHRUNUNEJOdllDLXR0dnpEQlhybTh4OTZlcFFfbm93M1FRMWFhdEczeTFoNjNGbE43ampRZWJRN2lHQng3LWd3VDhJMkR4am13RDkyeGlLeExHNFhhR1RmU1RTN1I0a3M?oc=5\" target=\"_blank\">Индийские СМИ рассекретили список блюд для ужина участников саммита БРИКС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 12 Sep 2026 17:21:02 GMT"
+    },
+    {
+      "title": "Умер актер сериалов «Невский» и «Великолепная пятерка» Геннадий Спириденков - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUHhhS3JUNnNTc3FMYWRmenF3ZFNsaldNQWZyNjBOeE5icXM3Vk10SldhYkx0MFlyVG9qV245XzVzTGdBTlNBWXdyRGtmVDF5Y3lTbEc1Y2tVV1VyU1VmYjFjeXNNX0dWRmN1T0t5Y3U?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUHhhS3JUNnNTc3FMYWRmenF3ZFNsaldNQWZyNjBOeE5icXM3Vk10SldhYkx0MFlyVG9qV245XzVzTGdBTlNBWXdyRGtmVDF5Y3lTbEc1Y2tVV1VyU1VmYjFjeXNNX0dWRmN1T0t5Y3U?oc=5\" target=\"_blank\">Умер актер сериалов «Невский» и «Великолепная пятерка» Геннадий Спириденков</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 12 Sep 2026 17:19:53 GMT"
     },
     {
       "title": "«Одиссея» стала самым кассовым фильмом студии Universal за ее 114-летнюю историю - ФОНТАНКА.ру",
@@ -234,6 +262,13 @@
       "pub": "Sat, 12 Sep 2026 16:42:00 GMT"
     },
     {
+      "title": "Илон Маск согласился с идеей главы Anthropic по замедлению разработки ИИ - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ETnZqcV80OWl4MXpadW56OUNFVzV6ek1YZzBiUHhjcTdtV3ZZbXFLRW9lZ2htRS1DNldNeElLeDF2U0RBV3NKUXdnMzRvUVZmQUJhdGMxRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ETnZqcV80OWl4MXpadW56OUNFVzV6ek1YZzBiUHhjcTdtV3ZZbXFLRW9lZ2htRS1DNldNeElLeDF2U0RBV3NKUXdnMzRvUVZmQUJhdGMxRQ?oc=5\" target=\"_blank\">Илон Маск согласился с идеей главы Anthropic по замедлению разработки ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 12 Sep 2026 16:36:00 GMT"
+    },
+    {
       "title": "Сложный тест по географии России: не заблудитесь ли вы на просторах страны? - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wVWR0WFBFV2s5Z1RUZVQ2REc4azlXTjdGa0FlNGxVMm5nWVdDYW40NjdTTEpYSHdRd216OFJReXZRdFRNVE1IWmZQMGJIcndMSFV3MGNxdw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wVWR0WFBFV2s5Z1RUZVQ2REc4azlXTjdGa0FlNGxVMm5nWVdDYW40NjdTTEpYSHdRd216OFJReXZRdFRNVE1IWmZQMGJIcndMSFV3MGNxdw?oc=5\" target=\"_blank\">Сложный тест по географии России: не заблудитесь ли вы на просторах страны?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -246,41 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNkU2TlNhVVlVTEFkcGdlMm42M2k1UlVRbndJbHdmR0s1eU5WOThVRFFvTzBpRU50UVNfUTl6U2NDNTMxRzlab2otZVprR1JaeUFsMUQyWmoyUzlFRy1oY1M0ajBWX0ZpVjZDOVphdVE?oc=5\" target=\"_blank\">Экс-генпрокурор Грузии стал командиром военного подразделения в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 12 Sep 2026 16:25:34 GMT"
-    },
-    {
-      "title": "Автобус со студентами перевернулся в Петербурге - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9faGZXQnEtMHd3N1k0ZVowMi1ocWNTRVF2MFFqbW5hRjZNbUlVeUFLTERra0tRT3VyazluRnNXTXM4VTZVUFVzdWlyMUZ0aTF1ckFuckRmbzRrSk10X3A2a2M2b041ZWdqZG4xVWlKVTNramZpbUFLY3pR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9faGZXQnEtMHd3N1k0ZVowMi1ocWNTRVF2MFFqbW5hRjZNbUlVeUFLTERra0tRT3VyazluRnNXTXM4VTZVUFVzdWlyMUZ0aTF1ckFuckRmbzRrSk10X3A2a2M2b041ZWdqZG4xVWlKVTNramZpbUFLY3pR?oc=5\" target=\"_blank\">Автобус со студентами перевернулся в Петербурге</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 12 Sep 2026 16:18:40 GMT"
-    },
-    {
-      "title": "В Венгрии прошла акция против антироссийских заявлений правительства - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XSG9nUUNfYjB2UUYyTlh2cG9CS1lHbGp6aUhhSExzWFByWnVvWUpTVDRVSF9TMWJhcU55Ym5NQ01ES3M0b3N0Qkwyd2FKSEtxSDByR2FzVVp0VTgy?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XSG9nUUNfYjB2UUYyTlh2cG9CS1lHbGp6aUhhSExzWFByWnVvWUpTVDRVSF9TMWJhcU55Ym5NQ01ES3M0b3N0Qkwyd2FKSEtxSDByR2FzVVp0VTgy?oc=5\" target=\"_blank\">В Венгрии прошла акция против антироссийских заявлений правительства</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 16:18:00 GMT"
-    },
-    {
-      "title": "И одной шайбы достаточно. СКА всухую обыграл «Сочи» на выезде - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwdG1DQWtkS3U2T3VTcTFfSUxDR0VET0REaHNzM1hPTDAxSUx0WDFxNldPYVc5RHFnQW1uVE1iTHZFcm5OSldzdkpoVUE2MzZxNDJZNE5FMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwdG1DQWtkS3U2T3VTcTFfSUxDR0VET0REaHNzM1hPTDAxSUx0WDFxNldPYVc5RHFnQW1uVE1iTHZFcm5OSldzdkpoVUE2MzZxNDJZNE5FMA?oc=5\" target=\"_blank\">И одной шайбы достаточно. СКА всухую обыграл «Сочи» на выезде</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 16:15:29 GMT"
-    },
-    {
-      "title": "Реаниматолог Ашуров: лёд нельзя прикладывать к ожогу - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jcWJxTDRWWTR6VjYwVWNfdzBYb3hyNnRUaExrYUMzMG5SSktzLWg3TTVOTWpHdmx4YUl2LVplVmZ4QUpiV2VQOW14OVNReDFGLTZOSGlCSFViREMwbFRwUmlHLUdUcFhnOFpBb1NwU1NzVnU5Ymp3V3BB0gF_QVVfeXFMTjRpRHRfU1NfaUNiTGQ2RGNaQndHOVR0NkE0akZjemx3aTNBaURrR3ZkMXVja2VhWG0zVzA5bGFQdllIanZhd2w1d1lzMzQxQnZxVFpiVk5KY2ZXUlZ3b1AwOEpFUTlYbkVyQ3JrRHVaSlNIWGFSNDI2ZW1lc0hZZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5jcWJxTDRWWTR6VjYwVWNfdzBYb3hyNnRUaExrYUMzMG5SSktzLWg3TTVOTWpHdmx4YUl2LVplVmZ4QUpiV2VQOW14OVNReDFGLTZOSGlCSFViREMwbFRwUmlHLUdUcFhnOFpBb1NwU1NzVnU5Ymp3V3BB0gF_QVVfeXFMTjRpRHRfU1NfaUNiTGQ2RGNaQndHOVR0NkE0akZjemx3aTNBaURrR3ZkMXVja2VhWG0zVzA5bGFQdllIanZhd2w1d1lzMzQxQnZxVFpiVk5KY2ZXUlZ3b1AwOEpFUTlYbkVyQ3JrRHVaSlNIWGFSNDI2ZW1lc0hZZw?oc=5\" target=\"_blank\">Реаниматолог Ашуров: лёд нельзя прикладывать к ожогу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 12 Sep 2026 16:14:55 GMT"
-    },
-    {
-      "title": "\"Ливерпуль\" и \"Фулхэм\" не забили голов в матче чемпионата Англии - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WU21YblhZVmVnLTBsbVctYkNWTnM0WmlaaE8zRTRTTUJFMzFSQXd0N2VmbXhLTW9zOVlZVk9TdnRHZXM3RUtrZ0RzVTVaZXlsVWJsQzFMUUJfUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WU21YblhZVmVnLTBsbVctYkNWTnM0WmlaaE8zRTRTTUJFMzFSQXd0N2VmbXhLTW9zOVlZVk9TdnRHZXM3RUtrZ0RzVTVaZXlsVWJsQzFMUUJfUQ?oc=5\" target=\"_blank\">\"Ливерпуль\" и \"Фулхэм\" не забили голов в матче чемпионата Англии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 16:11:00 GMT"
     }
   ]
 }
