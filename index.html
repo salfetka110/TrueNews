@@ -32,16 +32,17 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
 .sources{margin-top:16px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:12px}
 .loading{opacity:.65}
 .live-card{cursor:pointer}
-.live-card:hover{transform:translateY(-2px);transition:.15s}
+.live-card:hover{transform:translateY(-2px);box-shadow:0 8px 25px rgba(0,0,0,.08);transition:.15s}
 .source-pill{font-size:11px;color:var(--muted);margin-top:8px}
 
-.category-nav{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 18px}
-.category-nav button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font-weight:700;cursor:pointer}
-.category-nav button.active{background:#111318;color:#fff;border-color:#111318}
-
-.article-modal{position:fixed;inset:0;background:rgba(0,0,0,.72);z-index:100;display:none;align-items:center;justify-content:center;padding:18px}.article-modal.open{display:flex}.article-box{background:#fff;max-width:820px;width:100%;max-height:90vh;overflow:auto;border-radius:18px;padding:28px;position:relative}.article-close{position:absolute;right:18px;top:14px;border:0;background:#f0f1f3;border-radius:50%;width:38px;height:38px;font-size:24px;cursor:pointer}.article-box h2{font-size:32px;line-height:1.12;margin:8px 45px 12px 0}.article-lead{font-size:17px;line-height:1.65;color:#444}.article-source{color:#e31b23;font-weight:800;font-size:13px}.article-link{display:inline-block;margin-top:18px;background:#111318;color:#fff;text-decoration:none;padding:11px 16px;border-radius:9px;font-weight:700}.live-card{cursor:pointer}.live-card:hover{box-shadow:0 8px 25px rgba(0,0,0,.08)}
-
-.article-modal{position:fixed;inset:0;background:rgba(0,0,0,.62);display:none;align-items:center;justify-content:center;padding:18px;z-index:100}.article-modal.open{display:flex}.article-box{max-width:780px;width:100%;max-height:90vh;overflow:auto;background:#fff;border-radius:18px;padding:30px;position:relative}.article-close{position:absolute;right:18px;top:14px;border:0;background:#eee;border-radius:50%;width:36px;height:36px;font-size:22px;cursor:pointer}.article-box h2{font-size:32px;line-height:1.12;margin:12px 40px 12px 0}.article-kicker{color:#e31b23;font-weight:800;text-transform:uppercase;font-size:12px}.article-body{font-size:17px;line-height:1.7;color:#30343b}.article-note{font-size:12px;color:#777;border-top:1px solid #e4e6ea;padding-top:14px;margin-top:22px}
+.article-modal{position:fixed;inset:0;background:rgba(0,0,0,.68);z-index:100;display:none;align-items:center;justify-content:center;padding:18px}
+.article-modal.open{display:flex}
+.article-box{background:#fff;max-width:780px;width:100%;max-height:90vh;overflow:auto;border-radius:18px;padding:30px;position:relative}
+.article-close{position:absolute;right:18px;top:14px;border:0;background:#eee;border-radius:50%;width:36px;height:36px;font-size:22px;cursor:pointer}
+.article-box h2{font-size:32px;line-height:1.12;margin:12px 40px 12px 0}
+.article-kicker{color:#e31b23;font-weight:800;text-transform:uppercase;font-size:12px}
+.article-body{font-size:17px;line-height:1.7;color:#30343b}
+.article-note{font-size:12px;color:#777;border-top:1px solid #e4e6ea;padding-top:14px;margin-top:22px}
 </style>
 </head>
 <body>
@@ -51,7 +52,7 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
   <div class="search">⌕ Поиск</div>
 </div></header>
 
-<main id="main">
+<main>
   <div class="breaking"><span class="badge">LIVE</span><b>Последние события</b><span>•</span><span>Главные новости дня</span></div>
 
   <div class="grid">
@@ -59,60 +60,57 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
       <div class="hero-img" style="background-image:linear-gradient(180deg,transparent 25%,rgba(0,0,0,.82)),url('https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=85');background-size:cover;background-position:center">
         <div><div class="tag" style="color:#ff6870">Главное</div>
         <h1>TrueNews — новости, которые действительно важны</h1>
-        <div class="meta">Сегодня, 20:27 · Редакция TrueNews</div></div>
+        <div class="meta">Редакция TrueNews</div></div>
       </div>
     </article>
     <aside class="side">
       <h2>Главное сейчас</h2>
-      <div class="side-item"><div class="tag">Политика</div><h3>Главные события дня: что происходит прямо сейчас</h3><div class="meta">18 мин назад</div></div>
-      <div class="side-item"><div class="tag">Спорт</div><h3>Свежие результаты и самые важные новости спорта</h3><div class="meta">32 мин назад</div></div>
-      <div class="side-item"><div class="tag">Главное</div><h3>Коротко о событиях, которые нельзя пропустить</h3><div class="meta">1 ч назад</div></div>
+      <div class="side-item"><div class="tag">Политика</div><h3>Главные события дня: что происходит прямо сейчас</h3></div>
+      <div class="side-item"><div class="tag">Спорт</div><h3>Свежие результаты и самые важные новости спорта</h3></div>
+      <div class="side-item"><div class="tag">Главное</div><h3>Коротко о событиях, которые нельзя пропустить</h3></div>
     </aside>
   </div>
 
-
-  <section class="section" id="live">
+  <section class="section" id="main">
     <div class="section-title">
-      <h2>Последние новости</h2>
+      <h2>Главное</h2>
       <span class="live-status"><i></i> актуальная лента</span>
     </div>
-    <div id="liveNews" class="cards">
+    <div id="news_main" class="cards">
       <article class="news loading"><div class="tag">Загрузка</div><h3>Получаем свежие новости…</h3><p>Лента обновится автоматически.</p></article>
     </div>
-    <div class="sources">Материалы и разборы подготовлены редакцией TrueNews.</div>
+    <div class="sources">Материалы подготовлены редакцией TrueNews.</div>
   </section>
 
-  
-  <section class="section" id="categoryFeed">
-    <div class="section-title">
-      <h2 id="categoryTitle">Свежая лента</h2>
-      
-    </div>
-    <div id="categoryNews" class="cards"></div>
-    <div class="sources">Все материалы публикуются от имени редакции TrueNews.</div>
-  </section>
-
-<section class="section" id="politics">
+  <section class="section" id="politics">
     <div class="section-title"><h2>Политика</h2></div>
-    <div class="cards">
-      <article class="news"><img class="news-img" src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=700&q=80"><div class="tag">Политика</div><h3>Ключевые заявления и решения дня</h3><p>Кратко разбираем главные политические события и их последствия.</p><div class="meta">Сегодня · 19:48</div></article>
-      <article class="news"><div class="tag">Политика</div><h3>Что изменилось за последние сутки</h3><p>Самое важное без длинных вступлений и лишнего текста.</p><div class="meta">Сегодня · 18:22</div></article>
-      <article class="news"><div class="tag">Мир</div><h3>Мировая повестка: главные новости</h3><p>События в разных странах в одном месте.</p><div class="meta">Сегодня · 17:56</div></article>
+    <div id="news_politics" class="cards">
+      <article class="news loading"><div class="tag">Загрузка</div><h3>Получаем свежие новости…</h3><p>Лента обновится автоматически.</p></article>
     </div>
+    <div class="sources">Материалы подготовлены редакцией TrueNews.</div>
   </section>
 
   <section class="section" id="sport">
     <div class="section-title"><h2>Спорт</h2></div>
-    <div class="cards">
-      <article class="news"><img class="news-img" src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=700&q=80"><div class="tag">Футбол</div><h3>Главные матчи и результаты</h3><p>Результаты, события и самые обсуждаемые моменты.</p><div class="meta">Сегодня · 20:01</div></article>
-      <article class="news"><img class="news-img" src="https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=700&q=80"><div class="tag">Единоборства</div><h3>Новости бойцов и больших турниров</h3><p>Анонсы, результаты и самые яркие события.</p><div class="meta">Сегодня · 19:17</div></article>
-      <article class="news"><div class="tag">Спорт</div><h3>Что происходит в мире спорта</h3><p>Короткая подборка главного за день.</p><div class="meta">Сегодня · 18:43</div></article>
+    <div id="news_sport" class="cards">
+      <article class="news loading"><div class="tag">Загрузка</div><h3>Получаем свежие новости…</h3><p>Лента обновится автоматически.</p></article>
     </div>
+    <div class="sources">Материалы подготовлены редакцией TrueNews.</div>
   </section>
 </main>
 
-
 <footer><div class="foot"><b>TRUENEWS</b> — независимый макет новостного портала.<br><span>Первая версия · 2026</span></div></footer>
+
+<div id="articleModal" class="article-modal" onclick="if(event.target===this)closeArticle()">
+  <div class="article-box">
+    <button class="article-close" onclick="closeArticle()">×</button>
+    <div class="article-kicker">TrueNews</div>
+    <h2 id="articleTitle"></h2>
+    <div class="meta" id="articleMeta"></div>
+    <div class="article-body" id="articleBody"></div>
+    <div class="article-note">Материал подготовлен редакцией TrueNews на основе доступной новостной информации. Текст предназначен для краткого информирования и может уточняться по мере поступления новых данных.</div>
+  </div>
+</div>
 
 <script>
 const images = [
@@ -122,110 +120,108 @@ const images = [
   "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=700&q=80"
 ];
 
-function esc(s){return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));}
-
-async function refreshNews(){
-  const box=document.getElementById("liveNews");
-  try{
-    const batches=await Promise.all(TRUE_NEWS_SOURCES.map(sourceRSS));
-    const items=batches.flat().sort((a,b)=>new Date(b.pub)-new Date(a.pub)).slice(0,6);
-    if(!items.length) throw new Error("empty");
-    box.innerHTML=items.map((x,i)=>`
-      <article class="news live-card" onclick='openArticle(${JSON.stringify(x)})'>
-        <img class="news-img" src="${images[i%images.length]}" alt="">
-        <div class="tag">Последние</div>
-        <h3>${esc(x.title)}</h3>
-        <div class="source-pill">TrueNews · ${new Date(x.pub).toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"})}</div>
-      </article>`).join("");
-  }catch(e){
-    box.innerHTML='<article class="news loading"><div class="tag">TrueNews</div><h3>Не удалось получить свежую ленту</h3><p>Попробуйте обновить страницу чуть позже.</p></article>';
-  }
-}
-refreshNews();
-setInterval(refreshNews, 5*60*1000);
-</script>
-
-<script>
 const TRUE_NEWS_SOURCES = [
-  {name:"РБК", url:"https://news.google.com/rss/search?q=site%3Arbc.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
-  {name:"Фонтанка", url:"https://news.google.com/rss/search?q=site%3Afontanka.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
-  {name:"RT", url:"https://news.google.com/rss/search?q=site%3Art.com%20Russia%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
-  {name:"Дзен", url:"https://news.google.com/rss/search?q=site%3Adzen.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"}
+  {name:"src1", url:"https://news.google.com/rss/search?q=site%3Arbc.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
+  {name:"src2", url:"https://news.google.com/rss/search?q=site%3Afontanka.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
+  {name:"src3", url:"https://news.google.com/rss/search?q=site%3Art.com%20Russia%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"},
+  {name:"src4", url:"https://news.google.com/rss/search?q=site%3Adzen.ru%20when%3A1d&hl=ru&gl=RU&ceid=RU%3Aru"}
 ];
 
 const CATEGORY = {
-  main: {title:"Главное", terms:["Россия","мир","новости","экономика","происшествия"]},
-  politics: {title:"Политика", terms:["политик","президент","правитель","государ","МИД","выбор","парламент","министр"]},
-  sport: {title:"Спорт", terms:["спорт","футбол","хоккей","теннис","бой","UFC","NBA","матч","турнир"]}
+  main: {title:"Главное", terms:null},
+  politics: {title:"Политика", terms:["политик","президент","правитель","государ","мид","выбор","парламент","министр","дума","закон"]},
+  sport: {title:"Спорт", terms:["спорт","футбол","хоккей","теннис","бой","ufc","nba","матч","турнир","олимп","чемпион"]}
+};
+const ITEMS_PER_CATEGORY = 12;
+
+const FALLBACK = {
+  main:[
+    {title:"Главные события к этому часу: обзор новостей", description:"Дайджест ключевых тем дня, собранный редакцией."},
+    {title:"Что происходит в мире прямо сейчас", description:"Коротко о главном без лишних подробностей."},
+    {title:"Экономика и происшествия: что важно знать сегодня", description:"Основные темы дня в одном материале."},
+    {title:"Коротко о событиях, которые нельзя пропустить", description:"Сводка новостей, отобранных редакцией TrueNews."}
+  ],
+  politics:[
+    {title:"Ключевые заявления и решения дня", description:"Кратко разбираем главные политические события и их последствия."},
+    {title:"Что изменилось за последние сутки", description:"Самое важное без длинных вступлений и лишнего текста."},
+    {title:"Мировая повестка: главные новости", description:"События в разных странах в одном месте."},
+    {title:"Парламентские новости и решения", description:"Обзор законодательных инициатив и заявлений."}
+  ],
+  sport:[
+    {title:"Главные матчи и результаты", description:"Результаты, события и самые обсуждаемые моменты."},
+    {title:"Новости бойцов и больших турниров", description:"Анонсы, результаты и самые яркие события."},
+    {title:"Что происходит в мире спорта", description:"Короткая подборка главного за день."},
+    {title:"Итоги игрового дня", description:"Ключевые результаты и события в одном материале."}
+  ]
 };
 
+function esc(s){return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));}
+function stripHtml(v){const d=document.createElement("div");d.innerHTML=v||"";return (d.textContent||d.innerText||"").replace(/\s+/g," ").trim();}
+
 async function sourceRSS(src){
-  const api="https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(src.url);
+  const api="https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(src.url)+"&count=50";
   const r=await fetch(api,{cache:"no-store"});
   if(!r.ok) throw new Error("RSS");
   const d=await r.json();
-  return (d.items||[]).map(x=>({title:x.title,link:x.link,source:src.name,pub:x.pubDate,description:x.description||x.content||""})); 
+  return (d.items||[]).map(x=>({title:x.title,pub:x.pubDate,description:x.description||x.content||""}));
 }
 function categoryMatch(item, terms){
   const s=(item.title||"").toLowerCase();
   return terms.some(t=>s.includes(t.toLowerCase()));
 }
+
 async function loadCategory(cat){
-  const box=document.getElementById("categoryNews");
+  const box=document.getElementById("news_"+cat);
   const cfg=CATEGORY[cat];
-  document.getElementById("categoryTitle").textContent=cfg.title;
-  box.innerHTML='<article class="news loading"><div class="tag">Обновление</div><h3>Получаем актуальные новости…</h3><p>Проверяем источники.</p></article>';
   try{
     const all=(await Promise.all(TRUE_NEWS_SOURCES.map(sourceRSS))).flat()
       .filter(x=>x.title)
       .sort((a,b)=>new Date(b.pub)-new Date(a.pub));
-    let items=cat==="main" ? all : all.filter(x=>categoryMatch(x,cfg.terms));
-    items=items.slice(0,6);
+    let items=cfg.terms ? all.filter(x=>categoryMatch(x,cfg.terms)) : all;
+    items=items.slice(0, ITEMS_PER_CATEGORY);
     if(!items.length) throw new Error("empty");
     box.innerHTML=items.map((x,i)=>`
       <article class="news live-card" onclick='openArticle(${JSON.stringify(x)})'>
-        <img class="news-img" src="${images[(i+1)%images.length]}" alt="">
+        <img class="news-img" src="${images[i%images.length]}" alt="">
         <div class="tag">TrueNews</div>
         <h3>${esc(x.title)}</h3>
         <div class="source-pill">${new Date(x.pub).toLocaleString("ru-RU",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</div>
       </article>`).join("");
   }catch(e){
-    const examples={
-      main:[
-        ["РБК","Главные новости к утру 7 сентября: что произошло в России","https://amp.rbc.ru/rbcnews/society/07/09/2026/6a9e3a319a7947240d93892a"],
-        ["Фонтанка","Штормовое предупреждение объявили в Ленобласти из-за заморозков","https://www.fontanka.ru/2026/09/07/76629466/"],
-        ["Фонтанка","В Петербурге построят канализационный коллектор за 9,4 млрд рублей","https://www.fontanka.ru/spb/"]
-      ],
-      politics:[
-        ["РБК","Что будет со ставкой ЦБ в сентябре — консенсус-прогноз РБК","https://amp.rbc.ru/rbcnews/society/07/09/2026/6a9e3a319a7947240d93892a"],
-        ["Фонтанка","Россия отзывает согласие на работу Генконсульства Германии в Петербурге","https://t.me/s/fontankaspb"],
-        ["RT","Новости России и мира — актуальная политическая повестка","https://www.rt.com/"]
-      ],
-      sport:[
-        ["РБК","Спортивная лента: последние результаты и события","https://www.rbc.ru/"],
-        ["RT","Спорт: последние новости и события","https://russian.rt.com/sport"],
-        ["Дзен","Спортивные новости и материалы","https://dzen.ru/"]
-      ]
-    };
-    const ex=examples[cat];
+    const ex=FALLBACK[cat];
     box.innerHTML=ex.map((x,i)=>`
-      <article class="news live-card" onclick="window.open('${x[2]}','_blank')">
+      <article class="news live-card" onclick='openArticle(${JSON.stringify({...x,pub:new Date().toISOString()})})'>
         <img class="news-img" src="${images[i%images.length]}" alt="">
-        <div class="tag">${esc(x[0])}</div><h3>${esc(x[1])}</h3>
+        <div class="tag">TrueNews</div>
+        <h3>${esc(x.title)}</h3>
         <div class="source-pill">TrueNews · редакция</div>
       </article>`).join("");
   }
 }
-loadCategory("main");
-setInterval(()=>loadCategory("main"),5*60*1000);
-</script>
 
-<script>
-function stripHtml(v){const d=document.createElement("div");d.innerHTML=v||"";return (d.textContent||d.innerText||"").replace(/\s+/g," ").trim()}
-<div id="articleModal" class="article-modal" onclick="if(event.target===this)closeArticle()"><div class="article-box"><button class="article-close" onclick="closeArticle()">×</button><div class="article-kicker">TrueNews</div><h2 id="articleTitle"></h2><div class="meta" id="articleMeta"></div><div class="article-body" id="articleBody"></div><div class="article-note">Материал подготовлен редакцией TrueNews на основе доступной новостной информации. Текст предназначен для краткого информирования и может уточняться по мере поступления новых данных.</div></div></div>
-<script>
- function openArticle(item){const title=item.title||"Новость TrueNews";const date=item.pub?new Date(item.pub):new Date();const desc=stripHtml(item.description||"");const context=desc||"В новостной ленте опубликована информация о событии, которое развивается в данный момент. Редакция TrueNews собирает подтверждённые сведения и обновляет материал по мере появления новых данных.";document.getElementById("articleTitle").textContent=title;document.getElementById("articleMeta").textContent=date.toLocaleString("ru-RU")+" · редакция TrueNews";document.getElementById("articleBody").innerHTML=`<p><b>Что произошло</b></p><p>${esc(context)}</p><p><b>Контекст события</b></p><p>Событие рассматривается редакцией в более широком контексте: важно учитывать не только сам факт публикации, но и причины происходящего, участников ситуации и возможные последствия. Неподтверждённые детали не выдаются за факты.</p><p><b>Почему это важно</b></p><p>Значение новости зависит от того, как ситуация повлияет на людей, экономику, политику или дальнейшее развитие событий. Новые официальные заявления и подтверждённые данные будут добавлены в материал.</p><p><b>Что известно на данный момент</b></p><p>${esc(context)} Редакция TrueNews продолжает следить за развитием ситуации.</p><p><b>Что будет дальше</b></p><p>Следующий этап зависит от дальнейших заявлений и фактического развития событий. Важные изменения будут отражены в этой статье, чтобы читателю не приходилось искать продолжение новости в разных местах.</p>`;document.getElementById("articleModal").classList.add("open");document.body.style.overflow="hidden"}
-function closeArticle(){document.getElementById("articleModal").classList.remove("open");document.body.style.overflow=""}
-document.addEventListener("keydown",e=>{if(e.key==="Escape")closeArticle()});
+function openArticle(item){
+  const title=item.title||"Новость TrueNews";
+  const date=item.pub?new Date(item.pub):new Date();
+  const desc=stripHtml(item.description||"");
+  const context=desc||"В новостной ленте опубликована информация о событии, которое развивается в данный момент. Редакция TrueNews собирает подтверждённые сведения и обновляет материал по мере появления новых данных.";
+  document.getElementById("articleTitle").textContent=title;
+  document.getElementById("articleMeta").textContent=date.toLocaleString("ru-RU")+" · редакция TrueNews";
+  document.getElementById("articleBody").innerHTML=`
+    <p><b>Что произошло</b></p><p>${esc(context)}</p>
+    <p><b>Контекст события</b></p><p>Событие рассматривается редакцией в более широком контексте: важно учитывать не только сам факт публикации, но и причины происходящего, участников ситуации и возможные последствия. Неподтверждённые детали не выдаются за факты.</p>
+    <p><b>Почему это важно</b></p><p>Значение новости зависит от того, как ситуация повлияет на людей, экономику, политику или дальнейшее развитие событий. Новые официальные заявления и подтверждённые данные будут добавлены в материал.</p>
+    <p><b>Что известно на данный момент</b></p><p>${esc(context)} Редакция TrueNews продолжает следить за развитием ситуации.</p>
+    <p><b>Что будет дальше</b></p><p>Следующий этап зависит от дальнейших заявлений и фактического развития событий. Важные изменения будут отражены в этой статье.</p>`;
+  document.getElementById("articleModal").classList.add("open");
+  document.body.style.overflow="hidden";
+}
+function closeArticle(){
+  document.getElementById("articleModal").classList.remove("open");
+  document.body.style.overflow="";
+}
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeArticle();});
+
+Object.keys(CATEGORY).forEach(loadCategory);
+setInterval(()=>Object.keys(CATEGORY).forEach(loadCategory), 30*60*1000);
 </script>
 </body></html>
