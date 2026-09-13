@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T02:35:53.233024+00:00",
+  "updated": "2026-09-13T03:05:02.129043+00:00",
   "count": 40,
   "news": [
+    {
+      "title": "АТОЛ - companies.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PMlUxNGs5SmRsZ1E1bFpLdW82bjNqVVB0Yl91VHU0U3VjUnNWZzFnN1lPcm5zaVF2QzVrVFpTZXNzRXNhaGNlZDhFWjVsbUh1MGpDZFlLX3FPaG8?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PMlUxNGs5SmRsZ1E1bFpLdW82bjNqVVB0Yl91VHU0U3VjUnNWZzFnN1lPcm5zaVF2QzVrVFpTZXNzRXNhaGNlZDhFWjVsbUh1MGpDZFlLX3FPaG8?oc=5\" target=\"_blank\">АТОЛ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 08 Nov 2023 16:02:01 GMT"
+    },
     {
       "title": "Новости моды и брендов - style.rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BejR3RlhfSmNmZDFWZk1fRTg1RDFWMkN6QXVHR2J6cDZXRHpzOWYtREliZDgwdXpMT0JqOFFxSHU?oc=5",
@@ -17,11 +24,74 @@
       "pub": "Thu, 16 Sep 2021 16:08:58 GMT"
     },
     {
+      "title": "Wayment: скидки, купоны, акции, промокоды на сентябрь 2026 - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FUTl6YXJyRkJ2VHBabFZ5SVhCbVZxMU1JaFdxWGpUMXZ0ek1yMWlPUEZoVjVyYl9CMERPOU02NnpfTjJ3SHJjRHlDOEdHOGRUbUlneFU5OA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FUTl6YXJyRkJ2VHBabFZ5SVhCbVZxMU1JaFdxWGpUMXZ0ek1yMWlPUEZoVjVyYl9CMERPOU02NnpfTjJ3SHJjRHlDOEdHOGRUbUlneFU5OA?oc=5\" target=\"_blank\">Wayment: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Thu, 10 Sep 2026 20:35:25 GMT"
+    },
+    {
+      "title": "Эксперт назвал стоимость грибных туров в России - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1obDcyWjVBOThZdUY3aS05ZlJtMU9nUU1qal8wZnFJVkJVQzdkYl9CNTVFRUllanhscGxzU0FGcE5tR01BM1E1NVBIdmJFOVJ4R3VoclVjS1FmNFdOYXUzRWlmcUpDTnpSSGd0anFmbER5UdIBd0FVX3lxTE9QaVR4VlBSeTJDX2xpVUN0U2w5MVlWemh0WnFybmtvak5OQUhEa3M1MWw2VU9hTGZ6OXZFMVFmTTZOZURSMDF2cERKdVlWbVRCNjNTZjc2WVRXVFh6R004YmM1Z2ExQVBIVlRVeURieWZYeU1Gc0dV?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1obDcyWjVBOThZdUY3aS05ZlJtMU9nUU1qal8wZnFJVkJVQzdkYl9CNTVFRUllanhscGxzU0FGcE5tR01BM1E1NVBIdmJFOVJ4R3VoclVjS1FmNFdOYXUzRWlmcUpDTnpSSGd0anFmbER5UdIBd0FVX3lxTE9QaVR4VlBSeTJDX2xpVUN0U2w5MVlWemh0WnFybmtvak5OQUhEa3M1MWw2VU9hTGZ6OXZFMVFmTTZOZURSMDF2cERKdVlWbVRCNjNTZjc2WVRXVFh6R004YmM1Z2ExQVBIVlRVeURieWZYeU1Gc0dV?oc=5\" target=\"_blank\">Эксперт назвал стоимость грибных туров в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 02:59:29 GMT"
+    },
+    {
+      "title": "Россияне сократили потребление алкоголя до минимума с 1996 года - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KVkJ1dnhRQXlqeWVwc0RNbFdZRlNleXlJQU1FWS1xdGJjWGo5OU1mdXZ1aDZjRWZOckdiVG1LbkNHSGROdnRBa3dTYWFacDd5R0I0M3hxemdmTzVQTFhoRGlseGJmeVFnSm5UZHYxYlBDRFR20gF6QVVfeXFMT1VZdEpmVWpaRTRPdjZGTFhUdFZmeWpFR3NvU2NjcGREVWtZTFk4SEhkZThBX0xOYmRlM05pVk9MbmtVOUx4SmVHZ0hCTjllRy1MaVl4U1IwZE1TVExIcTMyaXpyYTl0dmYzOUl0QXRVX0tOYnd0RExXN2c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KVkJ1dnhRQXlqeWVwc0RNbFdZRlNleXlJQU1FWS1xdGJjWGo5OU1mdXZ1aDZjRWZOckdiVG1LbkNHSGROdnRBa3dTYWFacDd5R0I0M3hxemdmTzVQTFhoRGlseGJmeVFnSm5UZHYxYlBDRFR20gF6QVVfeXFMT1VZdEpmVWpaRTRPdjZGTFhUdFZmeWpFR3NvU2NjcGREVWtZTFk4SEhkZThBX0xOYmRlM05pVk9MbmtVOUx4SmVHZ0hCTjllRy1MaVl4U1IwZE1TVExIcTMyaXpyYTl0dmYzOUl0QXRVX0tOYnd0RExXN2c?oc=5\" target=\"_blank\">Россияне сократили потребление алкоголя до минимума с 1996 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 02:58:29 GMT"
+    },
+    {
+      "title": "Школьникам увеличат часы начальной военной подготовки - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDFyVXAzc3ZlMEp5RTBwLTN1U3ZSYkE5cURIU0ttYWRQZHNPa0pmc0gxRlRBYy1Ub0wzWDhJcnlGMmU2SVZyUm45VGVfNi1IQTFydFNPcG9vbWZGeFJkeWlnRGltQ0VfT3p6RzVFajJCVkpVdFpyd2JfVHhmNnY5c9IBhgFBVV95cUxNenJsOUpGRjJDUHpya0lod2czRklkdmMtaDZGaEtKX3pUUjN2S0MxNks2QmdpeTJJRDJaMlRtbWF6cU9TSnpiUzBPaUFXU2JKTkNtM1RueGRDWGxGQnBFRWRweDc2bmdTaEF3cDkxQXNRZmc5eDQwWVZNSzN4NDlfQWtyRDludw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDFyVXAzc3ZlMEp5RTBwLTN1U3ZSYkE5cURIU0ttYWRQZHNPa0pmc0gxRlRBYy1Ub0wzWDhJcnlGMmU2SVZyUm45VGVfNi1IQTFydFNPcG9vbWZGeFJkeWlnRGltQ0VfT3p6RzVFajJCVkpVdFpyd2JfVHhmNnY5c9IBhgFBVV95cUxNenJsOUpGRjJDUHpya0lod2czRklkdmMtaDZGaEtKX3pUUjN2S0MxNks2QmdpeTJJRDJaMlRtbWF6cU9TSnpiUzBPaUFXU2JKTkNtM1RueGRDWGxGQnBFRWRweDc2bmdTaEF3cDkxQXNRZmc5eDQwWVZNSzN4NDlfQWtyRDludw?oc=5\" target=\"_blank\">Школьникам увеличат часы начальной военной подготовки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 02:56:46 GMT"
+    },
+    {
+      "title": "Дальний Восток удерживает 80% абитуриентов - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TQW1KTVpxaWt2Q2RwaEdQOVpPYkZ2cUVGTWNwZG5SeGN0Q19mVEJRVU5jSDB4aTEza3J0dDRibkVicDVweDBNOTJDZHdqV1JIel9QMlJ5a2lvSWdqSFVJSnROcFN5eTRVTUh4c0czR01hQkkwUmhHLUw2U0lUQdIBgwFBVV95cUxQMVlMYUFrZTdDR29hNmxIR2JIQjI0TGl4MW9VTUdJN280eFdaMFRLRGR6T19jV05LeFN2UFhkTVBGRkRlYjkxYWoxeHQyZHh3Z21pZWp0RDJaTEVseDM2UU1mMzEzOHM0RzJ6b2ZiemEtaGFTVlJ3Nk1LaUFuV29FWFhOSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5TQW1KTVpxaWt2Q2RwaEdQOVpPYkZ2cUVGTWNwZG5SeGN0Q19mVEJRVU5jSDB4aTEza3J0dDRibkVicDVweDBNOTJDZHdqV1JIel9QMlJ5a2lvSWdqSFVJSnROcFN5eTRVTUh4c0czR01hQkkwUmhHLUw2U0lUQdIBgwFBVV95cUxQMVlMYUFrZTdDR29hNmxIR2JIQjI0TGl4MW9VTUdJN280eFdaMFRLRGR6T19jV05LeFN2UFhkTVBGRkRlYjkxYWoxeHQyZHh3Z21pZWp0RDJaTEVseDM2UU1mMzEzOHM0RzJ6b2ZiemEtaGFTVlJ3Nk1LaUFuV29FWFhOSQ?oc=5\" target=\"_blank\">Дальний Восток удерживает 80% абитуриентов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 02:50:10 GMT"
+    },
+    {
+      "title": "В Минздраве назвали симптомы, при которых следует обратиться к кардиологу - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12aVdTS1JHVlBSMkZXWjdYZlRxZWhyZmJlWHBBeFZmYTg5azY3QjVvbGx0SjEwWmcwTFdqVEE3dmFacU9aSXRwOXJTWTE3NmR1U0VuekwyR25HZWN5UVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE12aVdTS1JHVlBSMkZXWjdYZlRxZWhyZmJlWHBBeFZmYTg5azY3QjVvbGx0SjEwWmcwTFdqVEE3dmFacU9aSXRwOXJTWTE3NmR1U0VuekwyR25HZWN5UVE?oc=5\" target=\"_blank\">В Минздраве назвали симптомы, при которых следует обратиться к кардиологу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 13 Sep 2026 02:50:00 GMT"
+    },
+    {
+      "title": "Осеннюю подработку ищут 46% россиян - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1udVVQcGRHSHpjcUdpaUJpUnNCWFhleHYtWktCZTAxNUU0TkVwZ29taTRoV2wzbWZLcDVwbGhhRzhvSU9kdExlWUotM1hMQTEyZnF0U1g0cXpiSmJ3R2prRWhaUEswQTJYQm0xUVpDVEw1X3c1bWRtVGt1TGLSAYIBQVVfeXFMT0d5MjBYeXRic1ZkQ2RYRDNsUHktYjZhY09LdzFRRWJhYWtqS3NoMU1wM1ZLOElrV0tWZjZSLVNVMFBCNVlFR2FBMmNLSWRDcmpmMkItUGNzVGRMb19CV1d1UkF0YUtyck1VSHlvUG85UjNILVd6RWVkWENkT01YU3FOQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1udVVQcGRHSHpjcUdpaUJpUnNCWFhleHYtWktCZTAxNUU0TkVwZ29taTRoV2wzbWZLcDVwbGhhRzhvSU9kdExlWUotM1hMQTEyZnF0U1g0cXpiSmJ3R2prRWhaUEswQTJYQm0xUVpDVEw1X3c1bWRtVGt1TGLSAYIBQVVfeXFMT0d5MjBYeXRic1ZkQ2RYRDNsUHktYjZhY09LdzFRRWJhYWtqS3NoMU1wM1ZLOElrV0tWZjZSLVNVMFBCNVlFR2FBMmNLSWRDcmpmMkItUGNzVGRMb19CV1d1UkF0YUtyck1VSHlvUG85UjNILVd6RWVkWENkT01YU3FOQQ?oc=5\" target=\"_blank\">Осеннюю подработку ищут 46% россиян</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 02:35:01 GMT"
+    },
+    {
+      "title": "Ветеринар Немцева напомнила, что ежи могут переносить вирус бешенства - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLWkptQ3lwRGt2Wi1hU2c5Mm5YQTNXRndBYXR3cjhueW40RnVJSXd2b1JXVFg4Yl8yelNEcmlUWjlDbWxvUHZyWWF2SDE4WGFyZ00tSUVNcTd6eFhmZHR5M1dYeng4Ukc5TENsZ2hRdjB6bm9BN2NOcUNqYULSAYIBQVVfeXFMTmRkMWlwUTZDTWxFanlualpyM004NzlDQ3llNXhveV95ZUhSNWFwNkdUWmdjTTAxYnFtcDRkczhKdEp0OTA5NFp4UTR0SURSTUQwUGdVZmVZeE1STGZnVEplWFF2NElVS2ZEc0RraE9CWlBPV2VJNTNySS1nRFRybEdodw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBLWkptQ3lwRGt2Wi1hU2c5Mm5YQTNXRndBYXR3cjhueW40RnVJSXd2b1JXVFg4Yl8yelNEcmlUWjlDbWxvUHZyWWF2SDE4WGFyZ00tSUVNcTd6eFhmZHR5M1dYeng4Ukc5TENsZ2hRdjB6bm9BN2NOcUNqYULSAYIBQVVfeXFMTmRkMWlwUTZDTWxFanlualpyM004NzlDQ3llNXhveV95ZUhSNWFwNkdUWmdjTTAxYnFtcDRkczhKdEp0OTA5NFp4UTR0SURSTUQwUGdVZmVZeE1STGZnVEplWFF2NElVS2ZEc0RraE9CWlBPV2VJNTNySS1nRFRybEdodw?oc=5\" target=\"_blank\">Ветеринар Немцева напомнила, что ежи могут переносить вирус бешенства</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 02:30:00 GMT"
+    },
+    {
       "title": "На Украине арестовали палку, которой мужчина избил сотрудника военкомата - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HRF9oWEtKLWRZN3RBeEtDUnVMWVVFbTRGcGxpSGdjRmsxeVZ3bmxBWmFDRk9Kd2tUTjFVYVM3aHg4QzlMaVdCNmdXLXRGNk93eHVnYl84Rk9ZR1E?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HRF9oWEtKLWRZN3RBeEtDUnVMWVVFbTRGcGxpSGdjRmsxeVZ3bmxBWmFDRk9Kd2tUTjFVYVM3aHg4QzlMaVdCNmdXLXRGNk93eHVnYl84Rk9ZR1E?oc=5\" target=\"_blank\">На Украине арестовали палку, которой мужчина избил сотрудника военкомата</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 13 Sep 2026 02:29:00 GMT"
+    },
+    {
+      "title": "Ветераны СВО получат приоритет при сокращении штата - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXFyMTNFVkl6amNOUlNYTHZxS1BwV3lsMnRVUGx5Mlk1aERZNWR0MzF1N1d4UFFFbGFYdjhGcHBGZDV4SVJIMDM4NGkwUFRxVTdESzEyVDFoRmx5bzVEdEhCeHloYnV3OW1zaTBRNFpmUnRvbnlEZTJZeERhSl9iTkRYNDbSAYoBQVVfeXFMTXZWYzZFWGJjSmV0VmZGT0NrQkpVWXVlMEo0RjJ3OVNRajR3TGZySzQ2aEtPYnJob2JVTHlfdGZ6Mkh4cWJ4NThqUUlwc1NrTS1WWGNvYmpXT21ieG9EV2dpV0dkLVNUWjRPN1lwMWRCVHh3by1QR291eGpyR3dYelgwTmFzYVNiNXNn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXFyMTNFVkl6amNOUlNYTHZxS1BwV3lsMnRVUGx5Mlk1aERZNWR0MzF1N1d4UFFFbGFYdjhGcHBGZDV4SVJIMDM4NGkwUFRxVTdESzEyVDFoRmx5bzVEdEhCeHloYnV3OW1zaTBRNFpmUnRvbnlEZTJZeERhSl9iTkRYNDbSAYoBQVVfeXFMTXZWYzZFWGJjSmV0VmZGT0NrQkpVWXVlMEo0RjJ3OVNRajR3TGZySzQ2aEtPYnJob2JVTHlfdGZ6Mkh4cWJ4NThqUUlwc1NrTS1WWGNvYmpXT21ieG9EV2dpV0dkLVNUWjRPN1lwMWRCVHh3by1QR291eGpyR3dYelgwTmFzYVNiNXNn?oc=5\" target=\"_blank\">Ветераны СВО получат приоритет при сокращении штата</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 02:19:38 GMT"
     },
     {
       "title": "В Минобороны рассказали, как готовят будущих командиров танковых взводов - ria.ru",
@@ -31,11 +101,25 @@
       "pub": "Sun, 13 Sep 2026 02:05:00 GMT"
     },
     {
+      "title": "Илон Маск заявил, что ИИ может быть опаснее ядерного оружия - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ONXA5QWk4cmZVMXhVLVh2VUYzOFB2cHc1RjN0bDdOd0dmYVFYUEI4ZC1KbWRlcGdZQktKX3FhclhsT1pzanB4Vzlpc19KTG1ydEs2NjlJRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ONXA5QWk4cmZVMXhVLVh2VUYzOFB2cHc1RjN0bDdOd0dmYVFYUEI4ZC1KbWRlcGdZQktKX3FhclhsT1pzanB4Vzlpc19KTG1ydEs2NjlJRQ?oc=5\" target=\"_blank\">Илон Маск заявил, что ИИ может быть опаснее ядерного оружия</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 13 Sep 2026 01:40:00 GMT"
+    },
+    {
       "title": "В Калифорнии произошла серия несильных землетрясений - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvY2NpcTNyVW1GVVc0TmY3dlpCalRYRll4MkROOERsci1jaThjSGdNUWtZcTd4Zm1oeXhKREZaV0Z4T1dkNjY2emxHa01MR2JOcjVSMTA5dVdMd3RnR3RIbA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvY2NpcTNyVW1GVVc0TmY3dlpCalRYRll4MkROOERsci1jaThjSGdNUWtZcTd4Zm1oeXhKREZaV0Z4T1dkNjY2emxHa01MR2JOcjVSMTA5dVdMd3RnR3RIbA?oc=5\" target=\"_blank\">В Калифорнии произошла серия несильных землетрясений</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 13 Sep 2026 01:35:00 GMT"
+    },
+    {
+      "title": "Мошенники пугают россиян проверками переводов от имени Росфинмониторинга - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZVUtWTRIZ2JLNUNNTzV0YzVuOWtWNmV2alUyYjBvUXNMTW1zSlRyNGpkdHB3Rzg3Y2d4Q013YTNaOU43alRsdjFjbTVWR0pNbzBaMFdtYTdDaFhMWlpEcnlIMkJZbjFQc1p5aUZXWUh2a0VMTmo4dzJ5THHSAYIBQVVfeXFMT0hZZURhTWpWS19CMF9xcjZBa3BwMndubEszamtuamtqSDlxVC1UbUl6LWZlQnV4YVRqSE13Y2F3eFRfNjE0NjU4TVp6QmpTTTM0UVZXV2V3bW9NRnZLZFB0dDVaLVZtajhSWS1CVGxIZXZLMGRkdFc2QkNmZUNBaGFrUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZVUtWTRIZ2JLNUNNTzV0YzVuOWtWNmV2alUyYjBvUXNMTW1zSlRyNGpkdHB3Rzg3Y2d4Q013YTNaOU43alRsdjFjbTVWR0pNbzBaMFdtYTdDaFhMWlpEcnlIMkJZbjFQc1p5aUZXWUh2a0VMTmo4dzJ5THHSAYIBQVVfeXFMT0hZZURhTWpWS19CMF9xcjZBa3BwMndubEszamtuamtqSDlxVC1UbUl6LWZlQnV4YVRqSE13Y2F3eFRfNjE0NjU4TVp6QmpTTTM0UVZXV2V3bW9NRnZLZFB0dDVaLVZtajhSWS1CVGxIZXZLMGRkdFc2QkNmZUNBaGFrUQ?oc=5\" target=\"_blank\">Мошенники пугают россиян проверками переводов от имени Росфинмониторинга</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 01:34:35 GMT"
     },
     {
       "title": "Участник BRICS Skate Cup из ОАЭ хотел бы вновь приехать в Рязань - ria.ru",
@@ -45,11 +129,32 @@
       "pub": "Sun, 13 Sep 2026 01:20:00 GMT"
     },
     {
+      "title": "Аэропорт Сочи возобновил приём и выпуск воздушных судов - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNktPNnN3QTBBM0VFMGtHWEVGcWlZZ09NTTdHQ3FwZnlBeEQzY25lNXFVM0NXRnpJd2dINFZkVTZnb1BlWm9ib3ROeXJ4ekRXTDkwY0FEYmtncUZlSjkzQk5fMHBBVXM4OHplZWNDbktKb3hvV25mY1p3VUpuRVh3QThIelXSAYoBQVVfeXFMTTY2MEJXb0psZEEyR2FUNXZvWmJGb1N3QTd4Szlya3JQLURTTmdCYTB0WDF1OThkdWl2LVUyVWwxZTdFaFZVRXBzNnJlRmxuTnEwdnFac0JXMDFwVTRYQUN6LWxOYnFidHhmWlpiVGI4RGppZWZJS3dVdlR3S0VhakpXS0ZjQWJ1YXZB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNktPNnN3QTBBM0VFMGtHWEVGcWlZZ09NTTdHQ3FwZnlBeEQzY25lNXFVM0NXRnpJd2dINFZkVTZnb1BlWm9ib3ROeXJ4ekRXTDkwY0FEYmtncUZlSjkzQk5fMHBBVXM4OHplZWNDbktKb3hvV25mY1p3VUpuRVh3QThIelXSAYoBQVVfeXFMTTY2MEJXb0psZEEyR2FUNXZvWmJGb1N3QTd4Szlya3JQLURTTmdCYTB0WDF1OThkdWl2LVUyVWwxZTdFaFZVRXBzNnJlRmxuTnEwdnFac0JXMDFwVTRYQUN6LWxOYnFidHhmWlpiVGI4RGppZWZJS3dVdlR3S0VhakpXS0ZjQWJ1YXZB?oc=5\" target=\"_blank\">Аэропорт Сочи возобновил приём и выпуск воздушных судов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 01:04:19 GMT"
+    },
+    {
       "title": "В аэропорту Сочи сняли временные ограничения - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1SnNLWDNYMVJSQ3hib0U2bk9TVkw4TTlHVXVkUjIyZjFIQ1FPaWVzRnpwUzhiV0J1Rm9xaFlMRWJ3aUNhb1ZVak5HMXdDZ0RpZTNKRktObzFiSmZC?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1SnNLWDNYMVJSQ3hib0U2bk9TVkw4TTlHVXVkUjIyZjFIQ1FPaWVzRnpwUzhiV0J1Rm9xaFlMRWJ3aUNhb1ZVak5HMXdDZ0RpZTNKRktObzFiSmZC?oc=5\" target=\"_blank\">В аэропорту Сочи сняли временные ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 13 Sep 2026 00:56:00 GMT"
+    },
+    {
+      "title": "В Браунсвилле в Бруклине на детской площадке застрелили двоих мужчин - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CUDN5YVMyU1RMMGstdjZYR2M3dnZtS0w2bjlCZC1NLUxFYWZqa1dlRTlBSk1BaDFJVXpXWEFuMHZEbkRDNl9aN2l5RUlqbzVva2RYX0YxaENES3Z4dHo2X2prNDFrb0prZnlvcVBuMEc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1CUDN5YVMyU1RMMGstdjZYR2M3dnZtS0w2bjlCZC1NLUxFYWZqa1dlRTlBSk1BaDFJVXpXWEFuMHZEbkRDNl9aN2l5RUlqbzVva2RYX0YxaENES3Z4dHo2X2prNDFrb0prZnlvcVBuMEc?oc=5\" target=\"_blank\">В Браунсвилле в Бруклине на детской площадке застрелили двоих мужчин</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 13 Sep 2026 00:50:09 GMT"
+    },
+    {
+      "title": "В регионах включат отопление после пяти дней ниже с температурой 8°C - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZYTdDRjkxRGpxVGVZNDRyZFA1bXZrbkNCUEZGRncwOEhQMUlXR0d2SlBrVXA5TDY0amFvbGExV3JrYTRJejBlMXZobXBUVjZsOGtjVGdiVXFtNjl5TGF4WVRwU09BWnVvUWJNV2RaSXZuSFlZOGYxQ1lFRjfSAYIBQVVfeXFMTlRxV3ZjR0NhQUdibXI5dno2NVdYd0lZNHJnaF9ib2g4RmVZdGhnd0UySUlidWkwQzRyMHBFc2plRzFaSzE0QXlNa0I5dUlwRURkcHhnRnZ0WDBzcm1Help0QmpPOW9feGtLdlFiVDg5MWNpYm5pWUdQTzRIZ045SWt4dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBZYTdDRjkxRGpxVGVZNDRyZFA1bXZrbkNCUEZGRncwOEhQMUlXR0d2SlBrVXA5TDY0amFvbGExV3JrYTRJejBlMXZobXBUVjZsOGtjVGdiVXFtNjl5TGF4WVRwU09BWnVvUWJNV2RaSXZuSFlZOGYxQ1lFRjfSAYIBQVVfeXFMTlRxV3ZjR0NhQUdibXI5dno2NVdYd0lZNHJnaF9ib2g4RmVZdGhnd0UySUlidWkwQzRyMHBFc2plRzFaSzE0QXlNa0I5dUlwRURkcHhnRnZ0WDBzcm1Help0QmpPOW9feGtLdlFiVDg5MWNpYm5pWUdQTzRIZ045SWt4dw?oc=5\" target=\"_blank\">В регионах включат отопление после пяти дней ниже с температурой 8°C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 13 Sep 2026 00:49:23 GMT"
     },
     {
       "title": "Дмитриев посоветовал главе Palantir сменить имидж - ria.ru",
@@ -64,13 +169,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4eTY1VUJHZTlQeS1MQVI1UHlEOHpsLVJfVDdMd0ZyS3FKZU1FNXB3MUUwNnZKM25oeG9GN21UbVRBRzFSRExNdk52c0lXeXRWRkZEZHRwaVQ5bFUtYzU4?oc=5\" target=\"_blank\">Онищенко рассказал, как дожить до ста лет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 13 Sep 2026 00:30:00 GMT"
-    },
-    {
-      "title": "Консульство России в Женеве не исключает провокаций в день выборов - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZlNaRWNja0d6WklaY28tTWdVUVY2YlBiQ1hPZUphRmYzV1hTRzBtZzNPdzlzUWlSMjVZWEZxQXp3VjRLcnRZVzB5YmF3cTU2T3lMdnJ6VzdJdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZlNaRWNja0d6WklaY28tTWdVUVY2YlBiQ1hPZUphRmYzV1hTRzBtZzNPdzlzUWlSMjVZWEZxQXp3VjRLcnRZVzB5YmF3cTU2T3lMdnJ6VzdJdw?oc=5\" target=\"_blank\">Консульство России в Женеве не исключает провокаций в день выборов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sun, 13 Sep 2026 00:25:00 GMT"
     },
     {
       "title": "Росавиация ограничила приём и выпуск судов в четырёх аэропортах - russian.rt.com",
@@ -129,6 +227,13 @@
       "pub": "Sat, 12 Sep 2026 22:31:07 GMT"
     },
     {
+      "title": "В аэропортах Самары и Ульяновска введены временные ограничения - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1ctMzZ4NlpmSUtMQkJoeHJzd1I3SFF5T3ZodE1UazNBSnRYVTl2MHh3a0hKWnpZWThSdEctTmZYNVJEVGVWUGhwT2g4MFRYamc3NS1VWWFrT29IRzR6YTZPTWt0MGVmRFd1cFBTWVFwaUkwSHBoTFF5NXhjSzlPQ2FDc2Z3OS11eEJ2N3d3WdIBlAFBVV95cUxONm80VE1yU0N0eFJVT0NURDM2VGFwR2JNZ3RESUJ1MHVMRE9BS1JVV2dhamJWd0NRZ2xqLTFLM2pOaUZkRHpWMlp5aG4wckYydTUzS2MxdGxyYjNvdUxpTHpxUHF4c0lmSmdya3dfbENWVExoUXhuNHFHdnlKM1MwVEVMenBfN2w2SmVram9jS2hEUnZa?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1ctMzZ4NlpmSUtMQkJoeHJzd1I3SFF5T3ZodE1UazNBSnRYVTl2MHh3a0hKWnpZWThSdEctTmZYNVJEVGVWUGhwT2g4MFRYamc3NS1VWWFrT29IRzR6YTZPTWt0MGVmRFd1cFBTWVFwaUkwSHBoTFF5NXhjSzlPQ2FDc2Z3OS11eEJ2N3d3WdIBlAFBVV95cUxONm80VE1yU0N0eFJVT0NURDM2VGFwR2JNZ3RESUJ1MHVMRE9BS1JVV2dhamJWd0NRZ2xqLTFLM2pOaUZkRHpWMlp5aG4wckYydTUzS2MxdGxyYjNvdUxpTHpxUHF4c0lmSmdya3dfbENWVExoUXhuNHFHdnlKM1MwVEVMenBfN2w2SmVram9jS2hEUnZa?oc=5\" target=\"_blank\">В аэропортах Самары и Ульяновска введены временные ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 12 Sep 2026 22:18:08 GMT"
+    },
+    {
       "title": "Глава OpenAI сообщил о переносе IPO компании из-за вопросов безопасности - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BSF9tQnhFd2tPQ0puZWYydlcwOE4wRzJoZlI0VDIwMkxiNE5IY0lWUDRTSEFSZ1paRGQ0dC1McGxZLUxURkJaMmNrVVRzZlZreS1CQnBoYXg4bEhZTFBqcWdwOEJkYzY4Unk1SUMyVE8?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1BSF9tQnhFd2tPQ0puZWYydlcwOE4wRzJoZlI0VDIwMkxiNE5IY0lWUDRTSEFSZ1paRGQ0dC1McGxZLUxURkJaMmNrVVRzZlZreS1CQnBoYXg4bEhZTFBqcWdwOEJkYzY4Unk1SUMyVE8?oc=5\" target=\"_blank\">Глава OpenAI сообщил о переносе IPO компании из-за вопросов безопасности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
@@ -141,6 +246,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvbmdfYjR4WU5NWHNERFEwV2NPSWZwLU9lUXVGV05JTGhsVmhpam9YU1R1NjZRTEFZZUppT1J5VzBnUWRPaEt3U0psTzh1VjVxSGZzY1FUMA?oc=5\" target=\"_blank\">В Ираке нашли платформу, откуда атаковали Саудовскую Аравию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 12 Sep 2026 21:53:00 GMT"
+    },
+    {
+      "title": "Белоусов поздравил танкистов и конструкторов с Днём танкиста - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUpucWNpZldNWFNxcmR2RzRZcXZyaGFldWNiN0xlWVVvZkN3NzhBemlmd3hPN0dnblU3VVVPTGV0QkNGaG5MZjJEYkVfeURGY05NczRwNkxzQjRuVlJMQUJsSXQwVnN2UnhHdmxraGNFbS03cUN3ZGNJX3c4bnRHX3hQZ9IBiAFBVV95cUxPbjlnUDdRNmZBNzUtMFJLbXF4dTdoY2tTQ1g5SnJPWWRfMzJRT1pnTDFKNkpjcllHY3dqdlBLemFUR0RrdGd6aGJkTS1XZjR3bjdzTEc0bFdNNmZoMHZ1M3dHOTRxRDkyTHhMQUxZZmFmY2Z5bWc3V3ZFZ3FNODFlT2Y0THNkanBH?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUpucWNpZldNWFNxcmR2RzRZcXZyaGFldWNiN0xlWVVvZkN3NzhBemlmd3hPN0dnblU3VVVPTGV0QkNGaG5MZjJEYkVfeURGY05NczRwNkxzQjRuVlJMQUJsSXQwVnN2UnhHdmxraGNFbS03cUN3ZGNJX3c4bnRHX3hQZ9IBiAFBVV95cUxPbjlnUDdRNmZBNzUtMFJLbXF4dTdoY2tTQ1g5SnJPWWRfMzJRT1pnTDFKNkpjcllHY3dqdlBLemFUR0RrdGd6aGJkTS1XZjR3bjdzTEc0bFdNNmZoMHZ1M3dHOTRxRDkyTHhMQUxZZmFmY2Z5bWc3V3ZFZ3FNODFlT2Y0THNkanBH?oc=5\" target=\"_blank\">Белоусов поздравил танкистов и конструкторов с Днём танкиста</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 12 Sep 2026 21:48:00 GMT"
     },
     {
       "title": "WSJ назвала 24 новых правила успеха на работе - rbc.ru",
@@ -157,130 +269,18 @@
       "pub": "Sat, 12 Sep 2026 21:34:32 GMT"
     },
     {
+      "title": "Росавиация ввела ограничения в аэропорту Сочи - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVBhdklEVHlqNWN0S3RtQnNKWmtTblk0Z1ljSDZkUlgzSGF0azQ5MVZsRDRsSEQ0a3E5WjhEZHJyQ0dZemhXaWRDMjAwYmltNHc2dnhZOGlnZm05aVV1S3Zua29PdTVrZkcyNUJtLUh2MDhDU2tnWWU1MFhUbUx2S9IBhgFBVV95cUxOU0EtMS1Ndk5jTFRxXzFTRXVZaktVVDBCNXlvOGNzaF9PbW1sSzI3UWNTUVk1bkpEeW4ydGFmU044eXNnZHZEV0lpV3A1VUJ0bThNYWFlczNoWDVxTVRDdGxwbnlNVzdUSGFkbXJwYmpIcjM4SlU1bEJTdUhHOGdKUk16OTZRQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVBhdklEVHlqNWN0S3RtQnNKWmtTblk0Z1ljSDZkUlgzSGF0azQ5MVZsRDRsSEQ0a3E5WjhEZHJyQ0dZemhXaWRDMjAwYmltNHc2dnhZOGlnZm05aVV1S3Zua29PdTVrZkcyNUJtLUh2MDhDU2tnWWU1MFhUbUx2S9IBhgFBVV95cUxOU0EtMS1Ndk5jTFRxXzFTRXVZaktVVDBCNXlvOGNzaF9PbW1sSzI3UWNTUVk1bkpEeW4ydGFmU044eXNnZHZEV0lpV3A1VUJ0bThNYWFlczNoWDVxTVRDdGxwbnlNVzdUSGFkbXJwYmpIcjM4SlU1bEJTdUhHOGdKUk16OTZRQQ?oc=5\" target=\"_blank\">Росавиация ввела ограничения в аэропорту Сочи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 12 Sep 2026 21:33:03 GMT"
+    },
+    {
       "title": "В аэропорту Сочи ввели временные ограничения - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSjVHbHBqbXdxSDhMandQa1B3MXUyZU43UnZvOHNOTDNoZ2pUWEl3OWgyQ1U5R2hEcHFiMThDYXFKSjdZdWtHV1NaU1JWOFNZaTRyYkw2bkNIN2FM?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSjVHbHBqbXdxSDhMandQa1B3MXUyZU43UnZvOHNOTDNoZ2pUWEl3OWgyQ1U5R2hEcHFiMThDYXFKSjdZdWtHV1NaU1JWOFNZaTRyYkw2bkNIN2FM?oc=5\" target=\"_blank\">В аэропорту Сочи ввели временные ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 12 Sep 2026 21:28:00 GMT"
-    },
-    {
-      "title": "Олейников прокомментировал реакцию \"Рубина\" на переход - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ncW5qd0FMU3BtS1IwZTdLVXlSal9lX2hhSlVVZU56MUd6S3FhQWpuaXJWTERYUnFBX2lESEpFMVY4cHRnOVhVR3FTYTRsRERacXlLQUFkMll4UQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ncW5qd0FMU3BtS1IwZTdLVXlSal9lX2hhSlVVZU56MUd6S3FhQWpuaXJWTERYUnFBX2lESEpFMVY4cHRnOVhVR3FTYTRsRERacXlLQUFkMll4UQ?oc=5\" target=\"_blank\">Олейников прокомментировал реакцию \"Рубина\" на переход</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 21:10:00 GMT"
-    },
-    {
-      "title": "Такер Карлсон объяснил, почему Запад разгневался на Путина - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVk0wTENXS015Zjh5VUlINkJyYl90Q05Qdy1GMEdxamJWZnJyb2VGZWtfbnFMYTI2dXNja0JRNlFub3hMdEktNWhIQ0Vkd3FuR040QmpfcHMzOVk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVk0wTENXS015Zjh5VUlINkJyYl90Q05Qdy1GMEdxamJWZnJyb2VGZWtfbnFMYTI2dXNja0JRNlFub3hMdEktNWhIQ0Vkd3FuR040QmpfcHMzOVk?oc=5\" target=\"_blank\">Такер Карлсон объяснил, почему Запад разгневался на Путина</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 21:02:00 GMT"
-    },
-    {
-      "title": "В Татарстане легкомоторный самолёт разбился в огороде, погибли пилот и пассажир - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoWkt0bTZYTkUxTXZRbWhwd2FyQ2Z6eFpqNndrT1UtRkpUZGJPc2VBdm5iSFYxc2dYdXdXTEhoM0pkaTVlczEzQ3k1bkJQX2hfOEo1eXExRXY1WDJrMktvNkNaSQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoWkt0bTZYTkUxTXZRbWhwd2FyQ2Z6eFpqNndrT1UtRkpUZGJPc2VBdm5iSFYxc2dYdXdXTEhoM0pkaTVlczEzQ3k1bkJQX2hfOEo1eXExRXY1WDJrMktvNkNaSQ?oc=5\" target=\"_blank\">В Татарстане легкомоторный самолёт разбился в огороде, погибли пилот и пассажир</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 20:56:23 GMT"
-    },
-    {
-      "title": "Глава МИД Польши Радослав Сикорский призвал НАТО к агрессивным учениям у Калининграда - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PR3pfWFNlMGZaMnJIT1p3Y3VBLUdjM0M2OHZvRHVtUWxfZmc0eW12MmN4TTJjZDVWR2NobEhjRy00ZUl0RVFISV8tcFhZZEVrX2hQanh0OXl0bWtVcVBabGZPcVdWUU1BQkViaXZUUFZwNExhaXRiZHFQdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1PR3pfWFNlMGZaMnJIT1p3Y3VBLUdjM0M2OHZvRHVtUWxfZmc0eW12MmN4TTJjZDVWR2NobEhjRy00ZUl0RVFISV8tcFhZZEVrX2hQanh0OXl0bWtVcVBabGZPcVdWUU1BQkViaXZUUFZwNExhaXRiZHFQdw?oc=5\" target=\"_blank\">Глава МИД Польши Радослав Сикорский призвал НАТО к агрессивным учениям у Калининграда</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 12 Sep 2026 20:49:42 GMT"
-    },
-    {
-      "title": "СМИ: Киев готовится к новому раунду мирных переговоров с Россией и США - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qMFh1YWVGTFhTTmJkd05QSTJpWlI5aVMwUi0wN2x5aXBaeUtiMHlvNHd2c3NRbUFITUtwdm53SWVhbHFWUTBoU3E2NTdobVFLczc1Mkctcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qMFh1YWVGTFhTTmJkd05QSTJpWlI5aVMwUi0wN2x5aXBaeUtiMHlvNHd2c3NRbUFITUtwdm53SWVhbHFWUTBoU3E2NTdobVFLczc1Mkctcw?oc=5\" target=\"_blank\">СМИ: Киев готовится к новому раунду мирных переговоров с Россией и США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 20:43:00 GMT"
-    },
-    {
-      "title": "В Москве определили победителей велогонки «Россия» - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkNzc1ZDZTR5RlNZdkdJcE1qRmVmRC13bW0xSnVleWNBZGR3OTFEYlNndWg0azdPeGRkbFFVaWp6RUFtNlZiNFQ0bFcxZHNGQ3Rfa0dZRmZCdjEzczNhMHpYN29lNmtPNjg1WlRtT1BwcW5ldHNOYldKYnVfeGZtQWdZaGdQY3l0ZEHSAYoBQVVfeXFMUFJDc3NWQ2U0eUZTWXZHSXBNakZlZkQtd21tMUp1ZXljQWRkdzkxRGJTZ3VoNGs3T3hkZGxRVWlqekVBbTZWYjRUNGxXMWRzRkN0X2tHWUZmQnYxM3MzYTB6WDdvZTZrTzY4NVpUbU9QcHFuZXRzTmJXSmJ1X3hmbUFnWWhnUGN5dGRB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkNzc1ZDZTR5RlNZdkdJcE1qRmVmRC13bW0xSnVleWNBZGR3OTFEYlNndWg0azdPeGRkbFFVaWp6RUFtNlZiNFQ0bFcxZHNGQ3Rfa0dZRmZCdjEzczNhMHpYN29lNmtPNjg1WlRtT1BwcW5ldHNOYldKYnVfeGZtQWdZaGdQY3l0ZEHSAYoBQVVfeXFMUFJDc3NWQ2U0eUZTWXZHSXBNakZlZkQtd21tMUp1ZXljQWRkdzkxRGJTZ3VoNGs3T3hkZGxRVWlqekVBbTZWYjRUNGxXMWRzRkN0X2tHWUZmQnYxM3MzYTB6WDdvZTZrTzY4NVpUbU9QcHFuZXRzTmJXSmJ1X3hmbUFnWWhnUGN5dGRB?oc=5\" target=\"_blank\">В Москве определили победителей велогонки «Россия»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 12 Sep 2026 20:42:07 GMT"
-    },
-    {
-      "title": "Страница 3 - Золотое яблоко: скидки, купоны, акции, промокоды на сентябрь 2026 - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16ZkxMdHBaY3dWQjF3aW53QlJ5Zmpuc09ubHl0a2ZIN2ZnSkkwYzFwemVOOFR4TmhadmhDN2ZwWkNqc1ladEctMklneDB1VE5WSHRnMjNBaTRMS3RpUF9ZWjlyYw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16ZkxMdHBaY3dWQjF3aW53QlJ5Zmpuc09ubHl0a2ZIN2ZnSkkwYzFwemVOOFR4TmhadmhDN2ZwWkNqc1ladEctMklneDB1VE5WSHRnMjNBaTRMS3RpUF9ZWjlyYw?oc=5\" target=\"_blank\">Страница 3 - Золотое яблоко: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 20:37:51 GMT"
-    },
-    {
-      "title": "Исследователи изучат текстиль, которым было покрыто тело Дмитрия Донского - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWp1TVFTTHRaSnRoX0F2d1g2SjJVVHJvdVVrZUQ0Q0w2UUg3WWZIRzNvMjl0cXRzQ2VRTkhOblNoR0w5LUtfWmlxOUZwSXlBcnlFb0VDUEZ5RnNyTUZNNjNhRFpyZ01hLVNPRF9vdlllOEdHM051ZU1kcW5Hdm11T25PYkZYdGvSAYwBQVVfeXFMTXMxcWJxYmVjQzlFMzZWMlU2TVB5NmUtMlJLeF9saVVkc1ZqajhNTWkwaUJXd3VVZFVKcmEtTk9DaGw4OHFNc29uUG1xTjdVU0NvRVV0c0drRnBQRks0LUZRUlRyNXU4MkJSUkl4MmZpNkcwZHVZaEV5OTBZSFZOOVo1RWhpOGpGSnB3Tkk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWp1TVFTTHRaSnRoX0F2d1g2SjJVVHJvdVVrZUQ0Q0w2UUg3WWZIRzNvMjl0cXRzQ2VRTkhOblNoR0w5LUtfWmlxOUZwSXlBcnlFb0VDUEZ5RnNyTUZNNjNhRFpyZ01hLVNPRF9vdlllOEdHM051ZU1kcW5Hdm11T25PYkZYdGvSAYwBQVVfeXFMTXMxcWJxYmVjQzlFMzZWMlU2TVB5NmUtMlJLeF9saVVkc1ZqajhNTWkwaUJXd3VVZFVKcmEtTk9DaGw4OHFNc29uUG1xTjdVU0NvRVV0c0drRnBQRks0LUZRUlRyNXU4MkJSUkl4MmZpNkcwZHVZaEV5OTBZSFZOOVo1RWhpOGpGSnB3Tkk?oc=5\" target=\"_blank\">Исследователи изучат текстиль, которым было покрыто тело Дмитрия Донского</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 12 Sep 2026 20:30:06 GMT"
-    },
-    {
-      "title": "Роналду не забил \"Аль-Халиджу\", матч закончился ничьей - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbXdNTXQ3ZVMyMG1qY091MnpKNEVpVkFpRl9QYk85OTUyYks2TDdpZ0ZXeTZLeEdpY0tFRUNjdFE4ek1fNlVlRGQ2OXE5NnZjWDdjeS11NzlNUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbXdNTXQ3ZVMyMG1qY091MnpKNEVpVkFpRl9QYk85OTUyYks2TDdpZ0ZXeTZLeEdpY0tFRUNjdFE4ek1fNlVlRGQ2OXE5NnZjWDdjeS11NzlNUQ?oc=5\" target=\"_blank\">Роналду не забил \"Аль-Халиджу\", матч закончился ничьей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 20:24:00 GMT"
-    },
-    {
-      "title": "В Саудовской Аравии два человека пострадали при падении снаряда из Йемена - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3SXpzR25kSUpXY1p4MWFOdDB6SmxZeERQM0R3YVB4eDFteldQX09VbWU5clI4bV9RcllHSjlYVWFXMlF3ZnRmLVg2ZXdUMUJZdmFtVFNqM2k?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3SXpzR25kSUpXY1p4MWFOdDB6SmxZeERQM0R3YVB4eDFteldQX09VbWU5clI4bV9RcllHSjlYVWFXMlF3ZnRmLVg2ZXdUMUJZdmFtVFNqM2k?oc=5\" target=\"_blank\">В Саудовской Аравии два человека пострадали при падении снаряда из Йемена</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 20:12:00 GMT"
-    },
-    {
-      "title": "Путин и принц Абу-Даби договорились о координации по итогам саммита БРИКС - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzY2xHTXlZREJfVzM2bjlpWTB6NF9vaDRRV2k3OXpjR2FmbWNPZl9WVjJUR3J1MUZtakxPdVJxQ3I5Y3d6UHNjbUZJOEMwTWxNc2FYbGNzVTc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzY2xHTXlZREJfVzM2bjlpWTB6NF9vaDRRV2k3OXpjR2FmbWNPZl9WVjJUR3J1MUZtakxPdVJxQ3I5Y3d6UHNjbUZJOEMwTWxNc2FYbGNzVTc?oc=5\" target=\"_blank\">Путин и принц Абу-Даби договорились о координации по итогам саммита БРИКС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 12 Sep 2026 20:09:00 GMT"
-    },
-    {
-      "title": "Умер советский режиссер и оператор «Дожить до рассвета» Борис Тимковский - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EaE5nRi1xZURRZHhSSFFHdXQ2UVdXV1pwaUN4alJRX25fRXY2X2hWVmdYMlI1TEhyelRlTXA2NkpjVEE3TmRwcU03dl8xS09SY1pFVTJmbjQtOFdSN1dNNFVMaUkyWjdzR1hFeVhyR2Y?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1EaE5nRi1xZURRZHhSSFFHdXQ2UVdXV1pwaUN4alJRX25fRXY2X2hWVmdYMlI1TEhyelRlTXA2NkpjVEE3TmRwcU03dl8xS09SY1pFVTJmbjQtOFdSN1dNNFVMaUkyWjdzR1hFeVhyR2Y?oc=5\" target=\"_blank\">Умер советский режиссер и оператор «Дожить до рассвета» Борис Тимковский</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 12 Sep 2026 20:04:31 GMT"
-    },
-    {
-      "title": "Умер кинооператор и режиссёр Борис Тимковский - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnVQekgtYkd5Tk1LcVY2OVNZNGw5Y2tKc1JLekpXSW9od3lxdVNGMUE1cV9YQk13TUptSDg1TTM0NXFnMjJGaTRGdDcxT3Y5R1ZKaXNNcHFMU1JMSWxHWnZ1T09XVUZNRUxmNzlNNk00MmpzOGRRU1cxV3FYOW5tWUlYMXZCSVV00gGOAUFVX3lxTE5iUzhJYkhncHBPY3dZYWlaYTMwWko0Qm15dXNVSXFCc0ViYnNhNnZPdkRtc0tDbXJpRTB2aElNMWpSdUxrRWVOR0RKNEh5cHF4TUtHMnlJVVhMM21lTkJrSFlSSEJ3MXZJTHcxS3QwcEFZRGctYzdETTZicC1aNk5rdnpqVndyWUo1T2E0b1E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnVQekgtYkd5Tk1LcVY2OVNZNGw5Y2tKc1JLekpXSW9od3lxdVNGMUE1cV9YQk13TUptSDg1TTM0NXFnMjJGaTRGdDcxT3Y5R1ZKaXNNcHFMU1JMSWxHWnZ1T09XVUZNRUxmNzlNNk00MmpzOGRRU1cxV3FYOW5tWUlYMXZCSVV00gGOAUFVX3lxTE5iUzhJYkhncHBPY3dZYWlaYTMwWko0Qm15dXNVSXFCc0ViYnNhNnZPdkRtc0tDbXJpRTB2aElNMWpSdUxrRWVOR0RKNEh5cHF4TUtHMnlJVVhMM21lTkJrSFlSSEJ3MXZJTHcxS3QwcEFZRGctYzdETTZicC1aNk5rdnpqVndyWUo1T2E0b1E?oc=5\" target=\"_blank\">Умер кинооператор и режиссёр Борис Тимковский</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 12 Sep 2026 20:00:04 GMT"
-    },
-    {
-      "title": "Метафора или оскорбление. В Татарстане женщину оштрафовали за «наглого карася» в адрес главы СНТ - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6WDlYcWJ5NEFzSkFCZE90ZWtDTWtScGlZTTF2R0xEVzh6M0x3eDYzTjZQM3JITUVGbmtHN280Z056eG1uMERzSUp1cVFza3JlTkhoSURTYw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6WDlYcWJ5NEFzSkFCZE90ZWtDTWtScGlZTTF2R0xEVzh6M0x3eDYzTjZQM3JITUVGbmtHN280Z056eG1uMERzSUp1cVFza3JlTkhoSURTYw?oc=5\" target=\"_blank\">Метафора или оскорбление. В Татарстане женщину оштрафовали за «наглого карася» в адрес главы СНТ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 20:00:00 GMT"
-    },
-    {
-      "title": "В Болгарии произошел пожар на складе боеприпасов EMCO - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wN1FFMm1lRjJhVTliQUFPWGRjT1JWcFU3RXFFNzJwNS1NM19zQ2JRV0Y5VUhJOWZyTWVDRGFlSE1jQk45dzNqVUItZndLRENlZmZzeDJ6c2VFTnZfazllc3VhUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wN1FFMm1lRjJhVTliQUFPWGRjT1JWcFU3RXFFNzJwNS1NM19zQ2JRV0Y5VUhJOWZyTWVDRGFlSE1jQk45dzNqVUItZndLRENlZmZzeDJ6c2VFTnZfazllc3VhUQ?oc=5\" target=\"_blank\">В Болгарии произошел пожар на складе боеприпасов EMCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 19:54:26 GMT"
-    },
-    {
-      "title": "Трамп заявил, что хотел бы увидеть объединенную Ирландию - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aQllrQ05xSHI5MGVpZVhjeFpyMWFyRHFMUmpIdTZmNlc2dHQ3SzZNSWd6NHNCNUhGTUZHZkF3NnN3bDlXNkpYMmd5MWNRNk5CaG5STHkxZGs2TmRfQnhBdjRIZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aQllrQ05xSHI5MGVpZVhjeFpyMWFyRHFMUmpIdTZmNlc2dHQ3SzZNSWd6NHNCNUhGTUZHZkF3NnN3bDlXNkpYMmd5MWNRNk5CaG5STHkxZGs2TmRfQnhBdjRIZw?oc=5\" target=\"_blank\">Трамп заявил, что хотел бы увидеть объединенную Ирландию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 19:49:25 GMT"
-    },
-    {
-      "title": "По 110 за литр и только наличка. «Фонтанка» нашла бензин в Петербурге - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZnAtaWFPdlFUTGVOYVduMnJWdVI3MXVMT3J1TjlXTXN4SFJRWWhvLWR3U3dZRFg1anU1Q1B3cm8xX2ZKUjZIZ3dzeXdtZk9YWDVwZy13aw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZnAtaWFPdlFUTGVOYVduMnJWdVI3MXVMT3J1TjlXTXN4SFJRWWhvLWR3U3dZRFg1anU1Q1B3cm8xX2ZKUjZIZ3dzeXdtZk9YWDVwZy13aw?oc=5\" target=\"_blank\">По 110 за литр и только наличка. «Фонтанка» нашла бензин в Петербурге</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 12 Sep 2026 19:40:00 GMT"
     }
   ]
 }
