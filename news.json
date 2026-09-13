@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-13T03:05:02.129043+00:00",
+  "updated": "2026-09-13T03:37:00.310595+00:00",
   "count": 40,
   "news": [
-    {
-      "title": "АТОЛ - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PMlUxNGs5SmRsZ1E1bFpLdW82bjNqVVB0Yl91VHU0U3VjUnNWZzFnN1lPcm5zaVF2QzVrVFpTZXNzRXNhaGNlZDhFWjVsbUh1MGpDZFlLX3FPaG8?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PMlUxNGs5SmRsZ1E1bFpLdW82bjNqVVB0Yl91VHU0U3VjUnNWZzFnN1lPcm5zaVF2QzVrVFpTZXNzRXNhaGNlZDhFWjVsbUh1MGpDZFlLX3FPaG8?oc=5\" target=\"_blank\">АТОЛ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 08 Nov 2023 16:02:01 GMT"
-    },
     {
       "title": "Новости моды и брендов - style.rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BejR3RlhfSmNmZDFWZk1fRTg1RDFWMkN6QXVHR2J6cDZXRHpzOWYtREliZDgwdXpMT0JqOFFxSHU?oc=5",
@@ -29,6 +22,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FUTl6YXJyRkJ2VHBabFZ5SVhCbVZxMU1JaFdxWGpUMXZ0ek1yMWlPUEZoVjVyYl9CMERPOU02NnpfTjJ3SHJjRHlDOEdHOGRUbUlneFU5OA?oc=5\" target=\"_blank\">Wayment: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Thu, 10 Sep 2026 20:35:25 GMT"
+    },
+    {
+      "title": "Бастрыкин потребовал доклад после наезда электросамоката на ребенка - nsk.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YM05lOFMtc19QZTU5M1IySFJ6VVRWcWxfZEhJYjNxUU40S3FUUlBpUnQ3ZzM4SHNmQ1VQTlRodHNKTWdOc0IxLVNMeVVzaUt2TXR6VXB6cEFwRHI1QzRIN3hBM0lzX1pVR0E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9YM05lOFMtc19QZTU5M1IySFJ6VVRWcWxfZEhJYjNxUU40S3FUUlBpUnQ3ZzM4SHNmQ1VQTlRodHNKTWdOc0IxLVNMeVVzaUt2TXR6VXB6cEFwRHI1QzRIN3hBM0lzX1pVR0E?oc=5\" target=\"_blank\">Бастрыкин потребовал доклад после наезда электросамоката на ребенка</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nsk.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 13 Sep 2026 03:14:37 GMT"
     },
     {
       "title": "Эксперт назвал стоимость грибных туров в России - russian.rt.com",
@@ -80,13 +80,6 @@
       "pub": "Sun, 13 Sep 2026 02:30:00 GMT"
     },
     {
-      "title": "На Украине арестовали палку, которой мужчина избил сотрудника военкомата - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HRF9oWEtKLWRZN3RBeEtDUnVMWVVFbTRGcGxpSGdjRmsxeVZ3bmxBWmFDRk9Kd2tUTjFVYVM3aHg4QzlMaVdCNmdXLXRGNk93eHVnYl84Rk9ZR1E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HRF9oWEtKLWRZN3RBeEtDUnVMWVVFbTRGcGxpSGdjRmsxeVZ3bmxBWmFDRk9Kd2tUTjFVYVM3aHg4QzlMaVdCNmdXLXRGNk93eHVnYl84Rk9ZR1E?oc=5\" target=\"_blank\">На Украине арестовали палку, которой мужчина избил сотрудника военкомата</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sun, 13 Sep 2026 02:29:00 GMT"
-    },
-    {
       "title": "Ветераны СВО получат приоритет при сокращении штата - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXFyMTNFVkl6amNOUlNYTHZxS1BwV3lsMnRVUGx5Mlk1aERZNWR0MzF1N1d4UFFFbGFYdjhGcHBGZDV4SVJIMDM4NGkwUFRxVTdESzEyVDFoRmx5bzVEdEhCeHloYnV3OW1zaTBRNFpmUnRvbnlEZTJZeERhSl9iTkRYNDbSAYoBQVVfeXFMTXZWYzZFWGJjSmV0VmZGT0NrQkpVWXVlMEo0RjJ3OVNRajR3TGZySzQ2aEtPYnJob2JVTHlfdGZ6Mkh4cWJ4NThqUUlwc1NrTS1WWGNvYmpXT21ieG9EV2dpV0dkLVNUWjRPN1lwMWRCVHh3by1QR291eGpyR3dYelgwTmFzYVNiNXNn?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXFyMTNFVkl6amNOUlNYTHZxS1BwV3lsMnRVUGx5Mlk1aERZNWR0MzF1N1d4UFFFbGFYdjhGcHBGZDV4SVJIMDM4NGkwUFRxVTdESzEyVDFoRmx5bzVEdEhCeHloYnV3OW1zaTBRNFpmUnRvbnlEZTJZeERhSl9iTkRYNDbSAYoBQVVfeXFMTXZWYzZFWGJjSmV0VmZGT0NrQkpVWXVlMEo0RjJ3OVNRajR3TGZySzQ2aEtPYnJob2JVTHlfdGZ6Mkh4cWJ4NThqUUlwc1NrTS1WWGNvYmpXT21ieG9EV2dpV0dkLVNUWjRPN1lwMWRCVHh3by1QR291eGpyR3dYelgwTmFzYVNiNXNn?oc=5\" target=\"_blank\">Ветераны СВО получат приоритет при сокращении штата</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -99,6 +92,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvYk0zY2QwVzJPUldZdFd1bGRCcnI2a1lCb0l4Y190bGRGQTJoRERZSE11bU1ENThZQm1GWGJUdXU1b2tMWFlFbGVxYVFKWmFiRWJHSDFVNzJMT0h6?oc=5\" target=\"_blank\">В Минобороны рассказали, как готовят будущих командиров танковых взводов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 13 Sep 2026 02:05:00 GMT"
+    },
+    {
+      "title": "Актера Сергея Писаренко внесли в базу «Миротворца» - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OdUxHMDl0VUJLUk9CTnZlcmJ2SlAzbmZjUXNkSlB0RWktVnloMUZFbEY4QU9uU1JlWDV6N3laYmxBYWJUSFVZcTQtNUIwc3VsOHhhWkRubUt1ODlvTjdZdnBmNDBrNzRzOGVBeWg2UFg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5OdUxHMDl0VUJLUk9CTnZlcmJ2SlAzbmZjUXNkSlB0RWktVnloMUZFbEY4QU9uU1JlWDV6N3laYmxBYWJUSFVZcTQtNUIwc3VsOHhhWkRubUt1ODlvTjdZdnBmNDBrNzRzOGVBeWg2UFg?oc=5\" target=\"_blank\">Актера Сергея Писаренко внесли в базу «Миротворца»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 13 Sep 2026 02:02:45 GMT"
     },
     {
       "title": "Илон Маск заявил, что ИИ может быть опаснее ядерного оружия - ria.ru",
@@ -185,9 +185,9 @@
       "pub": "Sun, 13 Sep 2026 00:16:51 GMT"
     },
     {
-      "title": "Кушнер назвал поездки в Москву и Киев успешными - ria.ru",
+      "title": "Кушнер рассказал о результатах поездок в Москву и Киев - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14UXI0aThQU0VQSTZTMk05clhpZ2ZFTkJ4OTEya3hGNUtfelZhajV2ZzF4MnN2VkhGeXYxNHFleEk3ZERWRnVjV0ZHY0NTN0NqTmpnZzVSSkF0aGs?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE14UXI0aThQU0VQSTZTMk05clhpZ2ZFTkJ4OTEya3hGNUtfelZhajV2ZzF4MnN2VkhGeXYxNHFleEk3ZERWRnVjV0ZHY0NTN0NqTmpnZzVSSkF0aGs?oc=5\" target=\"_blank\">Кушнер назвал поездки в Москву и Киев успешными</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE14UXI0aThQU0VQSTZTMk05clhpZ2ZFTkJ4OTEya3hGNUtfelZhajV2ZzF4MnN2VkhGeXYxNHFleEk3ZERWRnVjV0ZHY0NTN0NqTmpnZzVSSkF0aGs?oc=5\" target=\"_blank\">Кушнер рассказал о результатах поездок в Москву и Киев</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 12 Sep 2026 23:47:00 GMT"
     },
@@ -206,9 +206,9 @@
       "pub": "Sat, 12 Sep 2026 23:18:51 GMT"
     },
     {
-      "title": "Эксперт предупредил о мошенничествах на фоне выхода нового iPhone - ria.ru",
+      "title": "Эксперт предупредил о мошенничествах из-за выхода нового iPhone - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saDU3dm1ya19Ob29qdE1CNzhucjZfNTNnS1puLWY0YS15aS0zMmVRS2oxLXY3R3hvX1BZeGZLMVlablhJcmstSk5vbXZUUThZQTZvSVBoZFR3N3JqSHJV?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saDU3dm1ya19Ob29qdE1CNzhucjZfNTNnS1puLWY0YS15aS0zMmVRS2oxLXY3R3hvX1BZeGZLMVlablhJcmstSk5vbXZUUThZQTZvSVBoZFR3N3JqSHJV?oc=5\" target=\"_blank\">Эксперт предупредил о мошенничествах на фоне выхода нового iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saDU3dm1ya19Ob29qdE1CNzhucjZfNTNnS1puLWY0YS15aS0zMmVRS2oxLXY3R3hvX1BZeGZLMVlablhJcmstSk5vbXZUUThZQTZvSVBoZFR3N3JqSHJV?oc=5\" target=\"_blank\">Эксперт предупредил о мошенничествах из-за выхода нового iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 12 Sep 2026 23:09:00 GMT"
     },
