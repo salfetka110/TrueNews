@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:05:13.071415+00:00",
+  "updated": "2026-09-14T21:37:29.100634+00:00",
   "count": 40,
   "news": [
     {
@@ -29,13 +29,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kaDY1djU5U2dkM0FycVVkRmdvNkRpYjQtV3ZkWFp1dlUzci0yWWEwRVBGelBjRTEzRjdsc1B3Qy1BTVRpZFYtbzRMYU9LQQ?oc=5\" target=\"_blank\">В ОАЭ двое военных погибли во время учений</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Sun, 13 Sep 2026 23:40:00 GMT"
-    },
-    {
-      "title": "Экс-подполковник СБУ предрек Зеленскому последнюю зиму в Киеве - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ESk8tR2lMRi1aZU5aNDVCNUN5SjhMdUVzX0FfX0FWckdJcVlQTHQzeUhrZ0J0TW1Pd1luMDBZYWI5WUpuUUxNaUtqaFNYOXo4VDY1VTRRd1BJMGRKZFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ESk8tR2lMRi1aZU5aNDVCNUN5SjhMdUVzX0FfX0FWckdJcVlQTHQzeUhrZ0J0TW1Pd1luMDBZYWI5WUpuUUxNaUtqaFNYOXo4VDY1VTRRd1BJMGRKZFE?oc=5\" target=\"_blank\">Экс-подполковник СБУ предрек Зеленскому последнюю зиму в Киеве</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sun, 13 Sep 2026 23:38:00 GMT"
     },
     {
       "title": "Цены на бензин марки E10 в Германии достигли рекорда - tass.ru",
@@ -185,13 +178,6 @@
       "pub": "Sun, 13 Sep 2026 22:24:00 GMT"
     },
     {
-      "title": "В Аризоне вандалы повредили статую активиста Чарли Кирка - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aG5vWlBpcGU4N0JlM0dhSnB1eEM2RUxSTDZuWWhPemh1TTRScmxXdUlqUk1qRmxuYXpSbWM3aDB5OUhfVzlkaGlxUHQzWWV6UkhTR2dQY3YzeDl0bUE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aG5vWlBpcGU4N0JlM0dhSnB1eEM2RUxSTDZuWWhPemh1TTRScmxXdUlqUk1qRmxuYXpSbWM3aDB5OUhfVzlkaGlxUHQzWWV6UkhTR2dQY3YzeDl0bUE?oc=5\" target=\"_blank\">В Аризоне вандалы повредили статую активиста Чарли Кирка</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sun, 13 Sep 2026 22:24:00 GMT"
-    },
-    {
       "title": "Посольство России заявило о деградации отношений с Норвегией - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGQxdk1GN1VJdmd2WUgwc2hVNHFVVWZSRjVBT0lzYkI4YkxOTGpIRVNLQ0Q3dGh2QS1ZNTc3WGVuZVhobjRmU3JtcHlIakxDUFhYNkgxRmZZQ09LQnN3MFNCWlR0NkZZRWxqUThpajY0TkdNc1Y4bEhqYlRwQmpzQ256d0hTbTNSNXfSAY8BQVVfeXFMT0tLLU4xSGtXZHVfNzhsMXFCbDNtcjdDZURJUHFWSGFnLUppVHJoMkhydGtJWGNFNTRydTk5VWtmWG15eGVWWl9NRVdZYmJRcTNmVngxOEZUdGdnblRNOFNNSzNFSHpLTHhGR285Ri1XOXd4aC1rNGZlaFEwelFxSC1Ic1pyQ3VjdmRFS1lCdWs?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGQxdk1GN1VJdmd2WUgwc2hVNHFVVWZSRjVBT0lzYkI4YkxOTGpIRVNLQ0Q3dGh2QS1ZNTc3WGVuZVhobjRmU3JtcHlIakxDUFhYNkgxRmZZQ09LQnN3MFNCWlR0NkZZRWxqUThpajY0TkdNc1Y4bEhqYlRwQmpzQ256d0hTbTNSNXfSAY8BQVVfeXFMT0tLLU4xSGtXZHVfNzhsMXFCbDNtcjdDZURJUHFWSGFnLUppVHJoMkhydGtJWGNFNTRydTk5VWtmWG15eGVWWl9NRVdZYmJRcTNmVngxOEZUdGdnblRNOFNNSzNFSHpLTHhGR285Ri1XOXd4aC1rNGZlaFEwelFxSC1Ic1pyQ3VjdmRFS1lCdWs?oc=5\" target=\"_blank\">Посольство России заявило о деградации отношений с Норвегией</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -269,18 +255,32 @@
       "pub": "Sun, 13 Sep 2026 21:43:00 GMT"
     },
     {
-      "title": "Китай опроверг сведения о передаче снимков Ирану перед ударом по базе США - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1seVlpbEhVN1BRRFBtbTJGY0tUZHRtcDRmb0NRVEJyV1B0V2NNbzJuOF9HRC1aSmZaaFljTUQyRzBVVXBmTXlPSWFWWnhYNW5MQlZ3SjNwUFdXQmFEdEE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1seVlpbEhVN1BRRFBtbTJGY0tUZHRtcDRmb0NRVEJyV1B0V2NNbzJuOF9HRC1aSmZaaFljTUQyRzBVVXBmTXlPSWFWWnhYNW5MQlZ3SjNwUFdXQmFEdEE?oc=5\" target=\"_blank\">Китай опроверг сведения о передаче снимков Ирану перед ударом по базе США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "title": "Родион Газманов ответил на вопрос о возможном представителе РФ на \"Интервидении\" - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1INFQyRFpnUlRoYUhGY2hBblQtZEV6azQ4UnFhSXgxZm1BWThRLU00RWVoajloTHk3RDMwTGtKRzgxR1dRYUcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1INFQyRFpnUlRoYUhGY2hBblQtZEV6azQ4UnFhSXgxZm1BWThRLU00RWVoajloTHk3RDMwTGtKRzgxR1dRYUcw?oc=5\" target=\"_blank\">Родион Газманов ответил на вопрос о возможном представителе РФ на \"Интервидении\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
-      "pub": "Sun, 13 Sep 2026 21:37:00 GMT"
+      "pub": "Sun, 13 Sep 2026 21:38:00 GMT"
     },
     {
-      "title": "«Еще не целое. Уже не половина». Александру Розенбауму — 75 - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BQUhsT25rVWRuUFMyOUFZR3FJZEVHUGlZakxvNExkUW85NktzV1lpTURKUEhBZl9XWjdmZi1kemtaYlkxT3FPMHhqNXhwSmFpR3VxXzJKVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BQUhsT25rVWRuUFMyOUFZR3FJZEVHUGlZakxvNExkUW85NktzV1lpTURKUEhBZl9XWjdmZi1kemtaYlkxT3FPMHhqNXhwSmFpR3VxXzJKVQ?oc=5\" target=\"_blank\">«Еще не целое. Уже не половина». Александру Розенбауму — 75</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "title": "На стройке онкодиспансера на Ветеранов произошел пожар - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SE5rQ29rLVVLM1RXWUU1cmlwVE1kSm5fWVpxX0haWjVvNXgtdUhiVnlWUW9zcWVKQzBHTGp4SlVQb3V4WmprOGtIcVpWMjRCZEVBVUd4Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SE5rQ29rLVVLM1RXWUU1cmlwVE1kSm5fWVpxX0haWjVvNXgtdUhiVnlWUW9zcWVKQzBHTGp4SlVQb3V4WmprOGtIcVpWMjRCZEVBVUd4Zw?oc=5\" target=\"_blank\">На стройке онкодиспансера на Ветеранов произошел пожар</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
-      "pub": "Sun, 13 Sep 2026 21:36:51 GMT"
+      "pub": "Mon, 14 Sep 2026 21:21:00 GMT"
+    },
+    {
+      "title": "Сальвини выразил надежду на конец конфликта на Украине - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwejFRT2hZMWZCVTRYclVLNHdiUUU0Rkx5Mmh2dllRcUdHcU9Nd2hwTEhyTjR6QV9GUDdWb3k5MWQ4XzE5dGNyUHY4YXE3ZGhEMkR2LVdfNDlIbEk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwejFRT2hZMWZCVTRYclVLNHdiUUU0Rkx5Mmh2dllRcUdHcU9Nd2hwTEhyTjR6QV9GUDdWb3k5MWQ4XzE5dGNyUHY4YXE3ZGhEMkR2LVdfNDlIbEk?oc=5\" target=\"_blank\">Сальвини выразил надежду на конец конфликта на Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Mon, 14 Sep 2026 21:18:00 GMT"
+    },
+    {
+      "title": "В Ленобласти суд признал недействительным кредит, взятый мошенниками - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0bEV2MDF6STk2X0VJU3dDOFFEazNuaXlPZDZmUGtidDlqTGoxZXYwUkdrS3pWeHkzRUxoWmZkQzNzTHNDTlhsWFJuaWxMNzRfdDh6dDFGTzFCRE93VmxSSWhiWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0bEV2MDF6STk2X0VJU3dDOFFEazNuaXlPZDZmUGtidDlqTGoxZXYwUkdrS3pWeHkzRUxoWmZkQzNzTHNDTlhsWFJuaWxMNzRfdDh6dDFGTzFCRE93VmxSSWhiWQ?oc=5\" target=\"_blank\">В Ленобласти суд признал недействительным кредит, взятый мошенниками</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Mon, 14 Sep 2026 21:04:33 GMT"
     }
   ]
 }
