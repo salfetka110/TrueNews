@@ -203,37 +203,49 @@ function categoryMatch(item, terms){
   return terms.some(t=>s.includes(t.toLowerCase()));
 }
 
-async function loadCategory(cat){
+let NEWS_CACHE = [];
+
+async function loadNewsJson(){
+  const response = await fetch("news.json?ts=" + Date.now(), {cache:"no-store"});
+  if(!response.ok) throw new Error("news.json: HTTP " + response.status);
+  const data = await response.json();
+  NEWS_CACHE = Array.isArray(data.news) ? data.news : [];
+}
+
+function renderCategory(cat){
   const box=document.getElementById("news_"+cat);
   const dbg=document.getElementById("debug_"+cat);
   const cfg=CATEGORY[cat];
+  let items=cfg.terms
+    ? NEWS_CACHE.filter(x=>categoryMatch(x,cfg.terms))
+    : NEWS_CACHE;
+  items=items.slice(0, ITEMS_PER_CATEGORY);
+
+  if(!items.length){
+    box.innerHTML='<article class="news"><div class="tag">Пока пусто</div><h3>В этой категории пока нет новостей</h3><p>Попробуйте обновить страницу позже.</p></article>';
+    dbg.textContent="В этой категории пока нет материалов.";
+    return;
+  }
+
+  box.innerHTML=items.map((x,i)=>`
+    <article class="news live-card" onclick='openArticle(${JSON.stringify(x)})'>
+      <img class="news-img" src="${images[i%images.length]}" alt="">
+      <div class="tag">TrueNews</div>
+      <h3>${esc(x.title)}</h3>
+      <div class="source-pill">${new Date(x.pub||Date.now()).toLocaleString("ru-RU",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</div>
+    </article>`).join("");
+  dbg.textContent="Материалы подготовлены редакцией TrueNews.";
+}
+
+async function refreshNews(){
   try{
-    const results=await Promise.allSettled(TRUE_NEWS_SOURCES.map(sourceRSS));
-    const errors=results.filter(r=>r.status==="rejected").map(r=>String(r.reason&&r.reason.message||r.reason));
-    const all=results.filter(r=>r.status==="fulfilled").flatMap(r=>r.value)
-      .filter(x=>x.title)
-      .sort((a,b)=>new Date(b.pub)-new Date(a.pub));
-    let items=cfg.terms ? all.filter(x=>categoryMatch(x,cfg.terms)) : all;
-    items=items.slice(0, ITEMS_PER_CATEGORY);
-    if(!items.length) throw new Error("empty. Ошибки источников: "+(errors.join(" | ")||"нет данных"));
-    box.innerHTML=items.map((x,i)=>`
-      <article class="news live-card" onclick='openArticle(${JSON.stringify(x)})'>
-        <img class="news-img" src="${images[i%images.length]}" alt="">
-        <div class="tag">TrueNews</div>
-        <h3>${esc(x.title)}</h3>
-        <div class="source-pill">${new Date(x.pub).toLocaleString("ru-RU",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</div>
-      </article>`).join("");
-    dbg.textContent="Материалы подготовлены редакцией TrueNews.";
+    await loadNewsJson();
+    Object.keys(CATEGORY).forEach(renderCategory);
   }catch(e){
-    const ex=FALLBACK[cat];
-    box.innerHTML=ex.map((x,i)=>`
-      <article class="news live-card" onclick='openArticle(${JSON.stringify({...x,pub:new Date().toISOString()})})'>
-        <img class="news-img" src="${images[i%images.length]}" alt="">
-        <div class="tag">TrueNews</div>
-        <h3>${esc(x.title)}</h3>
-        <div class="source-pill">TrueNews · редакция</div>
-      </article>`).join("");
-    dbg.textContent="Диагностика (временно): "+(e&&e.message||e);
+    Object.keys(CATEGORY).forEach(cat=>{
+      document.getElementById("news_"+cat).innerHTML='<article class="news"><div class="tag">Ошибка</div><h3>Не удалось загрузить новости</h3><p>Проверьте файл news.json.</p></article>';
+      document.getElementById("debug_"+cat).textContent="Ошибка: "+(e&&e.message||e);
+    });
   }
 }
 
@@ -241,15 +253,13 @@ function openArticle(item){
   const title=item.title||"Новость TrueNews";
   const date=item.pub?new Date(item.pub):new Date();
   const desc=stripHtml(item.description||"");
-  const context=desc||"В новостной ленте опубликована информация о событии, которое развивается в данный момент. Редакция TrueNews собирает подтверждённые сведения и обновляет материал по мере появления новых данных.";
+  const context=desc||"В новостной ленте опубликована информация о событии, которое развивается в данный момент.";
+  const aiArticle=item.ai_article||"";
   document.getElementById("articleTitle").textContent=title;
   document.getElementById("articleMeta").textContent=date.toLocaleString("ru-RU")+" · редакция TrueNews";
-  document.getElementById("articleBody").innerHTML=`
-    <p><b>Что произошло</b></p><p>${esc(context)}</p>
-    <p><b>Контекст события</b></p><p>Событие рассматривается редакцией в более широком контексте: важно учитывать не только сам факт публикации, но и причины происходящего, участников ситуации и возможные последствия. Неподтверждённые детали не выдаются за факты.</p>
-    <p><b>Почему это важно</b></p><p>Значение новости зависит от того, как ситуация повлияет на людей, экономику, политику или дальнейшее развитие событий. Новые официальные заявления и подтверждённые данные будут добавлены в материал.</p>
-    <p><b>Что известно на данный момент</b></p><p>${esc(context)} Редакция TrueNews продолжает следить за развитием ситуации.</p>
-    <p><b>Что будет дальше</b></p><p>Следующий этап зависит от дальнейших заявлений и фактического развития событий. Важные изменения будут отражены в этой статье.</p>`;
+  document.getElementById("articleBody").innerHTML=aiArticle
+    ? aiArticle
+    : `<p><b>Что произошло</b></p><p>${esc(context)}</p><p>ИИ-статья пока не подготовлена. Она появится после следующего обновления ленты.</p>`;
   document.getElementById("articleModal").classList.add("open");
   document.body.style.overflow="hidden";
 }
@@ -259,7 +269,7 @@ function closeArticle(){
 }
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeArticle();});
 
-Object.keys(CATEGORY).forEach(loadCategory);
-setInterval(()=>Object.keys(CATEGORY).forEach(loadCategory), 30*60*1000);
+refreshNews();
+setInterval(refreshNews, 30*60*1000);
 </script>
 </body></html>
