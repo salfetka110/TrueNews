@@ -8,37 +8,35 @@ from pathlib import Path
 
 
 SOURCES = [
-    {
-        "name": "РБК",
-        "url": "https://news.google.com/rss/search?q="
-               + urllib.parse.quote("site:rbc.ru when:1d")
-               + "&hl=ru&gl=RU&ceid=RU:ru"
-    },
-    {
-        "name": "Фонтанка",
-        "url": "https://news.google.com/rss/search?q="
-               + urllib.parse.quote("site:fontanka.ru when:1d")
-               + "&hl=ru&gl=RU&ceid=RU:ru"
-    },
-    {
-        "name": "RT",
-        "url": "https://news.google.com/rss/search?q="
-               + urllib.parse.quote("site:rt.com Russia when:1d")
-               + "&hl=ru&gl=RU&ceid=RU:ru"
-    },
-    {
-        "name": "ТАСС",
-        "url": "https://news.google.com/rss/search?q="
-               + urllib.parse.quote("site:tass.ru when:1d")
-               + "&hl=ru&gl=RU&ceid=RU:ru"
-    },
-    {
-        "name": "РИА Новости",
-        "url": "https://news.google.com/rss/search?q="
-               + urllib.parse.quote("site:ria.ru when:1d")
-               + "&hl=ru&gl=RU&ceid=RU:ru"
-    }
+    # Общероссийские СМИ
+    {"name": "РБК", "query": "site:rbc.ru"},
+    {"name": "ТАСС", "query": "site:tass.ru"},
+    {"name": "РИА Новости", "query": "site:ria.ru"},
+    {"name": "Коммерсантъ", "query": "site:kommersant.ru"},
+    {"name": "Известия", "query": "site:iz.ru"},
+    {"name": "Интерфакс", "query": "site:interfax.ru"},
+    {"name": "Ведомости", "query": "site:vedomosti.ru"},
+    {"name": "RT", "query": "site:rt.com Russia"},
+    {"name": "Лента.ру", "query": "site:lenta.ru"},
+    # Санкт-Петербург и Ленинградская область
+    {"name": "Фонтанка", "query": "site:fontanka.ru Санкт-Петербург"},
+    {"name": "78.ru", "query": "site:78.ru Санкт-Петербург"},
+    {"name": "Мойка78", "query": "site:moika78.ru Санкт-Петербург"},
+    {"name": "Петербургский дневник", "query": "site:spbdnevnik.ru Санкт-Петербург"},
+    {"name": "MR7", "query": "site:mr-7.ru Санкт-Петербург"},
+    {"name": "Neva.Today", "query": "site:neva.today Санкт-Петербург"},
+    {"name": "Росбалт", "query": "site:rosbalt.ru Петербург"},
+    # Публичные Telegram-каналы через индекс Google News (если публикации индексируются)
+    {"name": "Telegram-каналы", "query": "site:t.me Санкт-Петербург новости"},
 ]
+
+for source in SOURCES:
+    source["url"] = (
+        "https://news.google.com/rss/search?q="
+        + urllib.parse.quote(source["query"] + " when:2d")
+        + "&hl=ru&gl=RU&ceid=RU:ru"
+    )
+
 
 
 def get_text(element, tag):
@@ -76,7 +74,8 @@ def load_rss(source):
             "link": link,
             "description": description,
             "source": source["name"],
-            "pub": pub_date
+            "pub": pub_date,
+            "category": "saint_petersburg" if source["name"] in {"Фонтанка", "78.ru", "Мойка78", "Петербургский дневник", "MR7", "Neva.Today", "Росбалт", "Telegram-каналы"} else "general"
         })
 
     return result
@@ -149,6 +148,16 @@ def generate_ai_article(item):
     print(f"Hugging Face: не удалось создать статью: {last_error}")
     return ""
 
+def detect_category(item):
+    text = (item.get("title", "") + " " + item.get("description", "") + " " + item.get("source", "")).lower()
+    spb_terms = [
+        "санкт-петербург", "санкт петербург", "петербург", "ленинградск", "фонтанка",
+        "78.ru", "мойка78", "spbdnevnik", "mr7", "neva.today", "петербурж"
+    ]
+    if any(term in text for term in spb_terms):
+        return "saint_petersburg"
+    return "general"
+
 def main():
     all_news = []
 
@@ -169,6 +178,8 @@ def main():
             unique[key] = item
 
     all_news = list(unique.values())
+    for item in all_news:
+        item["category"] = detect_category(item)
 
     # Самые свежие сначала
     all_news.sort(

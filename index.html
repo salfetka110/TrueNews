@@ -48,7 +48,7 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
 <body>
 <header><div class="top">
   <div class="logo">TRUE<span>NEWS</span></div>
-  <nav><a href="#main">Главное</a><a href="#politics">Политика</a><a href="#sport">Спорт</a></nav>
+  <nav><a href="#main">Главное</a><a href="#politics">Политика</a><a href="#sport">Спорт</a><a href="#petersburg">Санкт-Петербург</a></nav>
   <div class="search">⌕ Поиск</div>
 </div></header>
 
@@ -97,6 +97,14 @@ footer{margin-top:35px;background:#0e0f12;color:#aaa;padding:28px 20px}.foot{max
     </div>
     <div class="sources" id="debug_sport">Материалы подготовлены редакцией TrueNews.</div>
   </section>
+
+  <section class="section" id="petersburg">
+    <div class="section-title"><h2>Санкт-Петербург</h2><span class="live-status"><i></i> городская лента</span></div>
+    <div id="news_petersburg" class="cards">
+      <article class="news loading"><div class="tag">Загрузка</div><h3>Получаем новости Петербурга…</h3><p>Лента обновится автоматически.</p></article>
+    </div>
+    <div class="sources" id="debug_petersburg">Материалы подготовлены редакцией TrueNews.</div>
+  </section>
 </main>
 
 <footer><div class="foot"><b>TRUENEWS</b> — независимый макет новостного портала.<br><span>Первая версия · 2026</span></div></footer>
@@ -130,7 +138,8 @@ const TRUE_NEWS_SOURCES = [
 const CATEGORY = {
   main: {title:"Главное", terms:null},
   politics: {title:"Политика", terms:["политик","президент","правитель","государ","мид","выбор","парламент","министр","дума","закон"]},
-  sport: {title:"Спорт", terms:["спорт","футбол","хоккей","теннис","бой","ufc","nba","матч","турнир","олимп","чемпион"]}
+  sport: {title:"Спорт", terms:["спорт","футбол","хоккей","теннис","бой","ufc","nba","матч","турнир","олимп","чемпион"]},
+  petersburg: {title:"Санкт-Петербург", city:true}
 };
 const ITEMS_PER_CATEGORY = 12;
 
@@ -152,6 +161,10 @@ const FALLBACK = {
     {title:"Новости бойцов и больших турниров", description:"Анонсы, результаты и самые яркие события."},
     {title:"Что происходит в мире спорта", description:"Короткая подборка главного за день."},
     {title:"Итоги игрового дня", description:"Ключевые результаты и события в одном материале."}
+  ],
+  petersburg:[
+    {title:"Новости Санкт-Петербурга", description:"Главные события города и Ленинградской области."},
+    {title:"Что происходит в Петербурге", description:"Короткий обзор городской повестки."}
   ]
 };
 
@@ -216,9 +229,9 @@ function renderCategory(cat){
   const box=document.getElementById("news_"+cat);
   const dbg=document.getElementById("debug_"+cat);
   const cfg=CATEGORY[cat];
-  let items=cfg.terms
-    ? NEWS_CACHE.filter(x=>categoryMatch(x,cfg.terms))
-    : NEWS_CACHE;
+  let items = cfg.city
+    ? NEWS_CACHE.filter(x => x.category === "saint_petersburg")
+    : (cfg.terms ? NEWS_CACHE.filter(x=>categoryMatch(x,cfg.terms)) : NEWS_CACHE);
   items=items.slice(0, ITEMS_PER_CATEGORY);
 
   if(!items.length){
