@@ -20,8 +20,34 @@ let news=[],cat='main',shown=0,step=8;
 const $=id=>document.getElementById(id);const clean=s=>{const d=document.createElement('div');d.innerHTML=s||'';return(d.textContent||'').replace(/\s+/g,' ').trim()};const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function match(n,c){if(c==='main')return true;let t=(n.title+' '+clean(n.description)+' '+(n.source||'')).toLowerCase();return keys[c].some(k=>t.includes(k))}
 function list(){return news.filter(n=>match(n,cat))}function categoryName(){return{main:'Главное',politics:'Политика',sport:'Спорт',petersburg:'Санкт-Петербург'}[cat]}
-function render(){let a=list(),f=$('feed');if(shown===0)f.innerHTML='';if(!a.length){f.innerHTML='<div class="empty"><div class="category">'+categoryName()+'</div><h2>В этой категории пока нет новостей</h2><p>Попробуйте выбрать другую вкладку.</p></div>';return}let end=Math.min(shown+step,a.length);for(let i=shown;i<end;i++){let n=a[i],d=n.pub?new Date(n.pub):new Date(),card=document.createElement('article');card.className='card';card.style.setProperty('--image',`url("${pics[i%pics.length]}")`);card.innerHTML=`<div class="card-inner"><div class="category">${esc(n.source||categoryName())}</div><h2>${esc(n.title||'Без заголовка')}</h2><div class="meta"><span>◷ ${isNaN(d)?'':d.toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit'})} ${isNaN(d)?'':d.toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'})}</span><span>◉ TrueNews</span></div></div>`;card.onclick=()=>openArticle(n);f.appendChild(card)}shown=end;let more=$('more');more.innerHTML='';if(shown<a.length){let b=document.createElement('button');b.textContent='Показать ещё новости';b.onclick=render;more.appendChild(b)}else{let b=document.createElement('button');b.textContent='Загрузить ещё';b.onclick=()=>{shown=0;render()};more.appendChild(b)}}
+let searchQuery='';
+function applySearch(list){
+  const q=searchQuery.trim().toLocaleLowerCase('ru-RU');
+  if(!q) return list;
+  return list.filter(n=>[n.title,n.description,n.ai_article,n.source,n.category].filter(Boolean).join(' ').toLocaleLowerCase('ru-RU').includes(q));
+}
+function setupSearch(){
+  const input=document.querySelector('input[type="search"], #search, .search input');
+  if(!input || input.dataset.truenewsSearchBound) return;
+  input.dataset.truenewsSearchBound='1';
+  input.addEventListener('input',()=>{searchQuery=input.value||''; if(typeof render==='function') render();});
+}
+function render(){
+  list=applySearch(list);let a=list(),f=$('feed');if(shown===0)f.innerHTML='';if(!a.length){f.innerHTML='<div class="empty"><div class="category">'+categoryName()+'</div><h2>В этой категории пока нет новостей</h2><p>Попробуйте выбрать другую вкладку.</p></div>';return}let end=Math.min(shown+step,a.length);for(let i=shown;i<end;i++){let n=a[i],d=n.pub?new Date(n.pub):new Date(),card=document.createElement('article');card.className='card';card.style.setProperty('--image',`url("${pics[i%pics.length]}")`);card.innerHTML=`<div class="card-inner"><div class="category">${esc(n.source||categoryName())}</div><h2>${esc(n.title||'Без заголовка')}</h2><div class="meta"><span>◷ ${isNaN(d)?'':d.toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit'})} ${isNaN(d)?'':d.toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'})}</span><span>◉ TrueNews</span></div></div>`;card.onclick=()=>openArticle(n);f.appendChild(card)}shown=end;let more=$('more');more.innerHTML='';if(shown<a.length){let b=document.createElement('button');b.textContent='Показать ещё новости';b.onclick=render;more.appendChild(b)}else{let b=document.createElement('button');b.textContent='Загрузить ещё';b.onclick=()=>{shown=0;render()};more.appendChild(b)}}
 async function load(){try{let r=await fetch('news.json?ts='+Date.now(),{cache:'no-store'});let d=await r.json();news=Array.isArray(d.news)?d.news:[];$('status').textContent='Последние события · '+news.length+' материалов';shown=0;render()}catch(e){$('feed').innerHTML='<div class="empty"><h2>Не удалось загрузить новости</h2><p>Проверьте наличие файла news.json.</p></div>'}}
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{cat=b.dataset.cat;shown=0;document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('active',x===b));render();scrollTo({top:0,behavior:'smooth'})});
-function openArticle(n){$('title').textContent=n.title||'Новость TrueNews';let d=n.pub?new Date(n.pub):new Date();$('meta').textContent=(isNaN(d)?'':d.toLocaleString('ru-RU'))+' · редакция TrueNews';let text=clean(n.description)||'Подробности события уточняются.';$('body').innerHTML='<p>'+esc(text)+'</p><p>Редакция TrueNews следит за развитием события и будет обновлять материал по мере появления новой информации.</p>';$('modal').classList.add('open');document.body.style.overflow='hidden'}function closeArticle(){$('modal').classList.remove('open');document.body.style.overflow=''}$('modal').onclick=e=>{if(e.target===$('modal'))closeArticle()};document.onkeydown=e=>{if(e.key==='Escape')closeArticle()};load();setInterval(load,1800000);
+function openArticle(n){
+  $('title').textContent=n.title||'Новость TrueNews';
+  let d=n.pub?new Date(n.pub):new Date();
+  $('meta').textContent=(isNaN(d)?'':d.toLocaleString('ru-RU'))+' · '+(n.source||'редакция TrueNews');
+  let article=n.ai_article&&String(n.ai_article).trim()
+    ? String(n.ai_article).trim()
+    : '<p>'+esc(clean(n.description)||'Для этой новости пока нет расширенного материала.')+'</p><p class="article-note">ИИ-статья ещё не подготовлена. Попробуйте открыть материал после обновления.</p>';
+  article=article.replace(/```html|```/g,'');
+  $('body').innerHTML=article;
+  $('modal').classList.add('open');
+  document.body.style.overflow='hidden';
+}function closeArticle(){$('modal').classList.remove('open');document.body.style.overflow=''}$('modal').onclick=e=>{if(e.target===$('modal'))closeArticle()};document.onkeydown=e=>{if(e.key==='Escape')closeArticle()};load();setInterval(load,1800000);
 </script></body></html>
+
+window.addEventListener('DOMContentLoaded',setupSearch);
