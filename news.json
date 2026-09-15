@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:38:42.441037+00:00",
+  "updated": "2026-09-15T02:06:46.986153+00:00",
   "count": 40,
   "news": [
     {
@@ -8,6 +8,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5\" target=\"_blank\">Курсы Skillbox по Adobe XD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 19 Aug 2026 01:18:54 GMT"
+    },
+    {
+      "title": "Ежедневная деловая газета РБК - главные новости дня в России и в мире - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55N2EzMGN4aDNSX2ZWRzJlMkhfV1Zlc19QSkhKNDFaaDkteTNGYl9uQzhYcDBEei1uWmZvSDdlVDEyVTg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55N2EzMGN4aDNSX2ZWRzJlMkhfV1Zlc19QSkhKNDFaaDkteTNGYl9uQzhYcDBEei1uWmZvSDdlVDEyVTg?oc=5\" target=\"_blank\">Ежедневная деловая газета РБК - главные новости дня в России и в мире</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 15 Nov 2017 15:56:37 GMT"
     },
     {
       "title": "Курсы иностранной валюты в Санкт-Петербурге на сегодня: USD, EUR, CNY, AU, AG, PT, PD - ФОНТАНКА.ру",
@@ -29,13 +36,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZFRPQ3Y0MFBQU1FOZ2Z5MzRxdHpwNjBia21pRGhodFc3WkhVVlZ3SkgzTzBtN0ppWTVpU19weGJLSllvbm41TFZCSWR6amdwZzVqeTFiT2F5YV9md2RtRW5abGJqcHZYWDNCeVFxYw?oc=5\" target=\"_blank\">Ноа Уайл получил «Эмми» за лучшую мужскую роль в драме «Питт»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Tue, 15 Sep 2026 00:23:48 GMT"
-    },
-    {
-      "title": "Фреза завалилась во время работ в Петербурге и повредила плиту теплосетей - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByYktyWGpiS0ZQOUZsMWhzbXdJc0w0TmdCSWEybldDOTNZMHZuYjN6bFZWcXVLeTZIZjRrZDAteUpHbjlod0IyXzFBOWctQzZOMWxHRkZaQjhDUW5uR1J4SGNPdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByYktyWGpiS0ZQOUZsMWhzbXdJc0w0TmdCSWEybldDOTNZMHZuYjN6bFZWcXVLeTZIZjRrZDAteUpHbjlod0IyXzFBOWctQzZOMWxHRkZaQjhDUW5uR1J4SGNPdw?oc=5\" target=\"_blank\">Фреза завалилась во время работ в Петербурге и повредила плиту теплосетей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 15 Sep 2026 00:17:00 GMT"
     },
     {
       "title": "Венецианский кинофестиваль 2026: лучшие образы с красной дорожки - style.rbc.ru",
@@ -80,9 +80,30 @@
       "pub": "Mon, 14 Sep 2026 21:48:00 GMT"
     },
     {
-      "title": "Пожар произошёл на стройке онкодиспансера в Петербурге - ФОНТАНКА.ру",
+      "title": "Истребитель НАТО сбил дрон в воздушном пространстве Литвы - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oWDdiQUlmbFdFMVZhWEFxd3BXZ1ZDUGNMTXNUZWVseFBRUEhhQVpMZy0wMHQ2ZFhSU1ZTZ2RqOTMyTjNqZjRhM05ieXI3VGxTb0xNcDNHbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oWDdiQUlmbFdFMVZhWEFxd3BXZ1ZDUGNMTXNUZWVseFBRUEhhQVpMZy0wMHQ2ZFhSU1ZTZ2RqOTMyTjNqZjRhM05ieXI3VGxTb0xNcDNHbw?oc=5\" target=\"_blank\">Истребитель НАТО сбил дрон в воздушном пространстве Литвы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Mon, 14 Sep 2026 21:45:00 GMT"
+    },
+    {
+      "title": "Грушко: слова Сикорского об учениях НАТО должны оценивать люди в белых халатах - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BNGhiaG1kZnZaUEdUcHFrQjFsc0RLVkhBNUVuYkNKYUwycU11eUxWS0xzR004ZmFsNF9aajk1d1BKZXg5U2d2Ujd3bWJrZm5DSnNTb0gwalZPNHd4VExvcWpUNUtud3JoX2xJSlNpeFNFMjVrTDZ6QmtFTdIBgAFBVV95cUxPZEE0YjAzN0lfNWphY2dXLWtpVWVLSjlBVmpkVGpGRGFzMDZKTG5GcjVDeE1kRDRWeVV2MXJPSzJCRG9renBJWFBDWnZacVgxN29qS2F3UV92RDRMTVNmMVpISV8tZVp2c2pmOGZnQ1ZQZjkwby1EblRFX1dBUGs2dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5BNGhiaG1kZnZaUEdUcHFrQjFsc0RLVkhBNUVuYkNKYUwycU11eUxWS0xzR004ZmFsNF9aajk1d1BKZXg5U2d2Ujd3bWJrZm5DSnNTb0gwalZPNHd4VExvcWpUNUtud3JoX2xJSlNpeFNFMjVrTDZ6QmtFTdIBgAFBVV95cUxPZEE0YjAzN0lfNWphY2dXLWtpVWVLSjlBVmpkVGpGRGFzMDZKTG5GcjVDeE1kRDRWeVV2MXJPSzJCRG9renBJWFBDWnZacVgxN29qS2F3UV92RDRMTVNmMVpISV8tZVp2c2pmOGZnQ1ZQZjkwby1EblRFX1dBUGs2dw?oc=5\" target=\"_blank\">Грушко: слова Сикорского об учениях НАТО должны оценивать люди в белых халатах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Mon, 14 Sep 2026 21:44:26 GMT"
+    },
+    {
+      "title": "Пожар произошел на стройке онкодиспансера в Петербурге - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZSnBqd0JoTmt4bWRmeTBmLWVvY2xMdWNsYmdDekhfVXlFdVNYQjYxV3YzLWpXODRTOUxEVk5GU1JIQzYzaGhVLV8yWDF5ZW54T0VJNHpHU05PNTZvdU02X01iaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZSnBqd0JoTmt4bWRmeTBmLWVvY2xMdWNsYmdDekhfVXlFdVNYQjYxV3YzLWpXODRTOUxEVk5GU1JIQzYzaGhVLV8yWDF5ZW54T0VJNHpHU05PNTZvdU02X01iaw?oc=5\" target=\"_blank\">Пожар произошёл на стройке онкодиспансера в Петербурге</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZSnBqd0JoTmt4bWRmeTBmLWVvY2xMdWNsYmdDekhfVXlFdVNYQjYxV3YzLWpXODRTOUxEVk5GU1JIQzYzaGhVLV8yWDF5ZW54T0VJNHpHU05PNTZvdU02X01iaw?oc=5\" target=\"_blank\">Пожар произошел на стройке онкодиспансера в Петербурге</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Mon, 14 Sep 2026 21:21:00 GMT"
+    },
+    {
+      "title": "На стройке онкодиспансера на Ветеранов произошел пожар - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SE5rQ29rLVVLM1RXWUU1cmlwVE1kSm5fWVpxX0haWjVvNXgtdUhiVnlWUW9zcWVKQzBHTGp4SlVQb3V4WmprOGtIcVpWMjRCZEVBVUd4Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SE5rQ29rLVVLM1RXWUU1cmlwVE1kSm5fWVpxX0haWjVvNXgtdUhiVnlWUW9zcWVKQzBHTGp4SlVQb3V4WmprOGtIcVpWMjRCZEVBVUd4Zw?oc=5\" target=\"_blank\">На стройке онкодиспансера на Ветеранов произошел пожар</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Mon, 14 Sep 2026 21:21:00 GMT"
     },
@@ -260,27 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rMmlBTThHQkE3MUNpTGpZWnk5T2VQb3dqUE1haFdua1FrY2dqU29CbEJWTHgzVXcxS01hOXNFZlR0c1VUUnJfQTBSakRwMUVTZ3lWM0tPZVRZXzlG?oc=5\" target=\"_blank\">В РПЦ рассказали о мощах Спиридона Тримифунтского</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Mon, 14 Sep 2026 19:15:00 GMT"
-    },
-    {
-      "title": "В ДНР один человек погиб из-за атак ВСУ - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1menZIay1TYmg3QUdFUGwxUEFSbDNBbkc1bHV3N01OSzZteE8xNFdpa1dRVnN4M2tERUZrNVd5MzlwYzk1U0w0SlNHYzBfZThBLXNZTy1n?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1menZIay1TYmg3QUdFUGwxUEFSbDNBbkc1bHV3N01OSzZteE8xNFdpa1dRVnN4M2tERUZrNVd5MzlwYzk1U0w0SlNHYzBfZThBLXNZTy1n?oc=5\" target=\"_blank\">В ДНР один человек погиб из-за атак ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Mon, 14 Sep 2026 19:05:00 GMT"
-    },
-    {
-      "title": "США внесли ВТБ в санкционный список по Ирану - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbXRUR2NyRzVpV3lLRHN3WjE1NmJQSFp0ZENMc1JUeDFZQ0RIcjNzb3dWaXh6bUZOZERVcFVkU2d0Q00zVkdpWUFqaUZNLW9vY3Z5TE1WQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbXRUR2NyRzVpV3lLRHN3WjE1NmJQSFp0ZENMc1JUeDFZQ0RIcjNzb3dWaXh6bUZOZERVcFVkU2d0Q00zVkdpWUFqaUZNLW9vY3Z5TE1WQQ?oc=5\" target=\"_blank\">США внесли ВТБ в санкционный список по Ирану</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Mon, 14 Sep 2026 19:04:00 GMT"
-    },
-    {
-      "title": "Банк России введёт надбавки по вложениям в облигации потребкредитов - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjBjV3plWURURU94Nm5kbkZlcE1MMGg2TjVLVXRLWDZlYm41cUs4WW9WSzh2dTJsWGx2cExXdXVuaFEtbi0zYWJlckVGTTdlajlKWTJGeENHaE9RUGl3bndYanJodXVHV25jeERvYjV1VnVDMmFhczI3XzBoY3ZGalRWaWROMHZ0YVFCStIBjAFBVV95cUxQZjBjV3plWURURU94Nm5kbkZlcE1MMGg2TjVLVXRLWDZlYm41cUs4WW9WSzh2dTJsWGx2cExXdXVuaFEtbi0zYWJlckVGTTdlajlKWTJGeENHaE9RUGl3bndYanJodXVHV25jeERvYjV1VnVDMmFhczI3XzBoY3ZGalRWaWROMHZ0YVFCSg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjBjV3plWURURU94Nm5kbkZlcE1MMGg2TjVLVXRLWDZlYm41cUs4WW9WSzh2dTJsWGx2cExXdXVuaFEtbi0zYWJlckVGTTdlajlKWTJGeENHaE9RUGl3bndYanJodXVHV25jeERvYjV1VnVDMmFhczI3XzBoY3ZGalRWaWROMHZ0YVFCStIBjAFBVV95cUxQZjBjV3plWURURU94Nm5kbkZlcE1MMGg2TjVLVXRLWDZlYm41cUs4WW9WSzh2dTJsWGx2cExXdXVuaFEtbi0zYWJlckVGTTdlajlKWTJGeENHaE9RUGl3bndYanJodXVHV25jeERvYjV1VnVDMmFhczI3XzBoY3ZGalRWaWROMHZ0YVFCSg?oc=5\" target=\"_blank\">Банк России введёт надбавки по вложениям в облигации потребкредитов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Mon, 14 Sep 2026 18:57:17 GMT"
     }
   ]
 }
