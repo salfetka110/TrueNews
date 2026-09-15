@@ -12,9 +12,27 @@ main{max-width:920px;margin:26px auto;padding:0 20px 50px}.status{display:flex;a
 <body>
 <header><div class="glass"><div class="topline"><button class="icon left" aria-label="Меню">☰</button><div class="logo">TrueNews</div><button class="icon right" aria-label="Поиск">⌕</button></div><nav><button class="active" data-cat="main">Главное</button><button data-cat="politics">Политика</button><button data-cat="sport">Спорт</button><button data-cat="petersburg">Санкт-Петербург</button></nav></div></header>
 <main><div class="status"><i></i><span id="status">Последние события · лента обновляется автоматически</span></div><section id="feed" class="feed"><div class="loader">Загружаем новости…</div></section><div id="more" class="more"></div></main><footer>TrueNews — новости без лишнего</footer>
-<div id="modal" class="modal"><article class="article"><button class="close" onclick="closeArticle()">×</button><div class="category">TrueNews</div><h1 id="title"></h1><div class="meta" id="meta"></div><div class="article-body" id="body"></div><div class="article-note">Материал подготовлен редакцией TrueNews. Информация может уточняться по мере поступления новых данных.</div></article></div>
+<div id="modal" class="modal"><article class="article"><button class="close" onclick="closeArticle()">×</button><div class="category">TrueNews</div><img id="article-image" alt="" style="width:100%;max-height:360px;object-fit:cover;border-radius:18px;margin:10px 0 22px"><h1 id="title"></h1><div class="meta" id="meta"></div><div class="article-body" id="body"></div><div class="article-note">Материал подготовлен редакцией TrueNews. Информация может уточняться по мере поступления новых данных.</div></article></div>
 <script>
-const pics=['https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=85'];
+const imageSets={
+  politics:['https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=85'],
+  sport:['https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1579952363873-27f3bede9f55?auto=format&fit=crop&w=1400&q=85'],
+  technology:['https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=85'],
+  business:['https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1400&q=85'],
+  general:['https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1400&q=85']
+};
+function hashText(s){let h=0;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return h}
+function imageFor(n){
+  if(n.image) return n.image;
+  const t=(n.title+' '+clean(n.description)).toLowerCase();
+  let group='general';
+  if(/футбол|хоккей|спорт|матч|турнир|чемпион|олимп|теннис|бой/.test(t))group='sport';
+  else if(/технолог|ии|искусственн|смартфон|компьютер|робот|науч|космос/.test(t))group='technology';
+  else if(/деньг|эконом|бизнес|банк|рынок|акци|инвест|цена|доллар|евро/.test(t))group='business';
+  else if(/президент|правитель|министр|парламент|политик|закон|выбор|премьер|переговор/.test(t))group='politics';
+  const set=imageSets[group];
+  return set[hashText(n.title||'')%set.length];
+}
 const keys={politics:['политик','президент','правитель','государ','мид','министр','парламент','дума','закон','выбор','премьер'],sport:['спорт','футбол','хоккей','теннис','матч','турнир','чемпион','олимп','гол','бой','nba','ufc'],petersburg:['санкт-петербург','санкт петербург','петербург','ленинградск','фонтанка','мойка78','78.ru','петербурж']};
 let news=[],cat='main',shown=0,step=8;
 const $=id=>document.getElementById(id);const clean=s=>{const d=document.createElement('div');d.innerHTML=s||'';return(d.textContent||'').replace(/\s+/g,' ').trim()};const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -33,11 +51,12 @@ function setupSearch(){
   input.addEventListener('input',()=>{searchQuery=input.value||''; if(typeof render==='function') render();});
 }
 function render(){
-  list=applySearch(list);let a=list(),f=$('feed');if(shown===0)f.innerHTML='';if(!a.length){f.innerHTML='<div class="empty"><div class="category">'+categoryName()+'</div><h2>В этой категории пока нет новостей</h2><p>Попробуйте выбрать другую вкладку.</p></div>';return}let end=Math.min(shown+step,a.length);for(let i=shown;i<end;i++){let n=a[i],d=n.pub?new Date(n.pub):new Date(),card=document.createElement('article');card.className='card';card.style.setProperty('--image',`url("${pics[i%pics.length]}")`);card.innerHTML=`<div class="card-inner"><div class="category">${esc(n.source||categoryName())}</div><h2>${esc(n.title||'Без заголовка')}</h2><div class="meta"><span>◷ ${isNaN(d)?'':d.toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit'})} ${isNaN(d)?'':d.toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'})}</span><span>◉ TrueNews</span></div></div>`;card.onclick=()=>openArticle(n);f.appendChild(card)}shown=end;let more=$('more');more.innerHTML='';if(shown<a.length){let b=document.createElement('button');b.textContent='Показать ещё новости';b.onclick=render;more.appendChild(b)}else{let b=document.createElement('button');b.textContent='Загрузить ещё';b.onclick=()=>{shown=0;render()};more.appendChild(b)}}
+  let a=applySearch(list()),f=$('feed');if(shown===0)f.innerHTML='';if(!a.length){f.innerHTML='<div class="empty"><div class="category">'+categoryName()+'</div><h2>В этой категории пока нет новостей</h2><p>Попробуйте выбрать другую вкладку.</p></div>';return}let end=Math.min(shown+step,a.length);for(let i=shown;i<end;i++){let n=a[i],d=n.pub?new Date(n.pub):new Date(),card=document.createElement('article');card.className='card';card.style.setProperty('--image',`url("${imageFor(n)}")`);card.innerHTML=`<div class="card-inner"><div class="category">${esc(n.source||categoryName())}</div><h2>${esc(n.title||'Без заголовка')}</h2><div class="meta"><span>◷ ${isNaN(d)?'':d.toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit'})} ${isNaN(d)?'':d.toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'})}</span><span>◉ TrueNews</span></div></div>`;card.onclick=()=>openArticle(n);f.appendChild(card)}shown=end;let more=$('more');more.innerHTML='';if(shown<a.length){let b=document.createElement('button');b.textContent='Показать ещё новости';b.onclick=render;more.appendChild(b)}else{let b=document.createElement('button');b.textContent='Загрузить ещё';b.onclick=()=>{shown=0;render()};more.appendChild(b)}}
 async function load(){try{let r=await fetch('news.json?ts='+Date.now(),{cache:'no-store'});let d=await r.json();news=Array.isArray(d.news)?d.news:[];$('status').textContent='Последние события · '+news.length+' материалов';shown=0;render()}catch(e){$('feed').innerHTML='<div class="empty"><h2>Не удалось загрузить новости</h2><p>Проверьте наличие файла news.json.</p></div>'}}
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{cat=b.dataset.cat;shown=0;document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('active',x===b));render();scrollTo({top:0,behavior:'smooth'})});
 function openArticle(n){
   $('title').textContent=n.title||'Новость TrueNews';
+  $('article-image').src=imageFor(n);
   let d=n.pub?new Date(n.pub):new Date();
   $('meta').textContent=(isNaN(d)?'':d.toLocaleString('ru-RU'))+' · '+(n.source||'редакция TrueNews');
   let article=n.ai_article&&String(n.ai_article).trim()
