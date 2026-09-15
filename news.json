@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:06:09.273934+00:00",
+  "updated": "2026-09-15T01:38:42.441037+00:00",
   "count": 40,
   "news": [
     {
@@ -24,6 +24,13 @@
       "pub": "Tue, 15 Sep 2026 00:59:00 GMT"
     },
     {
+      "title": "Ноа Уайл получил «Эмми» за лучшую мужскую роль в драме «Питт» - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZFRPQ3Y0MFBQU1FOZ2Z5MzRxdHpwNjBia21pRGhodFc3WkhVVlZ3SkgzTzBtN0ppWTVpU19weGJLSllvbm41TFZCSWR6amdwZzVqeTFiT2F5YV9md2RtRW5abGJqcHZYWDNCeVFxYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZFRPQ3Y0MFBQU1FOZ2Z5MzRxdHpwNjBia21pRGhodFc3WkhVVlZ3SkgzTzBtN0ppWTVpU19weGJLSllvbm41TFZCSWR6amdwZzVqeTFiT2F5YV9md2RtRW5abGJqcHZYWDNCeVFxYw?oc=5\" target=\"_blank\">Ноа Уайл получил «Эмми» за лучшую мужскую роль в драме «Питт»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Tue, 15 Sep 2026 00:23:48 GMT"
+    },
+    {
       "title": "Фреза завалилась во время работ в Петербурге и повредила плиту теплосетей - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByYktyWGpiS0ZQOUZsMWhzbXdJc0w0TmdCSWEybldDOTNZMHZuYjN6bFZWcXVLeTZIZjRrZDAteUpHbjlod0IyXzFBOWctQzZOMWxHRkZaQjhDUW5uR1J4SGNPdw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByYktyWGpiS0ZQOUZsMWhzbXdJc0w0TmdCSWEybldDOTNZMHZuYjN6bFZWcXVLeTZIZjRrZDAteUpHbjlod0IyXzFBOWctQzZOMWxHRkZaQjhDUW5uR1J4SGNPdw?oc=5\" target=\"_blank\">Фреза завалилась во время работ в Петербурге и повредила плиту теплосетей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -36,13 +43,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fWHF3Rm9ZMkdId1RNMlFFMEdUMVZsblhEOWhRVWlsTVF0T3pzU0JrZktiQ2JmRG4xZ1RoX1VHbWVJSzBrcTZZUlpDREtuWHpXZ3RjMDczR0pxTXY0S0wxMw?oc=5\" target=\"_blank\">Венецианский кинофестиваль 2026: лучшие образы с красной дорожки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">style.rbc.ru</font>",
       "source": "РБК",
       "pub": "Thu, 03 Sep 2026 11:50:07 GMT"
-    },
-    {
-      "title": "Медведица Айка жила в семье режиссера и гуляла по городу - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wWDBLcDd1UVVnaGJWM0F5Tjk0MDdVaTQxR2xxTEFubHAzVENuWTd0V244VnRpN1NhMndPbmxhZGxnZmxyVXg2YW9xeF9WUHptaUtqc2tuOHo1UDdwWXhSRXN5TQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wWDBLcDd1UVVnaGJWM0F5Tjk0MDdVaTQxR2xxTEFubHAzVENuWTd0V244VnRpN1NhMndPbmxhZGxnZmxyVXg2YW9xeF9WUHptaUtqc2tuOHo1UDdwWXhSRXN5TQ?oc=5\" target=\"_blank\">Медведица Айка жила в семье режиссера и гуляла по городу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Mon, 14 Sep 2026 23:40:26 GMT"
     },
     {
       "title": "Провайдер SkyNet сообщил, что работает над восстановлением связи в Петербурге - обсуждение новости - ФОНТАНКА.ру",
@@ -69,6 +69,13 @@
       "title": "В Петербурге готовят к открытию после благоустройства Ораниенбаумский сад - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PYmwtTndGZDZkei13MVY5SUJzM0g4VGdnMGwxdFpTd0lkNjlncWUyQzhacVdrbXRPTVpReVZBUlZYbHc3QlhaR01rZE9PV21ZMzlZMlhPYXRxOUJVT0hRMXQtaw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PYmwtTndGZDZkei13MVY5SUJzM0g4VGdnMGwxdFpTd0lkNjlncWUyQzhacVdrbXRPTVpReVZBUlZYbHc3QlhaR01rZE9PV21ZMzlZMlhPYXRxOUJVT0hRMXQtaw?oc=5\" target=\"_blank\">В Петербурге готовят к открытию после благоустройства Ораниенбаумский сад</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Mon, 14 Sep 2026 21:48:00 GMT"
+    },
+    {
+      "title": "Ораниенбаумский сад с памятником Кириллу Лаврову спешно готовят к открытию - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfYTl5Z2FicDE3WGc2ZmpPU1BzajhJN3hDcEFEZnl1RlhvWkk2cm02RVRIdHRpbnNrRU56TDRxbktKRTlrVXp4WTJPVlV3S3YzVExSTXRPcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfYTl5Z2FicDE3WGc2ZmpPU1BzajhJN3hDcEFEZnl1RlhvWkk2cm02RVRIdHRpbnNrRU56TDRxbktKRTlrVXp4WTJPVlV3S3YzVExSTXRPcw?oc=5\" target=\"_blank\">Ораниенбаумский сад с памятником Кириллу Лаврову спешно готовят к открытию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Mon, 14 Sep 2026 21:48:00 GMT"
     },
@@ -106,6 +113,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZGZTYzhyOFMtcXJqRmh5ZktEeEoxSFFlZTFZR0YxUDZ4bXV6aHJlYkI1WjRtQ0hQU3kxcGZOTEg5aHAxU0l3eTBSSjlWVl92WGNDTmhaczZ1MHk3RHB5QkJLRGpleGpqanhSdzNmNF9IMVpfUkE1SHdia2Vkd9IBgwFBVV95cUxPMjVVWl8xblJnZUhZUXI5bjZRYkxvc2VyUEtPOG1HZzYwbXZ5NmVTZUxXUE5BQzNmUTNrUEI4OWdkdDdza3dlWHlrWldfcmZQWnhWUFJwaHV2RG9yR2d6c3plRWNtQzNJVGtrcnhfWlRGNndwTTVScVhGS3UtOVJ1RWREZw?oc=5\" target=\"_blank\">Сальвини встретился с работающими в России итальянскими предпринимателями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Mon, 14 Sep 2026 20:38:36 GMT"
+    },
+    {
+      "title": "Медведица Айка жила в семье режиссера и гуляла по городу - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wWDBLcDd1UVVnaGJWM0F5Tjk0MDdVaTQxR2xxTEFubHAzVENuWTd0V244VnRpN1NhMndPbmxhZGxnZmxyVXg2YW9xeF9WUHptaUtqc2tuOHo1UDdwWXhSRXN5TQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wWDBLcDd1UVVnaGJWM0F5Tjk0MDdVaTQxR2xxTEFubHAzVENuWTd0V244VnRpN1NhMndPbmxhZGxnZmxyVXg2YW9xeF9WUHptaUtqc2tuOHo1UDdwWXhSRXN5TQ?oc=5\" target=\"_blank\">Медведица Айка жила в семье режиссера и гуляла по городу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Mon, 14 Sep 2026 20:37:00 GMT"
     },
     {
       "title": "Эксперт допустил переход бизнеса по ремонту в России на рынок арендуемых квартир — читать подробности - vrf.tass.ru",
@@ -227,13 +241,6 @@
       "pub": "Mon, 14 Sep 2026 19:35:00 GMT"
     },
     {
-      "title": "«Это будет незабываемое зрелище»: группа Oasis анонсировала новый тур Live '27 - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNXpfYUNBTi0wTEFWdmpONzhZMWwwSUh4MDQ1aHBTMkFOb2s4amxhWkY0bjBWbVl0V2NGci1YQzZCUjlqbmNGZ3otUktrbS04UW5naUxiOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNXpfYUNBTi0wTEFWdmpONzhZMWwwSUh4MDQ1aHBTMkFOb2s4amxhWkY0bjBWbVl0V2NGci1YQzZCUjlqbmNGZ3otUktrbS04UW5naUxiOA?oc=5\" target=\"_blank\">«Это будет незабываемое зрелище»: группа Oasis анонсировала новый тур Live '27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Mon, 14 Sep 2026 19:35:00 GMT"
-    },
-    {
       "title": "В Красноярском крае медведи убили уже трех человек - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YdVpFR1VRbENvbVJ6dlJVMFY5SkEwZEk4eHVGTjhDcWlPV3V2empQclVKdXZ1V3d2REp1VmhrbUJMb2czazItYjhPc0dncE52T0ZjOHlvY3BUWHBOaHg2NmZmRQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YdVpFR1VRbENvbVJ6dlJVMFY5SkEwZEk4eHVGTjhDcWlPV3V2empQclVKdXZ1V3d2REp1VmhrbUJMb2czazItYjhPc0dncE52T0ZjOHlvY3BUWHBOaHg2NmZmRQ?oc=5\" target=\"_blank\">В Красноярском крае медведи убили уже трех человек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -274,13 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjBjV3plWURURU94Nm5kbkZlcE1MMGg2TjVLVXRLWDZlYm41cUs4WW9WSzh2dTJsWGx2cExXdXVuaFEtbi0zYWJlckVGTTdlajlKWTJGeENHaE9RUGl3bndYanJodXVHV25jeERvYjV1VnVDMmFhczI3XzBoY3ZGalRWaWROMHZ0YVFCStIBjAFBVV95cUxQZjBjV3plWURURU94Nm5kbkZlcE1MMGg2TjVLVXRLWDZlYm41cUs4WW9WSzh2dTJsWGx2cExXdXVuaFEtbi0zYWJlckVGTTdlajlKWTJGeENHaE9RUGl3bndYanJodXVHV25jeERvYjV1VnVDMmFhczI3XzBoY3ZGalRWaWROMHZ0YVFCSg?oc=5\" target=\"_blank\">Банк России введёт надбавки по вложениям в облигации потребкредитов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Mon, 14 Sep 2026 18:57:17 GMT"
-    },
-    {
-      "title": "На пяти направлениях ОЖД изменится расписание электричек - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zYm0ySTc5VFZoYm4wUnFxQVVSV0lpRS1CWE5tOHd2SFZ2d05pLS1RanhBQ1YwbF81TFd2WEY4Mm5tU3NpM1R6eGo1Q0hZSVAxMEF3U2hSZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zYm0ySTc5VFZoYm4wUnFxQVVSV0lpRS1CWE5tOHd2SFZ2d05pLS1RanhBQ1YwbF81TFd2WEY4Mm5tU3NpM1R6eGo1Q0hZSVAxMEF3U2hSZw?oc=5\" target=\"_blank\">На пяти направлениях ОЖД изменится расписание электричек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Mon, 14 Sep 2026 18:53:00 GMT"
     }
   ]
 }
