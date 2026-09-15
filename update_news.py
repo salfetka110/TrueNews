@@ -82,12 +82,34 @@ def load_rss(source):
 
 
 
+def fallback_article(item):
+    """Безопасный резервный материал, если HF недоступен или токен не задан."""
+    title = (item.get("title") or "Новость").strip()
+    description = clean_text(item.get("description") or "")
+    if not description:
+        description = "Подробности по этому событию пока уточняются."
+    return (
+        f"<h3>Что произошло</h3><p>{html_escape(description)}</p>"
+        f"<h3>Что известно сейчас</h3><p>Материал основан на доступном описании публикации "
+        f"«{html_escape(title)}». Дополнительные детали будут добавлены после появления "
+        f"новой подтверждённой информации.</p>"
+    )
+
+def clean_text(value):
+    import re
+    from html import unescape
+    return re.sub(r"\\s+", " ", unescape(re.sub(r"<[^>]+>", " ", str(value)))).strip()
+
+def html_escape(value):
+    import html
+    return html.escape(str(value), quote=True)
+
 def generate_ai_article(item):
     """Generate an article through Hugging Face Inference Providers."""
     api_key = os.environ.get("HF_TOKEN") or os.environ.get("HUGGINGFACE_TOKEN")
     if not api_key:
-        print("HF_TOKEN не задан — ИИ-статья пропущена")
-        return ""
+        print("HF_TOKEN не задан — создаём безопасный материал из описания")
+        return fallback_article(item)
 
     prompt = (
         "Напиши на русском нейтральную информационную статью для новостного сайта TrueNews. "
@@ -103,8 +125,9 @@ def generate_ai_article(item):
     # Hugging Face Router is OpenAI-compatible. The selected model may change;
     # the second model is a fallback if the first one is temporarily unavailable.
     models = [
-        "Qwen/Qwen2.5-7B-Instruct:fastest",
-        "meta-llama/Llama-3.1-8B-Instruct:fastest",
+        "Qwen/Qwen2.5-7B-Instruct",
+        "meta-llama/Llama-3.1-8B-Instruct",
+        "HuggingFaceH4/zephyr-7b-beta",
     ]
 
     last_error = None
@@ -146,7 +169,7 @@ def generate_ai_article(item):
             print(f"Модель {model}: ошибка: {error}")
 
     print(f"Hugging Face: не удалось создать статью: {last_error}")
-    return ""
+    return fallback_article(item)
 
 def detect_category(item):
     text = (item.get("title", "") + " " + item.get("description", "") + " " + item.get("source", "")).lower()
