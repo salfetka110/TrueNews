@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-16T22:04:53.041833+00:00",
+  "updated": "2026-09-16T22:36:30.362410+00:00",
   "count": 40,
   "news": [
+    {
+      "title": "ООО «БУЛАВА» - companies.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmRIZFl6V1RGdXBNQ0JBWFBJa3lNUmQ3OGxrc0VyOG1JVEk3WExzNmJCQ3BUVkN4dEU5NkNraFlYb3Bka3ljZ29oay1BbmFhZzRRc3dqWl9Yb2RBdE5QckV3eFh1NWl1aW9wcEQ1c2NKeGFiaHZjV3RpaEY1WDVkbEpIYUpaWUFRR3B2clR1dWVzT1dmbzEwNg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmRIZFl6V1RGdXBNQ0JBWFBJa3lNUmQ3OGxrc0VyOG1JVEk3WExzNmJCQ3BUVkN4dEU5NkNraFlYb3Bka3ljZ29oay1BbmFhZzRRc3dqWl9Yb2RBdE5QckV3eFh1NWl1aW9wcEQ1c2NKeGFiaHZjV3RpaEY1WDVkbEpIYUpaWUFRR3B2clR1dWVzT1dmbzEwNg?oc=5\" target=\"_blank\">ООО «БУЛАВА»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 24 Nov 2021 17:31:17 GMT"
+    },
     {
       "title": "Курсы Skillbox по Adobe XD - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5\" target=\"_blank\">Курсы Skillbox по Adobe XD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 19 Aug 2026 01:18:54 GMT"
+    },
+    {
+      "title": "Палата представителей США проголосовала за проект о санкциях против России - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3bUNoejVWRjRtelltdkZ6RnpOVnRuQUhPclhTeHI2SW40clRQanN1NTJ6cEtwT21TTHJVUUk5bXdPVldRV0oxTTBwb2xLWDZQS1ByOFROWG1GdjBy?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3bUNoejVWRjRtelltdkZ6RnpOVnRuQUhPclhTeHI2SW40clRQanN1NTJ6cEtwT21TTHJVUUk5bXdPVldRV0oxTTBwb2xLWDZQS1ByOFROWG1GdjBy?oc=5\" target=\"_blank\">Палата представителей США проголосовала за проект о санкциях против России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 22:28:00 GMT"
+    },
+    {
+      "title": "Москву атаковали дроны ВСУ - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OSkdqajhmOFhkWVhlNFBtU0dseWhzeml2Y1JjUVZNMzhVWVNRRFdkU3JubGVwRTRPZDZzRlUtbVpSZXVXYXZYNUIzTXVQYjRiTkdiT2UtZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OSkdqajhmOFhkWVhlNFBtU0dseWhzeml2Y1JjUVZNMzhVWVNRRFdkU3JubGVwRTRPZDZzRlUtbVpSZXVXYXZYNUIzTXVQYjRiTkdiT2UtZw?oc=5\" target=\"_blank\">Москву атаковали дроны ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 22:18:00 GMT"
+    },
+    {
+      "title": "\"Было интересно\": Вован и Лексус раскрыли план Запада по Украине - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NWhQaWthUEZxNDZ2MERPLWpFOWNVV3JyemgtSmhiV3lGa29RcmowWWhSNUNoZnFRV1RLMy1BVzN6VUJXTG1jc3BLM2dPVWpjSkozZW9CenNYZ2s?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NWhQaWthUEZxNDZ2MERPLWpFOWNVV3JyemgtSmhiV3lGa29RcmowWWhSNUNoZnFRV1RLMy1BVzN6VUJXTG1jc3BLM2dPVWpjSkozZW9CenNYZ2s?oc=5\" target=\"_blank\">\"Было интересно\": Вован и Лексус раскрыли план Запада по Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 22:17:00 GMT"
     },
     {
       "title": "Трамп запретил канадские товары в госзакупках - ria.ru",
@@ -38,6 +66,20 @@
       "pub": "Wed, 16 Sep 2026 21:31:55 GMT"
     },
     {
+      "title": "В Иркутской области обезвредили двух медведей, угрожавших жителям - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVN1B3MUpwYXdDWE14ZDJXYk5aWnVnSTVzVUg1VmxXMnFIRGdldUVBbk5yTVhyanVtR3p0ZXZrOEVRQm0xdE5ZZ3p0OXBwUldOX2hKTkg1U3JVb3dyUGJMTXc3dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVN1B3MUpwYXdDWE14ZDJXYk5aWnVnSTVzVUg1VmxXMnFIRGdldUVBbk5yTVhyanVtR3p0ZXZrOEVRQm0xdE5ZZ3p0OXBwUldOX2hKTkg1U3JVb3dyUGJMTXc3dw?oc=5\" target=\"_blank\">В Иркутской области обезвредили двух медведей, угрожавших жителям</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 21:29:05 GMT"
+    },
+    {
+      "title": "В аэропорту Саратова сняли ограничения - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbXAxR1JmNUJ2azl2S0t0VHFxeC1qRWtETmdUR1FGNkdiejZOTU9rM3Z1V3B3N09pRnFMei16OEJKMVJXY3pFRURjanhaclZYTXoyRnJTbGh4cjg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbXAxR1JmNUJ2azl2S0t0VHFxeC1qRWtETmdUR1FGNkdiejZOTU9rM3Z1V3B3N09pRnFMei16OEJKMVJXY3pFRURjanhaclZYTXoyRnJTbGh4cjg?oc=5\" target=\"_blank\">В аэропорту Саратова сняли ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 21:20:00 GMT"
+    },
+    {
       "title": "Завершается период агитации перед выборами в Госдуму - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SeXFRTjQzMFdDV3ludGtWX25qMHNzZHNQdHBrUEpqTlJRWGR5YkJOekdOU3MxV0dsVk95RmoxTF81MEkxRmF3TXhQWEhocFkyRjlGVXJrc0dLcFE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SeXFRTjQzMFdDV3ludGtWX25qMHNzZHNQdHBrUEpqTlJRWGR5YkJOekdOU3MxV0dsVk95RmoxTF81MEkxRmF3TXhQWEhocFkyRjlGVXJrc0dLcFE?oc=5\" target=\"_blank\">Завершается период агитации перед выборами в Госдуму</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
@@ -66,18 +108,11 @@
       "pub": "Wed, 16 Sep 2026 20:56:58 GMT"
     },
     {
-      "title": "В Петербурге — проблемы с мобильным интернетом - ФОНТАНКА.ру",
+      "title": "«Только белые списки». В Петербурге — проблемы с мобильным интернетом - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MUUNqTEpST2VpR3I3cWxWdjE3Sk5RSnl1eTZ4LVRqWEJMbF9xUU9yY3lEWE96cFRZZ09HdU83WG9taVVGcFN1bUVzVHk4Ql92RnF6ZDgyWQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MUUNqTEpST2VpR3I3cWxWdjE3Sk5RSnl1eTZ4LVRqWEJMbF9xUU9yY3lEWE96cFRZZ09HdU83WG9taVVGcFN1bUVzVHk4Ql92RnF6ZDgyWQ?oc=5\" target=\"_blank\">В Петербурге — проблемы с мобильным интернетом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MUUNqTEpST2VpR3I3cWxWdjE3Sk5RSnl1eTZ4LVRqWEJMbF9xUU9yY3lEWE96cFRZZ09HdU83WG9taVVGcFN1bUVzVHk4Ql92RnF6ZDgyWQ?oc=5\" target=\"_blank\">«Только белые списки». В Петербурге — проблемы с мобильным интернетом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 16 Sep 2026 20:55:00 GMT"
-    },
-    {
-      "title": "Суд в Москве арестовал 4,1 млрд рублей на счетах экс-супруги Мошковича - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVkNya2phSFBuY1lZTXVRSVNGM0pSQjFqX3JBbzk0MkdobEdZUnk1Rzc2THI1MkNBekk2WmNvYl9IaG9mbDdRQjRvRWlzS0pILWlfMTN2NlV4RWFnZ3lwZURlODV1N1ZobXdhQtIBckFVX3lxTE53d29OSHd4d3N4OTlYOFlaMVhxQXdYTW9SYVkyOTh4VkhyNFV5UEdLMjBmWmV3c1dTWVdwR1VKSzlpOW9YUV9GXzd0bGxJV1RyMWpjeUhfakNuZjYyX1RBUUcyN1VRSkx6OWNqYUgwUDBxQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVkNya2phSFBuY1lZTXVRSVNGM0pSQjFqX3JBbzk0MkdobEdZUnk1Rzc2THI1MkNBekk2WmNvYl9IaG9mbDdRQjRvRWlzS0pILWlfMTN2NlV4RWFnZ3lwZURlODV1N1ZobXdhQtIBckFVX3lxTE53d29OSHd4d3N4OTlYOFlaMVhxQXdYTW9SYVkyOTh4VkhyNFV5UEdLMjBmWmV3c1dTWVdwR1VKSzlpOW9YUV9GXzd0bGxJV1RyMWpjeUhfakNuZjYyX1RBUUcyN1VRSkx6OWNqYUgwUDBxQQ?oc=5\" target=\"_blank\">Суд в Москве арестовал 4,1 млрд рублей на счетах экс-супруги Мошковича</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 16 Sep 2026 20:50:17 GMT"
     },
     {
       "title": "В Ростове-на-Дону из здания вокзала из-за пожара эвакуировали 300 человек - rbc.ru",
@@ -94,11 +129,11 @@
       "pub": "Wed, 16 Sep 2026 20:48:00 GMT"
     },
     {
-      "title": "Петербуржцы 77 раз обращались в суд по признакам подделки собраний собственников - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QVVpmYmthQTZHM2xvQmhMcHcxR2E0SXgwWnpIbjdYMnloM1JFMzc3QUFiZ3JzYTd4S3ZIY0RQMVB3OU84a2Qxc1FKNzAtajBDUk9TMmlFb3F4YnhId1JwUWRBTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QVVpmYmthQTZHM2xvQmhMcHcxR2E0SXgwWnpIbjdYMnloM1JFMzc3QUFiZ3JzYTd4S3ZIY0RQMVB3OU84a2Qxc1FKNzAtajBDUk9TMmlFb3F4YnhId1JwUWRBTQ?oc=5\" target=\"_blank\">Петербуржцы 77 раз обращались в суд по признакам подделки собраний собственников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 16 Sep 2026 20:36:38 GMT"
+      "title": "Игнашевич: хоккеисты пьют как лошади, в отличие от футболистов - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXR0dWR5MVg0WS1iQ1BadUZCb0ZtVmNMRnpRSGVrMm5Gc3VCUEE0MkZoWEU2d003b3dBY3pGeTZ6alVEWGNpNXRjdUZxRDV2X3ZpNnRfZ2xPa0gxU2VyQWNESTdIcUh1Ui0xdGdWZEZveC1fVFoyU1J0dENBMlAzcdIBhgFBVV95cUxOeWVPdjNpdE9sSkJDTE1SdjJWMWUza3ZSZUhUbUlrUmF6bXhYUEE2ZW9BUHMtS1VMY2Q5cW9FZTRjR0E3dkdldll5bllWdXNubWlxREtBc01weDRFYmU1MEVfVEdhbE1KSlhPWnlSdEZDNUsyYVRlSWxyTmRhUmJxNjNHZFNLdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXR0dWR5MVg0WS1iQ1BadUZCb0ZtVmNMRnpRSGVrMm5Gc3VCUEE0MkZoWEU2d003b3dBY3pGeTZ6alVEWGNpNXRjdUZxRDV2X3ZpNnRfZ2xPa0gxU2VyQWNESTdIcUh1Ui0xdGdWZEZveC1fVFoyU1J0dENBMlAzcdIBhgFBVV95cUxOeWVPdjNpdE9sSkJDTE1SdjJWMWUza3ZSZUhUbUlrUmF6bXhYUEE2ZW9BUHMtS1VMY2Q5cW9FZTRjR0E3dkdldll5bllWdXNubWlxREtBc01weDRFYmU1MEVfVEdhbE1KSlhPWnlSdEZDNUsyYVRlSWxyTmRhUmJxNjNHZFNLdw?oc=5\" target=\"_blank\">Игнашевич: хоккеисты пьют как лошади, в отличие от футболистов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 20:31:41 GMT"
     },
     {
       "title": "Из-за возгорания в главном ж/д вокзале Ростова-на-Дону эвакуировали 300 человек - russian.rt.com",
@@ -136,18 +171,18 @@
       "pub": "Wed, 16 Sep 2026 20:13:08 GMT"
     },
     {
-      "title": "Виктор Бычков объяснил, почему детям важно знать родную культуру - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rb3ctZWRFQWVQZVdOcXN1RkZ6Y3YyeUxFNXd2LTNBNTZ5OWV2TW14b1ktdGcybF9Ob2NwXzJCQnU0eXJWYlQxTlNHLW5jYkJUUWxIZHh5Y3Y5c2tlZTFBek1WZFA4ZTdTZmtuZ3kzVmVRQ0VadHgwT9IBfkFVX3lxTE9MYUtHUWdjR1p1V3pxTjlWWkwybHVnYzRHTTJrYThPM3JNbGNWSFpESERGTkFfUjlucDRQYWl5M2FCSHZzX3pTZWs0c28yTDBPQjhfN1VPeXdsRDdYMUg1c1UtRHQyaTBaZkFSTVBEVEhjUjhhRXk1NGhwM1FlUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5rb3ctZWRFQWVQZVdOcXN1RkZ6Y3YyeUxFNXd2LTNBNTZ5OWV2TW14b1ktdGcybF9Ob2NwXzJCQnU0eXJWYlQxTlNHLW5jYkJUUWxIZHh5Y3Y5c2tlZTFBek1WZFA4ZTdTZmtuZ3kzVmVRQ0VadHgwT9IBfkFVX3lxTE9MYUtHUWdjR1p1V3pxTjlWWkwybHVnYzRHTTJrYThPM3JNbGNWSFpESERGTkFfUjlucDRQYWl5M2FCSHZzX3pTZWs0c28yTDBPQjhfN1VPeXdsRDdYMUg1c1UtRHQyaTBaZkFSTVBEVEhjUjhhRXk1NGhwM1FlUQ?oc=5\" target=\"_blank\">Виктор Бычков объяснил, почему детям важно знать родную культуру</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 16 Sep 2026 20:12:14 GMT"
-    },
-    {
       "title": "Экс-совладельцу «Клиентского» запросили 10 лет за хищение 100,6 млн рублей - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yZkt3S01xZkF3cm50VVVlWS05cmdJNXZRZW1laVN3djlDdWZCTXgzMVBkcUVRbTZoYUFsUF9nS1lpUXExczI4U1NHOV9HWEJoX1IxaVZVSzNpWU42Rmp5R1lIMA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yZkt3S01xZkF3cm50VVVlWS05cmdJNXZRZW1laVN3djlDdWZCTXgzMVBkcUVRbTZoYUFsUF9nS1lpUXExczI4U1NHOV9HWEJoX1IxaVZVSzNpWU42Rmp5R1lIMA?oc=5\" target=\"_blank\">Экс-совладельцу «Клиентского» запросили 10 лет за хищение 100,6 млн рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 16 Sep 2026 20:06:00 GMT"
+    },
+    {
+      "title": "Онколог Черёмушкин объяснил важность скрининга для раннего выявления рака - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hbWkxQ0JEazB1cHhnejZOT2g2ZV9lQXlJM2FuY0pYLVo0SV9CMHNEUXBBU2NIcmpSSjBmcURMYXM1WkgtaWNsZjF3VC1aVjF1cEQwUWFKemY1QkFSaG1RODE4R1U0Q2NzalltMVE1VDlTYktxV3fSAXtBVV95cUxObjhqSDJIMDlpRjdGU0RDTnlWLW5FSXh2OHpRWjdibllMU1dIemtvYmNwWWJNYUppM2JycVVGMTR1U1JCcktYb0M0MUFxaDFVRTlWMGVwa3h2ZEJaU1RJeFZsajN2Z2V2bEdqNEtMeTNBMDlDVEhKUUZBTlE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1hbWkxQ0JEazB1cHhnejZOT2g2ZV9lQXlJM2FuY0pYLVo0SV9CMHNEUXBBU2NIcmpSSjBmcURMYXM1WkgtaWNsZjF3VC1aVjF1cEQwUWFKemY1QkFSaG1RODE4R1U0Q2NzalltMVE1VDlTYktxV3fSAXtBVV95cUxObjhqSDJIMDlpRjdGU0RDTnlWLW5FSXh2OHpRWjdibllMU1dIemtvYmNwWWJNYUppM2JycVVGMTR1U1JCcktYb0M0MUFxaDFVRTlWMGVwa3h2ZEJaU1RJeFZsajN2Z2V2bEdqNEtMeTNBMDlDVEhKUUZBTlE?oc=5\" target=\"_blank\">Онколог Черёмушкин объяснил важность скрининга для раннего выявления рака</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 20:00:44 GMT"
     },
     {
       "title": "«Зенит» обыграл «Балтику» в Калининграде и поднялся на третье место в РПЛ - ФОНТАНКА.ру",
@@ -227,6 +262,13 @@
       "pub": "Wed, 16 Sep 2026 19:22:52 GMT"
     },
     {
+      "title": "В Ставрополе ущерб по делу о махинациях с иномарками превысил 25 млн рублей - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92XzRka0t5THpqZnpfeEVjM2RTUEtpNEROaFRIY2x2clNteFJDS0MyRVhGYURQZDdmWGJDNGx6Q1BXMm9NQXUxUGRTVFV5aEVVZTJ4OU9qSGpDV3FiTWJVdlVPZUpfT2FaSmhldEY4RTFMSi1SWUZZWNIBfkFVX3lxTE1XRkcyVVBvUzJoY3ZoVGV6TEw4T1BrNmxnREVxZldjZnl0RGdOQXRDeWZaemVpeFZuRnVsanhiYVd2bGVnLTM1NXJiSjZJZVo5dU1GamF6QWN2RHJXUEVjS3VCcjE4MDFydGNNVVR0T0ttYlktM0FiMFU5R2tkdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE92XzRka0t5THpqZnpfeEVjM2RTUEtpNEROaFRIY2x2clNteFJDS0MyRVhGYURQZDdmWGJDNGx6Q1BXMm9NQXUxUGRTVFV5aEVVZTJ4OU9qSGpDV3FiTWJVdlVPZUpfT2FaSmhldEY4RTFMSi1SWUZZWNIBfkFVX3lxTE1XRkcyVVBvUzJoY3ZoVGV6TEw4T1BrNmxnREVxZldjZnl0RGdOQXRDeWZaemVpeFZuRnVsanhiYVd2bGVnLTM1NXJiSjZJZVo5dU1GamF6QWN2RHJXUEVjS3VCcjE4MDFydGNNVVR0T0ttYlktM0FiMFU5R2tkdw?oc=5\" target=\"_blank\">В Ставрополе ущерб по делу о махинациях с иномарками превысил 25 млн рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 19:18:27 GMT"
+    },
+    {
       "title": "Членом избиркома Кировского района Петербурга оказался арестованный за убийство представитель ЛДПР - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40amZtVkZQMWdRektIcVhIakJNNGQzZXdaUW5PV0Y3bjlJNlNHTUc5anpYMG44eWc3REJTdk4tT09pOTRlR0RzV0NlYTFHcWdpYlVDSVZwUQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE40amZtVkZQMWdRektIcVhIakJNNGQzZXdaUW5PV0Y3bjlJNlNHTUc5anpYMG44eWc3REJTdk4tT09pOTRlR0RzV0NlYTFHcWdpYlVDSVZwUQ?oc=5\" target=\"_blank\">Членом избиркома Кировского района Петербурга оказался арестованный за убийство представитель ЛДПР</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -239,48 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WU43dmRHYlVpeE1pNW5ZUDVEczVDNWpIY1lydzBnQm5EU2wzOWN1NlA5TGRkemlmTXNLVnd0WGs0SEdxVi0wU1p6YjJYLUJ0cTNjYUItaWNhQQ?oc=5\" target=\"_blank\">\"Чуть не случился сердечный приступ\": Карседо вспомнил победный гол Угальде</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Wed, 16 Sep 2026 19:11:00 GMT"
-    },
-    {
-      "title": "Жданова заявила о планах НАТО начать противостояние с Россией в 2029—2030 годах - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91V0R1STNOZFFkWW9fVlg2OU95cGxac2hOSkhLUFVTWFlOcGRvbnBHYnJJZFV2Y2s5QzNtcGFoNmtnZnVkaDVkUWZhUXNteHltNmNGN2NJT0MtM1I4VmU4TGcwcnVaZUVTb3ZYedIBckFVX3lxTE9yTkhaM2F2a0dmSmthYW43RWlDUUFMRHFkSVdyS3hUeFliRWV4WjdFWi1LNGhxQllPMWFBMDZoWHRaMVlSbHU0WndqUFRLUHljUEJOdWI3SG0zWmtCc3ViRG9GR3hJNlV2SEF5eUY1dkt6dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE91V0R1STNOZFFkWW9fVlg2OU95cGxac2hOSkhLUFVTWFlOcGRvbnBHYnJJZFV2Y2s5QzNtcGFoNmtnZnVkaDVkUWZhUXNteHltNmNGN2NJT0MtM1I4VmU4TGcwcnVaZUVTb3ZYedIBckFVX3lxTE9yTkhaM2F2a0dmSmthYW43RWlDUUFMRHFkSVdyS3hUeFliRWV4WjdFWi1LNGhxQllPMWFBMDZoWHRaMVlSbHU0WndqUFRLUHljUEJOdWI3SG0zWmtCc3ViRG9GR3hJNlV2SEF5eUY1dkt6dw?oc=5\" target=\"_blank\">Жданова заявила о планах НАТО начать противостояние с Россией в 2029—2030 годах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 16 Sep 2026 19:00:30 GMT"
-    },
-    {
-      "title": "The Atlantic рассказал о «конце эпохи США» - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03aVFuZzY1X0tJVXBtRGlJMWFnSC1jQWhkdmZ2VU1RQlJ6LXF5Yjl5NmFScTg4MERFRmdOd2FNSVJCMUJvdW5JaDJ4dDhKczhhRGRBOFVYV0ZoS3FsQi1vbVZwQlpUMktfNER1ZXBrN28?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE03aVFuZzY1X0tJVXBtRGlJMWFnSC1jQWhkdmZ2VU1RQlJ6LXF5Yjl5NmFScTg4MERFRmdOd2FNSVJCMUJvdW5JaDJ4dDhKczhhRGRBOFVYV0ZoS3FsQi1vbVZwQlpUMktfNER1ZXBrN28?oc=5\" target=\"_blank\">The Atlantic рассказал о «конце эпохи США»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 16 Sep 2026 18:51:17 GMT"
-    },
-    {
-      "title": "Директора перевозчика обвинили после смертельного ДТП под Архангельском - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Z3hQVDhQc0oxc0paVEMzd3NMeDFWY29CakdIVUdiSG5VUzdobTFxM29oTWU0YUk3cDdNNEFJd3FHYnU1MnoyY1BiTm1lc2tucFI1aHpORGxIcGlfbzJsSm9VQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Z3hQVDhQc0oxc0paVEMzd3NMeDFWY29CakdIVUdiSG5VUzdobTFxM29oTWU0YUk3cDdNNEFJd3FHYnU1MnoyY1BiTm1lc2tucFI1aHpORGxIcGlfbzJsSm9VQQ?oc=5\" target=\"_blank\">Директора перевозчика обвинили после смертельного ДТП под Архангельском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 16 Sep 2026 18:51:00 GMT"
-    },
-    {
-      "title": "«Ему дозволено всё!»: как живет и кайфует самый популярный енот России — видео - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uS0s0X2VVTlJDQ0NGZVR4XzFPcVZyLW1NTWN1dkNxZ0pjX3dFenM5MmZkdW1WNlFPVmd3bDFQbVVGSDJUb3RSQ2VGTkJrZnUzNlZQd3F4cw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uS0s0X2VVTlJDQ0NGZVR4XzFPcVZyLW1NTWN1dkNxZ0pjX3dFenM5MmZkdW1WNlFPVmd3bDFQbVVGSDJUb3RSQ2VGTkJrZnUzNlZQd3F4cw?oc=5\" target=\"_blank\">«Ему дозволено всё!»: как живет и кайфует самый популярный енот России — видео</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 16 Sep 2026 18:40:00 GMT"
-    },
-    {
-      "title": "Финляндия и Швеция планируют использовать БПЛА для мониторинга Балтийского моря - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FV19zMUJweGZKUlJoZFRlQ01XLVNOR3dxS1owNF9mbURObXpUZGJiMkxMVWVhSDZwTnRvVmZ5Uk5pVzRTQlBXSXQ4eEJWQzJZWlNDQ1dJMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FV19zMUJweGZKUlJoZFRlQ01XLVNOR3dxS1owNF9mbURObXpUZGJiMkxMVWVhSDZwTnRvVmZ5Uk5pVzRTQlBXSXQ4eEJWQzJZWlNDQ1dJMA?oc=5\" target=\"_blank\">Финляндия и Швеция планируют использовать БПЛА для мониторинга Балтийского моря</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 16 Sep 2026 18:38:00 GMT"
-    },
-    {
-      "title": "Актуальные вызовы и тенденции для нефтесервиса обсудили на TNF в Тюмени - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYnFiMFY4bEdqRURraEh5RkU4V1lHVllQa3pNbkI5aGxzbVdRSjZjSmlFY1RydE5PNW41V0dURDJyV2lBYzdHaHE5aEh1V2RTZW9MN0Rn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYnFiMFY4bEdqRURraEh5RkU4V1lHVllQa3pNbkI5aGxzbVdRSjZjSmlFY1RydE5PNW41V0dURDJyV2lBYzdHaHE5aEh1V2RTZW9MN0Rn?oc=5\" target=\"_blank\">Актуальные вызовы и тенденции для нефтесервиса обсудили на TNF в Тюмени</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 16 Sep 2026 18:36:00 GMT"
     }
   ]
 }
