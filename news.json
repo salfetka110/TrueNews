@@ -1,5 +1,286 @@
 {
-  "updated": "2026-09-16T09:38:40.749027+00:00",
-  "count": 0,
-  "news": []
+  "updated": "2026-09-16T10:05:07.609066+00:00",
+  "count": 40,
+  "news": [
+    {
+      "title": "Курсы Skillbox по Adobe XD - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5\" target=\"_blank\">Курсы Skillbox по Adobe XD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 19 Aug 2026 01:18:54 GMT"
+    },
+    {
+      "title": "США снимут санкции с двух белорусских компаний. Минск взамен тоже кое-что сделает - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1saFR5TWRMaU1PRFRiUzNzRVVicEdTemVtVUdsX0hlMjVuMHU1R3FPeUpCUkNUODJwVGxvVkduUDJ6OGt1U21YWUNNWU83aHNVd1lVZHlEQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1saFR5TWRMaU1PRFRiUzNzRVVicEdTemVtVUdsX0hlMjVuMHU1R3FPeUpCUkNUODJwVGxvVkduUDJ6OGt1U21YWUNNWU83aHNVd1lVZHlEQQ?oc=5\" target=\"_blank\">США снимут санкции с двух белорусских компаний. Минск взамен тоже кое-что сделает</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:56:12 GMT"
+    },
+    {
+      "title": "Специалист Щёголева: некоторые категории граждан имеют право на налоговые льготы - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9CQWVXRjJwbnZDbk56NkpzRjJiZGpVaHhkVEJybk9TY19GdXJqNWFDc1BtbjhJdXlKLWpvTDRLeWlOdGFFRktKd1RVeXBjaXk3Mjc5YTJOZ1JneUk3QVFFbTJSbF84QUZad1E0MVE5bXNwTU1yWFJ5dFhNRGlOT3BR0gGHAUFVX3lxTE9WX3Y3dmhWYUwwUEo1OFBkTEFlc2JqNmg1RGpiajlicDJnTno5Rnh4R3M2QVVBY21zMFhHMkdSS3d4cUhPbklnTlQ4aW5mZzV1aWROQUgyZ1MybXNEdHhrajBlTGlpbHdlblpNZkVZZEhSZ0YyR2kxaWVOcGlKcW9SZzRJd1ZjVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9CQWVXRjJwbnZDbk56NkpzRjJiZGpVaHhkVEJybk9TY19GdXJqNWFDc1BtbjhJdXlKLWpvTDRLeWlOdGFFRktKd1RVeXBjaXk3Mjc5YTJOZ1JneUk3QVFFbTJSbF84QUZad1E0MVE5bXNwTU1yWFJ5dFhNRGlOT3BR0gGHAUFVX3lxTE9WX3Y3dmhWYUwwUEo1OFBkTEFlc2JqNmg1RGpiajlicDJnTno5Rnh4R3M2QVVBY21zMFhHMkdSS3d4cUhPbklnTlQ4aW5mZzV1aWROQUgyZ1MybXNEdHhrajBlTGlpbHdlblpNZkVZZEhSZ0YyR2kxaWVOcGlKcW9SZzRJd1ZjVQ?oc=5\" target=\"_blank\">Специалист Щёголева: некоторые категории граждан имеют право на налоговые льготы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 09:49:05 GMT"
+    },
+    {
+      "title": "Владимир Путин выступит с обращением к россиянам - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tTUFzeTNST0FpdHNKSUhnUmFQVl9SOWVEVmJoczdDXzBabjRBbUF0aDZxSkNFTHplUXRZaGpwaXF2SnZQUzc1N1hiX1BGUWFWbllId3BYMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tTUFzeTNST0FpdHNKSUhnUmFQVl9SOWVEVmJoczdDXzBabjRBbUF0aDZxSkNFTHplUXRZaGpwaXF2SnZQUzc1N1hiX1BGUWFWbllId3BYMA?oc=5\" target=\"_blank\">Владимир Путин выступит с обращением к россиянам</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:48:05 GMT"
+    },
+    {
+      "title": "Рябков: перспектива дипломатического решения по Украине не стала ближе - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VT2ozRjBoZWVXYy1SM2daWE5ETWg0Nndic3QxYlMxRVhoWU9rYWZDNEdoaUhFZ0xGZmdxNXU4TXc3ZE1ydmVTRUhUTGNjV3pPcVhzbm9QZS1nUnFBR042TXloUDJsOUdOUTZ4V2NyX0J4Nm1SSE15RTRrUXpCS0XSAYQBQVVfeXFMUExCT2h5anc5aG9yMjVqX09xVGF1clV4OEEtdkNKa3hROURGTmdqUU1iMEh6UEZ1eHE4Q2JnQ3oyUDdJUlcxc2J2MUFtUGMtUnlNUDVDTHc0cnpzNmk5dzFxTXRmaHpuWTVCek5DaVZkdFI0Q1YzcWdLc1lidDhQSU9JUkRj?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5VT2ozRjBoZWVXYy1SM2daWE5ETWg0Nndic3QxYlMxRVhoWU9rYWZDNEdoaUhFZ0xGZmdxNXU4TXc3ZE1ydmVTRUhUTGNjV3pPcVhzbm9QZS1nUnFBR042TXloUDJsOUdOUTZ4V2NyX0J4Nm1SSE15RTRrUXpCS0XSAYQBQVVfeXFMUExCT2h5anc5aG9yMjVqX09xVGF1clV4OEEtdkNKa3hROURGTmdqUU1iMEh6UEZ1eHE4Q2JnQ3oyUDdJUlcxc2J2MUFtUGMtUnlNUDVDTHc0cnpzNmk5dzFxTXRmaHpuWTVCek5DaVZkdFI0Q1YzcWdLc1lidDhQSU9JUkRj?oc=5\" target=\"_blank\">Рябков: перспектива дипломатического решения по Украине не стала ближе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 09:47:55 GMT"
+    },
+    {
+      "title": "В Белгородской области украинский дрон атаковал многоэтажку - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VcGVVMlZYTWtTZV9pd1lwYWhBOTR3TUctckIxVmJRMll6eTI0Z0pFQzZYNFM0eUhHYkhWWmpMZzRacHJKRE1oeGYzQUFobGlKbzZOVFlUNA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VcGVVMlZYTWtTZV9pd1lwYWhBOTR3TUctckIxVmJRMll6eTI0Z0pFQzZYNFM0eUhHYkhWWmpMZzRacHJKRE1oeGYzQUFobGlKbzZOVFlUNA?oc=5\" target=\"_blank\">В Белгородской области украинский дрон атаковал многоэтажку</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 09:46:00 GMT"
+    },
+    {
+      "title": "Спрос на аренду квартир в Москве вырос к началу делового сезона - realty.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85ZUkyOW05Y3MtTUQ1bFVQRlkzY09YX1Q3ZzM3MHNrTk04RVgxS2NxejJhRXN0dzBaWXF0dTlxQmdsTmwxWTJsb1ExSXlNQWk4RUZCWjVhcVhYMUxrSzk0UA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE85ZUkyOW05Y3MtTUQ1bFVQRlkzY09YX1Q3ZzM3MHNrTk04RVgxS2NxejJhRXN0dzBaWXF0dTlxQmdsTmwxWTJsb1ExSXlNQWk4RUZCWjVhcVhYMUxrSzk0UA?oc=5\" target=\"_blank\">Спрос на аренду квартир в Москве вырос к началу делового сезона</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">realty.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 09:45:17 GMT"
+    },
+    {
+      "title": "Песков назвал онлайн-голосование на выборах очень удобным и надёжным - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkdrcnJPZEw1aHNqdV9OZ0hWS1gtVFNnXzdjenpmazktVmZsTUhXS1dWTFh4RTVoMWtjV1dFdl9GSUtQUUg0UV9NaXI4LUhFbDNubjAyY3ljdjFMVjE1eXlKNDhzT290RnJTRlREMjBIZjd4UWx6ZDRTRTQ0ZEc0aNIBhgFBVV95cUxOd0tFU2FsV2gxajZVM1h1M2V4R2VqMkptQnJCQTVPeW13TVk0djhCd1FzSDlteG5wZVIxTk9wWEZUV0NfWXZORGUwdG85MUhlYW9WOUV6djNZV0dwbmw2UVJMRXBWZmlheFotSjFQMXlQdmtBQUVFZ0dfVVk3Uk9RRzh2MzlYUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxONkdrcnJPZEw1aHNqdV9OZ0hWS1gtVFNnXzdjenpmazktVmZsTUhXS1dWTFh4RTVoMWtjV1dFdl9GSUtQUUg0UV9NaXI4LUhFbDNubjAyY3ljdjFMVjE1eXlKNDhzT290RnJTRlREMjBIZjd4UWx6ZDRTRTQ0ZEc0aNIBhgFBVV95cUxOd0tFU2FsV2gxajZVM1h1M2V4R2VqMkptQnJCQTVPeW13TVk0djhCd1FzSDlteG5wZVIxTk9wWEZUV0NfWXZORGUwdG85MUhlYW9WOUV6djNZV0dwbmw2UVJMRXBWZmlheFotSjFQMXlQdmtBQUVFZ0dfVVk3Uk9RRzh2MzlYUQ?oc=5\" target=\"_blank\">Песков назвал онлайн-голосование на выборах очень удобным и надёжным</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 09:44:22 GMT"
+    },
+    {
+      "title": "Песков заявил, что Японии не придётся надеяться на визовые послабления - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Zd1JtbTZfNHJJc2dfVmJZM3BpWkloOS05YlhNNGFwblBELUdqLWJ3WnFtUHZkeHVOa0NqZVg1SGczZzBod0o0bEptcWpUbjhrUlYtYk1qSk1Ec0xxOGJSZ3h4eU5pSjN3UjZjSXhkONIBdEFVX3lxTE5VcEVWUzc5RWlHcVdJRUFLM190LUpTM0FOa3R5N0NoQ2VKVFhPSTNOekxUQkVLUm85Z0taQzg0TDFfWkpQQjAtOVJCUmw4dFpkNmc3a3dzVmtrTENQM0RrTE5oY2d5bzM5aVdIMFlNWmNOSlly?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5Zd1JtbTZfNHJJc2dfVmJZM3BpWkloOS05YlhNNGFwblBELUdqLWJ3WnFtUHZkeHVOa0NqZVg1SGczZzBod0o0bEptcWpUbjhrUlYtYk1qSk1Ec0xxOGJSZ3h4eU5pSjN3UjZjSXhkONIBdEFVX3lxTE5VcEVWUzc5RWlHcVdJRUFLM190LUpTM0FOa3R5N0NoQ2VKVFhPSTNOekxUQkVLUm85Z0taQzg0TDFfWkpQQjAtOVJCUmw4dFpkNmc3a3dzVmtrTENQM0RrTE5oY2d5bzM5aVdIMFlNWmNOSlly?oc=5\" target=\"_blank\">Песков заявил, что Японии не придётся надеяться на визовые послабления</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 09:43:55 GMT"
+    },
+    {
+      "title": "Осенью в Новосибирске начнет работать еще одна поликлиника по концессии - nsk.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZlRjUEQ0bGxyM0l6bFVXMFA1TlVGVnBaeG1VNXZRdmctSl95aklxazNMTmZBUFBzdlVockRYOERDN0hOT0pvRFNzT3VsOGZ1Q1BaZ09aWTNSTzhjeEhVVmpqNENXd1kwRHc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZlRjUEQ0bGxyM0l6bFVXMFA1TlVGVnBaeG1VNXZRdmctSl95aklxazNMTmZBUFBzdlVockRYOERDN0hOT0pvRFNzT3VsOGZ1Q1BaZ09aWTNSTzhjeEhVVmpqNENXd1kwRHc?oc=5\" target=\"_blank\">Осенью в Новосибирске начнет работать еще одна поликлиника по концессии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nsk.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 09:42:48 GMT"
+    },
+    {
+      "title": "Рябков: США отдельно не уведомляли Россию о размещении оружия в космосе - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFhoYWRWTTV2bnVwNUhzeXc3aVYtMnBZb1d5YTB3dHRiSm01bWpVZ0V5VmpsNC10LTdYYU1lOEpSa3NnMHVDc1JoRzFqOE90aFA1cml6ZmhVbDJLamdaX3FfckN3UlV4Z01JS1psQTFZMTVsTkcyYkZkOVpDWG1KN3RQNFh4Tmk2UTAyM2RZQdIBlAFBVV95cUxOU0EzeFZGczZoQjIzMktrX1dNSTVsSVVoSmRvbUVJN3ptbGtjblk5VXBkZ1dDOGF6S1QxcFBPRjR3ampWak1DVUd4dlA0Z0cxbmxOWkFEQXBleHA2OTBFSGVRM05zZ2RnZmhZZWRXVkJkWm9zOTBkbzBVTU1jWkdSOEp4RWJOODU4dkFPZEtDdWRtNEUx?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObFhoYWRWTTV2bnVwNUhzeXc3aVYtMnBZb1d5YTB3dHRiSm01bWpVZ0V5VmpsNC10LTdYYU1lOEpSa3NnMHVDc1JoRzFqOE90aFA1cml6ZmhVbDJLamdaX3FfckN3UlV4Z01JS1psQTFZMTVsTkcyYkZkOVpDWG1KN3RQNFh4Tmk2UTAyM2RZQdIBlAFBVV95cUxOU0EzeFZGczZoQjIzMktrX1dNSTVsSVVoSmRvbUVJN3ptbGtjblk5VXBkZ1dDOGF6S1QxcFBPRjR3ampWak1DVUd4dlA0Z0cxbmxOWkFEQXBleHA2OTBFSGVRM05zZ2RnZmhZZWRXVkJkWm9zOTBkbzBVTU1jWkdSOEp4RWJOODU4dkFPZEtDdWRtNEUx?oc=5\" target=\"_blank\">Рябков: США отдельно не уведомляли Россию о размещении оружия в космосе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 09:41:57 GMT"
+    },
+    {
+      "title": "Жалобы на сбои SkyNet в Петербурге продолжаются третий день - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13UmxWRncxdThDLVRkYk51eEFQRlYxWUszMlZPdE03cXRfLUhFVUxodXJMb3VjREd1WHRKc1o2ZjF0YW1XR01Kelc3WlVxTnhhaDdERFBBdGdUaGJWc3FFT0pWaw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE13UmxWRncxdThDLVRkYk51eEFQRlYxWUszMlZPdE03cXRfLUhFVUxodXJMb3VjREd1WHRKc1o2ZjF0YW1XR01Kelc3WlVxTnhhaDdERFBBdGdUaGJWc3FFT0pWaw?oc=5\" target=\"_blank\">Жалобы на сбои SkyNet в Петербурге продолжаются третий день</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:37:00 GMT"
+    },
+    {
+      "title": "УП узнала об угрозах главы фракции Зеленского антикоррупционерам - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON3BaRXpaZlFER09XWUZxY3pHUWhyWnAwc2kxaFNtYkdFVHA3TWRRcmtjRVVPSUZiNDRNU0lpV0kzNDNmOVNHTHhRcGhaNEpKdGctcVhkSTBvdzZHRWdjamt0RzJFNlFhM2N1MmotYWl3cDhQeV96MFlMR3lpYTVhY2M2SEpIYjhKYnc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxON3BaRXpaZlFER09XWUZxY3pHUWhyWnAwc2kxaFNtYkdFVHA3TWRRcmtjRVVPSUZiNDRNU0lpV0kzNDNmOVNHTHhRcGhaNEpKdGctcVhkSTBvdzZHRWdjamt0RzJFNlFhM2N1MmotYWl3cDhQeV96MFlMR3lpYTVhY2M2SEpIYjhKYnc?oc=5\" target=\"_blank\">УП узнала об угрозах главы фракции Зеленского антикоррупционерам</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 09:35:39 GMT"
+    },
+    {
+      "title": "Без танка «Леопард», но с небом над Курском. Петербургская школа снова закупает симулятор полетов БПЛА - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJUVpCYm5sVWdfVUlqNnFNbURmTTVhM1JkZjNEcWVzQ1hhMXdBbm1qS0pLS0hvYzdfaXJnSno5QW1PSUliYXQ0RHJBNmRYOS0wRG5ad0pTcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJUVpCYm5sVWdfVUlqNnFNbURmTTVhM1JkZjNEcWVzQ1hhMXdBbm1qS0pLS0hvYzdfaXJnSno5QW1PSUliYXQ0RHJBNmRYOS0wRG5ad0pTcw?oc=5\" target=\"_blank\">Без танка «Леопард», но с небом над Курском. Петербургская школа снова закупает симулятор полетов БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:35:00 GMT"
+    },
+    {
+      "title": "ФИПИ назвал самые частые орфографические ошибки на ЕГЭ-2026 по русскому языку - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wRWtPdlgwM1pMOVR4SVl1NFBVZWpVZjdkZTdScHkzYTFQR3F0MzVsTWplX2g5LUtNVk91SFpLUkhidUxVMzlOTlRTY2FHRUZMOUNSWTV5aUJaQVpFM1VyWXc2SQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wRWtPdlgwM1pMOVR4SVl1NFBVZWpVZjdkZTdScHkzYTFQR3F0MzVsTWplX2g5LUtNVk91SFpLUkhidUxVMzlOTlRTY2FHRUZMOUNSWTV5aUJaQVpFM1VyWXc2SQ?oc=5\" target=\"_blank\">ФИПИ назвал самые частые орфографические ошибки на ЕГЭ-2026 по русскому языку</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:33:17 GMT"
+    },
+    {
+      "title": "Трасса А-120 станет реверсивной под Гатчиной до начала октября - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZV2Q2QzFpMVRMWWNpRWtWWDV0ODBJUzFEU0l6azBNdWJiRDNKV1RnTXJ6YVc4UW1JNXc1S3J3Z2UtR1NPa3RRVXVLUHlSYnVzRVdubkJBMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZV2Q2QzFpMVRMWWNpRWtWWDV0ODBJUzFEU0l6azBNdWJiRDNKV1RnTXJ6YVc4UW1JNXc1S3J3Z2UtR1NPa3RRVXVLUHlSYnVzRVdubkJBMA?oc=5\" target=\"_blank\">Трасса А-120 станет реверсивной под Гатчиной до начала октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:29:00 GMT"
+    },
+    {
+      "title": "Рынки. Разбор: Выпуск за 16 сентября 2026. Смотреть онлайн - tv.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YWVBvWDV6UUp4V2tmbVRmX3hwSlZsdTlCUjZzNzVvVi01Q1diR0xGYjVoWjBON2x0X0R0Zy15RW9OQk9fVXBuZDBKQ0hwNUZDVGFoVkNybTlIcFZ1aG5QTi1OV3FxYmQx?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YWVBvWDV6UUp4V2tmbVRmX3hwSlZsdTlCUjZzNzVvVi01Q1diR0xGYjVoWjBON2x0X0R0Zy15RW9OQk9fVXBuZDBKQ0hwNUZDVGFoVkNybTlIcFZ1aG5QTi1OV3FxYmQx?oc=5\" target=\"_blank\">Рынки. Разбор: Выпуск за 16 сентября 2026. Смотреть онлайн</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tv.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 09:23:12 GMT"
+    },
+    {
+      "title": "Ремилитаризация Японии угрожает безопасности России, заявил МИД - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BeGpzdS1UbVlmdjlOSVllUGxTUmdGTlRyaU1INmllMHIxd0k4XzRtU29haVc1ZzUwcTV4ZDNHa2l6Z1lYNjBYSHl2bUozLUg3dE1JWHlR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BeGpzdS1UbVlmdjlOSVllUGxTUmdGTlRyaU1INmllMHIxd0k4XzRtU29haVc1ZzUwcTV4ZDNHa2l6Z1lYNjBYSHl2bUozLUg3dE1JWHlR?oc=5\" target=\"_blank\">Ремилитаризация Японии угрожает безопасности России, заявил МИД</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 09:20:00 GMT"
+    },
+    {
+      "title": "Об этом просил «Аэрофлот». Росавиация не планирует ограничивать иностранные чартеры - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qd0J2azF3NXp2WnBYbGF5UjUyaFdOUy02cWdJeHMxdXp6MzZ6UlBMSlVNYzJlRU1LaVM1WmhaQTVEVXlQS1JkRFdsT2VycE85bWVlMFNMNA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qd0J2azF3NXp2WnBYbGF5UjUyaFdOUy02cWdJeHMxdXp6MzZ6UlBMSlVNYzJlRU1LaVM1WmhaQTVEVXlQS1JkRFdsT2VycE85bWVlMFNMNA?oc=5\" target=\"_blank\">Об этом просил «Аэрофлот». Росавиация не планирует ограничивать иностранные чартеры</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:18:53 GMT"
+    },
+    {
+      "title": "В Воронежской области после удара молнии без газа остались 4600 человек - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQUFlPWVdQWGN4Y3ZYZHBTMTZ5X1MtOHhBTEluSnpzQWtqZE9DTlNpZHRqVEFDVkNncHZ3RnYtaHNXdDJmczhlQkNDY1dTakFVaFFmWnotV3V1cU4xQnVnNnZpOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQUFlPWVdQWGN4Y3ZYZHBTMTZ5X1MtOHhBTEluSnpzQWtqZE9DTlNpZHRqVEFDVkNncHZ3RnYtaHNXdDJmczhlQkNDY1dTakFVaFFmWnotV3V1cU4xQnVnNnZpOA?oc=5\" target=\"_blank\">В Воронежской области после удара молнии без газа остались 4600 человек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:17:29 GMT"
+    },
+    {
+      "title": "Изъятые активы экс-депутата Вороновского вновь не реализовали на торгах - kuban.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEdVWnZRaVVfdEItWDc5TnlFSDNJX1B6SkdrMno5SWhRNlZNcUZLTGdoNFhKR3BJT2FKc2NxVTY5YlR3ejd1WjZ4WmVCc0tSUTYzcFZCRjVQMTBuUVJ2RzRodXloa3pOdkJoeS1rQUp6RjZEQkJNNEt5bVB4QUZZQTZUOEJZRmM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEdVWnZRaVVfdEItWDc5TnlFSDNJX1B6SkdrMno5SWhRNlZNcUZLTGdoNFhKR3BJT2FKc2NxVTY5YlR3ejd1WjZ4WmVCc0tSUTYzcFZCRjVQMTBuUVJ2RzRodXloa3pOdkJoeS1rQUp6RjZEQkJNNEt5bVB4QUZZQTZUOEJZRmM?oc=5\" target=\"_blank\">Изъятые активы экс-депутата Вороновского вновь не реализовали на торгах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kuban.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 09:10:00 GMT"
+    },
+    {
+      "title": "Краснодар стал лидером по снижению цен на новостройки в августе 2026 г. - kuban.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRDJfQVJ4azY3R1BRQjh4bFRwOW9IZDFKMG1pbnUwYzktcXFvX211cC03cF9BdGN4cjMxNWw2bXJFR0duY2lETl9NR0Jod1JsYnVWcDZJWGJtNjhyS3NjcXJYNXZKWl9oeW5sSWk1QjBtdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9HRDJfQVJ4azY3R1BRQjh4bFRwOW9IZDFKMG1pbnUwYzktcXFvX211cC03cF9BdGN4cjMxNWw2bXJFR0duY2lETl9NR0Jod1JsYnVWcDZJWGJtNjhyS3NjcXJYNXZKWl9oeW5sSWk1QjBtdw?oc=5\" target=\"_blank\">Краснодар стал лидером по снижению цен на новостройки в августе 2026 г.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kuban.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 09:10:00 GMT"
+    },
+    {
+      "title": "Среда джаза с Давидом Голощекиным: The Dave Brubeck Quartet — At Carnegie Hall - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1NHF5OEV4YmhLNGxyOXVUZjIzLXdia0tHeXNycDNWQjAxc2E5b2ZGbE14dzZUX1pBZGpsb2JKcFQxemRDb0tqelhzQURYQ2Z1ZFVVeF8wcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1NHF5OEV4YmhLNGxyOXVUZjIzLXdia0tHeXNycDNWQjAxc2E5b2ZGbE14dzZUX1pBZGpsb2JKcFQxemRDb0tqelhzQURYQ2Z1ZFVVeF8wcw?oc=5\" target=\"_blank\">Среда джаза с Давидом Голощекиным: The Dave Brubeck Quartet — At Carnegie Hall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 09:10:00 GMT"
+    },
+    {
+      "title": "Власти Дона направили более ₽900 млн на благоустройство сел в 2026 г. - rostov.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDI2d3dpMm5kbUw4NUxRN2c1LWJPWmsxT0ZsaUN4N051REMtbGliMU5GLVIza21HOC1FVEx2dVpLMjE2eWI3ZWZXNkxSRnk4NHRiVzZCMUtOSzdHQ0lQdDVJR1JzOUZFZFRfNTYyUmVfQ1pHUFlKZkdLTUh5c0FhVm93?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDI2d3dpMm5kbUw4NUxRN2c1LWJPWmsxT0ZsaUN4N051REMtbGliMU5GLVIza21HOC1FVEx2dVpLMjE2eWI3ZWZXNkxSRnk4NHRiVzZCMUtOSzdHQ0lQdDVJR1JzOUZFZFRfNTYyUmVfQ1pHUFlKZkdLTUh5c0FhVm93?oc=5\" target=\"_blank\">Власти Дона направили более ₽900 млн на благоустройство сел в 2026 г.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rostov.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 09:04:16 GMT"
+    },
+    {
+      "title": "Мурашко объяснил, почему россияне не питаются правильно - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAta3BNM1RVMW1Fbm9iMEZKZ2w0OFRvVDR3cXduZWJheXotNFZoSWVXYUJENnFkb2JXaUt2VVFQcTlrUVExNWVwZ21HM3FxTWN2X0dKaDZ1MFBaY1gx?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAta3BNM1RVMW1Fbm9iMEZKZ2w0OFRvVDR3cXduZWJheXotNFZoSWVXYUJENnFkb2JXaUt2VVFQcTlrUVExNWVwZ21HM3FxTWN2X0dKaDZ1MFBaY1gx?oc=5\" target=\"_blank\">Мурашко объяснил, почему россияне не питаются правильно</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 09:03:00 GMT"
+    },
+    {
+      "title": "Пенсионерка погибла после нападения медведя у дома в Красноярском крае - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5saWxEMnRuZlh6cW9qT2thU0c5TFVJUGdCQ3AxVVh1NTk5TkdKdWg0LUtKbU5JSjNEeUh4STYyNTRMdmFHQWFVdTNTVzJGLVlLMktULS1OVE11ay16Tm0zcUtHWXA2dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5saWxEMnRuZlh6cW9qT2thU0c5TFVJUGdCQ3AxVVh1NTk5TkdKdWg0LUtKbU5JSjNEeUh4STYyNTRMdmFHQWFVdTNTVzJGLVlLMktULS1OVE11ay16Tm0zcUtHWXA2dw?oc=5\" target=\"_blank\">Пенсионерка погибла после нападения медведя у дома в Красноярском крае</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:57:51 GMT"
+    },
+    {
+      "title": "Россельхознадзор обязал производителя ООО «Ветибохим» уничтожить 20-ю серию вакцины «Мультикан-8» - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPVFBoUGV0dVB0M1l3blBIMmJhQVV1c0o1R28zeV9mZ0szakFPaVFyd200TExiVnFmNXMtaHFiUEg3dXY0WnpnbkY5Uzl2X0dsTHdpeXpURnB5dHEtS1dEMjlrSTZaWEFnLU15TGNvSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBPVFBoUGV0dVB0M1l3blBIMmJhQVV1c0o1R28zeV9mZ0szakFPaVFyd200TExiVnFmNXMtaHFiUEg3dXY0WnpnbkY5Uzl2X0dsTHdpeXpURnB5dHEtS1dEMjlrSTZaWEFnLU15TGNvSQ?oc=5\" target=\"_blank\">Россельхознадзор обязал производителя ООО «Ветибохим» уничтожить 20-ю серию вакцины «Мультикан-8»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:57:51 GMT"
+    },
+    {
+      "title": "«Для личных целей». 55 кг волос привезла петербурженка из Дубая — показываем фото - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kaDBtVm5hYVVyVUpLZHZhdXFLcjdyN05NYUJVTlRRTHVBWkFVaTBxUS1FUFhrUnVUbEVVMmNISDNadHlrMzdwWUxHTTZmNkc0RlJYN25ETQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kaDBtVm5hYVVyVUpLZHZhdXFLcjdyN05NYUJVTlRRTHVBWkFVaTBxUS1FUFhrUnVUbEVVMmNISDNadHlrMzdwWUxHTTZmNkc0RlJYN25ETQ?oc=5\" target=\"_blank\">«Для личных целей». 55 кг волос привезла петербурженка из Дубая — показываем фото</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 08:54:00 GMT"
+    },
+    {
+      "title": "Мурашко: понятия безопасного уровня употребления алкоголя не существует - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbFBBUGE5LW15SDFWeTk2cFpPZWVGNENmQnpDclNqSGU3OENER2VZUFpoVjZNUXpmb1ZSYjdXQlNkYkpwZUdSUDdFdGRYb3JlM0hHNExSSlc1dWF0NXN6QzU3dktTUElZdERfNXVnSmdvMWdxS2p6bjRlT3I0QdIBgwFBVV95cUxQRnlsYlpqcnBsOGlEb242aXFPeXBtSUpKSWljZW9Pck1BT0xRS2lDaklPWXZla00yNGo1N2VVU0ZMc1JLLXZ5OFFzQ2EtaE9zM0hORDZ3WldPTEpmRU5Ha25rWUg3dW1yNGhFdGxoekxDQl93Y1lrZ0M2cFR6ZmIxNnNjZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbFBBUGE5LW15SDFWeTk2cFpPZWVGNENmQnpDclNqSGU3OENER2VZUFpoVjZNUXpmb1ZSYjdXQlNkYkpwZUdSUDdFdGRYb3JlM0hHNExSSlc1dWF0NXN6QzU3dktTUElZdERfNXVnSmdvMWdxS2p6bjRlT3I0QdIBgwFBVV95cUxQRnlsYlpqcnBsOGlEb242aXFPeXBtSUpKSWljZW9Pck1BT0xRS2lDaklPWXZla00yNGo1N2VVU0ZMc1JLLXZ5OFFzQ2EtaE9zM0hORDZ3WldPTEpmRU5Ha25rWUg3dW1yNGhFdGxoekxDQl93Y1lrZ0M2cFR6ZmIxNnNjZw?oc=5\" target=\"_blank\">Мурашко: понятия безопасного уровня употребления алкоголя не существует</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 08:50:09 GMT"
+    },
+    {
+      "title": "Число абортов в России сократилось в четыре раза. А число выкидышей — увеличилось - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAycE5rY0RpT2dJcG9LM0lRTzgwX2ladzhZdVpnZ2tNczZTaXVDaERlaW9EVU1heU9LWVZLZ3RWRGQwMU83R0pZdzlRcFNOcHhkZ1ZzeUFHMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAycE5rY0RpT2dJcG9LM0lRTzgwX2ladzhZdVpnZ2tNczZTaXVDaERlaW9EVU1heU9LWVZLZ3RWRGQwMU83R0pZdzlRcFNOcHhkZ1ZzeUFHMA?oc=5\" target=\"_blank\">Число абортов в России сократилось в четыре раза. А число выкидышей — увеличилось</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 08:43:00 GMT"
+    },
+    {
+      "title": "Мурашко заявил о превышении нормы потребления сахара в четыре раза - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53OWFDZ3drV216Z1RuVXhVcE1tWEhUbGdCZ3lDQjBJcDM4UmZKc0lMa01jTElsc0FsQXFKT19BSk9PaE5QemFFSkZZOHVrZE9GMDZub1lFNmU0bVRO?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE53OWFDZ3drV216Z1RuVXhVcE1tWEhUbGdCZ3lDQjBJcDM4UmZKc0lMa01jTElsc0FsQXFKT19BSk9PaE5QemFFSkZZOHVrZE9GMDZub1lFNmU0bVRO?oc=5\" target=\"_blank\">Мурашко заявил о превышении нормы потребления сахара в четыре раза</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 08:40:00 GMT"
+    },
+    {
+      "title": "Проект КРТ в Канавинском районе показали жителям домов в зоне застройки - nn.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OanhSaEF5SldQa0lMTlB0RW9ueU13QlVSNTR1Z0hHUW1penNKS19FM3N3YW96eGtpTi1DMkR6aGFUdFp3c1QwYWFBUlF4Z2Y2cXMyWEhzQnpvV0Z1YXN6djRJZlU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OanhSaEF5SldQa0lMTlB0RW9ueU13QlVSNTR1Z0hHUW1penNKS19FM3N3YW96eGtpTi1DMkR6aGFUdFp3c1QwYWFBUlF4Z2Y2cXMyWEhzQnpvV0Z1YXN6djRJZlU?oc=5\" target=\"_blank\">Проект КРТ в Канавинском районе показали жителям домов в зоне застройки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nn.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:35:26 GMT"
+    },
+    {
+      "title": "Нижегородские власти используют дроны для борьбы с нелегальными свалками - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DR1Jua3VPREhRcERVQVl1NE5lWGhHSTRvdHdHQ1BxdlNoaWp4WUNzcTEwU2VRT0dKTkpyek0yQ0RkVF9MMkJmanNlTl9COGVvdWVLV2RjS1c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DR1Jua3VPREhRcERVQVl1NE5lWGhHSTRvdHdHQ1BxdlNoaWp4WUNzcTEwU2VRT0dKTkpyek0yQ0RkVF9MMkJmanNlTl9COGVvdWVLV2RjS1c?oc=5\" target=\"_blank\">Нижегородские власти используют дроны для борьбы с нелегальными свалками</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 08:35:00 GMT"
+    },
+    {
+      "title": "Киев затянуло густым дымом после пожара, сообщает украинское издание «Новости.LIVE - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQUcxdmVmOXh0d3Q4TWpYN01EeFNWYWlJejlETnFWMXRpamxMRUd3S3hFU2NLMGUtdVZiUjRRNU9CanJJU0Npang5VVJoMGVyR3dYLVRzRE1scFpwdVByMkVrY05LZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQUcxdmVmOXh0d3Q4TWpYN01EeFNWYWlJejlETnFWMXRpamxMRUd3S3hFU2NLMGUtdVZiUjRRNU9CanJJU0Npang5VVJoMGVyR3dYLVRzRE1scFpwdVByMkVrY05LZw?oc=5\" target=\"_blank\">Киев затянуло густым дымом после пожара, сообщает украинское издание «Новости.LIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:34:54 GMT"
+    },
+    {
+      "title": "В Тюменской области построят суперколонию ФСИН - t.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BVHpVMTJoU0hGOXdGeHFWRjhDbkk1ZTNxT1hqZnYtR3dQcGFaZVk5Tm11WmlEc1NFemhJR2V1QkhaTGt4OTdDdWpJeHBjRTNqbDVIV0tsUjN2X1liV2YwNmR6RDZDcUlr?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BVHpVMTJoU0hGOXdGeHFWRjhDbkk1ZTNxT1hqZnYtR3dQcGFaZVk5Tm11WmlEc1NFemhJR2V1QkhaTGt4OTdDdWpJeHBjRTNqbDVIV0tsUjN2X1liV2YwNmR6RDZDcUlr?oc=5\" target=\"_blank\">В Тюменской области построят суперколонию ФСИН</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">t.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:29:25 GMT"
+    },
+    {
+      "title": "«Сбер» продает крупное отделение в Омске и еще два — в районах области - omsk.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lRFN3Y1BqTUhTRTVNMW5VSTUwNXJZYnAxRko3bVZ0a1psZi05ZjdPRkdqeGtqYXl4cHhLTG50SElSM3NGR3U4S0JvYnRIaGNvdVZyY0trV1JfSTBXTFZ1X2tSQklJYlRmZDRsVw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5lRFN3Y1BqTUhTRTVNMW5VSTUwNXJZYnAxRko3bVZ0a1psZi05ZjdPRkdqeGtqYXl4cHhLTG50SElSM3NGR3U4S0JvYnRIaGNvdVZyY0trV1JfSTBXTFZ1X2tSQklJYlRmZDRsVw?oc=5\" target=\"_blank\">«Сбер» продает крупное отделение в Омске и еще два — в районах области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">omsk.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:27:26 GMT"
+    },
+    {
+      "title": "ВСУ ударили по двум школам в Херсонской области - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VmdaaWdVaWFsTDVKeERtRm9MbzBzRE42akpGWjBzM3Jnc084a2tnbkw1MGV5QmJhNnlPRnhlaGRWSWdRWE9nN09RTmloMERwMkQ4dUhhX3lTUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VmdaaWdVaWFsTDVKeERtRm9MbzBzRE42akpGWjBzM3Jnc084a2tnbkw1MGV5QmJhNnlPRnhlaGRWSWdRWE9nN09RTmloMERwMkQ4dUhhX3lTUQ?oc=5\" target=\"_blank\">ВСУ ударили по двум школам в Херсонской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 08:27:00 GMT"
+    },
+    {
+      "title": "В микрорайоне Петрозаводска запустили новую очередь газификации - karelia.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcW5Rb1V5cEsyRlh4TlE3blJIODFJM01VY3VoODNRRl9wNnJXTWE1VE53VTdJRk11RnBlMW5GODNEcDBnbG12R3RZd09RUHQ5cWtYMlFJNTUzU0dyaTNIZURFRC1aWVUwbzBPUTA1TUZVY3VZ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcW5Rb1V5cEsyRlh4TlE3blJIODFJM01VY3VoODNRRl9wNnJXTWE1VE53VTdJRk11RnBlMW5GODNEcDBnbG12R3RZd09RUHQ5cWtYMlFJNTUzU0dyaTNIZURFRC1aWVUwbzBPUTA1TUZVY3VZ?oc=5\" target=\"_blank\">В микрорайоне Петрозаводска запустили новую очередь газификации</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">karelia.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:25:29 GMT"
+    },
+    {
+      "title": "Долг застройщиков Татарстана достиг максимума с начала года. Инфографика - rt.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yNFBzbkJKU2VWd1d5cW1yVG9lWm1QSHB6ZV9qSHpJSVZPVmdhN2VPVU9NS096U0E2NTgwZGNuWXZSMjdURDNkU2kxWmlhUjg1bEhTN3Y4bnU5UHFRZkVhaTBGako0TGJDaGgxQ3dnSGM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4yNFBzbkJKU2VWd1d5cW1yVG9lWm1QSHB6ZV9qSHpJSVZPVmdhN2VPVU9NS096U0E2NTgwZGNuWXZSMjdURDNkU2kxWmlhUjg1bEhTN3Y4bnU5UHFRZkVhaTBGako0TGJDaGgxQ3dnSGM?oc=5\" target=\"_blank\">Долг застройщиков Татарстана достиг максимума с начала года. Инфографика</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rt.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 08:25:28 GMT"
+    },
+    {
+      "title": "Въезд в Россию закрыли 200 тысячам иностранцев - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkeHBySGRmaUlRdjFDdEU1bU83VENQZVVlV2ZKXzUyN2lwS2l5NDZzRjVEUUR3SGEwNDg2c1FuMFpzY0ltM0I1QWxOS2V4eFpob1NXV1pKTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkeHBySGRmaUlRdjFDdEU1bU83VENQZVVlV2ZKXzUyN2lwS2l5NDZzRjVEUUR3SGEwNDg2c1FuMFpzY0ltM0I1QWxOS2V4eFpob1NXV1pKTQ?oc=5\" target=\"_blank\">Въезд в Россию закрыли 200 тысячам иностранцев</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 08:25:20 GMT"
+    }
+  ]
 }
