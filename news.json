@@ -1,20 +1,34 @@
 {
-  "updated": "2026-09-16T22:36:30.362410+00:00",
+  "updated": "2026-09-16T23:05:11.906193+00:00",
   "count": 40,
   "news": [
-    {
-      "title": "ООО «БУЛАВА» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmRIZFl6V1RGdXBNQ0JBWFBJa3lNUmQ3OGxrc0VyOG1JVEk3WExzNmJCQ3BUVkN4dEU5NkNraFlYb3Bka3ljZ29oay1BbmFhZzRRc3dqWl9Yb2RBdE5QckV3eFh1NWl1aW9wcEQ1c2NKeGFiaHZjV3RpaEY1WDVkbEpIYUpaWUFRR3B2clR1dWVzT1dmbzEwNg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmRIZFl6V1RGdXBNQ0JBWFBJa3lNUmQ3OGxrc0VyOG1JVEk3WExzNmJCQ3BUVkN4dEU5NkNraFlYb3Bka3ljZ29oay1BbmFhZzRRc3dqWl9Yb2RBdE5QckV3eFh1NWl1aW9wcEQ1c2NKeGFiaHZjV3RpaEY1WDVkbEpIYUpaWUFRR3B2clR1dWVzT1dmbzEwNg?oc=5\" target=\"_blank\">ООО «БУЛАВА»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 24 Nov 2021 17:31:17 GMT"
-    },
     {
       "title": "Курсы Skillbox по Adobe XD - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5\" target=\"_blank\">Курсы Skillbox по Adobe XD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 19 Aug 2026 01:18:54 GMT"
+    },
+    {
+      "title": "Трамп назвал повышение ключевой ставки в США политическим шагом - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HWDlVRUhmWDJxbmNFWXkxMUpWeTZWRDRNTUJHVHNtbFpaTWN0UHFBZkpfbUpNTEJuOHNTWktxUTVVQzBZNDBIdVUtR1haQmsyVWNOQ0U0Zng?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HWDlVRUhmWDJxbmNFWXkxMUpWeTZWRDRNTUJHVHNtbFpaTWN0UHFBZkpfbUpNTEJuOHNTWktxUTVVQzBZNDBIdVUtR1haQmsyVWNOQ0U0Zng?oc=5\" target=\"_blank\">Трамп назвал повышение ключевой ставки в США политическим шагом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 22:54:00 GMT"
+    },
+    {
+      "title": "Конфликт с Ираном скоро завершится, заявил Трамп - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YUUNac2RzZS1kZmEzUlhvQ21OQWpuMkJjbTBOSEw3NlVCUkw0Q3RIazQzOGJMcFNmYXR5OU1hVkMwSllGOFJsTE81d3NnMGM4ek1kMWpSMG4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YUUNac2RzZS1kZmEzUlhvQ21OQWpuMkJjbTBOSEw3NlVCUkw0Q3RIazQzOGJMcFNmYXR5OU1hVkMwSllGOFJsTE81d3NnMGM4ek1kMWpSMG4?oc=5\" target=\"_blank\">Конфликт с Ираном скоро завершится, заявил Трамп</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 22:47:00 GMT"
+    },
+    {
+      "title": "Палата представителей США проголосовала по законопроекту о санкциях против России - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVk9JYmlRQkphV0NWVW5hdl9RSWY4aDgtOVY4Vi1hcXBucmdTUFZnUGw2cndKRG9pMDR2c0I4bGp0WHhNbWpTc1JYOTFjUkZwZGVmR2p0TQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVk9JYmlRQkphV0NWVW5hdl9RSWY4aDgtOVY4Vi1hcXBucmdTUFZnUGw2cndKRG9pMDR2c0I4bGp0WHhNbWpTc1JYOTFjUkZwZGVmR2p0TQ?oc=5\" target=\"_blank\">Палата представителей США проголосовала по законопроекту о санкциях против России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 22:46:00 GMT"
     },
     {
       "title": "Палата представителей США проголосовала за проект о санкциях против России - ria.ru",
@@ -29,13 +43,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OSkdqajhmOFhkWVhlNFBtU0dseWhzeml2Y1JjUVZNMzhVWVNRRFdkU3JubGVwRTRPZDZzRlUtbVpSZXVXYXZYNUIzTXVQYjRiTkdiT2UtZw?oc=5\" target=\"_blank\">Москву атаковали дроны ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 16 Sep 2026 22:18:00 GMT"
-    },
-    {
-      "title": "\"Было интересно\": Вован и Лексус раскрыли план Запада по Украине - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NWhQaWthUEZxNDZ2MERPLWpFOWNVV3JyemgtSmhiV3lGa29RcmowWWhSNUNoZnFRV1RLMy1BVzN6VUJXTG1jc3BLM2dPVWpjSkozZW9CenNYZ2s?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NWhQaWthUEZxNDZ2MERPLWpFOWNVV3JyemgtSmhiV3lGa29RcmowWWhSNUNoZnFRV1RLMy1BVzN6VUJXTG1jc3BLM2dPVWpjSkozZW9CenNYZ2s?oc=5\" target=\"_blank\">\"Было интересно\": Вован и Лексус раскрыли план Запада по Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 16 Sep 2026 22:17:00 GMT"
     },
     {
       "title": "Трамп запретил канадские товары в госзакупках - ria.ru",
@@ -71,6 +78,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVN1B3MUpwYXdDWE14ZDJXYk5aWnVnSTVzVUg1VmxXMnFIRGdldUVBbk5yTVhyanVtR3p0ZXZrOEVRQm0xdE5ZZ3p0OXBwUldOX2hKTkg1U3JVb3dyUGJMTXc3dw?oc=5\" target=\"_blank\">В Иркутской области обезвредили двух медведей, угрожавших жителям</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 16 Sep 2026 21:29:05 GMT"
+    },
+    {
+      "title": "Земля лишилась 11 триллионов тонн льда за 45 лет - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPNEhvMjZJU1pfUGpjYkFHdWRTWDNDUFBZR3I5U1ZxdHk2R0MzWG9Gak85TnZScUxDOXVjaUF4czVUbnQwR3ZZV0dsSjRESXVOWmkyZXBYZTdZdkZSM0cwS1o2OA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPNEhvMjZJU1pfUGpjYkFHdWRTWDNDUFBZR3I5U1ZxdHk2R0MzWG9Gak85TnZScUxDOXVjaUF4czVUbnQwR3ZZV0dsSjRESXVOWmkyZXBYZTdZdkZSM0cwS1o2OA?oc=5\" target=\"_blank\">Земля лишилась 11 триллионов тонн льда за 45 лет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 21:25:00 GMT"
     },
     {
       "title": "В аэропорту Саратова сняли ограничения - ria.ru",
@@ -113,6 +127,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MUUNqTEpST2VpR3I3cWxWdjE3Sk5RSnl1eTZ4LVRqWEJMbF9xUU9yY3lEWE96cFRZZ09HdU83WG9taVVGcFN1bUVzVHk4Ql92RnF6ZDgyWQ?oc=5\" target=\"_blank\">«Только белые списки». В Петербурге — проблемы с мобильным интернетом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 16 Sep 2026 20:55:00 GMT"
+    },
+    {
+      "title": "Открытое горение на строительном рынке в Одинцово потушено - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52am8zT0c5ZXlWcllWU1FGZVZ5Qld4YnlkV01sMGRkMVl0NWdONE1zcTVZMEtONHk4TTJsU0JZNUdIaDZseUhmTEt6U1J4b1huX0hqY3pQd252SUlYUFRZOTVhZUlwVDdFYS1RaW1kd2pXM0HSAXhBVV95cUxOdmcwbVBvdVM1ZndsbkZ1ajdJZ2dKVnVRODZ4MzhVVVZOTzN4bUhjTUk2MUhiNDN2WnZKOXlReTI3U3BEMHJUMnpZRUVJVmtteko1Z1RVQl93MW94V3J5N2hGOXVYb2RMaHFkZzZ4b0F3Z3h1MjRuYkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE52am8zT0c5ZXlWcllWU1FGZVZ5Qld4YnlkV01sMGRkMVl0NWdONE1zcTVZMEtONHk4TTJsU0JZNUdIaDZseUhmTEt6U1J4b1huX0hqY3pQd252SUlYUFRZOTVhZUlwVDdFYS1RaW1kd2pXM0HSAXhBVV95cUxOdmcwbVBvdVM1ZndsbkZ1ajdJZ2dKVnVRODZ4MzhVVVZOTzN4bUhjTUk2MUhiNDN2WnZKOXlReTI3U3BEMHJUMnpZRUVJVmtteko1Z1RVQl93MW94V3J5N2hGOXVYb2RMaHFkZzZ4b0F3Z3h1MjRuYkE?oc=5\" target=\"_blank\">Открытое горение на строительном рынке в Одинцово потушено</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 20:50:46 GMT"
     },
     {
       "title": "В Ростове-на-Дону из здания вокзала из-за пожара эвакуировали 300 человек - rbc.ru",
@@ -260,27 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tLVFyLWZqLWR2RHBUNlRVczlYYlpWVExJYzg4WEo3b0pLYmxXNFFpLUtRSEwtY1hJWnE0b2NVaU1CeFZmejJRdk1nd1lBZy03U0xUbDJFWHBtYlpMUHE2MnJZRUZRdw?oc=5\" target=\"_blank\">Врач Тимаков объяснил, почему нельзя отказываться от прививки от гриппа</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 16 Sep 2026 19:22:52 GMT"
-    },
-    {
-      "title": "В Ставрополе ущерб по делу о махинациях с иномарками превысил 25 млн рублей - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92XzRka0t5THpqZnpfeEVjM2RTUEtpNEROaFRIY2x2clNteFJDS0MyRVhGYURQZDdmWGJDNGx6Q1BXMm9NQXUxUGRTVFV5aEVVZTJ4OU9qSGpDV3FiTWJVdlVPZUpfT2FaSmhldEY4RTFMSi1SWUZZWNIBfkFVX3lxTE1XRkcyVVBvUzJoY3ZoVGV6TEw4T1BrNmxnREVxZldjZnl0RGdOQXRDeWZaemVpeFZuRnVsanhiYVd2bGVnLTM1NXJiSjZJZVo5dU1GamF6QWN2RHJXUEVjS3VCcjE4MDFydGNNVVR0T0ttYlktM0FiMFU5R2tkdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE92XzRka0t5THpqZnpfeEVjM2RTUEtpNEROaFRIY2x2clNteFJDS0MyRVhGYURQZDdmWGJDNGx6Q1BXMm9NQXUxUGRTVFV5aEVVZTJ4OU9qSGpDV3FiTWJVdlVPZUpfT2FaSmhldEY4RTFMSi1SWUZZWNIBfkFVX3lxTE1XRkcyVVBvUzJoY3ZoVGV6TEw4T1BrNmxnREVxZldjZnl0RGdOQXRDeWZaemVpeFZuRnVsanhiYVd2bGVnLTM1NXJiSjZJZVo5dU1GamF6QWN2RHJXUEVjS3VCcjE4MDFydGNNVVR0T0ttYlktM0FiMFU5R2tkdw?oc=5\" target=\"_blank\">В Ставрополе ущерб по делу о махинациях с иномарками превысил 25 млн рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 16 Sep 2026 19:18:27 GMT"
-    },
-    {
-      "title": "Членом избиркома Кировского района Петербурга оказался арестованный за убийство представитель ЛДПР - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40amZtVkZQMWdRektIcVhIakJNNGQzZXdaUW5PV0Y3bjlJNlNHTUc5anpYMG44eWc3REJTdk4tT09pOTRlR0RzV0NlYTFHcWdpYlVDSVZwUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE40amZtVkZQMWdRektIcVhIakJNNGQzZXdaUW5PV0Y3bjlJNlNHTUc5anpYMG44eWc3REJTdk4tT09pOTRlR0RzV0NlYTFHcWdpYlVDSVZwUQ?oc=5\" target=\"_blank\">Членом избиркома Кировского района Петербурга оказался арестованный за убийство представитель ЛДПР</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 16 Sep 2026 19:13:00 GMT"
-    },
-    {
-      "title": "\"Чуть не случился сердечный приступ\": Карседо вспомнил победный гол Угальде - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WU43dmRHYlVpeE1pNW5ZUDVEczVDNWpIY1lydzBnQm5EU2wzOWN1NlA5TGRkemlmTXNLVnd0WGs0SEdxVi0wU1p6YjJYLUJ0cTNjYUItaWNhQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WU43dmRHYlVpeE1pNW5ZUDVEczVDNWpIY1lydzBnQm5EU2wzOWN1NlA5TGRkemlmTXNLVnd0WGs0SEdxVi0wU1p6YjJYLUJ0cTNjYUItaWNhQQ?oc=5\" target=\"_blank\">\"Чуть не случился сердечный приступ\": Карседо вспомнил победный гол Угальде</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 16 Sep 2026 19:11:00 GMT"
     }
   ]
 }
