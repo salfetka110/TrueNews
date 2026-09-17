@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:35:54.781600+00:00",
+  "updated": "2026-09-17T00:06:57.391718+00:00",
   "count": 40,
   "news": [
     {
@@ -8,6 +8,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5\" target=\"_blank\">Курсы Skillbox по Adobe XD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 19 Aug 2026 01:18:54 GMT"
+    },
+    {
+      "title": "Курсы Цифриум по детскому образованию - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzb0I1NTg5aHMxTTlUTmFVa0lDTm5BbUxnUGZQa2loQUZ0dURvYzRyekJQaGE0QzdSaDRicWVWTy0zTGNBbTZMd3Q3RkJUWlBI?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzb0I1NTg5aHMxTTlUTmFVa0lDTm5BbUxnUGZQa2loQUZ0dURvYzRyekJQaGE0QzdSaDRicWVWTy0zTGNBbTZMd3Q3RkJUWlBI?oc=5\" target=\"_blank\">Курсы Цифриум по детскому образованию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:31:51 GMT"
     },
     {
       "title": "Курсы ЭКОДПО по переподготовке на специалиста по закупкам - rbc.ru",
@@ -22,6 +29,20 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FR1dOQUY1NmtqczJMNjU3MldOU1pISVZZSmxxSHEzRFlFaHFiaUk3YlNCZVpaM3dJN3RZT2Y5S05IOEEwV2ZpOUFBUjY5RmtmcUE?oc=5\" target=\"_blank\">Курсы Лектариум по подготовке к ОГЭ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 16 Sep 2026 23:23:32 GMT"
+    },
+    {
+      "title": "Курсы 99 баллов по подготовке к ОГЭ по математике - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyME5oX0Y0R3ZSZVpUb1JfZTNzY3JDSDFpTXc0Wm0zTFRBTTBPbXl6OWM1bHppX0g3OThBUDM3LXlPWWk1N0pFN2NQZDdGU3p2cHg0NlpieEg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyME5oX0Y0R3ZSZVpUb1JfZTNzY3JDSDFpTXc0Wm0zTFRBTTBPbXl6OWM1bHppX0g3OThBUDM3LXlPWWk1N0pFN2NQZDdGU3p2cHg0NlpieEg?oc=5\" target=\"_blank\">Курсы 99 баллов по подготовке к ОГЭ по математике</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:23:31 GMT"
+    },
+    {
+      "title": "Курсы 99 баллов по подготовке к ОГЭ по физике - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZU1POExGM3FpcElQR2MwUWhlTHdhamJXODNKLXNSbTROY0FRbE5TN3FLWHN6Ny1TT0ZHM2ZFQWNkaDBKVE1JT3QxN0FXV21JN2s3YUhUUDFIeHZs?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZU1POExGM3FpcElQR2MwUWhlTHdhamJXODNKLXNSbTROY0FRbE5TN3FLWHN6Ny1TT0ZHM2ZFQWNkaDBKVE1JT3QxN0FXV21JN2s3YUhUUDFIeHZs?oc=5\" target=\"_blank\">Курсы 99 баллов по подготовке к ОГЭ по физике</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:23:30 GMT"
     },
     {
       "title": "Курсы 99 баллов по подготовке к ЕГЭ по химии - rbc.ru",
@@ -73,6 +94,13 @@
       "pub": "Wed, 16 Sep 2026 22:18:00 GMT"
     },
     {
+      "title": "Смолянам рассказали, как проверить себя в списках избирателей — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDNHdVdoRkdhbkYyeDJScmNJQ3I4NTdCZVNqY3pZdWxaeUdtN05DMm1SZk9JXzlQV2k4ZzVycnJxT1p0ek4xVHJhNlR2WUVRcF81NDhoN21iYTVRd28xQjRGVm5TNlBXRWtrYUFob3pwVDRUdmVDNTYyRzhNMmY1WWxqbDJ5TVBOOHBrdHhzRXFLTlE1Uk1FbDBSM0FQeHNHaEZUSlU0Y2lqdXFibGw3cVNlNlliSHFHQ3lqZWNLbExhQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDNHdVdoRkdhbkYyeDJScmNJQ3I4NTdCZVNqY3pZdWxaeUdtN05DMm1SZk9JXzlQV2k4ZzVycnJxT1p0ek4xVHJhNlR2WUVRcF81NDhoN21iYTVRd28xQjRGVm5TNlBXRWtrYUFob3pwVDRUdmVDNTYyRzhNMmY1WWxqbDJ5TVBOOHBrdHhzRXFLTlE1Uk1FbDBSM0FQeHNHaEZUSlU0Y2lqdXFibGw3cVNlNlliSHFHQ3lqZWNLbExhQQ?oc=5\" target=\"_blank\">Смолянам рассказали, как проверить себя в списках избирателей — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 22:01:59 GMT"
+    },
+    {
       "title": "Трамп запретил канадские товары в госзакупках - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuMXQwQTVzZTdHNDlFdkwxWDRkLWpJdTV5ZUIxVVRMVlRYdXFXcWttRTJTV2g0SGdDQ1dzb0VNVlZXN2ltMGxHTEJWTWNXa1RpVnU2bWgwRTA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuMXQwQTVzZTdHNDlFdkwxWDRkLWpJdTV5ZUIxVVRMVlRYdXFXcWttRTJTV2g0SGdDQ1dzb0VNVlZXN2ltMGxHTEJWTWNXa1RpVnU2bWgwRTA?oc=5\" target=\"_blank\">Трамп запретил канадские товары в госзакупках</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
@@ -92,13 +120,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9XblRac2plb3BOejRfMTY5TE45THRTVEZHVm1rYkdEYXBkd2ItcmdyeEZNd3RMUG43RDZMU1dlSzhPQ1BJWmIzSEY0cllfel9Ra2pLMWFOc1FxRW5wdnVFYWl3TEJaSU82NmhJUlZjZzQ4enhZZjRzLTVUaVVLODQ?oc=5\" target=\"_blank\">В аэропортах Внуково и Домодедово ограничили приём и отправку рейсов — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Wed, 16 Sep 2026 21:37:13 GMT"
-    },
-    {
-      "title": "В Иркутской области обезвредили двух медведей, угрожавших жителям - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVN1B3MUpwYXdDWE14ZDJXYk5aWnVnSTVzVUg1VmxXMnFIRGdldUVBbk5yTVhyanVtR3p0ZXZrOEVRQm0xdE5ZZ3p0OXBwUldOX2hKTkg1U3JVb3dyUGJMTXc3dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVN1B3MUpwYXdDWE14ZDJXYk5aWnVnSTVzVUg1VmxXMnFIRGdldUVBbk5yTVhyanVtR3p0ZXZrOEVRQm0xdE5ZZ3p0OXBwUldOX2hKTkg1U3JVb3dyUGJMTXc3dw?oc=5\" target=\"_blank\">В Иркутской области обезвредили двух медведей, угрожавших жителям</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 16 Sep 2026 21:29:05 GMT"
     },
     {
       "title": "Земля лишилась 11 триллионов тонн льда за 45 лет - ФОНТАНКА.ру",
@@ -260,27 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5JYVpUcjRBdXVOOGhqYjd1REVQRWhKWS1DWndaOHlDd05YS0dXU1NjaXZkRXlVUlRQU3RqQjlCQzRrQ2VYQTZlbU9oM1JOSk4tQThvNE5jamFmRFRZeDNwaEV3WG9TcjA4QWRSU3RJb2loX0ZH0gF6QVVfeXFMTUFOUUdvLVpzUzV0cnRyQlFtNTc0OE1tc1ZfWF80U1RyS0t2TVUxR0E5cElYTkhGRFRkUHBWdVVGblprUkRxLW5rQldwS2VKMUlma044RWdmRW14UGRFbXozTEF5TndwbDIwVVdVNnFNeUoyWTFOM0lWd1E?oc=5\" target=\"_blank\">Доцент Борисова рассказала о самых высоких зарплатах в сентябре</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Wed, 16 Sep 2026 19:44:26 GMT"
-    },
-    {
-      "title": "\"Исторические сдвиги\": в США удивились произошедшему на саммите БРИКС - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpSEV4MlRfb0cxZWZvVDRkUU9mWmVfTVVhTWhWOFpiRjltQUNtNXBsRjVZZi01Zzl1X25Gb3ZiTGh3Y0xJbmw2ZFlhSGtEUWFMeHQyTVpTUVU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpSEV4MlRfb0cxZWZvVDRkUU9mWmVfTVVhTWhWOFpiRjltQUNtNXBsRjVZZi01Zzl1X25Gb3ZiTGh3Y0xJbmw2ZFlhSGtEUWFMeHQyTVpTUVU?oc=5\" target=\"_blank\">\"Исторические сдвиги\": в США удивились произошедшему на саммите БРИКС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 16 Sep 2026 19:41:00 GMT"
-    },
-    {
-      "title": "Терапевт Кондрахин предупредил об опасных осложнениях затяжного насморка - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GenVrclA5azFwNVdzQXJ5eVZRY3ItT2FsN0VOTXFpekg5cGQyaHp2TWZDWHRVSlZEMmxuRTVuT191NnNRa1dubk9zNVVVMXlUdkIybG5IUTV2QUdkQTN1TVRteE1KMzhNRWp1bUl2X2t6UdIBd0FVX3lxTE4yS2dfRk1kaUNzZEFWUmhTcGdZS0pSWkc0NXZxdGE4RDVlUjhRaHI2dGFiR09Gd3VacHBDM3gtOURQNVROQUU3R0tnRjVZcmZGVUxnLXZSekxUNTFrbVdCY2Y4OE5IMnZ6VmZXajhpaVhudmpaMWow?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1GenVrclA5azFwNVdzQXJ5eVZRY3ItT2FsN0VOTXFpekg5cGQyaHp2TWZDWHRVSlZEMmxuRTVuT191NnNRa1dubk9zNVVVMXlUdkIybG5IUTV2QUdkQTN1TVRteE1KMzhNRWp1bUl2X2t6UdIBd0FVX3lxTE4yS2dfRk1kaUNzZEFWUmhTcGdZS0pSWkc0NXZxdGE4RDVlUjhRaHI2dGFiR09Gd3VacHBDM3gtOURQNVROQUU3R0tnRjVZcmZGVUxnLXZSekxUNTFrbVdCY2Y4OE5IMnZ6VmZXajhpaVhudmpaMWow?oc=5\" target=\"_blank\">Терапевт Кондрахин предупредил об опасных осложнениях затяжного насморка</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 16 Sep 2026 19:38:31 GMT"
-    },
-    {
-      "title": "Глава «Рыбного союза» Панин: цена на красную икру к Новому году должна устояться - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2YWpWcDF6U2xkUUdoNWE1OF9yUEl5bnJzajR1a1BUYkFVTUR4aHZBenlUUzM4Nlg2aWd0NzMxWHdKVDNQSGhXOWFXbmNnMnJmUW11R0p4T196cFVSYkR5Y2tIWHRaM2Etb0HSAW9BVV95cUxNZHhlLVFJM25HUDVsRks3NmlOX24yMGZnRXg5a093dUpqWkRQNFNocjdpS0lDU2NhMVBvWlFNR2t6cHptUU5QZ3B3V2YyUzVYMllWTVRheWZKaEljNTFRU215Ui1oRU9naGFMTkRjNDg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB2YWpWcDF6U2xkUUdoNWE1OF9yUEl5bnJzajR1a1BUYkFVTUR4aHZBenlUUzM4Nlg2aWd0NzMxWHdKVDNQSGhXOWFXbmNnMnJmUW11R0p4T196cFVSYkR5Y2tIWHRaM2Etb0HSAW9BVV95cUxNZHhlLVFJM25HUDVsRks3NmlOX24yMGZnRXg5a093dUpqWkRQNFNocjdpS0lDU2NhMVBvWlFNR2t6cHptUU5QZ3B3V2YyUzVYMllWTVRheWZKaEljNTFRU215Ui1oRU9naGFMTkRjNDg?oc=5\" target=\"_blank\">Глава «Рыбного союза» Панин: цена на красную икру к Новому году должна устояться</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 16 Sep 2026 19:37:12 GMT"
     }
   ]
 }
