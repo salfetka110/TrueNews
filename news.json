@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-17T06:06:51.514859+00:00",
+  "updated": "2026-09-17T06:42:28.583181+00:00",
   "count": 40,
   "news": [
-    {
-      "title": "ООО «БУЛАВА» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmRIZFl6V1RGdXBNQ0JBWFBJa3lNUmQ3OGxrc0VyOG1JVEk3WExzNmJCQ3BUVkN4dEU5NkNraFlYb3Bka3ljZ29oay1BbmFhZzRRc3dqWl9Yb2RBdE5QckV3eFh1NWl1aW9wcEQ1c2NKeGFiaHZjV3RpaEY1WDVkbEpIYUpaWUFRR3B2clR1dWVzT1dmbzEwNg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmRIZFl6V1RGdXBNQ0JBWFBJa3lNUmQ3OGxrc0VyOG1JVEk3WExzNmJCQ3BUVkN4dEU5NkNraFlYb3Bka3ljZ29oay1BbmFhZzRRc3dqWl9Yb2RBdE5QckV3eFh1NWl1aW9wcEQ1c2NKeGFiaHZjV3RpaEY1WDVkbEpIYUpaWUFRR3B2clR1dWVzT1dmbzEwNg?oc=5\" target=\"_blank\">ООО «БУЛАВА»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 24 Nov 2021 17:31:17 GMT"
-    },
     {
       "title": "Курсы Skillbox по Adobe XD - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5",
@@ -31,11 +24,18 @@
       "pub": "Wed, 16 Sep 2026 23:31:51 GMT"
     },
     {
-      "title": "Курсы Компьютерная Академия ТОП по подготовке к ЕГЭ по биологии - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jT0o0QXhQaGNfSm03UnNnRFk0NXI0TnVZeXllNW1nZFdDZm51cEtsY2tTSWRyanFRWEhuUWFwUmc5NlNtWVA4c1lCUVZfaG1lUzBvR0wyS1JzYkJ0MU9taEF0Z0NGZHVEUWUzVUJrTFgzM0tP?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1jT0o0QXhQaGNfSm03UnNnRFk0NXI0TnVZeXllNW1nZFdDZm51cEtsY2tTSWRyanFRWEhuUWFwUmc5NlNtWVA4c1lCUVZfaG1lUzBvR0wyS1JzYkJ0MU9taEF0Z0NGZHVEUWUzVUJrTFgzM0tP?oc=5\" target=\"_blank\">Курсы Компьютерная Академия ТОП по подготовке к ЕГЭ по биологии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 16 Sep 2026 23:27:12 GMT"
+      "title": "Новые многофункциональные кабинеты откроют в педуниверситете Армавира — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmR2b05wUXp5cDNsWHVNUnJLMlpYUWcxZWE5SFVpWlg2dzVGaWo4eGpOTVRONEx4SFBtVVh0a0hqOUJ4SG5kN3ZwQ1N2UTE0X3ZkS2Nnd2lPa0YzR0MzWFVQRlpfY2k0LUNCUEdOb2g0dHZsVjI1UVB3cjRnOWVXY2VITnRhS0VKUG42VUVyQ1RmQXU5MS1kRE1iZ2FOZm9vZ3VyNHhqei1fRlZJbXV6cFJpelV5b05fN3BmWHBuVHJPbWNEbTFz?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmR2b05wUXp5cDNsWHVNUnJLMlpYUWcxZWE5SFVpWlg2dzVGaWo4eGpOTVRONEx4SFBtVVh0a0hqOUJ4SG5kN3ZwQ1N2UTE0X3ZkS2Nnd2lPa0YzR0MzWFVQRlpfY2k0LUNCUEdOb2g0dHZsVjI1UVB3cjRnOWVXY2VITnRhS0VKUG42VUVyQ1RmQXU5MS1kRE1iZ2FOZm9vZ3VyNHhqei1fRlZJbXV6cFJpelV5b05fN3BmWHBuVHJPbWNEbTFz?oc=5\" target=\"_blank\">Новые многофункциональные кабинеты откроют в педуниверситете Армавира — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:28:58 GMT"
+    },
+    {
+      "title": "Владимир Путин призвал россиян проголосовать на выборах — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXUtMG1IanNGV3ZyZ0NmM0Z6NGNmM3RhaWswTjZrNXhsUXVENC1jSWRmS0JFbGxtYUFrVDI5RzNPaVd2X25pTE5ZSkFGb0dCSzNKYV9OU1NrNVB0NWtWcG8xVUFRQ1A0Uzg0NUpFaWhsbVJFQ05ub2luTldsMEo2aWthM1ZIRjhud2Y1MXdGdUZQZW9GSEVqWnRvbHFRcHRteE1xSTNGR1JzeU1fam9HYXRUQVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXUtMG1IanNGV3ZyZ0NmM0Z6NGNmM3RhaWswTjZrNXhsUXVENC1jSWRmS0JFbGxtYUFrVDI5RzNPaVd2X25pTE5ZSkFGb0dCSzNKYV9OU1NrNVB0NWtWcG8xVUFRQ1A0Uzg0NUpFaWhsbVJFQ05ub2luTldsMEo2aWthM1ZIRjhud2Y1MXdGdUZQZW9GSEVqWnRvbHFRcHRteE1xSTNGR1JzeU1fam9HYXRUQVQ?oc=5\" target=\"_blank\">Владимир Путин призвал россиян проголосовать на выборах — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:27:27 GMT"
     },
     {
       "title": "Курсы ЭКОДПО по переподготовке на специалиста по закупкам - rbc.ru",
@@ -73,6 +73,13 @@
       "pub": "Wed, 16 Sep 2026 23:23:30 GMT"
     },
     {
+      "title": "Губернатор Развожаев: в Севастополе отражают атаку дронов ВСУ — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUcxUUx5OTNpWEFidzFpMUNENjNlbjZVc0hqekIzd3RjT1RPa3ozM01vRVdENVplMDJ5NHI1QWJEM2FjOWc3UnB0c3pHcFVQSjkzbkx5MEdrdlZ2Ulp4UjB4S2dGY0VaamlISFdld0hHRjhzMXREdGxyd0gtR3RsQzdrRDhQQ1MtNGtXRDVXR2RxRG1qdF9ORnRrU2xrd0VaVzQ3ZDIzRDRxODBWbHpIQndWMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUcxUUx5OTNpWEFidzFpMUNENjNlbjZVc0hqekIzd3RjT1RPa3ozM01vRVdENVplMDJ5NHI1QWJEM2FjOWc3UnB0c3pHcFVQSjkzbkx5MEdrdlZ2Ulp4UjB4S2dGY0VaamlISFdld0hHRjhzMXREdGxyd0gtR3RsQzdrRDhQQ1MtNGtXRDVXR2RxRG1qdF9ORnRrU2xrd0VaVzQ3ZDIzRDRxODBWbHpIQndWMA?oc=5\" target=\"_blank\">Губернатор Развожаев: в Севастополе отражают атаку дронов ВСУ — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:21:40 GMT"
+    },
+    {
       "title": "Курсы Лектариум по подготовке к ЕГЭ - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWmhvZndJNVQxaFM2LW5iVlFFb21aQUZVZEVyd0g3ZzdLTHVIdGR3eVN4ODFzdVdZdDZ2b0pnT3plSnFReDVJSGE5MDlNQUFlMnc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWmhvZndJNVQxaFM2LW5iVlFFb21aQUZVZEVyd0g3ZzdLTHVIdGR3eVN4ODFzdVdZdDZ2b0pnT3plSnFReDVJSGE5MDlNQUFlMnc?oc=5\" target=\"_blank\">Курсы Лектариум по подготовке к ЕГЭ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
@@ -85,13 +92,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1aRDBWTW5raExqUW5BQjZuTUJjRHJac2hVV2tFOGw4LWhiS1hfZHYzTFFXcFU3YVZYb1o3ZnlDSVhWazBETmppRU1aU2tDMFMyTkVPc3JDTk5oLXpsZHdwS2s0bU5hYVVGT3JsNjJ2aUhKS3dsbmt6atIBfkFVX3lxTFBxVm1jUWxSbm9XV0JjUDhoOEJFT0ozWkc1QS03Y2N5SGtrdG4xNU4tT0hMOEJtYUZTZ3lkOWxYTjVWdW1nQlQ1Q1IzUGdaak9IM0RNZzZIVjhhUFJfM1AwSXVOSGxwaDB4UnBMWjdydUZVclhqYkZyM3JPcXNYQQ?oc=5\" target=\"_blank\">Выезд из Ярославля в сторону Москвы перекрыли в целях безопасности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Wed, 16 Sep 2026 23:09:29 GMT"
-    },
-    {
-      "title": "Курсы Компьютерная Академия ТОП по подготовке к ЕГЭ по физике - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxY2s5aGM5UjIwUGlvR2FpakhrN0VoOUwwVmF6aWlCaDhiOEpVUXFwUUN1ZWJLdWhaVkhzcHVpTHktV0Y2d3QwZFhHM1M3bjlHZ2kxeWV5NUIzLTdxb0Y2aG94bXZ0SzY3UmhTNzg0X2o4YTNQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBxY2s5aGM5UjIwUGlvR2FpakhrN0VoOUwwVmF6aWlCaDhiOEpVUXFwUUN1ZWJLdWhaVkhzcHVpTHktV0Y2d3QwZFhHM1M3bjlHZ2kxeWV5NUIzLTdxb0Y2aG94bXZ0SzY3UmhTNzg0X2o4YTNQ?oc=5\" target=\"_blank\">Курсы Компьютерная Академия ТОП по подготовке к ЕГЭ по физике</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 16 Sep 2026 22:59:11 GMT"
     },
     {
       "title": "Соболев поддержал Латышонка после пропущенного мяча - ria.ru",
@@ -176,13 +176,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9XblRac2plb3BOejRfMTY5TE45THRTVEZHVm1rYkdEYXBkd2ItcmdyeEZNd3RMUG43RDZMU1dlSzhPQ1BJWmIzSEY0cllfel9Ra2pLMWFOc1FxRW5wdnVFYWl3TEJaSU82NmhJUlZjZzQ4enhZZjRzLTVUaVVLODQ?oc=5\" target=\"_blank\">В аэропортах Внуково и Домодедово ограничили приём и отправку рейсов — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Wed, 16 Sep 2026 21:37:13 GMT"
-    },
-    {
-      "title": "НАСА обнаружило на Луне крупнейший из новых кратеров в Солнечной системе - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONHNQYU1FNHZHSWNCb1c5MmdZalFWem1McmRXa1o0VTNmU1NhOXkwRjY1QUdrREIyT3RlRFE5VUhfMzZLNG9IOThVLXVfSmJXTXBfbk51bw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONHNQYU1FNHZHSWNCb1c5MmdZalFWem1McmRXa1o0VTNmU1NhOXkwRjY1QUdrREIyT3RlRFE5VUhfMzZLNG9IOThVLXVfSmJXTXBfbk51bw?oc=5\" target=\"_blank\">НАСА обнаружило на Луне крупнейший из новых кратеров в Солнечной системе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 16 Sep 2026 21:26:00 GMT"
     },
     {
       "title": "В аэропорту Саратова сняли ограничения - ria.ru",
@@ -281,6 +274,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQQm1XOTVoUy0xWUhqZDM4SjZ5TUw5QmNBTjRPdWZFWmM3Q094cnNXN21kUTBDNFdvUUZFTW42NHNDNFBUUGNkUHl2Y3FzY01VdVNHbzdYZjczSGJtbDc4ODViVXhXN0hZdUtIS2lfWk1DTGVHbUlCS3JRejJxeG9pbDN4MWZqa1B2MFNvVVIyVzR6YzU1M0ExdUhwUzNLZ0t5bzVDWFVGc2ozZkhuNW5UT3dqNFhpeFdwWUNncFNkUXZtVVBma1Fn?oc=5\" target=\"_blank\">От Ханжонкова – императору России: уникальный экспонат в Центральном музее Тавриды</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crimea.ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Wed, 16 Sep 2026 20:21:00 GMT"
+    },
+    {
+      "title": "Такер Карлсон назвал западноевропейских лидеров невежественными - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11SjNjSjQ2NHhBa3RLQkI3MTBhZGF3dTZFWmZpdUw3WGZVUmRkYjZrM20xSHVtcnJ2SUJ0dDlpeTR1MFk1emdPMFdrR285Sk9hWjFYTEsxOVZYRnc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE11SjNjSjQ2NHhBa3RLQkI3MTBhZGF3dTZFWmZpdUw3WGZVUmRkYjZrM20xSHVtcnJ2SUJ0dDlpeTR1MFk1emdPMFdrR285Sk9hWjFYTEsxOVZYRnc?oc=5\" target=\"_blank\">Такер Карлсон назвал западноевропейских лидеров невежественными</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 20:18:00 GMT"
     }
   ]
 }
