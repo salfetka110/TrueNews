@@ -1,5 +1,286 @@
 {
-  "updated": "2026-09-17T16:38:14.118971+00:00",
-  "count": 0,
-  "news": []
+  "updated": "2026-09-17T17:04:31.536640+00:00",
+  "count": 40,
+  "news": [
+    {
+      "title": "ГАУ СО «РЦОКО» - companies.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOXpyNkdRdUxrcnBwT21ra09vWTZLY3NZRUtNem1wUVE2LWR2Q2pxWjkzWEpWejRFVUJGdEhQMjk3UFJOcmFYTnpBN2xWSnAxYzRiNmNwSE5mblFmSmctUVFOQjdiWmlPU0p0YjZKbHB4VnpNRkNKcEdhV3Nvcm83aDVFRDZ6ZVhuZW5jU0NsaWh5QzI2VlFRNVNqeHJ6OUstUWNteTJhSkQ2bk5ScFpDNEFkZDZJR20zaDJLa21TV2xkZjZXOWpuQUtsODNpMGhpWWs1VWdHaEF5VlJCTkNtNG1BR2lVSGRm?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOXpyNkdRdUxrcnBwT21ra09vWTZLY3NZRUtNem1wUVE2LWR2Q2pxWjkzWEpWejRFVUJGdEhQMjk3UFJOcmFYTnpBN2xWSnAxYzRiNmNwSE5mblFmSmctUVFOQjdiWmlPU0p0YjZKbHB4VnpNRkNKcEdhV3Nvcm83aDVFRDZ6ZVhuZW5jU0NsaWh5QzI2VlFRNVNqeHJ6OUstUWNteTJhSkQ2bk5ScFpDNEFkZDZJR20zaDJLa21TV2xkZjZXOWpuQUtsODNpMGhpWWs1VWdHaEF5VlJCTkNtNG1BR2lVSGRm?oc=5\" target=\"_blank\">ГАУ СО «РЦОКО»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 24 Nov 2021 10:46:33 GMT"
+    },
+    {
+      "title": "Курсы Skillbox по Adobe XD - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5\" target=\"_blank\">Курсы Skillbox по Adobe XD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 19 Aug 2026 01:18:54 GMT"
+    },
+    {
+      "title": "В России предложили ввести заучивание текстов для ЕГЭ по литературе - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWV9JZmVNeXFhdUpIVy1qQnRSNTBfUjdTTmwtckpDemUwS1FBRElibTJfNXR5bWN2bmtPSWxyUXZpY0NXSGYwajJLN1pIQXF5Wlg3S3BUaW8?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWV9JZmVNeXFhdUpIVy1qQnRSNTBfUjdTTmwtckpDemUwS1FBRElibTJfNXR5bWN2bmtPSWxyUXZpY0NXSGYwajJLN1pIQXF5Wlg3S3BUaW8?oc=5\" target=\"_blank\">В России предложили ввести заучивание текстов для ЕГЭ по литературе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 23:50:00 GMT"
+    },
+    {
+      "title": "Песков: \"адские санкции\" США лишь усложнят урегулирование на Украине - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmRm9kbTFGeHVZbkdwMWs2Q1prS2F2MGJCLTNJYXV6V1FtakFBOGd2U3NaVm9GNWpJb3g5Z3paMGxrV1lFVmlnVw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmRm9kbTFGeHVZbkdwMWs2Q1prS2F2MGJCLTNJYXV6V1FtakFBOGd2U3NaVm9GNWpJb3g5Z3paMGxrV1lFVmlnVw?oc=5\" target=\"_blank\">Песков: \"адские санкции\" США лишь усложнят урегулирование на Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:47:00 GMT"
+    },
+    {
+      "title": "2025 год стал самым одним из самых засушливых. Причины жары - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CSXB0WDFzVkQ1WERfaUZUeHJJQ1FBNlRCNktTcF94dXh6S2xMYXB1dWJFd01QMElKSkRvc1QtNGF6SzVFdHU4SGdWYTd4bUhSOS1UTTZYc1BxZUcwaGV5Yjdabw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CSXB0WDFzVkQ1WERfaUZUeHJJQ1FBNlRCNktTcF94dXh6S2xMYXB1dWJFd01QMElKSkRvc1QtNGF6SzVFdHU4SGdWYTd4bUhSOS1UTTZYc1BxZUcwaGV5Yjdabw?oc=5\" target=\"_blank\">2025 год стал самым одним из самых засушливых. Причины жары</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:46:52 GMT"
+    },
+    {
+      "title": "Кремль прокомментировал ситуацию с законом США об \"адских санкциях\" - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lcU1FcDZ3cVBEbWdxaFlqSUEzYl9yeV93TGw5N3E5dmdSV2w1ZW9GVWhBTmM1Nzc4NkNobDMxeS15V3NaVk1Nbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lcU1FcDZ3cVBEbWdxaFlqSUEzYl9yeV93TGw5N3E5dmdSV2w1ZW9GVWhBTmM1Nzc4NkNobDMxeS15V3NaVk1Nbw?oc=5\" target=\"_blank\">Кремль прокомментировал ситуацию с законом США об \"адских санкциях\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:46:00 GMT"
+    },
+    {
+      "title": "Кремль назвал недружественным принятие в США закона об \"адских санкциях\" - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yRTlRcFBfTVpHT2NMc3RuQlYwa2ZhSzYzaXRLcXdCekZobmxWWWxvUzA0LUVrVVhYaFg4VDRlODRpU1V4dUQ0Mw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yRTlRcFBfTVpHT2NMc3RuQlYwa2ZhSzYzaXRLcXdCekZobmxWWWxvUzA0LUVrVVhYaFg4VDRlODRpU1V4dUQ0Mw?oc=5\" target=\"_blank\">Кремль назвал недружественным принятие в США закона об \"адских санкциях\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:46:00 GMT"
+    },
+    {
+      "title": "Мурашко: женские консультации на 80% оснащены отечественным оборудованием - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZzVBTF9RWlMxNExPbGRoR3RSWWt6cHRQMGljNGhjbFNXeEpaLXZrMi1oaEhWaTY4Nk9XOXYwSTZLUmN5bHU3TlR2bw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZzVBTF9RWlMxNExPbGRoR3RSWWt6cHRQMGljNGhjbFNXeEpaLXZrMi1oaEhWaTY4Nk9XOXYwSTZLUmN5bHU3TlR2bw?oc=5\" target=\"_blank\">Мурашко: женские консультации на 80% оснащены отечественным оборудованием</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:46:00 GMT"
+    },
+    {
+      "title": "Водоснабжение Каховки ухудшилось из-за удара ВСУ по зданию водоканала - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CVHZUN1Z6R1VwdUlsbS1xVlFGeW9uejZtSV92YVp0bzVQUkpaSjlvS2RMd2tlNTl6UnE2WGpJQ3ZvcW9tNS1Xd01Dc2E0QUl3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CVHZUN1Z6R1VwdUlsbS1xVlFGeW9uejZtSV92YVp0bzVQUkpaSjlvS2RMd2tlNTl6UnE2WGpJQ3ZvcW9tNS1Xd01Dc2E0QUl3?oc=5\" target=\"_blank\">Водоснабжение Каховки ухудшилось из-за удара ВСУ по зданию водоканала</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:39:00 GMT"
+    },
+    {
+      "title": "МИД: Россия обсуждает восстановление прямых рейсов с Японией и Южной Кореей - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1lHdXVtRXRLNFIwcl9jaWEzbUY1aTA3ZnZDSjNYaVJndmpJdkVYbVhQZVpEa05YcXlLcjNGZFZBSEtxSHVYUDZ4Ui1rRlpxQk45YUlQY2pKYnpBTTMwMGc1MzdCN0MwSFVGb29iUEZ0NnVnUHFYUkRncmtxcTk1M2Q1Q0M5V1ZqX1Z1TlNzTWZHaHRO0gGaAUFVX3lxTE0wbVhJQzVXc1IzdDZudGFuSVNJRW55alRkd1RjT2dyUlB2aVM3SlNzcXJwN3lNOEJLb1c4Y2VuNFFnSDZUQVVMWmh3c09XZ0tVVUk1OGs5ZVBxdV93Z3RfcTRoZmZONmRYTVp5MVFaUGk1UWhNUGRNamNlVkFGZWJwa0Y5eGNjSFFtUWVEWEwzMlBHMzU2b0drTmc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1lHdXVtRXRLNFIwcl9jaWEzbUY1aTA3ZnZDSjNYaVJndmpJdkVYbVhQZVpEa05YcXlLcjNGZFZBSEtxSHVYUDZ4Ui1rRlpxQk45YUlQY2pKYnpBTTMwMGc1MzdCN0MwSFVGb29iUEZ0NnVnUHFYUkRncmtxcTk1M2Q1Q0M5V1ZqX1Z1TlNzTWZHaHRO0gGaAUFVX3lxTE0wbVhJQzVXc1IzdDZudGFuSVNJRW55alRkd1RjT2dyUlB2aVM3SlNzcXJwN3lNOEJLb1c4Y2VuNFFnSDZUQVVMWmh3c09XZ0tVVUk1OGs5ZVBxdV93Z3RfcTRoZmZONmRYTVp5MVFaUGk1UWhNUGRNamNlVkFGZWJwa0Y5eGNjSFFtUWVEWEwzMlBHMzU2b0drTmc?oc=5\" target=\"_blank\">МИД: Россия обсуждает восстановление прямых рейсов с Японией и Южной Кореей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Wed, 16 Sep 2026 23:38:59 GMT"
+    },
+    {
+      "title": "В аэропорту Сочи ввели ограничения - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CZV9NRG1aN1pvQ1V3SEQ5Mjk0UXN4bmdzVHF5VnRNRVU1VlZ1UGwzMmhhSWxpTjFZVEVSMnNoSTFvWlpuM0t3Q3M2Yw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CZV9NRG1aN1pvQ1V3SEQ5Mjk0UXN4bmdzVHF5VnRNRVU1VlZ1UGwzMmhhSWxpTjFZVEVSMnNoSTFvWlpuM0t3Q3M2Yw?oc=5\" target=\"_blank\">В аэропорту Сочи ввели ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:32:00 GMT"
+    },
+    {
+      "title": "Курсы Цифриум по детскому образованию - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzb0I1NTg5aHMxTTlUTmFVa0lDTm5BbUxnUGZQa2loQUZ0dURvYzRyekJQaGE0QzdSaDRicWVWTy0zTGNBbTZMd3Q3RkJUWlBI?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzb0I1NTg5aHMxTTlUTmFVa0lDTm5BbUxnUGZQa2loQUZ0dURvYzRyekJQaGE0QzdSaDRicWVWTy0zTGNBbTZMd3Q3RkJUWlBI?oc=5\" target=\"_blank\">Курсы Цифриум по детскому образованию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:31:51 GMT"
+    },
+    {
+      "title": "Новые многофункциональные кабинеты откроют в педуниверситете Армавира — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmR2b05wUXp5cDNsWHVNUnJLMlpYUWcxZWE5SFVpWlg2dzVGaWo4eGpOTVRONEx4SFBtVVh0a0hqOUJ4SG5kN3ZwQ1N2UTE0X3ZkS2Nnd2lPa0YzR0MzWFVQRlpfY2k0LUNCUEdOb2g0dHZsVjI1UVB3cjRnOWVXY2VITnRhS0VKUG42VUVyQ1RmQXU5MS1kRE1iZ2FOZm9vZ3VyNHhqei1fRlZJbXV6cFJpelV5b05fN3BmWHBuVHJPbWNEbTFz?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmR2b05wUXp5cDNsWHVNUnJLMlpYUWcxZWE5SFVpWlg2dzVGaWo4eGpOTVRONEx4SFBtVVh0a0hqOUJ4SG5kN3ZwQ1N2UTE0X3ZkS2Nnd2lPa0YzR0MzWFVQRlpfY2k0LUNCUEdOb2g0dHZsVjI1UVB3cjRnOWVXY2VITnRhS0VKUG42VUVyQ1RmQXU5MS1kRE1iZ2FOZm9vZ3VyNHhqei1fRlZJbXV6cFJpelV5b05fN3BmWHBuVHJPbWNEbTFz?oc=5\" target=\"_blank\">Новые многофункциональные кабинеты откроют в педуниверситете Армавира — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:28:58 GMT"
+    },
+    {
+      "title": "Владимир Путин призвал россиян проголосовать на выборах — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXUtMG1IanNGV3ZyZ0NmM0Z6NGNmM3RhaWswTjZrNXhsUXVENC1jSWRmS0JFbGxtYUFrVDI5RzNPaVd2X25pTE5ZSkFGb0dCSzNKYV9OU1NrNVB0NWtWcG8xVUFRQ1A0Uzg0NUpFaWhsbVJFQ05ub2luTldsMEo2aWthM1ZIRjhud2Y1MXdGdUZQZW9GSEVqWnRvbHFRcHRteE1xSTNGR1JzeU1fam9HYXRUQVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXUtMG1IanNGV3ZyZ0NmM0Z6NGNmM3RhaWswTjZrNXhsUXVENC1jSWRmS0JFbGxtYUFrVDI5RzNPaVd2X25pTE5ZSkFGb0dCSzNKYV9OU1NrNVB0NWtWcG8xVUFRQ1A0Uzg0NUpFaWhsbVJFQ05ub2luTldsMEo2aWthM1ZIRjhud2Y1MXdGdUZQZW9GSEVqWnRvbHFRcHRteE1xSTNGR1JzeU1fam9HYXRUQVQ?oc=5\" target=\"_blank\">Владимир Путин призвал россиян проголосовать на выборах — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:27:27 GMT"
+    },
+    {
+      "title": "Ученые исследовали истоки виноделия в Пиренеях. Вот, что они узнали - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uSDRtRGF6bk5WSFlTZ1IwaW44N3NjMmVFSmloQmpmekZPVTI3dlpwWVRneFFGZ3RnLUx5cHJpLTVuU2Y4elQ5cEFDTWdmR1B2OXJvYzMzcDFDR2dFcUJXcEFJOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uSDRtRGF6bk5WSFlTZ1IwaW44N3NjMmVFSmloQmpmekZPVTI3dlpwWVRneFFGZ3RnLUx5cHJpLTVuU2Y4elQ5cEFDTWdmR1B2OXJvYzMzcDFDR2dFcUJXcEFJOA?oc=5\" target=\"_blank\">Ученые исследовали истоки виноделия в Пиренеях. Вот, что они узнали</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:27:00 GMT"
+    },
+    {
+      "title": "Грищенко возглавил ульяновский футбольный клуб \"Волга\" - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WX0ZXOHZDejdCMTNqc1R0OGhtT3JzVXZqVUxNNTVhTjhSQzFDZUpGb05Mbll1SFMyLUUwa3pwSjM1SlhVTlczZ1c3Y2NIWE5BZ2dSdTFWY3BkVWRXSFpSenFGN2tCSDJNV1B2V1Q1UWljcGk4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1WX0ZXOHZDejdCMTNqc1R0OGhtT3JzVXZqVUxNNTVhTjhSQzFDZUpGb05Mbll1SFMyLUUwa3pwSjM1SlhVTlczZ1c3Y2NIWE5BZ2dSdTFWY3BkVWRXSFpSenFGN2tCSDJNV1B2V1Q1UWljcGk4?oc=5\" target=\"_blank\">Грищенко возглавил ульяновский футбольный клуб \"Волга\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:26:00 GMT"
+    },
+    {
+      "title": "Курсы ЭКОДПО по переподготовке на специалиста по закупкам - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyY1VaN3VpMDh1ejVaMkVFd3ZqSjdxdGRfeDBiSFdKT1JNbE5oR0lLS2NWUXg4MVVrNkw4MjFWSjhUTGktRENQM1g3cEJFUE5lZTBrcWlIc05ja2h0S0gyU0JONTlLT1dJMGVjUjhON2pUSjl0UkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyY1VaN3VpMDh1ejVaMkVFd3ZqSjdxdGRfeDBiSFdKT1JNbE5oR0lLS2NWUXg4MVVrNkw4MjFWSjhUTGktRENQM1g3cEJFUE5lZTBrcWlIc05ja2h0S0gyU0JONTlLT1dJMGVjUjhON2pUSjl0UkE?oc=5\" target=\"_blank\">Курсы ЭКОДПО по переподготовке на специалиста по закупкам</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:23:32 GMT"
+    },
+    {
+      "title": "Курсы Лектариум по подготовке к ОГЭ - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FR1dOQUY1NmtqczJMNjU3MldOU1pISVZZSmxxSHEzRFlFaHFiaUk3YlNCZVpaM3dJN3RZT2Y5S05IOEEwV2ZpOUFBUjY5RmtmcUE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FR1dOQUY1NmtqczJMNjU3MldOU1pISVZZSmxxSHEzRFlFaHFiaUk3YlNCZVpaM3dJN3RZT2Y5S05IOEEwV2ZpOUFBUjY5RmtmcUE?oc=5\" target=\"_blank\">Курсы Лектариум по подготовке к ОГЭ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:23:32 GMT"
+    },
+    {
+      "title": "Курсы 99 баллов по подготовке к ОГЭ по математике - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyME5oX0Y0R3ZSZVpUb1JfZTNzY3JDSDFpTXc0Wm0zTFRBTTBPbXl6OWM1bHppX0g3OThBUDM3LXlPWWk1N0pFN2NQZDdGU3p2cHg0NlpieEg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyME5oX0Y0R3ZSZVpUb1JfZTNzY3JDSDFpTXc0Wm0zTFRBTTBPbXl6OWM1bHppX0g3OThBUDM3LXlPWWk1N0pFN2NQZDdGU3p2cHg0NlpieEg?oc=5\" target=\"_blank\">Курсы 99 баллов по подготовке к ОГЭ по математике</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:23:31 GMT"
+    },
+    {
+      "title": "Курсы 99 баллов по подготовке к ОГЭ по физике - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZU1POExGM3FpcElQR2MwUWhlTHdhamJXODNKLXNSbTROY0FRbE5TN3FLWHN6Ny1TT0ZHM2ZFQWNkaDBKVE1JT3QxN0FXV21JN2s3YUhUUDFIeHZs?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZU1POExGM3FpcElQR2MwUWhlTHdhamJXODNKLXNSbTROY0FRbE5TN3FLWHN6Ny1TT0ZHM2ZFQWNkaDBKVE1JT3QxN0FXV21JN2s3YUhUUDFIeHZs?oc=5\" target=\"_blank\">Курсы 99 баллов по подготовке к ОГЭ по физике</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:23:30 GMT"
+    },
+    {
+      "title": "Курсы 99 баллов по подготовке к ЕГЭ по химии - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2TUVIVkRndWFWSUQ1Q01vekJPaHZyODJPbVNHMmlTSUpNUENPYzRBeDhMWTBrUFQzMHNOWENOY3dadndmcUc0YUlWMy1sNkZfNlBoU1BnRWlTV0MxWmp3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2TUVIVkRndWFWSUQ1Q01vekJPaHZyODJPbVNHMmlTSUpNUENPYzRBeDhMWTBrUFQzMHNOWENOY3dadndmcUc0YUlWMy1sNkZfNlBoU1BnRWlTV0MxWmp3?oc=5\" target=\"_blank\">Курсы 99 баллов по подготовке к ЕГЭ по химии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:23:30 GMT"
+    },
+    {
+      "title": "МО РФ показало видео боев за Малую Волчью в Харьковской области - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80VjBlU01EYVJmWV82SnhvTmRCbVJsczg4MDdIM0VKczl2R3NZdXRlTlNiaWQ0NS1Tb3ktSEVYOHZVLUlqQ0RfOG1EeHlwZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE80VjBlU01EYVJmWV82SnhvTmRCbVJsczg4MDdIM0VKczl2R3NZdXRlTlNiaWQ0NS1Tb3ktSEVYOHZVLUlqQ0RfOG1EeHlwZw?oc=5\" target=\"_blank\">МО РФ показало видео боев за Малую Волчью в Харьковской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:22:00 GMT"
+    },
+    {
+      "title": "Курсы Лектариум по подготовке к ЕГЭ - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWmhvZndJNVQxaFM2LW5iVlFFb21aQUZVZEVyd0g3ZzdLTHVIdGR3eVN4ODFzdVdZdDZ2b0pnT3plSnFReDVJSGE5MDlNQUFlMnc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWmhvZndJNVQxaFM2LW5iVlFFb21aQUZVZEVyd0g3ZzdLTHVIdGR3eVN4ODFzdVdZdDZ2b0pnT3plSnFReDVJSGE5MDlNQUFlMnc?oc=5\" target=\"_blank\">Курсы Лектариум по подготовке к ЕГЭ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:21:34 GMT"
+    },
+    {
+      "title": "В Подмосковье задержали организатора контрабанды оружия на Украину - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qMS1uSE9VX3RkQmlWZk12TTNXazkwa0tDcXNCSERFYzlpNXhSdEZiQVZXenlXeDJYYndjaDU1Z2EtMnV0RndFdHgxTFQ0NFJwVVE1SUZ3TW9fNzRPSjBkSUpyYzI0QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qMS1uSE9VX3RkQmlWZk12TTNXazkwa0tDcXNCSERFYzlpNXhSdEZiQVZXenlXeDJYYndjaDU1Z2EtMnV0RndFdHgxTFQ0NFJwVVE1SUZ3TW9fNzRPSjBkSUpyYzI0QQ?oc=5\" target=\"_blank\">В Подмосковье задержали организатора контрабанды оружия на Украину</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:13:00 GMT"
+    },
+    {
+      "title": "Подписные листы кандидатов в 22 регионах проверяли с помощью ИИ - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mM1pRdHZRNUtTM3gySnh2VmcxWHVjRU5OVnRLUHNKN05pYXBEbEpFREY0N3JKX2RWRGt2OHdOUjJpbkYtUWNuag?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mM1pRdHZRNUtTM3gySnh2VmcxWHVjRU5OVnRLUHNKN05pYXBEbEpFREY0N3JKX2RWRGt2OHdOUjJpbkYtUWNuag?oc=5\" target=\"_blank\">Подписные листы кандидатов в 22 регионах проверяли с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:09:00 GMT"
+    },
+    {
+      "title": "Чемпион мира по хоккею 1953 года Твиллинг умер в возрасте 98 лет - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBHcWFROGtPbVBKWXZIMGp5UlpxSm5JZTMtYXhYX204SFBybVpuaHRnWjdESklDRnVBMUVKWHc2ZFo5c3NN?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBHcWFROGtPbVBKWXZIMGp5UlpxSm5JZTMtYXhYX204SFBybVpuaHRnWjdESklDRnVBMUVKWHc2ZFo5c3NN?oc=5\" target=\"_blank\">Чемпион мира по хоккею 1953 года Твиллинг умер в возрасте 98 лет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:07:00 GMT"
+    },
+    {
+      "title": "Памфилова: отказов в регистрации на выборы губернаторов в 2026 году не было - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqVGs5eVZVTUpOMU1yV0NfVUJRLTdxampRNGE0eWtaVERzUEI5ZEV0RHhaNThqYlhHb3hkdU9zRmtoS2Ewdl96Xw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqVGs5eVZVTUpOMU1yV0NfVUJRLTdxampRNGE0eWtaVERzUEI5ZEV0RHhaNThqYlhHb3hkdU9zRmtoS2Ewdl96Xw?oc=5\" target=\"_blank\">Памфилова: отказов в регистрации на выборы губернаторов в 2026 году не было</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:07:00 GMT"
+    },
+    {
+      "title": "«Дорожная карта» трансформации: с чего начать и как измерить эффект - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Z2gxWUJ0WmhfX2lsUG05QU5SRnBWdkltallyNVBqWEFRbHpJbExqRUlwbWUtd28zT3NCMkRXYWtSSExOZU53cTVoM0loRXpibnpDS2NHZVZ3czlXWlNpTjFhcnFrZExnZXFpWXB0UFZhQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE14Z2gxWUJ0WmhfX2lsUG05QU5SRnBWdkltallyNVBqWEFRbHpJbExqRUlwbWUtd28zT3NCMkRXYWtSSExOZU53cTVoM0loRXpibnpDS2NHZVZ3czlXWlNpTjFhcnFrZExnZXFpWXB0UFZhQQ?oc=5\" target=\"_blank\">«Дорожная карта» трансформации: с чего начать и как измерить эффект</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:06:00 GMT"
+    },
+    {
+      "title": "Памфилова: видеонаблюдение на участках будет организовано во всех регионах - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WUHo4b0dBRzItYUVKME44RmlDcUx1bFpVVENfQ0NYeTFibGswWFZ1dm1xeTkzZjAzYzlFMGNYZS01b04xZXZwOQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WUHo4b0dBRzItYUVKME44RmlDcUx1bFpVVENfQ0NYeTFibGswWFZ1dm1xeTkzZjAzYzlFMGNYZS01b04xZXZwOQ?oc=5\" target=\"_blank\">Памфилова: видеонаблюдение на участках будет организовано во всех регионах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:04:00 GMT"
+    },
+    {
+      "title": "Китай оценил «адские санкции» против России, принятые конгрессом США - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DN2tIek4wSzFESnoxRlZMSGlEQXNySE05WUpIN2tWWXFnalpES3gtdnVuYml6a01NdWVLZ254UHN5YklaUGFXTTJBRkZRY0xjUExSeVhxTzJ3eWxybmtQeVVRZFRtV1I2MHNMTzUyRTE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9DN2tIek4wSzFESnoxRlZMSGlEQXNySE05WUpIN2tWWXFnalpES3gtdnVuYml6a01NdWVLZ254UHN5YklaUGFXTTJBRkZRY0xjUExSeVhxTzJ3eWxybmtQeVVRZFRtV1I2MHNMTzUyRTE?oc=5\" target=\"_blank\">Китай оценил «адские санкции» против России, принятые конгрессом США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 23:03:00 GMT"
+    },
+    {
+      "title": "Над Орловской областью за ночь сбили более 20 БПЛА - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45NmE1UWlwaXZpUmlpRXJ5c0htdnpQQ3B1MG5pQWZZcDJDdzZBMDI4YjRaVld1NnFERExCbXY3Vy1LUXBCVGJyMklHQUFJcDRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE45NmE1UWlwaXZpUmlpRXJ5c0htdnpQQ3B1MG5pQWZZcDJDdzZBMDI4YjRaVld1NnFERExCbXY3Vy1LUXBCVGJyMklHQUFJcDRQ?oc=5\" target=\"_blank\">Над Орловской областью за ночь сбили более 20 БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 23:03:00 GMT"
+    },
+    {
+      "title": "Для россиян из стран Прибалтики образуют избирательные участки на границе с РФ - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZRFFHbzN2UHIwZmlGLVhNbHlEdTNPNWRpei1VWXM0dWM0OE5BM3c1TnBJNktqZE02VUZ6eXU1ajlTV0NseXpKVA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZRFFHbzN2UHIwZmlGLVhNbHlEdTNPNWRpei1VWXM0dWM0OE5BM3c1TnBJNktqZE02VUZ6eXU1ajlTV0NseXpKVA?oc=5\" target=\"_blank\">Для россиян из стран Прибалтики образуют избирательные участки на границе с РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 22:58:00 GMT"
+    },
+    {
+      "title": "Греческий архимандрит допустил еще одно принесение мощей Спиридона в Россию - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzQjFoQzJGb0ZUNmZJLWlVU2VETDhpQlI1b18xbWZPN0otdTNUTXVnMXE2SWtVUjNjcjA2Tl9uOVlBVjJYV3N2b0dOcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzQjFoQzJGb0ZUNmZJLWlVU2VETDhpQlI1b18xbWZPN0otdTNUTXVnMXE2SWtVUjNjcjA2Tl9uOVlBVjJYV3N2b0dOcw?oc=5\" target=\"_blank\">Греческий архимандрит допустил еще одно принесение мощей Спиридона в Россию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 22:58:00 GMT"
+    },
+    {
+      "title": "Соболев поддержал Латышонка, который ошибся в матче РПЛ с \"Зенитом\" - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lZ2cycmhQcjRxanVFdm42RHFqVjZnWXJGbWkxNFJNOWFqMkxDbEVWcjZNTzhYLXpZa3dNaWFQXy15STBoZTNyZ2NHWXdQakVDekJiMkszNlZDZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lZ2cycmhQcjRxanVFdm42RHFqVjZnWXJGbWkxNFJNOWFqMkxDbEVWcjZNTzhYLXpZa3dNaWFQXy15STBoZTNyZ2NHWXdQakVDekJiMkszNlZDZw?oc=5\" target=\"_blank\">Соболев поддержал Латышонка, который ошибся в матче РПЛ с \"Зенитом\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 22:57:00 GMT"
+    },
+    {
+      "title": "Трамп назвал повышение ключевой ставки в США политическим шагом - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HWDlVRUhmWDJxbmNFWXkxMUpWeTZWRDRNTUJHVHNtbFpaTWN0UHFBZkpfbUpNTEJuOHNTWktxUTVVQzBZNDBIdVUtR1haQmsyVWNOQ0U0Zng?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HWDlVRUhmWDJxbmNFWXkxMUpWeTZWRDRNTUJHVHNtbFpaTWN0UHFBZkpfbUpNTEJuOHNTWktxUTVVQzBZNDBIdVUtR1haQmsyVWNOQ0U0Zng?oc=5\" target=\"_blank\">Трамп назвал повышение ключевой ставки в США политическим шагом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 22:54:00 GMT"
+    },
+    {
+      "title": "Электроснабжение в Ростове-на-Дону восстановили - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ab0NzelRkMVNubXpiTXdMQjJVZ2V2TUpWVFYwejdPQXRPS2RBcklRSi1GM2RFclc2NW1jX1ZfcWtFTWZra01xbTNMVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ab0NzelRkMVNubXpiTXdMQjJVZ2V2TUpWVFYwejdPQXRPS2RBcklRSi1GM2RFclc2NW1jX1ZfcWtFTWZra01xbTNMVQ?oc=5\" target=\"_blank\">Электроснабжение в Ростове-на-Дону восстановили</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 22:53:00 GMT"
+    },
+    {
+      "title": "Проголосовать на выборах по месту нахождения планируют более 3 млн россиян - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xYVJZSV9nczFlZng2X3c2aXdFSDIxREFDdV9kV3lHREtZajgzWEMxWTUzZ2IxZy1CY2lfaE9rVVNNOEZBTnhqag?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xYVJZSV9nczFlZng2X3c2aXdFSDIxREFDdV9kV3lHREtZajgzWEMxWTUzZ2IxZy1CY2lfaE9rVVNNOEZBTnhqag?oc=5\" target=\"_blank\">Проголосовать на выборах по месту нахождения планируют более 3 млн россиян</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 22:50:00 GMT"
+    },
+    {
+      "title": "Заявившийся на ДЭГ, но не проголосовавший избиратель сможет отдать голос очно - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiVkh2ZnhPV25lVmZ3dy1mSVB6Q0dTSEU1YWFESkRpV1RMM3c1Y1VYM2dMVDdBOHBOVTdhTzZCNVRMYWRNQ1RLVw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiVkh2ZnhPV25lVmZ3dy1mSVB6Q0dTSEU1YWFESkRpV1RMM3c1Y1VYM2dMVDdBOHBOVTdhTzZCNVRMYWRNQ1RLVw?oc=5\" target=\"_blank\">Заявившийся на ДЭГ, но не проголосовавший избиратель сможет отдать голос очно</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 16 Sep 2026 22:48:00 GMT"
+    },
+    {
+      "title": "Конфликт с Ираном скоро завершится, заявил Трамп - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YUUNac2RzZS1kZmEzUlhvQ21OQWpuMkJjbTBOSEw3NlVCUkw0Q3RIazQzOGJMcFNmYXR5OU1hVkMwSllGOFJsTE81d3NnMGM4ek1kMWpSMG4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YUUNac2RzZS1kZmEzUlhvQ21OQWpuMkJjbTBOSEw3NlVCUkw0Q3RIazQzOGJMcFNmYXR5OU1hVkMwSllGOFJsTE81d3NnMGM4ek1kMWpSMG4?oc=5\" target=\"_blank\">Конфликт с Ираном скоро завершится, заявил Трамп</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 16 Sep 2026 22:47:00 GMT"
+    },
+    {
+      "title": "Палата представителей США проголосовала по законопроекту о санкциях против России - fontanka.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVk9JYmlRQkphV0NWVW5hdl9RSWY4aDgtOVY4Vi1hcXBucmdTUFZnUGw2cndKRG9pMDR2c0I4bGp0WHhNbWpTc1JYOTFjUkZwZGVmR2p0TQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVk9JYmlRQkphV0NWVW5hdl9RSWY4aDgtOVY4Vi1hcXBucmdTUFZnUGw2cndKRG9pMDR2c0I4bGp0WHhNbWpTc1JYOTFjUkZwZGVmR2p0TQ?oc=5\" target=\"_blank\">Палата представителей США проголосовала по законопроекту о санкциях против России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 16 Sep 2026 22:46:00 GMT"
+    }
+  ]
 }
