@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:05:15.589682+00:00",
+  "updated": "2026-09-18T14:37:01.597434+00:00",
   "count": 40,
   "news": [
     {
@@ -17,6 +17,13 @@
       "pub": "Wed, 16 Sep 2026 02:40:57 GMT"
     },
     {
+      "title": "РБК-ТВ: смотреть о бизнесе, рынках и инвестициях - tv.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE5xVkVPX3M4WWktYlBLOWtCd2htVHZJbWZJNkVlcW11RnctamljVGhEaG40Y0I?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiNEFVX3lxTE5xVkVPX3M4WWktYlBLOWtCd2htVHZJbWZJNkVlcW11RnctamljVGhEaG40Y0I?oc=5\" target=\"_blank\">РБК-ТВ: смотреть о бизнесе, рынках и инвестициях</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tv.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Tue, 21 Apr 2015 04:53:49 GMT"
+    },
+    {
       "title": "Курсы SF Education по аналитике на R - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12MndtNEI2N3J3NHFpdWpaSnlCVVctZEhzSThNbDFrVXNwVnZ3bDhwblpkUzFZdEVpWnV0Zkk4TU50S0l4WHpzcjFtdFhCaHVjTGVKNUxxVEthTFJRcTZCWg?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE12MndtNEI2N3J3NHFpdWpaSnlCVVctZEhzSThNbDFrVXNwVnZ3bDhwblpkUzFZdEVpWnV0Zkk4TU50S0l4WHpzcjFtdFhCaHVjTGVKNUxxVEthTFJRcTZCWg?oc=5\" target=\"_blank\">Курсы SF Education по аналитике на R</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
@@ -24,23 +31,9 @@
       "pub": "Thu, 21 May 2026 11:49:31 GMT"
     },
     {
-      "title": "МИД РФ назвал законной целью британские военные объекты на Украине - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00OHY1MlhDQzZDZEpQUmFRTDlFMzBTMWQ4U0dYdmVEMkZuVGg4bXY5SDJPVnJYYWZEMlZ3eER5MzFqaFM0SEs2Tw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE00OHY1MlhDQzZDZEpQUmFRTDlFMzBTMWQ4U0dYdmVEMkZuVGg4bXY5SDJPVnJYYWZEMlZ3eER5MzFqaFM0SEs2Tw?oc=5\" target=\"_blank\">МИД РФ назвал законной целью британские военные объекты на Украине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 23:56:00 GMT"
-    },
-    {
       "title": "Кремль назвал прорывом подписание договора на поставку МС-21-310 - tass.ru",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XQkNiamM5WHV0aWdfMVBKcDNwbHBtLXBDanpJQktiTENsUGlBNEk1T2hpUVYzNmc2cmtZVVZwajRtUUlDem9GTGVB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XQkNiamM5WHV0aWdfMVBKcDNwbHBtLXBDanpJQktiTENsUGlBNEk1T2hpUVYzNmc2cmtZVVZwajRtUUlDem9GTGVB?oc=5\" target=\"_blank\">Кремль назвал прорывом подписание договора на поставку МС-21-310</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 23:55:00 GMT"
-    },
-    {
-      "title": "В аэропорту Геленджика сняли ограничения - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53VzRuckRZbEsyR0VlSmp0T2NVZWdjYWVzUFlhNzB2a2dqa1RwekVaZlVXTDh1MXUzUTNlaXk1YkRMRDJEWjVxWFNB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE53VzRuckRZbEsyR0VlSmp0T2NVZWdjYWVzUFlhNzB2a2dqa1RwekVaZlVXTDh1MXUzUTNlaXk1YkRMRDJEWjVxWFNB?oc=5\" target=\"_blank\">В аэропорту Геленджика сняли ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Thu, 17 Sep 2026 23:55:00 GMT"
     },
@@ -108,13 +101,6 @@
       "pub": "Thu, 17 Sep 2026 23:34:00 GMT"
     },
     {
-      "title": "Опубликованы кадры с места стрельбы в школе на юге Филиппин - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45U1dnV2dxWk4xX2FwVGxJMTBEMGxDYzJDSjBDQXNhZWc0MW04MVpkYnV0akN0UlNZWTNxZFdGTkZVM2VadXdYWXpfQmRMV3JZ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE45U1dnV2dxWk4xX2FwVGxJMTBEMGxDYzJDSjBDQXNhZWc0MW04MVpkYnV0akN0UlNZWTNxZFdGTkZVM2VadXdYWXpfQmRMV3JZ?oc=5\" target=\"_blank\">Опубликованы кадры с места стрельбы в школе на юге Филиппин</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 23:26:00 GMT"
-    },
-    {
       "title": "Мирошник: Зеленский пытается повлиять на демократическое волеизъявление россиян - tass.ru",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2SDh3N0FRQkE1VUt2cEZVbVpzd18wOU44SlNWUzI0ZVY2bFQwNzg5X1VFdFBNRlRFaTRMWGQ5ZHE2RzRfU0c4NQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2SDh3N0FRQkE1VUt2cEZVbVpzd18wOU44SlNWUzI0ZVY2bFQwNzg5X1VFdFBNRlRFaTRMWGQ5ZHE2RzRfU0c4NQ?oc=5\" target=\"_blank\">Мирошник: Зеленский пытается повлиять на демократическое волеизъявление россиян</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
@@ -134,20 +120,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DS3JVREpDbmZXUEU2azQ0RHBTS0s2YlV2b2R4YTFmMEx1TkViMmVnUHFHQVktRmxsalpmU1FmVFFtVWFKVG53RVdPcw?oc=5\" target=\"_blank\">Кравцов обеспокоен использованием цифровых технологий дошкольниками</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Thu, 17 Sep 2026 23:14:00 GMT"
-    },
-    {
-      "title": "В Курской области при ударах дронов ВСУ погиб человек - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhejFjWTJKUWFaY2tsRUh6X3lYem5xOWVFcTVONGlKbmFDeG9mYVRFOVdhQlJ0TzV0U0VwN1dOTHNzckhjeFJ1VmNnRng4QV9u?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhejFjWTJKUWFaY2tsRUh6X3lYem5xOWVFcTVONGlKbmFDeG9mYVRFOVdhQlJ0TzV0U0VwN1dOTHNzckhjeFJ1VmNnRng4QV9u?oc=5\" target=\"_blank\">В Курской области при ударах дронов ВСУ погиб человек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 23:13:00 GMT"
-    },
-    {
-      "title": "Более 2 млн россиян проголосовали онлайн на выборах - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vYWxkTzlVOGVFZ2ZZUTJUYzNySU9KTGFGN3N6X3VycmVpSlA0UE9jU3Brc0RfeDI2Wjctd3lBQWttcFI4RGRqUA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vYWxkTzlVOGVFZ2ZZUTJUYzNySU9KTGFGN3N6X3VycmVpSlA0UE9jU3Brc0RfeDI2Wjctd3lBQWttcFI4RGRqUA?oc=5\" target=\"_blank\">Более 2 млн россиян проголосовали онлайн на выборах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 23:11:00 GMT"
     },
     {
       "title": "В Энергодаре при артиллерийском обстреле погиб мужчина - tass.ru",
@@ -171,18 +143,18 @@
       "pub": "Thu, 17 Sep 2026 23:03:00 GMT"
     },
     {
+      "title": "Вучич и Фицо прибыли на Украину для участия в Карпатском саммите - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByNXlHVjg5YlJDR3U1YjkzcHhOdUc2TFZPd2tvYVh3OTZHeVdpZWc2Um1XbFNHZ2txZ3dqN1Q3LW4wRVdxUHFrQ1ROanN1QzJwMzJGNHZpRnp0RzZ3aXc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFByNXlHVjg5YlJDR3U1YjkzcHhOdUc2TFZPd2tvYVh3OTZHeVdpZWc2Um1XbFNHZ2txZ3dqN1Q3LW4wRVdxUHFrQ1ROanN1QzJwMzJGNHZpRnp0RzZ3aXc?oc=5\" target=\"_blank\">Вучич и Фицо прибыли на Украину для участия в Карпатском саммите</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 22:50:00 GMT"
+    },
+    {
       "title": "Минпросвещения разработало новый учебный курс об отечественном кино - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1blplYVZQamhFbG1FWkd6VDh1MmdrVFFBNWdzV0hPN01LMVgzOFc2LWpXZEJoOW5leWZJdVNISVplcEhKUzNoQTdRUTVsdF9BUmVnSjgxaw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1blplYVZQamhFbG1FWkd6VDh1MmdrVFFBNWdzV0hPN01LMVgzOFc2LWpXZEJoOW5leWZJdVNISVplcEhKUzNoQTdRUTVsdF9BUmVnSjgxaw?oc=5\" target=\"_blank\">Минпросвещения разработало новый учебный курс об отечественном кино</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Thu, 17 Sep 2026 22:50:00 GMT"
-    },
-    {
-      "title": "Число погибших при стрельбе в школе на Филиппинах выросло до шести - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nakliUXVpQW5RQ1NkczBXRFNuUlJYNmRqdlJaeHE4cFBfdW9zUkFWcVYzSmVJeDBTWTdYazB3Smt4Z2xzaWZWRUpsZ3hyWWha?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nakliUXVpQW5RQ1NkczBXRFNuUlJYNmRqdlJaeHE4cFBfdW9zUkFWcVYzSmVJeDBTWTdYazB3Smt4Z2xzaWZWRUpsZ3hyWWha?oc=5\" target=\"_blank\">Число погибших при стрельбе в школе на Филиппинах выросло до шести</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 22:48:00 GMT"
     },
     {
       "title": "Россиянин выиграл 30 млн рублей по билету за 25 рублей - russian.rt.com",
@@ -213,25 +185,11 @@
       "pub": "Thu, 17 Sep 2026 22:38:00 GMT"
     },
     {
-      "title": "Число пострадавших жителей ДНР от атак ВСУ за сутки увеличилось до 15 - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bldGVzVfaHhlbE5UaVZaNVhWRE9kMVc1dUJXLXlkaG5xQXJFQ1dJMllaU1lmWXluSm1pOGVKcnYyakl6WmtERGd4REdTRkU3WGRmZUt3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bldGVzVfaHhlbE5UaVZaNVhWRE9kMVc1dUJXLXlkaG5xQXJFQ1dJMllaU1lmWXluSm1pOGVKcnYyakl6WmtERGd4REdTRkU3WGRmZUt3?oc=5\" target=\"_blank\">Число пострадавших жителей ДНР от атак ВСУ за сутки увеличилось до 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
+      "title": "ВС РФ освободили Веролюбовку и Золотой Колодезь в ДНР - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUzVPdzltaUVoNkpYTUp4RVI3LUJ0VVZVUG1jSndSU2ROZjNyOFI0N0hGVVM0X3JqQ1MzU1RTdUxYSnhael92MU1UaWYtdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUzVPdzltaUVoNkpYTUp4RVI3LUJ0VVZVUG1jSndSU2ROZjNyOFI0N0hGVVM0X3JqQ1MzU1RTdUxYSnhael92MU1UaWYtdw?oc=5\" target=\"_blank\">ВС РФ освободили Веролюбовку и Золотой Колодезь в ДНР</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
       "pub": "Thu, 17 Sep 2026 22:38:00 GMT"
-    },
-    {
-      "title": "ВС РФ за неделю поразили 12 сухогрузов, которые действовали в интересах ВСУ - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Jb1R3c1d0Vl9vdlI2b3duRzFzZmxfTkVDM0VQMExlblllMnJRaWlSd1VoMVBjU1BOdHRkd3docUUtTFFoYW9VTDYxYUt3QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Jb1R3c1d0Vl9vdlI2b3duRzFzZmxfTkVDM0VQMExlblllMnJRaWlSd1VoMVBjU1BOdHRkd3docUUtTFFoYW9VTDYxYUt3QQ?oc=5\" target=\"_blank\">ВС РФ за неделю поразили 12 сухогрузов, которые действовали в интересах ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 22:35:00 GMT"
-    },
-    {
-      "title": "В Литве заблокировали порталы с доступом к российскому радио Sputnik - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DQU1XbUp4bWl0Y0tLMGt6bVJyYWp5d1c5RGdFY180ZEpKVEhzMU5lT0psTDNqTk9EV0Q3V192WXpGVWdsS1NzbDluWQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DQU1XbUp4bWl0Y0tLMGt6bVJyYWp5d1c5RGdFY180ZEpKVEhzMU5lT0psTDNqTk9EV0Q3V192WXpGVWdsS1NzbDluWQ?oc=5\" target=\"_blank\">В Литве заблокировали порталы с доступом к российскому радио Sputnik</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 22:35:00 GMT"
     },
     {
       "title": "ВС РФ за неделю вывели из строя некоторые объекты инфраструктуры украинских портов - tass.ru",
@@ -255,13 +213,6 @@
       "pub": "Thu, 17 Sep 2026 22:33:00 GMT"
     },
     {
-      "title": "ВСУ за неделю потеряли в районах окружения в Харьковской области свыше 390 военных - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCeDdBc19EdlYwRnBCSWhyQ2Q3T0M5VnVCR0lpeDdyelY0ZUVwV1pzbW1rS1VNcUxGMTRBMUI0aUlOak13UDNuai1oZHF5Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCeDdBc19EdlYwRnBCSWhyQ2Q3T0M5VnVCR0lpeDdyelY0ZUVwV1pzbW1rS1VNcUxGMTRBMUI0aUlOak13UDNuai1oZHF5Zw?oc=5\" target=\"_blank\">ВСУ за неделю потеряли в районах окружения в Харьковской области свыше 390 военных</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 22:33:00 GMT"
-    },
-    {
       "title": "ВС РФ за неделю нанесли два массированных удара по предприятиям ВПК Украины - tass.ru",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96WmNaQi1GSU1pZEVQRlpGejdtb01GaktvemxKNERuQnk0eXlEdHdQajU1aS1RTVNETWNCTW5CdjdOQkctd2tDc3RJbEltZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE96WmNaQi1GSU1pZEVQRlpGejdtb01GaktvemxKNERuQnk0eXlEdHdQajU1aS1RTVNETWNCTW5CdjdOQkctd2tDc3RJbEltZw?oc=5\" target=\"_blank\">ВС РФ за неделю нанесли два массированных удара по предприятиям ВПК Украины</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
@@ -281,6 +232,55 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eWx4MHFTNUF3dnZRaDAxdFhHZHZGRVN0dF81Q1hycC1xaWx3TXVycUkwOVhkRU15Y3ROV3R0MDY0OHN4WDlZdl96Q1hCZw?oc=5\" target=\"_blank\">Недельные потери ВСУ в зоне группировки \"Запад\" ВС РФ составили около 1 480 человек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Thu, 17 Sep 2026 22:31:00 GMT"
+    },
+    {
+      "title": "Российские ученые представили современные практики виноградарства в Риме - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5WXd4ZHI5UFZrWk5xVnIwNWl6Qng4MUNHb2JOdml6LXdURTl4ZFpWSXpfeXFNUmFiMW91WWhSNWNWdW1za2NCNjVjVlc3YndWX2FZWHZBanNjOTRnQ3JMU0dJLVE0OVFEcDhmX3lkSkpxMnVyYTNoQ05iVDY?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5WXd4ZHI5UFZrWk5xVnIwNWl6Qng4MUNHb2JOdml6LXdURTl4ZFpWSXpfeXFNUmFiMW91WWhSNWNWdW1za2NCNjVjVlc3YndWX2FZWHZBanNjOTRnQ3JMU0dJLVE0OVFEcDhmX3lkSkpxMnVyYTNoQ05iVDY?oc=5\" target=\"_blank\">Российские ученые представили современные практики виноградарства в Риме</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Thu, 17 Sep 2026 22:24:00 GMT"
+    },
+    {
+      "title": "GMA News: на юге Филиппин при стрельбе в школе погибли два человека - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TN1lYMVM0SXY4STU3R2xhNVZWbVlpemVQT0g1ZVk5ZWVLcFAteXVnMV9SNWxxYlFYcGt5U2ZlaTAtdDdLQ0xTN0o0YTlkMFZS?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TN1lYMVM0SXY4STU3R2xhNVZWbVlpemVQT0g1ZVk5ZWVLcFAteXVnMV9SNWxxYlFYcGt5U2ZlaTAtdDdLQ0xTN0o0YTlkMFZS?oc=5\" target=\"_blank\">GMA News: на юге Филиппин при стрельбе в школе погибли два человека</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 22:24:00 GMT"
+    },
+    {
+      "title": "В Москве очереди к мощам Спиридона будут расти в ближайшие дни - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LM3RhS1ZOb196QktXeHhOZVdBbG81SVViNV9jeXMtWGVSd1NkOGtfRjQ4Y01RNHllejJNeGRVYUVuUG8tdHdTbGNYMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LM3RhS1ZOb196QktXeHhOZVdBbG81SVViNV9jeXMtWGVSd1NkOGtfRjQ4Y01RNHllejJNeGRVYUVuUG8tdHdTbGNYMA?oc=5\" target=\"_blank\">В Москве очереди к мощам Спиридона будут расти в ближайшие дни</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 22:24:00 GMT"
+    },
+    {
+      "title": "Куренков прибыл с рабочим визитом в Ивановскую область - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoRFVNb1JMUXdpWHpFRFFCbTV1ZFRRRGdjdW84MXh4cHNZZi1tYTlvb0hmTEtFb095ZjlCbnEtZDdqOUNGajNVZEt1NA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoRFVNb1JMUXdpWHpFRFFCbTV1ZFRRRGdjdW84MXh4cHNZZi1tYTlvb0hmTEtFb095ZjlCbnEtZDdqOUNGajNVZEt1NA?oc=5\" target=\"_blank\">Куренков прибыл с рабочим визитом в Ивановскую область</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 22:20:00 GMT"
+    },
+    {
+      "title": "Роскачество рассказало о правилах использования смартфонов в вузах - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XOVFFQTNVR3czdHlpWGhsLU1vT20xTGJwVFFydG4zSFpYV1liR1ItN1h2Sm5lNC1veXJZa1pKc3JVbDBOZDd1YjdzZUJPMWpOd0dBYjVvRERKVG42?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XOVFFQTNVR3czdHlpWGhsLU1vT20xTGJwVFFydG4zSFpYV1liR1ItN1h2Sm5lNC1veXJZa1pKc3JVbDBOZDd1YjdzZUJPMWpOd0dBYjVvRERKVG42?oc=5\" target=\"_blank\">Роскачество рассказало о правилах использования смартфонов в вузах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Thu, 17 Sep 2026 22:18:00 GMT"
+    },
+    {
+      "title": "В Сочи избирательные участки заработали после отмены сигнала об атаке БПЛА - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UjkybWd4dzNZemRkZ200d1hrUGRXUHZYRnBiLUtmZ3hYYk00NFZWVHBMZWRmZ1NQYzJZRkJDd1FIaXZ3X1ljdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UjkybWd4dzNZemRkZ200d1hrUGRXUHZYRnBiLUtmZ3hYYk00NFZWVHBMZWRmZ1NQYzJZRkJDd1FIaXZ3X1ljdw?oc=5\" target=\"_blank\">В Сочи избирательные участки заработали после отмены сигнала об атаке БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 22:10:00 GMT"
+    },
+    {
+      "title": "МИД РФ обеспокоен заигрыванием Запада с ядерным оружием - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GbjJveDBxUGhSNVBOMVBrUkV1dnQ0MXk3WkJtdjFJOG9mZ3liU3h5Y3RxOHNBWDRBZVlkUWljMmRuVlc2NDVUeQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GbjJveDBxUGhSNVBOMVBrUkV1dnQ0MXk3WkJtdjFJOG9mZ3liU3h5Y3RxOHNBWDRBZVlkUWljMmRuVlc2NDVUeQ?oc=5\" target=\"_blank\">МИД РФ обеспокоен заигрыванием Запада с ядерным оружием</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 22:10:00 GMT"
     }
   ]
 }
