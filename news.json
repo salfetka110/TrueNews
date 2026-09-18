@@ -1,48 +1,13 @@
 {
-  "updated": "2026-09-18T07:05:19.333104+00:00",
+  "updated": "2026-09-18T07:36:47.609463+00:00",
   "count": 40,
   "news": [
-    {
-      "title": "ООО «Сибирско-Уральская медиакомпания» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTI3S3p4SXE4V2dERXNlOEIwejluRnVUNHNYLXJQZ0lSTmxfV2JxcURpQlZFaWw1NzltMUdHSXdnVVVKMXdZa1ZDUV9RcTl6TkU0ZlVXTkxuLUl2N2NYR3J0cXBrU2lfZVBWOE1Hb2Q4UDZmQk54dWs3elk3dTJjSlZmSDl2X2s?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTI3S3p4SXE4V2dERXNlOEIwejluRnVUNHNYLXJQZ0lSTmxfV2JxcURpQlZFaWw1NzltMUdHSXdnVVVKMXdZa1ZDUV9RcTl6TkU0ZlVXTkxuLUl2N2NYR3J0cXBrU2lfZVBWOE1Hb2Q4UDZmQk54dWs3elk3dTJjSlZmSDl2X2s?oc=5\" target=\"_blank\">ООО «Сибирско-Уральская медиакомпания»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 25 Aug 2021 08:26:58 GMT"
-    },
-    {
-      "title": "ООО «Бизнес-Финанс» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lMUJVcWJSV2JNX3RRakVIdmpaWmN4eFFMd2tSbHFySGpueVc1YzVReTlYaTc1X2lMRE5ZclhSdFRxc19IbjQ0ZHFXRzFWT25HbUF1NnNGeGpCamlIQmZQQ182V3RQY2dsYndtRw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1lMUJVcWJSV2JNX3RRakVIdmpaWmN4eFFMd2tSbHFySGpueVc1YzVReTlYaTc1X2lMRE5ZclhSdFRxc19IbjQ0ZHFXRzFWT25HbUF1NnNGeGpCamlIQmZQQ182V3RQY2dsYndtRw?oc=5\" target=\"_blank\">ООО «Бизнес-Финанс»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 20 Oct 2021 06:24:01 GMT"
-    },
     {
       "title": "Курсы Skillbox по Adobe XD - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZWRINWhVQ3BrNHh1M212Z09pQXp1N1Uwem8xYkdjZ3g0UkVXbkpUODZGbkdPUHFlZWN0a3F1amxvQk5xdEFfSWt4VXVWTkZwdWlVYWkyTQ?oc=5\" target=\"_blank\">Курсы Skillbox по Adobe XD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 19 Aug 2026 01:18:54 GMT"
-    },
-    {
-      "title": "ООО «Ленкино» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IR2pYYlF0OXc0b1FzZWw1Ukw3a2hMQ192RlBPVTI1M045Wl9XbXR6a0RhWnZQTkx3RTFYd3ctdHVwVUFjaWp4eEdqSm9WWTlndzdkakpWSjhQcEdNaWJlcGtoVXA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IR2pYYlF0OXc0b1FzZWw1Ukw3a2hMQ192RlBPVTI1M045Wl9XbXR6a0RhWnZQTkx3RTFYd3ctdHVwVUFjaWp4eEdqSm9WWTlndzdkakpWSjhQcEdNaWJlcGtoVXA?oc=5\" target=\"_blank\">ООО «Ленкино»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 15 Sep 2021 10:13:54 GMT"
-    },
-    {
-      "title": "ООО «ГК «СНАБЖЕНИЕ» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJdzRpN0d1VjUxN252NTJnb3NjeG9EaFZVOTdGYkh3NFR5MFF3RnFva0hUdGxuRklfVXRnT2RMNzlYdkFrc3hZOWNINW5hb3FjNWpGcE8yY19vcFR3bzFiUldCY1JSUWVDeld5RmVDN1V2em1jSmVZb0lUMU0xdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBJdzRpN0d1VjUxN252NTJnb3NjeG9EaFZVOTdGYkh3NFR5MFF3RnFva0hUdGxuRklfVXRnT2RMNzlYdkFrc3hZOWNINW5hb3FjNWpGcE8yY19vcFR3bzFiUldCY1JSUWVDeld5RmVDN1V2em1jSmVZb0lUMU0xdw?oc=5\" target=\"_blank\">ООО «ГК «СНАБЖЕНИЕ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Tue, 30 Nov 2021 08:10:33 GMT"
-    },
-    {
-      "title": "ООО «ФУДФЭКТОРИ» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2w0enJwY3BjZlVFNlVLWUpPM1RPRm1SOUlfanRkWk9HZ2VMUUpzNzl1bVozengxS2JLQ3dXNDFTaTRYZ0F2UUdaMWU2M0U3NUUyRjVlUG1TbUJNUWhLS0ZGWk5GRVgzZE05QjlkMml2NFUxZlZlekxSeEM2MUF4dXJyZV9hV0FXMDB5V19KejJVWmNWOHVqdmFQU0lQdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOd2w0enJwY3BjZlVFNlVLWUpPM1RPRm1SOUlfanRkWk9HZ2VMUUpzNzl1bVozengxS2JLQ3dXNDFTaTRYZ0F2UUdaMWU2M0U3NUUyRjVlUG1TbUJNUWhLS0ZGWk5GRVgzZE05QjlkMml2NFUxZlZlekxSeEM2MUF4dXJyZV9hV0FXMDB5V19KejJVWmNWOHVqdmFQU0lQdw?oc=5\" target=\"_blank\">ООО «ФУДФЭКТОРИ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Tue, 07 Dec 2021 23:36:38 GMT"
     },
     {
       "title": "Курсы SF Education по аналитике на R - rbc.ru",
@@ -129,6 +94,13 @@
       "pub": "Thu, 17 Sep 2026 22:00:00 GMT"
     },
     {
+      "title": "«Бдительность, выдержка и ювелирная точность»: как российские снайперы выполняют задачи в зоне СВО - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGJESkZPWTl1cnhQTXFGVWJSQ3dNWU1jUEstcHRERmtCaEFoRTZ3SjZPV0w5MUtDNXJKQXRydjZRcGZpamltMWNaWVYyUEhoRHRHcUlib0kyVEMxODluRHhyVkNWcTZhSGUzMXN0Xzd6WHFITHlXc25uVGRhYWJpUkFUMNIBiAFBVV95cUxQTEdobVFHMXhQZllydFJLRnZXWXcwU19yaUI0ei1heDFtSFc4REFiVC1POWRpc1V4dmVsNl9JWEZtdDZ3YWU0am1rQU1VN3ZlTDhNT28wRFN5U1pkby1LSVMxSjlLTnpwVzhOc3A3RC1VV0hoWjZzN3hOVkJSd1ZqRmhUMXFDbGIw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGJESkZPWTl1cnhQTXFGVWJSQ3dNWU1jUEstcHRERmtCaEFoRTZ3SjZPV0w5MUtDNXJKQXRydjZRcGZpamltMWNaWVYyUEhoRHRHcUlib0kyVEMxODluRHhyVkNWcTZhSGUzMXN0Xzd6WHFITHlXc25uVGRhYWJpUkFUMNIBiAFBVV95cUxQTEdobVFHMXhQZllydFJLRnZXWXcwU19yaUI0ei1heDFtSFc4REFiVC1POWRpc1V4dmVsNl9JWEZtdDZ3YWU0am1rQU1VN3ZlTDhNT28wRFN5U1pkby1LSVMxSjlLTnpwVzhOc3A3RC1VV0hoWjZzN3hOVkJSd1ZqRmhUMXFDbGIw?oc=5\" target=\"_blank\">«Бдительность, выдержка и ювелирная точность»: как российские снайперы выполняют задачи в зоне СВО</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Thu, 17 Sep 2026 21:58:49 GMT"
+    },
+    {
       "title": "Три корпуса и легендарные альбомы. Что за здание загорелось на задворках факультета журналистики СПбГУ - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lQmljNVBfVWFnMWR1U3FmYzJDZ2Z6cl9WX0dXYkRmeEpYbzNvYk9QdjY0RFk3RFdtMG0xeHdlM2d1bzNxV3czZUI5M01ObTlPeUxlTENLUQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lQmljNVBfVWFnMWR1U3FmYzJDZ2Z6cl9WX0dXYkRmeEpYbzNvYk9QdjY0RFk3RFdtMG0xeHdlM2d1bzNxV3czZUI5M01ObTlPeUxlTENLUQ?oc=5\" target=\"_blank\">Три корпуса и легендарные альбомы. Что за здание загорелось на задворках факультета журналистики СПбГУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -143,13 +115,6 @@
       "pub": "Thu, 17 Sep 2026 21:51:00 GMT"
     },
     {
-      "title": "Архангельский депутат дал обратную связь на личное обращение к нему губернатора — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNXpRMXRfM244QW80ZWFHMThIMHR0YVdWZHZyalllcHJkMFdGUmZqMmUtR201T1puTTVyUFNhd0d3NUJpOHNyd2lWcjNlSldtcUQ5SDFxWWhIVXhGTlVuZVc3X3UwdWl1TzhhSEE3eVE3TW5XVExzNHE2RG1VSWZWUXc2eF9ZZEpMcEY3SldNbVEyd2Rfc1ozLTBNZk5oSzF4SGc0ZXlhd3ZyX0xCUk12akJ3RkZxTGJLTE9RRDczUzFGR1ZsX0hDU08tWWRjcE1rb2FGVXktWWRjdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNXpRMXRfM244QW80ZWFHMThIMHR0YVdWZHZyalllcHJkMFdGUmZqMmUtR201T1puTTVyUFNhd0d3NUJpOHNyd2lWcjNlSldtcUQ5SDFxWWhIVXhGTlVuZVc3X3UwdWl1TzhhSEE3eVE3TW5XVExzNHE2RG1VSWZWUXc2eF9ZZEpMcEY3SldNbVEyd2Rfc1ozLTBNZk5oSzF4SGc0ZXlhd3ZyX0xCUk12akJ3RkZxTGJLTE9RRDczUzFGR1ZsX0hDU08tWWRjcE1rb2FGVXktWWRjdw?oc=5\" target=\"_blank\">Архангельский депутат дал обратную связь на личное обращение к нему губернатора — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Thu, 17 Sep 2026 21:41:03 GMT"
-    },
-    {
       "title": "Сравни.ру: скидки, купоны, акции, промокоды на сентябрь 2026 - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WdjZUbUFKNDZwZndZSkdkbTZXa21WZVBRYWFyb0d1WWVZN1pqNHpSRDlWRW95YTd0Q0xkazdMSXR4WkgxSU9tZ1B3Vi1KUUFJVlJpSkNQazBpZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WdjZUbUFKNDZwZndZSkdkbTZXa21WZVBRYWFyb0d1WWVZN1pqNHpSRDlWRW95YTd0Q0xkazdMSXR4WkgxSU9tZ1B3Vi1KUUFJVlJpSkNQazBpZw?oc=5\" target=\"_blank\">Сравни.ру: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -157,11 +122,11 @@
       "pub": "Thu, 17 Sep 2026 21:22:24 GMT"
     },
     {
-      "title": "\"Реал Сосьедад\" проиграл \"Борнмуту\" в первом туре Лиги Европы - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JUHNlc0ZQX19Na3BoS1NxSVdfbUo4WVlXSDBKR05YbVQyVFBMUWlrS0tia1V0Q2U3VGNscUhSUTZqRzhrUkd1YXRNNDlOdEE0OHVISnBQdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JUHNlc0ZQX19Na3BoS1NxSVdfbUo4WVlXSDBKR05YbVQyVFBMUWlrS0tia1V0Q2U3VGNscUhSUTZqRzhrUkd1YXRNNDlOdEE0OHVISnBQdw?oc=5\" target=\"_blank\">\"Реал Сосьедад\" проиграл \"Борнмуту\" в первом туре Лиги Европы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Thu, 17 Sep 2026 21:22:00 GMT"
+      "title": "В ДНР за сутки сбили 20 дронов ВСУ - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHRmtXVDZ4UGtRSWVtMHM2aC1wLVVJYXFsUGtXYkYycDZqRW4wLUVEQXJfbk5lcjdBdXlScE1kakF1YzdVVDNFTmFXMEc5dHJ5?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHRmtXVDZ4UGtRSWVtMHM2aC1wLVVJYXFsUGtXYkYycDZqRW4wLUVEQXJfbk5lcjdBdXlScE1kakF1YzdVVDNFTmFXMEc5dHJ5?oc=5\" target=\"_blank\">В ДНР за сутки сбили 20 дронов ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 21:18:00 GMT"
     },
     {
       "title": "Футболист \"Зенита\" Андраде впервые получил вызов в сборную Колумбии - ria.ru",
@@ -178,11 +143,60 @@
       "pub": "Thu, 17 Sep 2026 21:13:44 GMT"
     },
     {
+      "title": "Мошенники запустили схему с обещанием россиянам по $100 тыс. от МВФ - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxUXE0cnJTeGhROEJSOHg0ZlJjWk9xRFR6ejFpNHNLcWx5anhjcEtJaDFYc1VaM1haMGZHTElfNUJ5TmdRUzRFLVVVQkNuWnRTWEpNa3loUU9mdmljWDl4SUlsZ00zanNVNFRBOEk5MlhmMjZzVl83Nw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBxUXE0cnJTeGhROEJSOHg0ZlJjWk9xRFR6ejFpNHNLcWx5anhjcEtJaDFYc1VaM1haMGZHTElfNUJ5TmdRUzRFLVVVQkNuWnRTWEpNa3loUU9mdmljWDl4SUlsZ00zanNVNFRBOEk5MlhmMjZzVl83Nw?oc=5\" target=\"_blank\">Мошенники запустили схему с обещанием россиянам по $100 тыс. от МВФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Thu, 17 Sep 2026 21:09:00 GMT"
+    },
+    {
+      "title": "Памфилова: все участки в РФ открылись в штатном режиме - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlM3hkMG5CMkhNSnJ0OUpBeWVhOXQwblN5eUd4RnNlY3VDc3lmTTRaVHZZS1JjYVdTSTJOQVNwX0phRGdMSXRUYQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlM3hkMG5CMkhNSnJ0OUpBeWVhOXQwblN5eUd4RnNlY3VDc3lmTTRaVHZZS1JjYVdTSTJOQVNwX0phRGdMSXRUYQ?oc=5\" target=\"_blank\">Памфилова: все участки в РФ открылись в штатном режиме</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 21:05:00 GMT"
+    },
+    {
+      "title": "С \"Плесецка\" запустили \"Союз-2.1б\" - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yVGN4cjlNbkFZTXlpeHlJZEpvOGRGQlFWWklkNmU3VXJpbHJkVExDM1hreDNjUUxNVnlyT2xuOXQzdFFLY2c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yVGN4cjlNbkFZTXlpeHlJZEpvOGRGQlFWWklkNmU3VXJpbHJkVExDM1hreDNjUUxNVnlyT2xuOXQzdFFLY2c?oc=5\" target=\"_blank\">С \"Плесецка\" запустили \"Союз-2.1б\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 21:01:00 GMT"
+    },
+    {
+      "title": "Эксперты указали на нетипичную ситуацию с повышением ставок по вкладам - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vT3h6TUxpLTlVTkpMTHhlS29jTmFBTHd3R0trRlFfOWpMLXdDRGxDejVOTTk2aHV4WUNRUE5SOFROdHlOT3ppSURyazZSb1B6VTNmMUdnM283RlFPYUttbklQdkRtQkxvaUhlRnh2YVM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9vT3h6TUxpLTlVTkpMTHhlS29jTmFBTHd3R0trRlFfOWpMLXdDRGxDejVOTTk2aHV4WUNRUE5SOFROdHlOT3ppSURyazZSb1B6VTNmMUdnM283RlFPYUttbklQdkRtQkxvaUhlRnh2YVM?oc=5\" target=\"_blank\">Эксперты указали на нетипичную ситуацию с повышением ставок по вкладам</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Thu, 17 Sep 2026 21:00:32 GMT"
+    },
+    {
       "title": "Замглавы МИД КНДР планирует посетить ГА ООН в Нью-Йорке, пишут СМИ - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWW1BZnFWbHdOMGJHRFl3TElFR3BhMUpaVU5yMVJhMVZMRkxwOVJkdm5UZmlZNHg1REt4WDZ3YzhuSEQydmVyTnAwanZTN0k1MXEzOUxaU2VqdHZW?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWW1BZnFWbHdOMGJHRFl3TElFR3BhMUpaVU5yMVJhMVZMRkxwOVJkdm5UZmlZNHg1REt4WDZ3YzhuSEQydmVyTnAwanZTN0k1MXEzOUxaU2VqdHZW?oc=5\" target=\"_blank\">Замглавы МИД КНДР планирует посетить ГА ООН в Нью-Йорке, пишут СМИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Thu, 17 Sep 2026 20:58:00 GMT"
+    },
+    {
+      "title": "Над Брянской областью за сутки сбили 288 БПЛА - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0bC1qYzZlZGpXVDNtSFB4YUZQZUNRSWVTaHNmbElWZk1jaDdiQjA3OVFxaDE1MDRqYzF2R1RZd1FNUHRfUHpGVnNYdi00U2JY?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0bC1qYzZlZGpXVDNtSFB4YUZQZUNRSWVTaHNmbElWZk1jaDdiQjA3OVFxaDE1MDRqYzF2R1RZd1FNUHRfUHpGVnNYdi00U2JY?oc=5\" target=\"_blank\">Над Брянской областью за сутки сбили 288 БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 20:55:00 GMT"
+    },
+    {
+      "title": "В Архангельске представят золотное шитье от крестьянских платков до императорских нарядов - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WR2wwV3hVcUYxaFVUTUZHTlJvZ3NaWjg5cElDT183SXM4NW5vcHNBd3dRVlViZ3ZURGNPUUZUOHBxb3ktRzQ4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WR2wwV3hVcUYxaFVUTUZHTlJvZ3NaWjg5cElDT183SXM4NW5vcHNBd3dRVlViZ3ZURGNPUUZUOHBxb3ktRzQ4?oc=5\" target=\"_blank\">В Архангельске представят золотное шитье от крестьянских платков до императорских нарядов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 20:55:00 GMT"
+    },
+    {
+      "title": "Володин проголосовал на выборах в Госдуму - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tcTV4ZnA1cHBMWjI0RUdRSHZsNFlPUUJtODQzcHFDOVl4aEJyZlkxN0VsdVhrX0VrUUFqZzVLUFhvN0luMlRwVg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tcTV4ZnA1cHBMWjI0RUdRSHZsNFlPUUJtODQzcHFDOVl4aEJyZlkxN0VsdVhrX0VrUUFqZzVLUFhvN0luMlRwVg?oc=5\" target=\"_blank\">Володин проголосовал на выборах в Госдуму</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 20:54:00 GMT"
     },
     {
       "title": "Занятия в здании журфака СПбГУ отменили из-за пожара - ФОНТАНКА.ру",
@@ -213,6 +227,13 @@
       "pub": "Thu, 17 Sep 2026 20:40:42 GMT"
     },
     {
+      "title": "Первые избиратели пришли на участки на выборах в России - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0cy01bnB6aEwzaVlvR1Zla1lCelM3OE1ENWFIcGpuaXhfNVR3VUU3akNmQk5teGRyZ3MtZ3JMRHBwSmhZZ1c1Yw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0cy01bnB6aEwzaVlvR1Zla1lCelM3OE1ENWFIcGpuaXhfNVR3VUU3akNmQk5teGRyZ3MtZ3JMRHBwSmhZZ1c1Yw?oc=5\" target=\"_blank\">Первые избиратели пришли на участки на выборах в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 17 Sep 2026 20:25:28 GMT"
+    },
+    {
       "title": "Отбой воздушной тревоги объявлен в Севастополе - crimea.ria.ru",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEg4cjVEZUdfa3JPalpIdmx0NVhIaTJKM05xemczbnhTck9BNTZ4by02Q19nd3ZrSVV0dGcwUFctSzVDVDBkRzJoYVNaZnlBWHk3cTQ1aE5tMmtSN1cxTk5rSi1hdzdIR1lDSm5zUmNoWGYzNzcwcnVMN3lJbE1ZS2hqTUprUy00RmRXNm52cjhnS0hrczJKUkVB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEg4cjVEZUdfa3JPalpIdmx0NVhIaTJKM05xemczbnhTck9BNTZ4by02Q19nd3ZrSVV0dGcwUFctSzVDVDBkRzJoYVNaZnlBWHk3cTQ1aE5tMmtSN1cxTk5rSi1hdzdIR1lDSm5zUmNoWGYzNzcwcnVMN3lJbE1ZS2hqTUprUy00RmRXNm52cjhnS0hrczJKUkVB?oc=5\" target=\"_blank\">Отбой воздушной тревоги объявлен в Севастополе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crimea.ria.ru</font>",
@@ -241,6 +262,13 @@
       "pub": "Thu, 17 Sep 2026 20:00:13 GMT"
     },
     {
+      "title": "Выборы в Санкт-Петербурге 2026: главное - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2SU9Va3FYMmtULVBiRmhFdVpVeWo2Qm9FbTVMNU1IYnh1UW5IUmZoRWhuN05nTVJjcjZmMWVpd3pBaXgxRU5ybHBIWE5FQzF1cGJLWHZJTXoxeDlzeHNGSzZNdW9EWWk3TTh1TUxn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA2SU9Va3FYMmtULVBiRmhFdVpVeWo2Qm9FbTVMNU1IYnh1UW5IUmZoRWhuN05nTVJjcjZmMWVpd3pBaXgxRU5ybHBIWE5FQzF1cGJLWHZJTXoxeDlzeHNGSzZNdW9EWWk3TTh1TUxn?oc=5\" target=\"_blank\">Выборы в Санкт-Петербурге 2026: главное</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Thu, 17 Sep 2026 20:00:00 GMT"
+    },
+    {
       "title": "Прыжок не по плану: пять военных застряли на деревьях в Бельгии - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EbC0xNlpPckhPVWFOcU85MXEzZUtfcmdFSUZteF9XUGxuaDhlSVpCSUpzOGNQZVJaMXJBMWNUTGxUMWsxTXRRd0kweVVyd0NZaTg0LTF3bw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EbC0xNlpPckhPVWFOcU85MXEzZUtfcmdFSUZteF9XUGxuaDhlSVpCSUpzOGNQZVJaMXJBMWNUTGxUMWsxTXRRd0kweVVyd0NZaTg0LTF3bw?oc=5\" target=\"_blank\">Прыжок не по плану: пять военных застряли на деревьях в Бельгии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -253,34 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZZlYtbnFHRW1JU0o3XzBpM3NKa3BqWXFfbUpudmRFcl9iNHNMaU5BaHJ0UkdUMjdCQ0JVeF9XUGRwY0taeTRYT0ZYdWZzdjgzc2pNS2MzOVI?oc=5\" target=\"_blank\">Путин глубоко проинформирован о ситуации в Крыму, заявил Аксенов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Thu, 17 Sep 2026 19:57:00 GMT"
-    },
-    {
-      "title": "Путин передал акции «Нестле Кубань» в управление «Л.Е.В. Менеджмент» - kavkaz.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFhDdzY3OGdJUC10UHlmeHRuY3FMN01GTUQ5eFpLN0RibXJQakNZUm5mT1VUQjdTSGR2b0doMWphRlQwVUJiYW8tVWlnd2dzYXhPNzJ5bkxFVEFuTVB6NUZpUUJRb1ZNNnJ0a2FycVp6WEtDTUstckZ5bnAtUE8zbjR3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFhDdzY3OGdJUC10UHlmeHRuY3FMN01GTUQ5eFpLN0RibXJQakNZUm5mT1VUQjdTSGR2b0doMWphRlQwVUJiYW8tVWlnd2dzYXhPNzJ5bkxFVEFuTVB6NUZpUUJRb1ZNNnJ0a2FycVp6WEtDTUstckZ5bnAtUE8zbjR3?oc=5\" target=\"_blank\">Путин передал акции «Нестле Кубань» в управление «Л.Е.В. Менеджмент»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kavkaz.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Thu, 17 Sep 2026 19:54:10 GMT"
-    },
-    {
-      "title": "Еще одна российская спортсменка сменила флаг - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jeklEQ0E2eERrUEw2cTgzSmxQbk1pLXUycnNteGR4MUMxSzlCWUotTDY0bXlKMDNjVC1VN1UtRzFOVHd5S0JBRWd3RlFUb0p5NFhwU1RIZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jeklEQ0E2eERrUEw2cTgzSmxQbk1pLXUycnNteGR4MUMxSzlCWUotTDY0bXlKMDNjVC1VN1UtRzFOVHd5S0JBRWd3RlFUb0p5NFhwU1RIZw?oc=5\" target=\"_blank\">Еще одна российская спортсменка сменила флаг</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Thu, 17 Sep 2026 19:49:00 GMT"
-    },
-    {
-      "title": "На Урале обвиняемые разыграли ограбление ради хищения более 149 млн рублей - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tbGlMc0NCcjYyMzBxUDJfN0xfd1lXbGItU1haa1lrLXkxU0lNM3JvV0lhaVM2SUZvWDdpX3cwWmhjWVptS1FpOEg2ZU9NejM0WTEwYVdqNWotVW9qS3d3eTZzZGxsdVBCaGhPTDBWT2ZMQdIBd0FVX3lxTE1ReEpEYlg2MS03RFNCOWFpMk9qenZKR0U2cHkyMUZodEFfMTJZLWZST3VNaWF4SFViZUFPSU9neUVjVHZtWHRYdUhRVmc5eDZ6a0FLUkdxUVNvUWVwakRHTmhOY0xqOXZIb1EySndlaUxWdlRGSHVr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9tbGlMc0NCcjYyMzBxUDJfN0xfd1lXbGItU1haa1lrLXkxU0lNM3JvV0lhaVM2SUZvWDdpX3cwWmhjWVptS1FpOEg2ZU9NejM0WTEwYVdqNWotVW9qS3d3eTZzZGxsdVBCaGhPTDBWT2ZMQdIBd0FVX3lxTE1ReEpEYlg2MS03RFNCOWFpMk9qenZKR0U2cHkyMUZodEFfMTJZLWZST3VNaWF4SFViZUFPSU9neUVjVHZtWHRYdUhRVmc5eDZ6a0FLUkdxUVNvUWVwakRHTmhOY0xqOXZIb1EySndlaUxWdlRGSHVr?oc=5\" target=\"_blank\">На Урале обвиняемые разыграли ограбление ради хищения более 149 млн рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Thu, 17 Sep 2026 19:47:11 GMT"
-    },
-    {
-      "title": "Терапевт: при гриппе симптомы могут развиваться стремительно - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wVkFlaTJEQ0tETjRxVU1MYmlPa3VyOWg0cmpnVU5ob0JYVm1RaXp6MXVkMUlDQ01HUzR2aXFGSF94T2xkXzYteDMxSS1aOWdoS2dDVTJCdFdzMXpNNHBIRDNTc0QtVC1oZ2xFUEJB0gFzQVVfeXFMUEpNTXlSM050VUpzU2ZURVhkeUJaa25kMktjbHBkWmZIV3ZxNVZUWDlZTHNtTzZhcERqNVVjWkdfa3UzNWMyWFJBRDdZX2habHp5S002anBnNjVDZWRBNlJOMm5sZkpqdER2NkJkQnluN3o5bw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9wVkFlaTJEQ0tETjRxVU1MYmlPa3VyOWg0cmpnVU5ob0JYVm1RaXp6MXVkMUlDQ01HUzR2aXFGSF94T2xkXzYteDMxSS1aOWdoS2dDVTJCdFdzMXpNNHBIRDNTc0QtVC1oZ2xFUEJB0gFzQVVfeXFMUEpNTXlSM050VUpzU2ZURVhkeUJaa25kMktjbHBkWmZIV3ZxNVZUWDlZTHNtTzZhcERqNVVjWkdfa3UzNWMyWFJBRDdZX2habHp5S002anBnNjVDZWRBNlJOMm5sZkpqdER2NkJkQnluN3o5bw?oc=5\" target=\"_blank\">Терапевт: при гриппе симптомы могут развиваться стремительно</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Thu, 17 Sep 2026 19:43:05 GMT"
     }
   ]
 }
