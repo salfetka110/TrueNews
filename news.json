@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T07:04:39.731973+00:00",
+  "updated": "2026-09-19T07:35:13.218890+00:00",
   "count": 40,
   "news": [
     {
@@ -17,11 +17,95 @@
       "pub": "Wed, 16 Sep 2026 02:40:57 GMT"
     },
     {
+      "title": "Инфляция в Мурманской области ускорилась, несмотря на снижение цен - murmansk.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UWVBEUEs5N2paTFBoODlma0tpeW8zMUNyMUlfM3A4WGJPeWMyekFKTHNFU3pnRlhTQzJTWTZZSUU5NzVPekF2N1VRTjctNHZDZG9fTmR2bEdSeWVFSWcwZ1RuNUowX3otZUdJWEt3YjlJYWU4R0pZ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5UWVBEUEs5N2paTFBoODlma0tpeW8zMUNyMUlfM3A4WGJPeWMyekFKTHNFU3pnRlhTQzJTWTZZSUU5NzVPekF2N1VRTjctNHZDZG9fTmR2bEdSeWVFSWcwZ1RuNUowX3otZUdJWEt3YjlJYWU4R0pZ?oc=5\" target=\"_blank\">Инфляция в Мурманской области ускорилась, несмотря на снижение цен</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">murmansk.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 19 Sep 2026 07:23:05 GMT"
+    },
+    {
+      "title": "В Москве задержали гендиректора MIXIT Пая - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xSnBrZHQ4a1Bjc3lFUV9acDNMNUJZRWE3SzNrR2pQd0Z0bUh5M3YxTGxvTFNqWWZncWFGNl9TRlhBMmlxaE1JUEZjaFpTbWVaRUJJSHpGSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xSnBrZHQ4a1Bjc3lFUV9acDNMNUJZRWE3SzNrR2pQd0Z0bUh5M3YxTGxvTFNqWWZncWFGNl9TRlhBMmlxaE1JUEZjaFpTbWVaRUJJSHpGSQ?oc=5\" target=\"_blank\">В Москве задержали гендиректора MIXIT Пая</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 19 Sep 2026 07:23:00 GMT"
+    },
+    {
+      "title": "ВС России ведут зачистку жилых кварталов Красного Лимана и Святогорска - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41TlMwSk5EWnBtWVoxMy01bkhLSmpCM2NCWG5OYTJXbzZoQXhPVnA5aXZGSGpfcGh3alJYZVgxQ2RHWlJmV05SOVdBR0JWNmZ6V0U1V3ZQODBOY3h6VWpXd3Rmbzk3dEVnSzFvTkNB0gFzQVVfeXFMTWQ3eXgxbXZieHJEOVFTYmN6REIxRmRsenRFMU1oMHFZN2tRLWZJdk1VYjd6eVJBUDQ0UUdWUmpBRGFKcDZKTlVQSG5GRjZ6UU5vWXM0LXhDX3FMV193UXRzQ2RQd0RwZ0k3SkxRdjFvallKcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE41TlMwSk5EWnBtWVoxMy01bkhLSmpCM2NCWG5OYTJXbzZoQXhPVnA5aXZGSGpfcGh3alJYZVgxQ2RHWlJmV05SOVdBR0JWNmZ6V0U1V3ZQODBOY3h6VWpXd3Rmbzk3dEVnSzFvTkNB0gFzQVVfeXFMTWQ3eXgxbXZieHJEOVFTYmN6REIxRmRsenRFMU1oMHFZN2tRLWZJdk1VYjd6eVJBUDQ0UUdWUmpBRGFKcDZKTlVQSG5GRjZ6UU5vWXM0LXhDX3FMV193UXRzQ2RQd0RwZ0k3SkxRdjFvallKcw?oc=5\" target=\"_blank\">ВС России ведут зачистку жилых кварталов Красного Лимана и Святогорска</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 19 Sep 2026 07:20:30 GMT"
+    },
+    {
+      "title": "В Минобороны России сообщили об уличных боях в центральном районе Доброполья - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52SmVsMG8zbWdCWExxQUFvMzNad0pNOUR4RWxsWFMtQUlPWTItaUxUN0lYWDlZODVwSWtpZnhZWWVuM3BETlhvQW1TWVI4TnpISnhaOTVMeXEtX0RvV2xkdWhiVUZtVjM4dVFyUjk5d9IBdEFVX3lxTE9HS3picDJpSzZNOE1IMGRjaXBPaGxXTzhvVGtxRU9zOHFLVDFvNkJ5dTJaUTg2VkVIZnVJcjJMSUZGam05UDA3eVpIcHAtc3lCMmN3dmo2RXExTFF5X0xHRlp3UFpxYzZnNEhYU0U2YjBCRWRJ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE52SmVsMG8zbWdCWExxQUFvMzNad0pNOUR4RWxsWFMtQUlPWTItaUxUN0lYWDlZODVwSWtpZnhZWWVuM3BETlhvQW1TWVI4TnpISnhaOTVMeXEtX0RvV2xkdWhiVUZtVjM4dVFyUjk5d9IBdEFVX3lxTE9HS3picDJpSzZNOE1IMGRjaXBPaGxXTzhvVGtxRU9zOHFLVDFvNkJ5dTJaUTg2VkVIZnVJcjJMSUZGam05UDA3eVpIcHAtc3lCMmN3dmo2RXExTFF5X0xHRlp3UFpxYzZnNEhYU0U2YjBCRWRJ?oc=5\" target=\"_blank\">В Минобороны России сообщили об уличных боях в центральном районе Доброполья</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 19 Sep 2026 07:18:40 GMT"
+    },
+    {
+      "title": "Памфилова: в МВД поступило 367 сообщений о происшествиях на выборах - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Zm9jLU5FMGpnLUFHWnp1bUV2eV9peUxkbzJHUXVIdU13N2NSY1hQOTluc3BEX2wwcHB0N3FxZW5qSG5HREpkamh1U3hxY2xKSVQ0a2ZEMUNiRHZBclE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Zm9jLU5FMGpnLUFHWnp1bUV2eV9peUxkbzJHUXVIdU13N2NSY1hQOTluc3BEX2wwcHB0N3FxZW5qSG5HREpkamh1U3hxY2xKSVQ0a2ZEMUNiRHZBclE?oc=5\" target=\"_blank\">Памфилова: в МВД поступило 367 сообщений о происшествиях на выборах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 07:16:00 GMT"
+    },
+    {
+      "title": "В Белгородской области при атаке ВСУ погиб ребенок - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NUldnbTNCTHltSW1uNkhmZEo0bnk0cXYzaDFrZFJPUFlzY3ozLVF2eUExVE5vc3FuUG1lcmJMYVBndFZwOFdVbzFiTDRjQ1YwLWc2YkFnT21TTHpzTHNpdVdUZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NUldnbTNCTHltSW1uNkhmZEo0bnk0cXYzaDFrZFJPUFlzY3ozLVF2eUExVE5vc3FuUG1lcmJMYVBndFZwOFdVbzFiTDRjQ1YwLWc2YkFnT21TTHpzTHNpdVdUZw?oc=5\" target=\"_blank\">В Белгородской области при атаке ВСУ погиб ребенок</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 07:13:00 GMT"
+    },
+    {
+      "title": "Дожди — короткие. Что готовит нам погода на выходные - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45bzliU0t0Z3FPVUMyOFMzSDBQUVhIcVRXM3JwcTQwTW9sa1ZuYmRjMF9XNFk2US0xZHNITDFCbjBCSGZRbGI0RWo1U1g4a29zemI3ZURodw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE45bzliU0t0Z3FPVUMyOFMzSDBQUVhIcVRXM3JwcTQwTW9sa1ZuYmRjMF9XNFk2US0xZHNITDFCbjBCSGZRbGI0RWo1U1g4a29zemI3ZURodw?oc=5\" target=\"_blank\">Дожди — короткие. Что готовит нам погода на выходные</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 19 Sep 2026 07:10:00 GMT"
+    },
+    {
+      "title": "Брифинг Памфиловой о ходе голосования на выборах депутатов Госдумы - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FM0xiLVp5NXp6bWkzNUpuMTJaVDg4UFhidGNoQ3VUM0huTm42T2lmR1dlcl9udV9BQUg2dE4yRnpQOVhzOHZhRG1hV25JQ1N1ODhYWTMtOWRhQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FM0xiLVp5NXp6bWkzNUpuMTJaVDg4UFhidGNoQ3VUM0huTm42T2lmR1dlcl9udV9BQUg2dE4yRnpQOVhzOHZhRG1hV25JQ1N1ODhYWTMtOWRhQQ?oc=5\" target=\"_blank\">Брифинг Памфиловой о ходе голосования на выборах депутатов Госдумы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 07:03:00 GMT"
+    },
+    {
+      "title": "В культурно-туристическом центре «Вологда» пройдет гастрономический праздник - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WclVIeXpPOUlJTzY3b1JFSm40Sm1ia3BrVS1nNlAtZDExZkhyVTAyWExOTmRzTHZXeXM3Y3ZGZ25tYmpaVUFrdlV0MEVGNWVzU0tSSWV1UDZOS3ZoX3pDck00UQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WclVIeXpPOUlJTzY3b1JFSm40Sm1ia3BrVS1nNlAtZDExZkhyVTAyWExOTmRzTHZXeXM3Y3ZGZ25tYmpaVUFrdlV0MEVGNWVzU0tSSWV1UDZOS3ZoX3pDck00UQ?oc=5\" target=\"_blank\">В культурно-туристическом центре «Вологда» пройдет гастрономический праздник</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 19 Sep 2026 07:01:09 GMT"
+    },
+    {
+      "title": "5 советов, как грамотно выдавать детям карманные деньги - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16U1pCTXdaQ3R3czNERklCRjFGN2lPU1lrSTlhSGZPd1FoLWR0QVY2d2xlTkdMVjlqWFJLdGg3czlqOXFiVVNpZHV5LXlla3NZYzB4UkZfZVNybTFINGdZTnRmenBGVExUdmpiSw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE16U1pCTXdaQ3R3czNERklCRjFGN2lPU1lrSTlhSGZPd1FoLWR0QVY2d2xlTkdMVjlqWFJLdGg3czlqOXFiVVNpZHV5LXlla3NZYzB4UkZfZVNybTFINGdZTnRmenBGVExUdmpiSw?oc=5\" target=\"_blank\">5 советов, как грамотно выдавать детям карманные деньги</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 19 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ВС России освободили четыре села в Запорожской области в сентябре - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xc25lakpMWmo4X1hOTGxPYlRDVExnSzF0Y0NRY2NkSGZURU1Ca0VSM2JiYTNBdkdLVVBwdmNLR2UxTmlZdm1oNTdDSUpCb2ZQVUVIWjhn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xc25lakpMWmo4X1hOTGxPYlRDVExnSzF0Y0NRY2NkSGZURU1Ca0VSM2JiYTNBdkdLVVBwdmNLR2UxTmlZdm1oNTdDSUpCb2ZQVUVIWjhn?oc=5\" target=\"_blank\">ВС России освободили четыре села в Запорожской области в сентябре</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "Пострадавшим от атак на склады селлерам Прикамья одобрили займы на 83 млн - perm.rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlFUMXdsaVZzUkhZYlF4OTVWX1JlaDVESE5ZUTVLVmJzQmNXNjZDYXo1X2xscE45QS0yQVRjYVJBemlwc2VHdFl5T1QzUHVDcWNLRzd4REQ2ZFppdjExTVJFTHhQWlVzWnM1OUJPTHBDMjFaSWI1dW1VLTVVSmJ2MQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlFUMXdsaVZzUkhZYlF4OTVWX1JlaDVESE5ZUTVLVmJzQmNXNjZDYXo1X2xscE45QS0yQVRjYVJBemlwc2VHdFl5T1QzUHVDcWNLRzd4REQ2ZFppdjExTVJFTHhQWlVzWnM1OUJPTHBDMjFaSWI1dW1VLTVVSmJ2MQ?oc=5\" target=\"_blank\">Пострадавшим от атак на склады селлерам Прикамья одобрили займы на 83 млн</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">perm.rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 19 Sep 2026 06:58:59 GMT"
+    },
+    {
+      "title": "Минобороны: Киев стремится выдать действия ВСУ за успехи на поле боя - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xSFV2Q2xXbGhuLVpQVVpuN3ZTMGc5TVI4QXh1dldlNkZweHRpT1BXZmJkcmtQS1F1RER6bDRHOXpRQ2xqSGNianNaWkkwU25qcFBoeQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xSFV2Q2xXbGhuLVpQVVpuN3ZTMGc5TVI4QXh1dldlNkZweHRpT1BXZmJkcmtQS1F1RER6bDRHOXpRQ2xqSGNianNaWkkwU25qcFBoeQ?oc=5\" target=\"_blank\">Минобороны: Киев стремится выдать действия ВСУ за успехи на поле боя</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 06:58:00 GMT"
     },
     {
       "title": "ВС РФ освободили с начала года более 5,3 тыс. кв. км и 220 сел - tass.ru",
@@ -38,25 +122,18 @@
       "pub": "Sat, 19 Sep 2026 06:56:44 GMT"
     },
     {
-      "title": "Бойцы \"Запада\" пресекают вылазки ВСУ, не позволяют перейти к действиям - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EbmwwcWVGUThpTHVaUllUMFJIMUFhMTVRRUNIQmRnay1UdlBkRzNhTnJ2bXdhSmtCUkNIbDZucHlLa2xSRGdTUkhsQzNfMEpuaUxnVDI0UXM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EbmwwcWVGUThpTHVaUllUMFJIMUFhMTVRRUNIQmRnay1UdlBkRzNhTnJ2bXdhSmtCUkNIbDZucHlLa2xSRGdTUkhsQzNfMEpuaUxnVDI0UXM?oc=5\" target=\"_blank\">Бойцы \"Запада\" пресекают вылазки ВСУ, не позволяют перейти к действиям</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 19 Sep 2026 06:56:00 GMT"
-    },
-    {
-      "title": "Делаем вкусный шоколад дома из тертого какао - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lMVQxQVdmeUo5eTBiWmN3bzAwQUtlVjhlbHFMUDJjZTh6X0NwbC00V2QtOHJJUEtTcEFWN0UwVUo0UWRia0VRR01xY3BQTXZ5a1Z0NjhCaE5veW1Yc1hWSmFYZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lMVQxQVdmeUo5eTBiWmN3bzAwQUtlVjhlbHFMUDJjZTh6X0NwbC00V2QtOHJJUEtTcEFWN0UwVUo0UWRia0VRR01xY3BQTXZ5a1Z0NjhCaE5veW1Yc1hWSmFYZw?oc=5\" target=\"_blank\">Делаем вкусный шоколад дома из тертого какао</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 19 Sep 2026 06:53:02 GMT"
-    },
-    {
       "title": "В Белгородской области два мирных жителя пострадали из-за атак ВСУ - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5dVFuZEI3b1RkR0dMS05tM2lVSHlTRW9sdE1nYjlIdklocHpYalZOWnNPY09aR3NsVkYwWXN3eS1Ha1JhV2d5dGFQei1tQVRvMWpkZUZtWENxc0RE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5dVFuZEI3b1RkR0dMS05tM2lVSHlTRW9sdE1nYjlIdklocHpYalZOWnNPY09aR3NsVkYwWXN3eS1Ha1JhV2d5dGFQei1tQVRvMWpkZUZtWENxc0RE?oc=5\" target=\"_blank\">В Белгородской области два мирных жителя пострадали из-за атак ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 19 Sep 2026 06:47:00 GMT"
+    },
+    {
+      "title": "Мишустин поздравил российских оружейников с профессиональным праздником - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xQmpYTi0tQWFEMW1ERy1zNUpGSzlhbHdlMW5pdlhfb2tJNkN3anlZRFd5VTN6TkNYNzNDTTllYnYyVjVqcXJRNDJJdDhjRWoxZ0d6enZIaWZvRnZ0N1E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xQmpYTi0tQWFEMW1ERy1zNUpGSzlhbHdlMW5pdlhfb2tJNkN3anlZRFd5VTN6TkNYNzNDTTllYnYyVjVqcXJRNDJJdDhjRWoxZ0d6enZIaWZvRnZ0N1E?oc=5\" target=\"_blank\">Мишустин поздравил российских оружейников с профессиональным праздником</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 06:41:00 GMT"
     },
     {
       "title": "Спорт: Выпуск за 19 сентября 2026. Смотреть онлайн - tv.rbc.ru",
@@ -101,11 +178,18 @@
       "pub": "Sat, 19 Sep 2026 06:08:00 GMT"
     },
     {
-      "title": "Более 20 процентов избирателей Одинцова проголосовали в первый день выборов — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHVJVW9HN1BlLS1EdXdQWVZ4cDZFMVJVU2lhTW5LbEdYU3k1ZHRiSlBLWUIxZ25YanpvQUhpQ3VvYTZQVjBzQnJ2R1REYU15V3hid1Q1T29yellKMjJKeHFFTTNnaDU5NUJOZ0I5M0ZteVVtbVFKc2RRYjBwR3BrOXM5djRHSUpDaTk3cGpYa1p3VmpDQ3AxcVpNVGdxYmFYV0NDUmdzUjZ1djNsSDlzTjdFTGpWZFdxbUJxeTFZMFZSRnVYdWRIVHN6dUNEdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHVJVW9HN1BlLS1EdXdQWVZ4cDZFMVJVU2lhTW5LbEdYU3k1ZHRiSlBLWUIxZ25YanpvQUhpQ3VvYTZQVjBzQnJ2R1REYU15V3hid1Q1T29yellKMjJKeHFFTTNnaDU5NUJOZ0I5M0ZteVVtbVFKc2RRYjBwR3BrOXM5djRHSUpDaTk3cGpYa1p3VmpDQ3AxcVpNVGdxYmFYV0NDUmdzUjZ1djNsSDlzTjdFTGpWZFdxbUJxeTFZMFZSRnVYdWRIVHN6dUNEdw?oc=5\" target=\"_blank\">Более 20 процентов избирателей Одинцова проголосовали в первый день выборов — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "title": "В Ступине в 8:00 начался второй день голосования выборов в Госдуму и Мособлдуму — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmRfcExMSDl6NnZIanJVWnp2ZnFQbVVjcTlFMzEzMFN6a052WGRBSVlGRk90NG5COXJ5blYyR3pFX2VQWkhSa2ZOVzM2em5paHY4WldNTTd5YlVCRWx2Vkp6VjdENm5EUXBlblMzSjlVV3ROVGYwamh4WXdXS3ZyUUxHUmJwejBkbjUwdlY5bzFteE1qemNEZlE1TTVYSzMtUFlzSnk3VGhUNVI4UzY2aTBwVzMzZ2JCMjR5UVVncmZNc2pwVzU1SUpzTGpYclFMQVl1dW5xMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmRfcExMSDl6NnZIanJVWnp2ZnFQbVVjcTlFMzEzMFN6a052WGRBSVlGRk90NG5COXJ5blYyR3pFX2VQWkhSa2ZOVzM2em5paHY4WldNTTd5YlVCRWx2Vkp6VjdENm5EUXBlblMzSjlVV3ROVGYwamh4WXdXS3ZyUUxHUmJwejBkbjUwdlY5bzFteE1qemNEZlE1TTVYSzMtUFlzSnk3VGhUNVI4UzY2aTBwVzMzZ2JCMjR5UVVncmZNc2pwVzU1SUpzTGpYclFMQVl1dW5xMA?oc=5\" target=\"_blank\">В Ступине в 8:00 начался второй день голосования выборов в Госдуму и Мособлдуму — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
       "pub": "Sat, 19 Sep 2026 06:06:50 GMT"
+    },
+    {
+      "title": "Что важно знать о новом сезоне Лиги чемпионов - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15TzBZeG03YXFoY0prUnJFX1phSmZ0NUVUcHNzdDNJMW4tZDR3Slh0LTZ1X3Jpcm83SGdCajg3eXZiWkRCX1F4S2J3WjlwMjBEWGktWHNWQUpUcnRWcnV2SW83ZlkySHB4NVZZTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15TzBZeG03YXFoY0prUnJFX1phSmZ0NUVUcHNzdDNJMW4tZDR3Slh0LTZ1X3Jpcm83SGdCajg3eXZiWkRCX1F4S2J3WjlwMjBEWGktWHNWQUpUcnRWcnV2SW83ZlkySHB4NVZZTQ?oc=5\" target=\"_blank\">Что важно знать о новом сезоне Лиги чемпионов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 19 Sep 2026 06:05:36 GMT"
     },
     {
       "title": "В аэропорту Нового Уренгоя ввели временные ограничения на полеты - ria.ru",
@@ -122,11 +206,18 @@
       "pub": "Sat, 19 Sep 2026 05:56:00 GMT"
     },
     {
-      "title": "Можно ли смывать туалетную бумагу в унитаз: когда возникает засор - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QUGtCS3VVRG4zUU1mRmtLMldUZUtwek15cXEyeFRfUUZRb3pEWHNJTEVnR09lOGJnaDE3MUQwWS1ycVdpdGJWUW0yMVlySXZwcmdLbDNETEtvNkNBM3o3MzlGMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QUGtCS3VVRG4zUU1mRmtLMldUZUtwek15cXEyeFRfUUZRb3pEWHNJTEVnR09lOGJnaDE3MUQwWS1ycVdpdGJWUW0yMVlySXZwcmdLbDNETEtvNkNBM3o3MzlGMA?oc=5\" target=\"_blank\">Можно ли смывать туалетную бумагу в унитаз: когда возникает засор</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 19 Sep 2026 05:54:50 GMT"
+      "title": "В Москве ночью не выявили нарушений на избирательных участках - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yak95VUxrZHl5dWxubTRsSXBjaDFycXVqZkRyVnE1dGxQX0xQbC1UempGSk5xblNBWVZRdlVkbDhGaGxlaXhqb0tQejhhMWFZRmI2RnhEM1Fudw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yak95VUxrZHl5dWxubTRsSXBjaDFycXVqZkRyVnE1dGxQX0xQbC1UempGSk5xblNBWVZRdlVkbDhGaGxlaXhqb0tQejhhMWFZRmI2RnhEM1Fudw?oc=5\" target=\"_blank\">В Москве ночью не выявили нарушений на избирательных участках</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 05:47:00 GMT"
+    },
+    {
+      "title": "СМИ: Хегсет теряет поддержку в конгрессе из-за политизирования Пентагона - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVF93Snp1eXdWOGQwTlpHakVmY0VUVk9lRWN4SGlOS2FWOVJadmpMT3N2dlJoaFJVekZCazAybFpwajdOVlFJUHlzazBkR2dLcVB2Rm1JcE9xdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVF93Snp1eXdWOGQwTlpHakVmY0VUVk9lRWN4SGlOS2FWOVJadmpMT3N2dlJoaFJVekZCazAybFpwajdOVlFJUHlzazBkR2dLcVB2Rm1JcE9xdw?oc=5\" target=\"_blank\">СМИ: Хегсет теряет поддержку в конгрессе из-за политизирования Пентагона</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 19 Sep 2026 05:45:00 GMT"
     },
     {
       "title": "В Москве начался второй день голосования на выборах в Госдуму - ria.ru",
@@ -134,20 +225,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pd1dKaDRMdU5PMGdDNzYwZmdzaS1DU0VIeDZMTG1FWWNEcEdoUURkNzhYMVRZMW1fcm5IX1lpUWRMcGc0WGlaQTNINE1udXJqd0Y2U1FlYVdHZw?oc=5\" target=\"_blank\">В Москве начался второй день голосования на выборах в Госдуму</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 19 Sep 2026 05:30:00 GMT"
-    },
-    {
-      "title": "Пентагон опубликовал шестую партию рассекреченных материалов о НЛО - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSFNINTJ1MGg1NmZXd0xWRmxsUWJmWnhpRkRSRURIRk55d3k3TTNfLVpxTlI1X3NEaE92RWR0UTE2OTdyWWVJeC1PRkNJZTZLajNYSC1xSjJjaUhtYWdYYUVqY0Fudw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSFNINTJ1MGg1NmZXd0xWRmxsUWJmWnhpRkRSRURIRk55d3k3TTNfLVpxTlI1X3NEaE92RWR0UTE2OTdyWWVJeC1PRkNJZTZLajNYSC1xSjJjaUhtYWdYYUVqY0Fudw?oc=5\" target=\"_blank\">Пентагон опубликовал шестую партию рассекреченных материалов о НЛО</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 19 Sep 2026 05:25:49 GMT"
-    },
-    {
-      "title": "Продюсер Фрилле: Депардье решил не переезжать в Россию из-за судов во Франции - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SThYZ1dHU1pMNVY2R3Jkc0RMZ2pmSHJETXU2T2NIc1hkVUUydlZEekpKYi1aeDFuY0JKT1J4MDRRcF9JN28xcFZCOXJQQTl1bWJ6aEtiNWNCZ3NsV2NfbWxBLXdlUTNadHlBNXNXcm1kbnlwNGY0WFN30gF6QVVfeXFMTjRJOFhnV0dTWkw1VjZHcmRzRExnamZIckRNdTZPY0hzWGRVRTJ2VkR6SkpiLVp4MW5jQkpPUngwNFFwX0k3bzFwVkI5clBBOXVtYnpoS2I1Y0Jnc2xXY19tbEEtd2VRM1p0eUE1c1dybWRueXA0ZjRYU3c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE40SThYZ1dHU1pMNVY2R3Jkc0RMZ2pmSHJETXU2T2NIc1hkVUUydlZEekpKYi1aeDFuY0JKT1J4MDRRcF9JN28xcFZCOXJQQTl1bWJ6aEtiNWNCZ3NsV2NfbWxBLXdlUTNadHlBNXNXcm1kbnlwNGY0WFN30gF6QVVfeXFMTjRJOFhnV0dTWkw1VjZHcmRzRExnamZIckRNdTZPY0hzWGRVRTJ2VkR6SkpiLVp4MW5jQkpPUngwNFFwX0k3bzFwVkI5clBBOXVtYnpoS2I1Y0Jnc2xXY19tbEEtd2VRM1p0eUE1c1dybWRueXA0ZjRYU3c?oc=5\" target=\"_blank\">Продюсер Фрилле: Депардье решил не переезжать в Россию из-за судов во Франции</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 19 Sep 2026 05:23:50 GMT"
     },
     {
       "title": "В первый день выборов в Прикамье проголосовали 430,7 тыс. человек - perm.rbc.ru",
@@ -178,6 +255,13 @@
       "pub": "Sat, 19 Sep 2026 05:07:00 GMT"
     },
     {
+      "title": "Продюсер Фрилле: Депардье решил не переезжать в Россию из-за судов во Франции - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZcnpsdk52UjI1eGVtYXFBMUw3b3puMklydHBNUlBWSmZxTDd1WTZWUk5hSkpJQnBuYUVFMHMyUDFWV0lXSUxRd3R3MHpoS1FRWE5vSVNOTWUwSWFBamkweTdrTHllTmhMYXIzcUtPRkxIWkxF0gF6QVVfeXFMTjRJOFhnV0dTWkw1VjZHcmRzRExnamZIckRNdTZPY0hzWGRVRTJ2VkR6SkpiLVp4MW5jQkpPUngwNFFwX0k3bzFwVkI5clBBOXVtYnpoS2I1Y0Jnc2xXY19tbEEtd2VRM1p0eUE1c1dybWRueXA0ZjRYU3c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBZcnpsdk52UjI1eGVtYXFBMUw3b3puMklydHBNUlBWSmZxTDd1WTZWUk5hSkpJQnBuYUVFMHMyUDFWV0lXSUxRd3R3MHpoS1FRWE5vSVNOTWUwSWFBamkweTdrTHllTmhMYXIzcUtPRkxIWkxF0gF6QVVfeXFMTjRJOFhnV0dTWkw1VjZHcmRzRExnamZIckRNdTZPY0hzWGRVRTJ2VkR6SkpiLVp4MW5jQkpPUngwNFFwX0k3bzFwVkI5clBBOXVtYnpoS2I1Y0Jnc2xXY19tbEEtd2VRM1p0eUE1c1dybWRueXA0ZjRYU3c?oc=5\" target=\"_blank\">Продюсер Фрилле: Депардье решил не переезжать в Россию из-за судов во Франции</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 19 Sep 2026 05:05:29 GMT"
+    },
+    {
       "title": "«Золотое яблоко» принесло извинения клиентке за угрозу разбирательств - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwY0lZRldLRFJBUkdYWGZlVndXNGxsN01lWlpzTWhBcUJLMU5fWmFrdlpaUXY4Qjlnc1FTaWotSEZhTUxZTVBROTRsX0xxaldXc29RWDhCWTRGOGlhdU51M1VHYw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwY0lZRldLRFJBUkdYWGZlVndXNGxsN01lWlpzTWhBcUJLMU5fWmFrdlpaUXY4Qjlnc1FTaWotSEZhTUxZTVBROTRsX0xxaldXc29RWDhCWTRGOGlhdU51M1VHYw?oc=5\" target=\"_blank\">«Золотое яблоко» принесло извинения клиентке за угрозу разбирательств</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -197,90 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5OeFQxR1M5eHUxdGgxWXRJREZfQ011T24wd3ppTDBvbkJYZnRvb2lWT0x0cXpzTXZNYVZqNlZjZFVCVTlqTXR4Y0JKaGlpUzlWZ3NBM2RiMWNXbWlqS1IycjJFdGd1ek03QXdWYlhWRQ?oc=5\" target=\"_blank\">В Ростовской области начался второй день выборов в Госдуму IX созыва</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rostov.rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 19 Sep 2026 05:00:00 GMT"
-    },
-    {
-      "title": "На Северном Кавказе начался второй день выборов в Госдуму РФ IX созыва - kavkaz.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjF3Qk96RG14QWVla0xEWEI0S0I2dGNTbzU4Qi1BRnN2ZnBkcWhWRlZZNVZJMVMxRDJCRWhUQjdhbEFlbjczOUZORURoMks0ekRHNzZLRmRERVZoWXZhaGlZOXVxQ0Q3Y25sTzItaDJDaHJ3UjBBZFhtZ2JWLTNLUEV3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjF3Qk96RG14QWVla0xEWEI0S0I2dGNTbzU4Qi1BRnN2ZnBkcWhWRlZZNVZJMVMxRDJCRWhUQjdhbEFlbjczOUZORURoMks0ekRHNzZLRmRERVZoWXZhaGlZOXVxQ0Q3Y25sTzItaDJDaHJ3UjBBZFhtZ2JWLTNLUEV3?oc=5\" target=\"_blank\">На Северном Кавказе начался второй день выборов в Госдуму РФ IX созыва</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kavkaz.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 19 Sep 2026 05:00:00 GMT"
-    },
-    {
-      "title": "\"Град\" группировки войск \"Север\" уничтожил укрепрайон ВСУ под Сумами - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mNVl5MFdYbzZiMVhvS1ZiaXBsLWppcDFsdUw0ZS1oYnFVREc3ZTRzNnhIYzRDakU2anI2SW12a1ZUOW5HREkwalNwblFzZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mNVl5MFdYbzZiMVhvS1ZiaXBsLWppcDFsdUw0ZS1oYnFVREc3ZTRzNnhIYzRDakU2anI2SW12a1ZUOW5HREkwalNwblFzZw?oc=5\" target=\"_blank\">\"Град\" группировки войск \"Север\" уничтожил укрепрайон ВСУ под Сумами</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sat, 19 Sep 2026 04:47:36 GMT"
-    },
-    {
-      "title": "Россияне стали чаще искать компаньонов для прогулки по лесу - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtZGJLZE5kdTZVNTNpZ1dLeVZUODBxMmhQZGJqS2FMLU1Bd2IwVU50LWVONlgxWVQxRk9DbXdzVk9tN1lLVHV3VVk2X3RnZDIzSzNfdVE4N2MySkRPY2c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtZGJLZE5kdTZVNTNpZ1dLeVZUODBxMmhQZGJqS2FMLU1Bd2IwVU50LWVONlgxWVQxRk9DbXdzVk9tN1lLVHV3VVk2X3RnZDIzSzNfdVE4N2MySkRPY2c?oc=5\" target=\"_blank\">Россияне стали чаще искать компаньонов для прогулки по лесу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 19 Sep 2026 04:43:00 GMT"
-    },
-    {
-      "title": "Явка на выборах Красноярском крае в первый день составила 22,9 процента - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yVUwxaGxrTGkycndQY3ZCQkJFOG51Y2k5TWF1eTU4SnFYSDZ5NmgtMmFYLVpSeFhWblVWWWNYeUNyRjRlTm8teUZaUjd0dGpkNnNyQ2o5dU5EQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yVUwxaGxrTGkycndQY3ZCQkJFOG51Y2k5TWF1eTU4SnFYSDZ5NmgtMmFYLVpSeFhWblVWWWNYeUNyRjRlTm8teUZaUjd0dGpkNnNyQ2o5dU5EQQ?oc=5\" target=\"_blank\">Явка на выборах Красноярском крае в первый день составила 22,9 процента</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 19 Sep 2026 04:37:00 GMT"
-    },
-    {
-      "title": "Китай за полгода принял 1,6 млн туристов из России - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Jc2V2UG5pMTNNNDh4VGdxVFVKcHN5NUtUd3A1dF90UktTZFRSeEpOcmtBWG9FU2RXVGxjZlNpaEtoSFdfWnhIcEplTnAwT2hXRnE3YTZ6ZzdMTkZWM3dzSG1Nc2x1Q3NhZVQ3RWlmVUVObU9fQXFJRWZ30gF_QVVfeXFMT1lZTm1vdFF1RnU3S20yTkF4ak1ZX2hOR3FVb083alVud2Y0bE5DczVjNExsa1hiaVdta2dxbHVacjhiU0ZXSTJOVFpidzh4RHQ3RnFOWVUwZWxlXzJaSG1yMFpNN0g1MkEyQmhSVUVsa2NSR1NoN3VWQnRxbFpDYw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1Jc2V2UG5pMTNNNDh4VGdxVFVKcHN5NUtUd3A1dF90UktTZFRSeEpOcmtBWG9FU2RXVGxjZlNpaEtoSFdfWnhIcEplTnAwT2hXRnE3YTZ6ZzdMTkZWM3dzSG1Nc2x1Q3NhZVQ3RWlmVUVObU9fQXFJRWZ30gF_QVVfeXFMT1lZTm1vdFF1RnU3S20yTkF4ak1ZX2hOR3FVb083alVud2Y0bE5DczVjNExsa1hiaVdta2dxbHVacjhiU0ZXSTJOVFpidzh4RHQ3RnFOWVUwZWxlXzJaSG1yMFpNN0g1MkEyQmhSVUVsa2NSR1NoN3VWQnRxbFpDYw?oc=5\" target=\"_blank\">Китай за полгода принял 1,6 млн туристов из России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 19 Sep 2026 04:26:25 GMT"
-    },
-    {
-      "title": "Лукьяненко планирует написать продолжение цикла \"Дозоры\" - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HWVZjNThvaFFmMVFrWjB1RHJXV0VEQlk2SklkR0E5dVh0VkZ4V2s2VDByNHZsdHUyMFpFeWNFUHhNbW9XaTg0?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HWVZjNThvaFFmMVFrWjB1RHJXV0VEQlk2SklkR0E5dVh0VkZ4V2s2VDByNHZsdHUyMFpFeWNFUHhNbW9XaTg0?oc=5\" target=\"_blank\">Лукьяненко планирует написать продолжение цикла \"Дозоры\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sat, 19 Sep 2026 04:21:56 GMT"
-    },
-    {
-      "title": "Командир Тайга: ВС РФ поразили более 40 роботизированных комплексов ВСУ - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uRlFTQ0F3VWltMXozS3EtMzhaemhMM2FseTdzS3BILWNrSlc5WWlNaXp0OTFFV0Y0dGR3OEdld2JneGdFb0ZJenZMOG5vUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uRlFTQ0F3VWltMXozS3EtMzhaemhMM2FseTdzS3BILWNrSlc5WWlNaXp0OTFFV0Y0dGR3OEdld2JneGdFb0ZJenZMOG5vUQ?oc=5\" target=\"_blank\">Командир Тайга: ВС РФ поразили более 40 роботизированных комплексов ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sat, 19 Sep 2026 04:13:33 GMT"
-    },
-    {
-      "title": "Страница 5 - Synergetic: скидки, купоны, акции, промокоды на сентябрь 2026 - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zY21QTmdmMHJOSnR4VVZzQU1jeDNNdElKbnBYSWh5THRXTE03MmNseGozMFprYl9fcGloQVRaZVJRaXlneFprVzgwTUhENVlOaTUzY1h3TkREVVhQZDZ1Z2k2M20?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zY21QTmdmMHJOSnR4VVZzQU1jeDNNdElKbnBYSWh5THRXTE03MmNseGozMFprYl9fcGloQVRaZVJRaXlneFprVzgwTUhENVlOaTUzY1h3TkREVVhQZDZ1Z2k2M20?oc=5\" target=\"_blank\">Страница 5 - Synergetic: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 19 Sep 2026 03:45:34 GMT"
-    },
-    {
-      "title": "В аэропорту Петрозаводска сняли временные ограничения - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLaDFLMDRxZG1oWEJsVFNQT1Z6VWlURGxmbGdwWC1WUDY4VlFBWm9WTzI3clhpUTJwcVdUZDk0b0VrbGtfNFRXOFIxTHFGdHlrRHdNdmZIS2hrVzNOaVB3NmhB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLaDFLMDRxZG1oWEJsVFNQT1Z6VWlURGxmbGdwWC1WUDY4VlFBWm9WTzI3clhpUTJwcVdUZDk0b0VrbGtfNFRXOFIxTHFGdHlrRHdNdmZIS2hrVzNOaVB3NmhB?oc=5\" target=\"_blank\">В аэропорту Петрозаводска сняли временные ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 19 Sep 2026 03:38:00 GMT"
-    },
-    {
-      "title": "ВС России срывают ротацию ВСУ в Харьковской области - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBOW1va0VfeXR2TGtTZVBfTFhyd3NLRzZ2aVhGYUtzSEg5UkQ5RmJyaUdxeWRBNzVzOXRtQWdKQWlLOVRFb1JQNGdUUHdYUzRnWmxTbGJBS1hnRktZaTdESEVOVUFJQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBOW1va0VfeXR2TGtTZVBfTFhyd3NLRzZ2aVhGYUtzSEg5UkQ5RmJyaUdxeWRBNzVzOXRtQWdKQWlLOVRFb1JQNGdUUHdYUzRnWmxTbGJBS1hnRktZaTdESEVOVUFJQQ?oc=5\" target=\"_blank\">ВС России срывают ротацию ВСУ в Харьковской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 19 Sep 2026 03:37:00 GMT"
-    },
-    {
-      "title": "Замкома Русский: группа \"БАРС-Курск\" поразила 124 дрона ВСУ в Курской области - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqWTlObTE1Ry1OVW9FZThkd1RDR3QtcVRTRGlqaU1hRnhwck54Sy11LV9QSnNzWjZBWnpfS2FnWm1vNS1LWFluMVR2Rnp5dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqWTlObTE1Ry1OVW9FZThkd1RDR3QtcVRTRGlqaU1hRnhwck54Sy11LV9QSnNzWjZBWnpfS2FnWm1vNS1LWFluMVR2Rnp5dw?oc=5\" target=\"_blank\">Замкома Русский: группа \"БАРС-Курск\" поразила 124 дрона ВСУ в Курской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sat, 19 Sep 2026 03:36:22 GMT"
-    },
-    {
-      "title": "В Приморье явка в первый день голосования достигла 29,14% - prim.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGZFVV9hVmlpM09tM0duQ25fVUxpU25uaWFueldvUDFQNXpKWURCTHZMLWMzRThIZTJVN3JkT0ZfT2pRNjZENkV1bGhaVW1pY0hzUkNnOTRFUEkxUmdBVHVqTlNqOV84ajRyZWJXMDZ5MlIzTE1OdUMwZkVrRGFMWWVuUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGZFVV9hVmlpM09tM0duQ25fVUxpU25uaWFueldvUDFQNXpKWURCTHZMLWMzRThIZTJVN3JkT0ZfT2pRNjZENkV1bGhaVW1pY0hzUkNnOTRFUEkxUmdBVHVqTlNqOV84ajRyZWJXMDZ5MlIzTE1OdUMwZkVrRGFMWWVuUQ?oc=5\" target=\"_blank\">В Приморье явка в первый день голосования достигла 29,14%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prim.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 19 Sep 2026 03:24:52 GMT"
     }
   ]
 }
