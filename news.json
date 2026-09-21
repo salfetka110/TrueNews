@@ -1,5 +1,286 @@
 {
-  "updated": "2026-09-21T04:05:33.490660+00:00",
-  "count": 0,
-  "news": []
+  "updated": "2026-09-21T04:39:30.117138+00:00",
+  "count": 40,
+  "news": [
+    {
+      "title": "Инструментальный курс: Webflow от ZeroCoder — цена, отзывы, программа курса - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZSU5mcjdpRWZaOGNna3ZHWnJVT1R1MnJPRGNhOVM3bmFhSHBiaEZSdWF0NGtoTXdTMEZIVFdBMjRNdUxGbEs5SUpHS1JUVVFva0UwLXhvNkwzOHNnLUlpVWNYXzBXcU9zTWhhNldGQmFyVktlc2FtakV3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZSU5mcjdpRWZaOGNna3ZHWnJVT1R1MnJPRGNhOVM3bmFhSHBiaEZSdWF0NGtoTXdTMEZIVFdBMjRNdUxGbEs5SUpHS1JUVVFva0UwLXhvNkwzOHNnLUlpVWNYXzBXcU9zTWhhNldGQmFyVktlc2FtakV3?oc=5\" target=\"_blank\">Инструментальный курс: Webflow от ZeroCoder — цена, отзывы, программа курса</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 03:30:03 GMT"
+    },
+    {
+      "title": "ИИ-Акселератор от ZeroCoder — цена, отзывы, программа курса - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CelRpU01UMDY3bklpa09BSThwUmtvRV9PU2xxanFLMkhGbWVGS092eFhrN3ZOWXNVZjFCdEFLemxOM056NndOT19wdTZtQUhRWDNBM2RVdEM1Y012c1lDbWVKZFVZelk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CelRpU01UMDY3bklpa09BSThwUmtvRV9PU2xxanFLMkhGbWVGS092eFhrN3ZOWXNVZjFCdEFLemxOM056NndOT19wdTZtQUhRWDNBM2RVdEM1Y012c1lDbWVKZFVZelk?oc=5\" target=\"_blank\">ИИ-Акселератор от ZeroCoder — цена, отзывы, программа курса</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 16 Sep 2026 03:30:01 GMT"
+    },
+    {
+      "title": "Сравни.ру: скидки, купоны, акции, промокоды на сентябрь 2026 - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WdjZUbUFKNDZwZndZSkdkbTZXa21WZVBRYWFyb0d1WWVZN1pqNHpSRDlWRW95YTd0Q0xkazdMSXR4WkgxSU9tZ1B3Vi1KUUFJVlJpSkNQazBpZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WdjZUbUFKNDZwZndZSkdkbTZXa21WZVBRYWFyb0d1WWVZN1pqNHpSRDlWRW95YTd0Q0xkazdMSXR4WkgxSU9tZ1B3Vi1KUUFJVlJpSkNQazBpZw?oc=5\" target=\"_blank\">Сравни.ру: скидки, купоны, акции, промокоды на сентябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Thu, 17 Sep 2026 21:22:24 GMT"
+    },
+    {
+      "title": "Прогноз погоды в Якутске на понедельник, 21 сентября — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEpuWTJTQkRRZHg0a2pNeWIxZ3VVaEc1SmtXS2FaVjZzMkZxSjE5YlB1SFh3Tlo2S0puSUdZUGtoNWlNVFJocWota1ZoT0dFMTJrZk42QVlTMjdFWFlsYmhPaWRZTjduS1VwdmFoenBhUENXWTZ5bWlIQXBQQ0Z3MHUyaDRYQmwwSXdwZVVfVnFzQkV4UGtyVW5YcU9mRnNXdUg2cjJua2x3aWZpQXBWU0xiU0Jsdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEpuWTJTQkRRZHg0a2pNeWIxZ3VVaEc1SmtXS2FaVjZzMkZxSjE5YlB1SFh3Tlo2S0puSUdZUGtoNWlNVFJocWota1ZoT0dFMTJrZk42QVlTMjdFWFlsYmhPaWRZTjduS1VwdmFoenBhUENXWTZ5bWlIQXBQQ0Z3MHUyaDRYQmwwSXdwZVVfVnFzQkV4UGtyVW5YcU9mRnNXdUg2cjJua2x3aWZpQXBWU0xiU0Jsdw?oc=5\" target=\"_blank\">Прогноз погоды в Якутске на понедельник, 21 сентября — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 23:40:02 GMT"
+    },
+    {
+      "title": "Айсен Николаев поблагодарил якутян за активную гражданскую позицию на выборах — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXVXdHFYeWVIb292S2Q4Vmk4bnRZUlNmWUpmakhvcjY2QXdtWkJ2NFVWVTM1WC1BaEVOZUpMN3F6aTBUdGw4SlBpdHZtQVpOZ2VhX0JlN1NEaDZoZURySFBGdFZrV2ZDYV9PZjRYdUt0dzlJWG8yNFhsMHJ6Zk9mUGFfdlJXS0dlMExkeHlLX2JZX2o0UUhtdXZYbVZTTzRjeFFVWGRzRmljdXAwem1Zb3NSN1p0a2lHT01pdXFnTnRQa1lwNWJPSEh0X0tYMHh5b1BYbjktcmNpbVNKTkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXVXdHFYeWVIb292S2Q4Vmk4bnRZUlNmWUpmakhvcjY2QXdtWkJ2NFVWVTM1WC1BaEVOZUpMN3F6aTBUdGw4SlBpdHZtQVpOZ2VhX0JlN1NEaDZoZURySFBGdFZrV2ZDYV9PZjRYdUt0dzlJWG8yNFhsMHJ6Zk9mUGFfdlJXS0dlMExkeHlLX2JZX2o0UUhtdXZYbVZTTzRjeFFVWGRzRmljdXAwem1Zb3NSN1p0a2lHT01pdXFnTnRQa1lwNWJPSEh0X0tYMHh5b1BYbjktcmNpbVNKTkE?oc=5\" target=\"_blank\">Айсен Николаев поблагодарил якутян за активную гражданскую позицию на выборах — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 23:40:01 GMT"
+    },
+    {
+      "title": "В Прислонихе прошел модный показ — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWo2bExMa0VRZ0hOY2hhcURxYUNxdFhZVVVVNlVZcVlScXg5YXRNd0ptVW1JcVEwck9RbkFORXJ1blh4MlZfeUdWbEp6MWJ4ck5PWVplOXhHMzI0ZDlhUjZycFRrcDMwaGpRZG9vRzMwY2JLLUxmc09IS0xaN3lPWWljQlRFRmtiZzk2VDI1WDYwY2NKZ29aNmdB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWo2bExMa0VRZ0hOY2hhcURxYUNxdFhZVVVVNlVZcVlScXg5YXRNd0ptVW1JcVEwck9RbkFORXJ1blh4MlZfeUdWbEp6MWJ4ck5PWVplOXhHMzI0ZDlhUjZycFRrcDMwaGpRZG9vRzMwY2JLLUxmc09IS0xaN3lPWWljQlRFRmtiZzk2VDI1WDYwY2NKZ29aNmdB?oc=5\" target=\"_blank\">В Прислонихе прошел модный показ — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 23:40:01 GMT"
+    },
+    {
+      "title": "Экс-губернатор Ярославской области Лисицын побеждает на выборах в Госдуму - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QXzlaTW1fei1TQzVFcS0zaFh6Z1FXclVkZUNsTHE4amgyd0JtN0djOHgzTnBHSnlmMWQ1aHVUMU9yVVpuTlZLSVZvUHVrUmRJeHBCbHRKWGNUOG9W?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QXzlaTW1fei1TQzVFcS0zaFh6Z1FXclVkZUNsTHE4amgyd0JtN0djOHgzTnBHSnlmMWQ1aHVUMU9yVVpuTlZLSVZvUHVrUmRJeHBCbHRKWGNUOG9W?oc=5\" target=\"_blank\">Экс-губернатор Ярославской области Лисицын побеждает на выборах в Госдуму</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 23:26:00 GMT"
+    },
+    {
+      "title": "\"Ашан\" после введения временного управления работает в штатном режиме - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40XzNrZVh0TDZGYU5OLWQ4eXpORFJ4d2JqRUdydUczUXdfTzFFMjBaMjZDczFPeG5IYmpucm1iVFBNdk9BUDIxUVpmcDU4WjhjdUJXTnBIclk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE40XzNrZVh0TDZGYU5OLWQ4eXpORFJ4d2JqRUdydUczUXdfTzFFMjBaMjZDczFPeG5IYmpucm1iVFBNdk9BUDIxUVpmcDU4WjhjdUJXTnBIclk?oc=5\" target=\"_blank\">\"Ашан\" после введения временного управления работает в штатном режиме</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 23:23:00 GMT"
+    },
+    {
+      "title": "Финансист рассказала, что будет с рублем после выборов - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qNGZyajNBb0hRcC1GUW81aDhEV3A3RE15UEo0akxjSGhwYlNDWkxTYi1naU5IMVhGWmNwWEhzNFYyMnhEUEo1blduU050RHVpNjUtVWwyVVREQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qNGZyajNBb0hRcC1GUW81aDhEV3A3RE15UEo0akxjSGhwYlNDWkxTYi1naU5IMVhGWmNwWEhzNFYyMnhEUEo1blduU050RHVpNjUtVWwyVVREQQ?oc=5\" target=\"_blank\">Финансист рассказала, что будет с рублем после выборов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 23:10:00 GMT"
+    },
+    {
+      "title": "Венгрия построит хранилища нефтепродуктов для Украины близ границы - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ha3g2Q0NodmhCSU01RnIzQ0R2Q1VlU0JwVEhWdHFBT2VHUnRHYmo2NWhaUjhoajFFekFDNlJhSDZkU2Z1MC1DbE1iMmR4SHNUUXlzaGdHM3dpbVE3WnJ4TzJSZFFEZ0VVcjlfWGg5S0lXZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5Ha3g2Q0NodmhCSU01RnIzQ0R2Q1VlU0JwVEhWdHFBT2VHUnRHYmo2NWhaUjhoajFFekFDNlJhSDZkU2Z1MC1DbE1iMmR4SHNUUXlzaGdHM3dpbVE3WnJ4TzJSZFFEZ0VVcjlfWGg5S0lXZw?oc=5\" target=\"_blank\">Венгрия построит хранилища нефтепродуктов для Украины близ границы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 20 Sep 2026 23:09:39 GMT"
+    },
+    {
+      "title": "Внуково и Домодедово перешли на прием и отправку рейсов по согласованию - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhZ0s4c1hzR2pnVmRWUGRHV0pTUm8xWktGdE1lbk5UN3E0eXUyMTJsNmJnRHBNMDhDcXlSV0J1amJkTDJqWmE4VjlKRjNJbl9zc0d2LXR4N1p5aXZEcU4ydEJLb2tkUDZVVW1YSnlJUEQ3TW42UmFTVw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBhZ0s4c1hzR2pnVmRWUGRHV0pTUm8xWktGdE1lbk5UN3E0eXUyMTJsNmJnRHBNMDhDcXlSV0J1amJkTDJqWmE4VjlKRjNJbl9zc0d2LXR4N1p5aXZEcU4ydEJLb2tkUDZVVW1YSnlJUEQ3TW42UmFTVw?oc=5\" target=\"_blank\">Внуково и Домодедово перешли на прием и отправку рейсов по согласованию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 20 Sep 2026 23:09:39 GMT"
+    },
+    {
+      "title": "На Васильевском члена УИК обвинили в насилии и попытке украсть печать - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIMFFGdHNNdGpRSUEtN2laYTQ3bGlyTnNxVG0xNXZtTk1oVVJKa0xKa0tGbzlXbFQ5RjBqWDJkWDdjd3AxdjJJUWRoZVFTT3NWa1dPR2ZMbm1uRjFLTUs0UEpBWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIMFFGdHNNdGpRSUEtN2laYTQ3bGlyTnNxVG0xNXZtTk1oVVJKa0xKa0tGbzlXbFQ5RjBqWDJkWDdjd3AxdjJJUWRoZVFTT3NWa1dPR2ZMbm1uRjFLTUs0UEpBWQ?oc=5\" target=\"_blank\">На Васильевском члена УИК обвинили в насилии и попытке украсть печать</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 20 Sep 2026 22:56:00 GMT"
+    },
+    {
+      "title": "На Васильевском члена УИК обвинили в насилии и попытке украсть печать. Суд в отстранении отказал - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WYmNSSmd3UDkzaUF6SVFqeDVxaHotOEpWZ3FkcDJ4N0pWVDczQWprbzVGRllSX3BjUENjQUNtY2xJVEM1MWRkLXFPV0hndmRncTdrT01fWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WYmNSSmd3UDkzaUF6SVFqeDVxaHotOEpWZ3FkcDJ4N0pWVDczQWprbzVGRllSX3BjUENjQUNtY2xJVEM1MWRkLXFPV0hndmRncTdrT01fWQ?oc=5\" target=\"_blank\">На Васильевском члена УИК обвинили в насилии и попытке украсть печать. Суд в отстранении отказал</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 20 Sep 2026 22:56:00 GMT"
+    },
+    {
+      "title": "Тренер \"Атлетико\" призвал Моуринью не преступать черту в оценке судейства - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1dE1XNkFPMXlZdFVoZFpIMTZ5RElPUUpHbW9nYUhFV3d0TTBnUWt1UUFPMzlkcFU3eDVkZXQ5YmdqODBPc2RIMmc5NEtuWHJmRFBpb0N2Wkw0UQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1dE1XNkFPMXlZdFVoZFpIMTZ5RElPUUpHbW9nYUhFV3d0TTBnUWt1UUFPMzlkcFU3eDVkZXQ5YmdqODBPc2RIMmc5NEtuWHJmRFBpb0N2Wkw0UQ?oc=5\" target=\"_blank\">Тренер \"Атлетико\" призвал Моуринью не преступать черту в оценке судейства</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 22:50:00 GMT"
+    },
+    {
+      "title": "Обработана половина протоколов на выборах в Госдуму - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybU5oZlFROFVWYWhFZEVlRHcxbWFSaGZyWFdFbkdtYWxReVJLcVZkRVl6em1sdFlXSHdmWVBJM1hPb0FIWnVjUW9OWk9CQm5qR0lzVHNWRDRrY0FxSGhYbGswQkdaVUhNZFI5WdIBckFVX3lxTFBZZDNBUzJONk9vMDBvRjNSR1dHWGV6YkxoeFV2enp2QUc4ZFl0X2J6MWl4R1ZHdmUxdzlWcDFHazVtMzZzSHF5Wk45MlZlZnZZSk9pdWxray1FWHZmNFRXYXFJZW0zQVY2XzZ2cUtia21lUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybU5oZlFROFVWYWhFZEVlRHcxbWFSaGZyWFdFbkdtYWxReVJLcVZkRVl6em1sdFlXSHdmWVBJM1hPb0FIWnVjUW9OWk9CQm5qR0lzVHNWRDRrY0FxSGhYbGswQkdaVUhNZFI5WdIBckFVX3lxTFBZZDNBUzJONk9vMDBvRjNSR1dHWGV6YkxoeFV2enp2QUc4ZFl0X2J6MWl4R1ZHdmUxdzlWcDFHazVtMzZzSHF5Wk45MlZlZnZZSk9pdWxray1FWHZmNFRXYXFJZW0zQVY2XzZ2cUtia21lUQ?oc=5\" target=\"_blank\">Обработана половина протоколов на выборах в Госдуму</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 20 Sep 2026 22:45:58 GMT"
+    },
+    {
+      "title": "Кандидаты «Единой России» лидируют во всех округах Подмосковья - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiVDlCeGZDbnhSNWZmOUM5ZzZidFdnOHhiMTl0UXluNlR5TjE0eUpFWG1IUVJWNFZGM3VyY0RiaS1MTlJmRVIyRmtldFRJY3RQNHBBeEtXUHNEOXc1dURxWFhmcnlVMTIzOFhrUzVfUjBYM3FZa0ZuUVV2bw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBiVDlCeGZDbnhSNWZmOUM5ZzZidFdnOHhiMTl0UXluNlR5TjE0eUpFWG1IUVJWNFZGM3VyY0RiaS1MTlJmRVIyRmtldFRJY3RQNHBBeEtXUHNEOXc1dURxWFhmcnlVMTIzOFhrUzVfUjBYM3FZa0ZuUVV2bw?oc=5\" target=\"_blank\">Кандидаты «Единой России» лидируют во всех округах Подмосковья</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 20 Sep 2026 22:42:26 GMT"
+    },
+    {
+      "title": "Беглов: нужно заботиться о людях серебряного возраста и подрастающем поколении — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMUZTOGJMajBjbjEyaVAxOFBqRkg1N2wtUzVreVJDSHpvUEZ2ZEJRamE0d1doNGM0QW54Y1VzZVExOW5fd2M3anlpdWRqeHByVkg2NGQ5SUJsaFlFemM5aXZqMHZCeWJiMTMyRkkwTm9fZHB0eVk2dWs3M25ia0M5THZMMkNUaEVMazlhZmVhSUV1ZFVHQTh0NzlleTZhZ015X2FZNHBBTjNhRFRhd3JpcEpsR01KUVQ4c3FKbkpXOTlYRS02ZzRRR0RBVHN5cWxHTzIxa0JQdXVFUFNqQkg3TFdmTl9aY0I4NC1jUnVfT3ZpeXNnc3hEOW1nTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMUZTOGJMajBjbjEyaVAxOFBqRkg1N2wtUzVreVJDSHpvUEZ2ZEJRamE0d1doNGM0QW54Y1VzZVExOW5fd2M3anlpdWRqeHByVkg2NGQ5SUJsaFlFemM5aXZqMHZCeWJiMTMyRkkwTm9fZHB0eVk2dWs3M25ia0M5THZMMkNUaEVMazlhZmVhSUV1ZFVHQTh0NzlleTZhZ015X2FZNHBBTjNhRFRhd3JpcEpsR01KUVQ4c3FKbkpXOTlYRS02ZzRRR0RBVHN5cWxHTzIxa0JQdXVFUFNqQkg3TFdmTl9aY0I4NC1jUnVfT3ZpeXNnc3hEOW1nTQ?oc=5\" target=\"_blank\">Беглов: нужно заботиться о людях серебряного возраста и подрастающем поколении — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 22:39:59 GMT"
+    },
+    {
+      "title": "Стали известны предварительные итоги выборов в Госдуму — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTUxzNDVrZHdZRVljaWVUb05NNFZuc2E4V3l3eVA4MTFJdENRYkM1MlVYU292ZTN4Sml5ZktmS21Oc0VjQ2NxMGkzM241d21QcUVpbDNvREpKcEk2UlViQ0JPbktmb21leFotcVNhUHdKaTUyX3pUQWRyRzRLRFFDcGhpZkxicTN1R0hSc19LVkcwNzlha2g2amJfNkZVUTNmZWZXakwtNENheFJzQUs3bFNGem1DRXN6ZkhBeXN4cVozNm9KNE80RmxRb3kzOE9DWkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTUxzNDVrZHdZRVljaWVUb05NNFZuc2E4V3l3eVA4MTFJdENRYkM1MlVYU292ZTN4Sml5ZktmS21Oc0VjQ2NxMGkzM241d21QcUVpbDNvREpKcEk2UlViQ0JPbktmb21leFotcVNhUHdKaTUyX3pUQWRyRzRLRFFDcGhpZkxicTN1R0hSc19LVkcwNzlha2g2amJfNkZVUTNmZWZXakwtNENheFJzQUs3bFNGem1DRXN6ZkhBeXN4cVozNm9KNE80RmxRb3kzOE9DWkE?oc=5\" target=\"_blank\">Стали известны предварительные итоги выборов в Госдуму — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 22:39:59 GMT"
+    },
+    {
+      "title": "Беглов: все партии на выборах вели себя достойно — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmtjc2RBSUE4Vm9uOHdDTWxWLTJMeGg2ZlpDa1RtRC1ZMGZ2YVNkNjhzMG4tVHNIX3BFYm5QUktySG1UQTJobGpZVmFUMzhLN3Fxa2hYTGh4QVJRSXZGc0tyVVBqcFN2NWlES1pma19BNzRKb1lUbEszMHE1TUt4cnBrY0d6ZWRMUWw2Zl9ZY0NhN09OT1RtcklGazZUaTY5WldNSDdybFYxOEUwb1hIdG1FUE1BTkRyRl8wazQ0T2ZmaTdYazJnczFwUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmtjc2RBSUE4Vm9uOHdDTWxWLTJMeGg2ZlpDa1RtRC1ZMGZ2YVNkNjhzMG4tVHNIX3BFYm5QUktySG1UQTJobGpZVmFUMzhLN3Fxa2hYTGh4QVJRSXZGc0tyVVBqcFN2NWlES1pma19BNzRKb1lUbEszMHE1TUt4cnBrY0d6ZWRMUWw2Zl9ZY0NhN09OT1RtcklGazZUaTY5WldNSDdybFYxOEUwb1hIdG1FUE1BTkRyRl8wazQ0T2ZmaTdYazJnczFwUQ?oc=5\" target=\"_blank\">Беглов: все партии на выборах вели себя достойно — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 22:39:59 GMT"
+    },
+    {
+      "title": "ЦИК обработал более 83 процентов протоколов на выборах в Госдуму - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51aVhUN0l1dkRBR2pVMlE4OXF5SnE2WTVrcmRWREFfS2psUXU2LTltcXMzZlViemE1MWVwR1VMYXpmUFVsZnhuRGthZlVWcGZwaTR3RUw2VjR3QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE51aVhUN0l1dkRBR2pVMlE4OXF5SnE2WTVrcmRWREFfS2psUXU2LTltcXMzZlViemE1MWVwR1VMYXpmUFVsZnhuRGthZlVWcGZwaTR3RUw2VjR3QQ?oc=5\" target=\"_blank\">ЦИК обработал более 83 процентов протоколов на выборах в Госдуму</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 22:21:42 GMT"
+    },
+    {
+      "title": "Появились первые результаты голосования на выборах губернатора Тверской области — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZjl0cVdVLWluQUdlZUxELS1kc3NVVHpVN3hUeXJwYmJPMVNydzE3M0xjUW9EX3BLNHUzWEoyZF91QXdCd2ZBUXdIQmtzN1VJNTRyMmVHYXJxQVJQdUY4eGtNMDlkVUxiMThuRWI4RktMaXJwd05VeUZGUEM5R0dRbTJZbU03UFJBdkwteTI4UE5pZWFFckI3a1FuZkZqaHNFUXZ6TnV5SHZfaDVOV3I3SzZsZXNwbU9XekxvaFhETVJmeVNiU21KREdWWk1Pa0NfLURR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZjl0cVdVLWluQUdlZUxELS1kc3NVVHpVN3hUeXJwYmJPMVNydzE3M0xjUW9EX3BLNHUzWEoyZF91QXdCd2ZBUXdIQmtzN1VJNTRyMmVHYXJxQVJQdUY4eGtNMDlkVUxiMThuRWI4RktMaXJwd05VeUZGUEM5R0dRbTJZbU03UFJBdkwteTI4UE5pZWFFckI3a1FuZkZqaHNFUXZ6TnV5SHZfaDVOV3I3SzZsZXNwbU9XekxvaFhETVJmeVNiU21KREdWWk1Pa0NfLURR?oc=5\" target=\"_blank\">Появились первые результаты голосования на выборах губернатора Тверской области — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 22:03:55 GMT"
+    },
+    {
+      "title": "Опубликованы результаты голосования на выборах губернатора Тверской области на конец дня - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWjZvQzhibi1JYk5yZEtzTk1rLUtZUXVRSEtSQkNhbnNCdmtqVG1QZGtLWVNxc0NaYWRyejBSaEJYeGhiaGFxU0YyUHhUM1dSNEplWEVJOTJFX29Ua05fbjJoZEF5SFFoVTVENjUzZFZUNVo3TnBPUDdzY1ZYNTgzVjhYRUlPSnh2SmV4VEVpUjRMbmRWV3dwV3NLVEI3dlhSS2lscDU4V3RNUGdNVDM0SFExcElES0tWSUFUNjZxanJfVnd4X2ctRHhDUVFGeU5uU0lWbVl3eEg2bGpTT2xCTA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWjZvQzhibi1JYk5yZEtzTk1rLUtZUXVRSEtSQkNhbnNCdmtqVG1QZGtLWVNxc0NaYWRyejBSaEJYeGhiaGFxU0YyUHhUM1dSNEplWEVJOTJFX29Ua05fbjJoZEF5SFFoVTVENjUzZFZUNVo3TnBPUDdzY1ZYNTgzVjhYRUlPSnh2SmV4VEVpUjRMbmRWV3dwV3NLVEI3dlhSS2lscDU4V3RNUGdNVDM0SFExcElES0tWSUFUNjZxanJfVnd4X2ctRHhDUVFGeU5uU0lWbVl3eEg2bGpTT2xCTA?oc=5\" target=\"_blank\">Опубликованы результаты голосования на выборах губернатора Тверской области на конец дня</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 22:03:55 GMT"
+    },
+    {
+      "title": "В аэропорту Пензы ввели временные ограничения - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHaWoyMnozU1lGb1ZRdi12TEZqSDVidjVVYVgzZVB1Q1d1TDRBUXQybmx2Uk42Y3R3LUFoeFBkaFJyTjZHZjZPSFdjc2NWZUVSbTVBdXlfbUQwUGNy?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHaWoyMnozU1lGb1ZRdi12TEZqSDVidjVVYVgzZVB1Q1d1TDRBUXQybmx2Uk42Y3R3LUFoeFBkaFJyTjZHZjZPSFdjc2NWZUVSbTVBdXlfbUQwUGNy?oc=5\" target=\"_blank\">В аэропорту Пензы ввели временные ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 21:51:00 GMT"
+    },
+    {
+      "title": "Голосование в Боливии на выборах проходит без происшествий, заявил посол - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IZ1EtY3UyQ09GUjFyR1dlckM5UFpNdjZXTGV2d0lTSkJKcUxvY2tPUmtRcUdtZzRucU1QVDNUX3NuZzNKemMzSkhsSGZJbWxPem1GZnVJbkkxZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IZ1EtY3UyQ09GUjFyR1dlckM5UFpNdjZXTGV2d0lTSkJKcUxvY2tPUmtRcUdtZzRucU1QVDNUX3NuZzNKemMzSkhsSGZJbWxPem1GZnVJbkkxZw?oc=5\" target=\"_blank\">Голосование в Боливии на выборах проходит без происшествий, заявил посол</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 21:43:00 GMT"
+    },
+    {
+      "title": "На участки в Кировской области пришло около половины избирателей — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNzgyaXpoVzBIdUhJT2htWVRpTlRlN1c5TkpJSldpeGdZVDJXNHoxdVRBdW1Da184Rl85emZmRzM1VTRtY2FhQmhiMklsdndFVUQydDhGcGdHMjdsNm14TmVGQjNwWk1IUGNXb1pmZlRaZkhFbGdyblNZNkpOM2VwTXpFX1RuU3VwZDJWSUdyZWRfS0M4YWxLek53TVg3b1U5dkY2b0M5OHFNakJfRWVjRE9wNGxWaGczX084R0lvY2E1cVdPengw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNzgyaXpoVzBIdUhJT2htWVRpTlRlN1c5TkpJSldpeGdZVDJXNHoxdVRBdW1Da184Rl85emZmRzM1VTRtY2FhQmhiMklsdndFVUQydDhGcGdHMjdsNm14TmVGQjNwWk1IUGNXb1pmZlRaZkhFbGdyblNZNkpOM2VwTXpFX1RuU3VwZDJWSUdyZWRfS0M4YWxLek53TVg3b1U5dkY2b0M5OHFNakJfRWVjRE9wNGxWaGczX084R0lvY2E1cVdPengw?oc=5\" target=\"_blank\">На участки в Кировской области пришло около половины избирателей — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 21:41:40 GMT"
+    },
+    {
+      "title": "Александр Дрозденко заявил о высокой явке на выборах в Ленобласти — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0NyS1hOejJibm94MmM3LUlWTUE5UGxoOVExWjhCUnphanB3dFR3V2x6UE1CODFmUTZad3dZUmhNOHRxc08wTUtrS2l2VkR4cFlzYm8taFRLV1FiY2Q1UElQcWhWMGEwLUpjNWJsZ0o1cnBxZVBKblUzOWw4ZGtQUW5MWjVxU2FrTk0yZVNXNDVlWlYtZ1FPU1VaMkFGbVQwWlZGUG8tTlhaRnhGUWVkeld1RXdfN1dV?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0NyS1hOejJibm94MmM3LUlWTUE5UGxoOVExWjhCUnphanB3dFR3V2x6UE1CODFmUTZad3dZUmhNOHRxc08wTUtrS2l2VkR4cFlzYm8taFRLV1FiY2Q1UElQcWhWMGEwLUpjNWJsZ0o1cnBxZVBKblUzOWw4ZGtQUW5MWjVxU2FrTk0yZVNXNDVlWlYtZ1FPU1VaMkFGbVQwWlZGUG8tTlhaRnhGUWVkeld1RXdfN1dV?oc=5\" target=\"_blank\">Александр Дрозденко заявил о высокой явке на выборах в Ленобласти — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 21:41:39 GMT"
+    },
+    {
+      "title": "Как прошли выборы в сельских поселениях Назрановского района — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZndWMEZhdVdNWmdBU0x4YWdCSU5KWmNjaTR6RUxFQUJSZDl1UmkyUml2V1A5bHkzb244cTItWm9qaDhJMnQwVzJCakZXdU85eXo5R19kV1N3YVlWeElfNVNQTC1XRmN5RlhUWV9veTdTbk9fM3JDSXllUkYxTzEwNi16UTlBc1JlVTBTN3FFSWFRQzJTdDJFaElKQUN6MHVOZ3R1T3ZIUkJNenE4c1AwdHNCeVZablJBbmlmRUJR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZndWMEZhdVdNWmdBU0x4YWdCSU5KWmNjaTR6RUxFQUJSZDl1UmkyUml2V1A5bHkzb244cTItWm9qaDhJMnQwVzJCakZXdU85eXo5R19kV1N3YVlWeElfNVNQTC1XRmN5RlhUWV9veTdTbk9fM3JDSXllUkYxTzEwNi16UTlBc1JlVTBTN3FFSWFRQzJTdDJFaElKQUN6MHVOZ3R1T3ZIUkJNenE4c1AwdHNCeVZablJBbmlmRUJR?oc=5\" target=\"_blank\">Как прошли выборы в сельских поселениях Назрановского района — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 21:41:36 GMT"
+    },
+    {
+      "title": "Кировская область может получить рекордное число мандатов в Госдуму — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbGN0RTVMN0RvYVM0aGJpOFROMGpkU25PMDJYRkUxcWRVV2VMQUc0TlhtbTd3MERKQldFaFQ3OWM0X1Bjekd1UmZrbjUyTUtTTUcwV2FOcUNGQm9IY3NsbzNPLWJtbzh6OEFXakp6ZDRadjZhaFZwbXVZUl9iQ3dHV1AtSFZPYTlNVVFSR1YtMGJRR3N6MzJuTTFPZ0ttcXJ1aEktRW5Vd0ZNa3hvdzhDVzhTdjU3SW9FXzhCYW40MTg1a2h0dlNJNVQxcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbGN0RTVMN0RvYVM0aGJpOFROMGpkU25PMDJYRkUxcWRVV2VMQUc0TlhtbTd3MERKQldFaFQ3OWM0X1Bjekd1UmZrbjUyTUtTTUcwV2FOcUNGQm9IY3NsbzNPLWJtbzh6OEFXakp6ZDRadjZhaFZwbXVZUl9iQ3dHV1AtSFZPYTlNVVFSR1YtMGJRR3N6MzJuTTFPZ0ttcXJ1aEktRW5Vd0ZNa3hvdzhDVzhTdjU3SW9FXzhCYW40MTg1a2h0dlNJNVQxcw?oc=5\" target=\"_blank\">Кировская область может получить рекордное число мандатов в Госдуму — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 21:41:33 GMT"
+    },
+    {
+      "title": "Представители политических партий прокомментировали прошедшие выборы — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVVBaTXItdEpoa1lGVnRUNWdFM1JLN1JXbVBaalpMS1JTNzdoWmk5MG1PTEd4OTB4Y0JGdjJ1eWUtaEJacWlkWWJRc0pROGM0aXd5VmFfYmZEM1lkNXpYUmJDeWtuYWQ3MU8yQmNXeGoydEFVeXA4cUNwamFmSmNhc0hvT1oyc2dGUnBraHV0ZmQ2Zy1DbThCcDBpczR3cm16X3BsdWNteEJzVFVJSHp2dUdZMTlmU1VwYW5yNnF0WXJldVNrQ3NSR0tXUzBwZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOVVBaTXItdEpoa1lGVnRUNWdFM1JLN1JXbVBaalpMS1JTNzdoWmk5MG1PTEd4OTB4Y0JGdjJ1eWUtaEJacWlkWWJRc0pROGM0aXd5VmFfYmZEM1lkNXpYUmJDeWtuYWQ3MU8yQmNXeGoydEFVeXA4cUNwamFmSmNhc0hvT1oyc2dGUnBraHV0ZmQ2Zy1DbThCcDBpczR3cm16X3BsdWNteEJzVFVJSHp2dUdZMTlmU1VwYW5yNnF0WXJldVNrQ3NSR0tXUzBwZw?oc=5\" target=\"_blank\">Представители политических партий прокомментировали прошедшие выборы — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 21:40:52 GMT"
+    },
+    {
+      "title": "Новые регионы, зарубежные участки и внешнее давление: как прошли выборы в Госдуму РФ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ncXo4VE1MdW5KdnBsbWFxX1BKVkNYMGdOUGJWSHlubFJraU9mcFlSNjVxV0dsbTJLQTVwN0VnM3FoMkdyU2xqU3IxQ01HUUcyNVhaeGpraTBCZnBlYlp0YjZqdUdKRDhwZW1uNnpJOHVrd1AzSHJr0gF8QVVfeXFMUEpOZUhGUVo3NWJTaENra3R4U1lOX05wRWhOSlhsNG5YeWJjMXprOF9Sa2pObnJYeDdTNlM3SzJwbGV1M3VLeUw3WlVRVGtLdEJzbjFTbWRQNE9wSEdvTjRxVTkzdmpQTENZUVFnZTI2LTdfbnhiZlAxN0oycg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ncXo4VE1MdW5KdnBsbWFxX1BKVkNYMGdOUGJWSHlubFJraU9mcFlSNjVxV0dsbTJLQTVwN0VnM3FoMkdyU2xqU3IxQ01HUUcyNVhaeGpraTBCZnBlYlp0YjZqdUdKRDhwZW1uNnpJOHVrd1AzSHJr0gF8QVVfeXFMUEpOZUhGUVo3NWJTaENra3R4U1lOX05wRWhOSlhsNG5YeWJjMXprOF9Sa2pObnJYeDdTNlM3SzJwbGV1M3VLeUw3WlVRVGtLdEJzbjFTbWRQNE9wSEdvTjRxVTkzdmpQTENZUVFnZTI2LTdfbnhiZlAxN0oycg?oc=5\" target=\"_blank\">Новые регионы, зарубежные участки и внешнее давление: как прошли выборы в Госдуму РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 20 Sep 2026 21:33:38 GMT"
+    },
+    {
+      "title": "ЦИК опубликовала итоги выборов в Госдуму после обработки 40,66% протоколов - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZbFd4Y1NDWXZMZkptZmZJTE04UU1DUk9IdHJlMTBidDlNNnNncmhqS0Q4Q3Q4QVY2U3k4M3B6RnI2RnYtd0twSkdJQmFXUDdESDk5VG9YdzdhRm5KOGJMNHFYcUVnQWZGOHhhUDZZRGk3VlhRaEHSAXtBVV95cUxNUmluVVpncVRlZXBpc0dQYmhPYzdLcEFscHdsRFdScTZCaDNJNmlDQ3hrWExyeUxCZC04MUVKSkhEOVpuYWpRSVcyNXVrUHk4RUZjNlFLdXZKMmJtZzB1bUdtSTZkd1hTRWdIdGx3Z0dyODlnaUFmYkdEU0k?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZbFd4Y1NDWXZMZkptZmZJTE04UU1DUk9IdHJlMTBidDlNNnNncmhqS0Q4Q3Q4QVY2U3k4M3B6RnI2RnYtd0twSkdJQmFXUDdESDk5VG9YdzdhRm5KOGJMNHFYcUVnQWZGOHhhUDZZRGk3VlhRaEHSAXtBVV95cUxNUmluVVpncVRlZXBpc0dQYmhPYzdLcEFscHdsRFdScTZCaDNJNmlDQ3hrWExyeUxCZC04MUVKSkhEOVpuYWpRSVcyNXVrUHk4RUZjNlFLdXZKMmJtZzB1bUdtSTZkd1hTRWdIdGx3Z0dyODlnaUFmYkdEU0k?oc=5\" target=\"_blank\">ЦИК опубликовала итоги выборов в Госдуму после обработки 40,66% протоколов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 20 Sep 2026 21:29:37 GMT"
+    },
+    {
+      "title": "Трамп опубликовал фото мусорных мешков с логотипами CNN, MSNBC и Politico - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01Ump6UE1tRzk4Z2V4WDhYZzc4Wk1PaDM3SlUwNkdGUHZYUG5ZYlJXVlRXUGo3ZjNKU0otUlF5aUtXcnVUNm9jeWhxQlpCdV8zUXFSR2U2ZTJhSWg2YklTRkFNZER4dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE01Ump6UE1tRzk4Z2V4WDhYZzc4Wk1PaDM3SlUwNkdGUHZYUG5ZYlJXVlRXUGo3ZjNKU0otUlF5aUtXcnVUNm9jeWhxQlpCdV8zUXFSR2U2ZTJhSWg2YklTRkFNZER4dw?oc=5\" target=\"_blank\">Трамп опубликовал фото мусорных мешков с логотипами CNN, MSNBC и Politico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 20 Sep 2026 21:15:07 GMT"
+    },
+    {
+      "title": "Москалькова назвала \"Ночь выборов\" важной диалоговой площадкой - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92dWROcnBSRVZaaGpEVnQ1V0FhcEJpbFk3UW9MaUFrclQ0RjFfeXktLV9OSEVqUE9uWWFud3E2RDVQbWdhVGh0QWhXYTRaZUtMTEs3MTBaZTJOZ21kaGk0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE92dWROcnBSRVZaaGpEVnQ1V0FhcEJpbFk3UW9MaUFrclQ0RjFfeXktLV9OSEVqUE9uWWFud3E2RDVQbWdhVGh0QWhXYTRaZUtMTEs3MTBaZTJOZ21kaGk0?oc=5\" target=\"_blank\">Москалькова назвала \"Ночь выборов\" важной диалоговой площадкой</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 20:56:00 GMT"
+    },
+    {
+      "title": "В дни выборов были повреждены 74 здания, в которых размещались избиркомы - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82LXQ1d0NfdElkVFYtTjR6VTY2UTZzZE1pMUpoS0RZX0s3SUlhY3dBcm1XT2k2ajVFMW1FU1JvR0pub1V5Q3IyX1BrcmVTNHE3NW5mNW1UVlRxRW12VzBNSTZoenh0WjlzakJmWTdhZDhSMVpaaXBNaVF1SFJVcnPSAYQBQVVfeXFMTzkxSlBBWXVhNG1jcHpTX09zbTBTZVlfZlJnRzJHZzhTUWowRlFDd1RVcElqTEFsQkZMcmkxR3N6bUVMMDQxVFlSQzZPa2R6RzBzS1RSWW9JVVVJOUNUVVFWeTVNR0VwVXc0ZW1EdVJjNDU3bl8tS3d5Ynd6c2wxaktEQ3B6?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE82LXQ1d0NfdElkVFYtTjR6VTY2UTZzZE1pMUpoS0RZX0s3SUlhY3dBcm1XT2k2ajVFMW1FU1JvR0pub1V5Q3IyX1BrcmVTNHE3NW5mNW1UVlRxRW12VzBNSTZoenh0WjlzakJmWTdhZDhSMVpaaXBNaVF1SFJVcnPSAYQBQVVfeXFMTzkxSlBBWXVhNG1jcHpTX09zbTBTZVlfZlJnRzJHZzhTUWowRlFDd1RVcElqTEFsQkZMcmkxR3N6bUVMMDQxVFlSQzZPa2R6RzBzS1RSWW9JVVVJOUNUVVFWeTVNR0VwVXc0ZW1EdVJjNDU3bl8tS3d5Ynd6c2wxaktEQ3B6?oc=5\" target=\"_blank\">В дни выборов были повреждены 74 здания, в которых размещались избиркомы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 20 Sep 2026 20:54:47 GMT"
+    },
+    {
+      "title": "Певец Акмаль отпраздновал свадьбу со своей женой Александрой в Петербурге - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tX1ViRlBwVlE2WmdtOE1seHZEd2wwMF9LaFgteGZ1bmZ5cGJsajhzVXgyODllYWVwaFNiYlU4eDQ0cHQ3MVFFUHczcnppTHE5bV90czUzdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tX1ViRlBwVlE2WmdtOE1seHZEd2wwMF9LaFgteGZ1bmZ5cGJsajhzVXgyODllYWVwaFNiYlU4eDQ0cHQ3MVFFUHczcnppTHE5bV90czUzdw?oc=5\" target=\"_blank\">Певец Акмаль отпраздновал свадьбу со своей женой Александрой в Петербурге</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 20 Sep 2026 20:49:00 GMT"
+    },
+    {
+      "title": "В Екатеринбурге при подготовке к вылету задымился самолет - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaeFB3bUJBSWxpUlJ0REpaNmYwbUF0ckRONEQ5R0lQSmV5UUFCdkVvWGxkQ0xCczJ5d0UtVjBPclZ5MC1HS1BkY0wwSUhtMF9Yd0ZBU0ttQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaeFB3bUJBSWxpUlJ0REpaNmYwbUF0ckRONEQ5R0lQSmV5UUFCdkVvWGxkQ0xCczJ5d0UtVjBPclZ5MC1HS1BkY0wwSUhtMF9Yd0ZBU0ttQQ?oc=5\" target=\"_blank\">В Екатеринбурге при подготовке к вылету задымился самолет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 20 Sep 2026 20:47:00 GMT"
+    },
+    {
+      "title": "ЕР набирает 57,04% голосов на выборах по итогам обработки 34,29% протоколов - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HRElwc3pnVXJodG12T1NiVy00ZFNpYk1ZZmI1VU9hZGVPTDc5MEx0ZjU1US1GdUJ4NE0zUjdjeHdQUVhzVUpyUkxPVWtiVG4yNlprMzFYVWFCRmc5Q2pXWVh6OTNwRW9vNWF30gFwQVVfeXFMTmJGNENCRURBaWhSUkl6WVk1RG9JTkZ0Qlh6bXVwWW9uTnJwM2IzRGc3ckxrcVJNZzFDZHM1bEx5azVHLV9HdEdvSldzNVpaTWV3ZVhxUzZjakFwMmNVd2o3RlV3UG84eHRBcjZXX1dIXw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9HRElwc3pnVXJodG12T1NiVy00ZFNpYk1ZZmI1VU9hZGVPTDc5MEx0ZjU1US1GdUJ4NE0zUjdjeHdQUVhzVUpyUkxPVWtiVG4yNlprMzFYVWFCRmc5Q2pXWVh6OTNwRW9vNWF30gFwQVVfeXFMTmJGNENCRURBaWhSUkl6WVk1RG9JTkZ0Qlh6bXVwWW9uTnJwM2IzRGc3ckxrcVJNZzFDZHM1bEx5azVHLV9HdEdvSldzNVpaTWV3ZVhxUzZjakFwMmNVd2o3RlV3UG84eHRBcjZXX1dIXw?oc=5\" target=\"_blank\">ЕР набирает 57,04% голосов на выборах по итогам обработки 34,29% протоколов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 20 Sep 2026 20:46:56 GMT"
+    },
+    {
+      "title": "Кадыров лидирует на выборах главы Чечни - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tRmE1bWE1S3I4UWRoYV9HT2trSng2QlJUaTQ3ZkJfOXR0V0EzYkZXXzl5Rm9BeWEzZl9FWkppeGZITlRpV0s1aFVBbzJHTlpVY1hTelVIcjlLMTg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tRmE1bWE1S3I4UWRoYV9HT2trSng2QlJUaTQ3ZkJfOXR0V0EzYkZXXzl5Rm9BeWEzZl9FWkppeGZITlRpV0s1aFVBbzJHTlpVY1hTelVIcjlLMTg?oc=5\" target=\"_blank\">Кадыров лидирует на выборах главы Чечни</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 20 Sep 2026 20:46:00 GMT"
+    },
+    {
+      "title": "Парфенчиков поблагодарил жителей Карелии за участие в голосовании — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT1h1eWZPN29wSjY4QVJ6UVhJYWp1dzdkb3hyMWlDUE1vY2psVjR0bFJwS0dMc21veEJGQWpPVWhYNThQUmpPRGlXdFVhclNGX2xDMUI0bGVMcWdVa0tFb25oUUhZXzVySkp5cVhuVm1IOExQRGFGZlhzc1M0UmxTa3FXZkdwd2kwVmxoWHIzOWNDeFFkVzZJXzdDZnJzR053aHFKSEwxa1FnOXZQa2o0ZUlqOGJ4cUhHUnFwU245QTVVczVlcndIYUZXdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQT1h1eWZPN29wSjY4QVJ6UVhJYWp1dzdkb3hyMWlDUE1vY2psVjR0bFJwS0dMc21veEJGQWpPVWhYNThQUmpPRGlXdFVhclNGX2xDMUI0bGVMcWdVa0tFb25oUUhZXzVySkp5cVhuVm1IOExQRGFGZlhzc1M0UmxTa3FXZkdwd2kwVmxoWHIzOWNDeFFkVzZJXzdDZnJzR053aHFKSEwxa1FnOXZQa2o0ZUlqOGJ4cUhHUnFwU245QTVVczVlcndIYUZXdw?oc=5\" target=\"_blank\">Парфенчиков поблагодарил жителей Карелии за участие в голосовании — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 20:42:35 GMT"
+    },
+    {
+      "title": "Выборы в Карелии: первые итоги — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUtocXZGVkVFM0lXTGpTQXlZUnFYSXc4T1RlaVlNc0ZJZ21kdWkyQmtSLWFyN2V0b250SlZEd2Rld29NQWwxOThkT0ZZT0Y4eFJhNTVGcDQ4SnZIRFN0M1IxZG0zeS0yT1Y1OUpSUmJhSXlNNjBZVWNBNTA1cWsxS2dQQmhhbkpjUEh1a2VpdEV3aHVZRmFB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUtocXZGVkVFM0lXTGpTQXlZUnFYSXc4T1RlaVlNc0ZJZ21kdWkyQmtSLWFyN2V0b250SlZEd2Rld29NQWwxOThkT0ZZT0Y4eFJhNTVGcDQ4SnZIRFN0M1IxZG0zeS0yT1Y1OUpSUmJhSXlNNjBZVWNBNTA1cWsxS2dQQmhhbkpjUEh1a2VpdEV3aHVZRmFB?oc=5\" target=\"_blank\">Выборы в Карелии: первые итоги — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 20 Sep 2026 20:42:34 GMT"
+    }
+  ]
 }
