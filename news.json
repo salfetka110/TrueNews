@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-23T01:05:02.368451+00:00",
+  "updated": "2026-09-23T01:35:48.694182+00:00",
   "count": 40,
   "news": [
+    {
+      "title": "В Москве рассказали, когда в столицу прилетят свиристели - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRUxfYkdycWJBdmNpVHQyWk8zYV9keGFSZ2JXM0FZRU1LV2w5RnlSbi1IWE45bTRycmVXMVNOWDNVVVNHVUZTdmNVSzhHbFJGTWRGX0RhQWlkQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRUxfYkdycWJBdmNpVHQyWk8zYV9keGFSZ2JXM0FZRU1LV2w5RnlSbi1IWE45bTRycmVXMVNOWDNVVVNHVUZTdmNVSzhHbFJGTWRGX0RhQWlkQQ?oc=5\" target=\"_blank\">В Москве рассказали, когда в столицу прилетят свиристели</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 23 Sep 2026 01:27:00 GMT"
+    },
+    {
+      "title": "СМИ: на юге Ирана прогремел взрыв - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkamlBQ09ZYnVEZlJsLXo2MzhQN3d6R3plbE95a2djZHR4MmhzdzdGMjBCZ2JaR1loY1dmNHdwT2dwVE1sbDBMOFREa1RWMWpxVXh6NG40QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkamlBQ09ZYnVEZlJsLXo2MzhQN3d6R3plbE95a2djZHR4MmhzdzdGMjBCZ2JaR1loY1dmNHdwT2dwVE1sbDBMOFREa1RWMWpxVXh6NG40QQ?oc=5\" target=\"_blank\">СМИ: на юге Ирана прогремел взрыв</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 23 Sep 2026 01:13:00 GMT"
+    },
     {
       "title": "FT сообщила об утрате Украиной сталелитейной промышленности - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15TGlOOUtJeXpWaTZzRXl4NjRobEQ2S01fQVJtTU1fd09pSXFwME9oSFBOVEpXaXhXOEpGREhXbUtQSUdmWGdmckRVNXllVkY2T0dCWEg2ZzhqeGdBeEQ2V3U5T1M0QmVNVHdEcnctR1Y?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE15TGlOOUtJeXpWaTZzRXl4NjRobEQ2S01fQVJtTU1fd09pSXFwME9oSFBOVEpXaXhXOEpGREhXbUtQSUdmWGdmckRVNXllVkY2T0dCWEg2ZzhqeGdBeEQ2V3U5T1M0QmVNVHdEcnctR1Y?oc=5\" target=\"_blank\">FT сообщила об утрате Украиной сталелитейной промышленности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 23 Sep 2026 00:51:51 GMT"
+    },
+    {
+      "title": "Лидер Южной Кореи назвал шаги перед денуклиаризацией КНДР - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwejA1YWdJYW11TGNaTUN3a3BPLW5RYUpOT2pwZTZpbkhHV2s3cWZLeEk4LUxWNUlPaTNFU293eUxfZkk3UmRHMHRFSjJWVU5EaFJWUXVSNFlqZ09hZlNfVUJUVHUzQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwejA1YWdJYW11TGNaTUN3a3BPLW5RYUpOT2pwZTZpbkhHV2s3cWZLeEk4LUxWNUlPaTNFU293eUxfZkk3UmRHMHRFSjJWVU5EaFJWUXVSNFlqZ09hZlNfVUJUVHUzQQ?oc=5\" target=\"_blank\">Лидер Южной Кореи назвал шаги перед денуклиаризацией КНДР</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 23 Sep 2026 00:35:51 GMT"
     },
     {
       "title": "В России впервые за 40 лет обновили ГОСТ на хирургические иглы - ria.ru",
@@ -24,13 +45,6 @@
       "pub": "Wed, 23 Sep 2026 00:13:43 GMT"
     },
     {
-      "title": "Курсы повышения квалификации бухгалтеров ФинФед: обучение в школе ФинФед - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yY281U1RhT1BXRlVKeFctNThtSTNrSVB4a2FuWlJXaFRaUEdJMGJLTWhyU3U1d0VmM05rNmgxUjRMRWtacW0wakxpaHRnbTV2VDg1RUx0SFM2aTlYUnVUNGlyWTNFM0hJVk9ZQzAyV04?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5yY281U1RhT1BXRlVKeFctNThtSTNrSVB4a2FuWlJXaFRaUEdJMGJLTWhyU3U1d0VmM05rNmgxUjRMRWtacW0wakxpaHRnbTV2VDg1RUx0SFM2aTlYUnVUNGlyWTNFM0hJVk9ZQzAyV04?oc=5\" target=\"_blank\">Курсы повышения квалификации бухгалтеров ФинФед: обучение в школе ФинФед</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 16 Sep 2026 10:25:44 GMT"
-    },
-    {
       "title": "Эксперт назвал условия возврата банком украденных мошенниками денег - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zdjJaSUp4eEdiRWFYWXZqblg3V054VUFKbVFsT0FoU0k2dlFFTXNvdmtsX3VlTGFHNl95VkQ2RVZKZVJFTEdBN3BQUkJrcXdsYXhaZVhmLWZLOWtHTkg4RVh3eXpCRVBYdFpJMzZXVEwxcU5VeVRLeUs1SdIBgAFBVV95cUxOaTNYdG50OGpPUHplNlo3eUhUb0hqdDJDZTdUQ2JWMno2NUtoaDR6RldtZy1OYVg2azhLb1JONHl0QnN4X01PTXBnSXlKYkFLREJvUWYzZjFoZGw3dV9MQnh6T0pWaWpsR0pQRWtMM29HRjFrWXdocGxyMXJrYUdBeA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zdjJaSUp4eEdiRWFYWXZqblg3V054VUFKbVFsT0FoU0k2dlFFTXNvdmtsX3VlTGFHNl95VkQ2RVZKZVJFTEdBN3BQUkJrcXdsYXhaZVhmLWZLOWtHTkg4RVh3eXpCRVBYdFpJMzZXVEwxcU5VeVRLeUs1SdIBgAFBVV95cUxOaTNYdG50OGpPUHplNlo3eUhUb0hqdDJDZTdUQ2JWMno2NUtoaDR6RldtZy1OYVg2azhLb1JONHl0QnN4X01PTXBnSXlKYkFLREJvUWYzZjFoZGw3dV9MQnh6T0pWaWpsR0pQRWtMM29HRjFrWXdocGxyMXJrYUdBeA?oc=5\" target=\"_blank\">Эксперт назвал условия возврата банком украденных мошенниками денег</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -38,16 +52,30 @@
       "pub": "Tue, 22 Sep 2026 23:43:34 GMT"
     },
     {
-      "title": "Тейлор Свифт анонсировала новый сингл «Patient Zero» - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PREs0WDdFYmRySGxEa2dSdlRhck13Q0VMaGt4Skt3dW5LODVpLTVJSHRhZTBlbjNPa210T0xENUtCVER6Q1AxY3NyeXQ3WU5Zdlh4NVJEcU1ELW9yT0Z6dzNndw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PREs0WDdFYmRySGxEa2dSdlRhck13Q0VMaGt4Skt3dW5LODVpLTVJSHRhZTBlbjNPa210T0xENUtCVER6Q1AxY3NyeXQ3WU5Zdlh4NVJEcU1ELW9yT0Z6dzNndw?oc=5\" target=\"_blank\">Тейлор Свифт анонсировала новый сингл «Patient Zero»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 22 Sep 2026 23:24:32 GMT"
+      "title": "Российские учёные научили ИИ выявлять фальсифицированное молоко - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRGpBU19JeV95WjJxRXctMDEyR2lfak0xU1ZicThaeVNWSTZmcTRUT1hoNGtHT0VlS2xYWFBzMUU3ZDdZYmJscnpMQ25zcFVZeXI1eVJyeWU5WjdBYzBPYVJNa1ZheS1DSWl3U0RIcVN0bGtwUFY4X0FR0gF_QVVfeXFMTWx0V0FDdEdXczBsOURrOHdFOGY1eUpFaC1nRlZDX3g4LWxBZEU4MnBvdlhOaGluOUhiWmVxSWs4eFp0OEJPZGpMZE9YTVdfUE55ZXFpbWhLR0VNaUx4M2NwN2JTUmtrWGFyVlBFS3oybm5DZklxdGFQZjJ1am5qcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRGpBU19JeV95WjJxRXctMDEyR2lfak0xU1ZicThaeVNWSTZmcTRUT1hoNGtHT0VlS2xYWFBzMUU3ZDdZYmJscnpMQ25zcFVZeXI1eVJyeWU5WjdBYzBPYVJNa1ZheS1DSWl3U0RIcVN0bGtwUFY4X0FR0gF_QVVfeXFMTWx0V0FDdEdXczBsOURrOHdFOGY1eUpFaC1nRlZDX3g4LWxBZEU4MnBvdlhOaGluOUhiWmVxSWs4eFp0OEJPZGpMZE9YTVdfUE55ZXFpbWhLR0VNaUx4M2NwN2JTUmtrWGFyVlBFS3oybm5DZklxdGFQZjJ1am5qcw?oc=5\" target=\"_blank\">Российские учёные научили ИИ выявлять фальсифицированное молоко</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 22 Sep 2026 23:28:31 GMT"
+    },
+    {
+      "title": "Дальний Восток лидирует по размеру средних пенсий - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEbVNqYUkwUXU1RVV3UzFBdUhsMGxteFBTdE9wQ3B4V29JVjlXNGd4WDVlZzlmaktFVkM1NjVKMGs3cV9mQ29USnRvVTVaYlhvbWxQMXUyVGkwSlpNTXRwVXozZkpiSEk1SjhndnFrWkZ2d2Q0T28wLV9zcTLSAYIBQVVfeXFMTnNiZGVRRHFxcV9FY3BkVGoxTTBla3JyTmtYaFFpMHI1WXZfaGpWbWJLNTJyRDMtWk5nb3BGM3ROQXgzN2lueUNUdDRPQVM1NDU4YXRhNjM2MXp5MGhGN1hlV1FpWDUyTWdON09PalVVZ1lxbWVMeUVVdjJ2dEdQcUtyUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBEbVNqYUkwUXU1RVV3UzFBdUhsMGxteFBTdE9wQ3B4V29JVjlXNGd4WDVlZzlmaktFVkM1NjVKMGs3cV9mQ29USnRvVTVaYlhvbWxQMXUyVGkwSlpNTXRwVXozZkpiSEk1SjhndnFrWkZ2d2Q0T28wLV9zcTLSAYIBQVVfeXFMTnNiZGVRRHFxcV9FY3BkVGoxTTBla3JyTmtYaFFpMHI1WXZfaGpWbWJLNTJyRDMtWk5nb3BGM3ROQXgzN2lueUNUdDRPQVM1NDU4YXRhNjM2MXp5MGhGN1hlV1FpWDUyTWdON09PalVVZ1lxbWVMeUVVdjJ2dEdQcUtyUQ?oc=5\" target=\"_blank\">Дальний Восток лидирует по размеру средних пенсий</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 22 Sep 2026 23:13:09 GMT"
     },
     {
       "title": "Избирком Мордовии подвёл официальные итоги избирательной кампании — читать подробности - vrf.tass.ru",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXlteDBOSzRsZWlydThOVW5oaFB3RGprS2gxblpTa2VlLU45Y1JxUWtrYVk2MGFzdjluUkk3bWJxelpodDFEZ1VLbkdjaFl6OGpadnlGN3ZGQzhPMzNUeWxLVlBPOVFGU0FTbmFNZHlMSmh5MTVHeUNYX2FERHg2RDB1WV9xSmsxX25lMVo0R24xX1RsRnNsZmYwaHVLT01mSF8tSWJBdTFPU2UtZVkxVkUwcEZFWDhmNFc2SmV6WQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXlteDBOSzRsZWlydThOVW5oaFB3RGprS2gxblpTa2VlLU45Y1JxUWtrYVk2MGFzdjluUkk3bWJxelpodDFEZ1VLbkdjaFl6OGpadnlGN3ZGQzhPMzNUeWxLVlBPOVFGU0FTbmFNZHlMSmh5MTVHeUNYX2FERHg2RDB1WV9xSmsxX25lMVo0R24xX1RsRnNsZmYwaHVLT01mSF8tSWJBdTFPU2UtZVkxVkUwcEZFWDhmNFc2SmV6WQ?oc=5\" target=\"_blank\">Избирком Мордовии подвёл официальные итоги избирательной кампании — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Tue, 22 Sep 2026 23:02:03 GMT"
+    },
+    {
+      "title": "В Саранске проходит Кубок Шамиля Тарпищева по теннису — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGJXZFhGdVN4LWhDRVdxVHFIWk5VN0xkWEJuTHh0emtvU2UwRm4yeUxTbXRQZkliY2VOS2NQVnNjcloxQjFWRXJxZEtwandmRVliZnlpYnoza3ltR21rYjlXZ0FzWndMbThIM0ozWVdOdk9pZERxd3pac3N3aDJWRlBrWjRobHpfVjN0Wk1ucHhVbHFNUXlObmE3T2ZIZDY4cFRTNXpVLUNvS01WejVsWWdMZHlWVTA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGJXZFhGdVN4LWhDRVdxVHFIWk5VN0xkWEJuTHh0emtvU2UwRm4yeUxTbXRQZkliY2VOS2NQVnNjcloxQjFWRXJxZEtwandmRVliZnlpYnoza3ltR21rYjlXZ0FzWndMbThIM0ozWVdOdk9pZERxd3pac3N3aDJWRlBrWjRobHpfVjN0Wk1ucHhVbHFNUXlObmE3T2ZIZDY4cFRTNXpVLUNvS01WejVsWWdMZHlWVTA?oc=5\" target=\"_blank\">В Саранске проходит Кубок Шамиля Тарпищева по теннису — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
       "pub": "Tue, 22 Sep 2026 23:02:03 GMT"
     },
@@ -66,6 +94,13 @@
       "pub": "Tue, 22 Sep 2026 22:58:00 GMT"
     },
     {
+      "title": "Мирошник: ВСУ за неделю атаковали Россию почти 9 тысяч раз - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zclRCcmIzemxuTERLaEFlOXYta0JhdzYxeGJiSGlLakZaMk16ekJuSjRhdV9oUVhSOXpmRVFtbVJ6amZGZDZEZDhLcFFCaHF6TE84b29NQU5oMXNkYWowWTNtaXVubWpzb0hpUFBhbk9QdEHSAXhBVV95cUxOMEs5LWxPVElZWmtVeEFzUUJNX1hyWVhMRm5hQ2NPaGZqNHhMQkd1a0lPYjhzS1kzb1RlNm5KQlFySl9UbS00UzZFRGhoaU1EaHFvSElJNkUycm1yZl9JeHQ3SnpocnR3bW1hQU1Ba2ZFRkpSR0toTTg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1zclRCcmIzemxuTERLaEFlOXYta0JhdzYxeGJiSGlLakZaMk16ekJuSjRhdV9oUVhSOXpmRVFtbVJ6amZGZDZEZDhLcFFCaHF6TE84b29NQU5oMXNkYWowWTNtaXVubWpzb0hpUFBhbk9QdEHSAXhBVV95cUxOMEs5LWxPVElZWmtVeEFzUUJNX1hyWVhMRm5hQ2NPaGZqNHhMQkd1a0lPYjhzS1kzb1RlNm5KQlFySl9UbS00UzZFRGhoaU1EaHFvSElJNkUycm1yZl9JeHQ3SnpocnR3bW1hQU1Ba2ZFRkpSR0toTTg?oc=5\" target=\"_blank\">Мирошник: ВСУ за неделю атаковали Россию почти 9 тысяч раз</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 22 Sep 2026 22:43:15 GMT"
+    },
+    {
       "title": "МИД России объяснил, почему контакты с ЕС бесполезны - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HWkR0cG5BdENGODRZX2xOX0lBSVdEX0U5QkZLaFp0dzRGeVp5eXZQaU8wRUZMMEV3bS0wem1kM09OajRiVXVZMG9CUVpvd3l1V1pBNzJvWEhBNXVaY050LVZ5LWRtU0NieGVxdlM2QzFrQdIBd0FVX3lxTFBjclNJSUVnNXNpS1NRNi1EWml6TE9WcVQ3N0MydXE4cmg2ckF3N01fQ29TZjRqcF9fMDVJc3BBYXpLMl9SMnVUSGgxa2lqS2Vrb080Q2VCQnVZc1pIQTFrNDg3a3BnWVBWU040a05GeTRMR1N1dTRJ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9HWkR0cG5BdENGODRZX2xOX0lBSVdEX0U5QkZLaFp0dzRGeVp5eXZQaU8wRUZMMEV3bS0wem1kM09OajRiVXVZMG9CUVpvd3l1V1pBNzJvWEhBNXVaY050LVZ5LWRtU0NieGVxdlM2QzFrQdIBd0FVX3lxTFBjclNJSUVnNXNpS1NRNi1EWml6TE9WcVQ3N0MydXE4cmg2ckF3N01fQ29TZjRqcF9fMDVJc3BBYXpLMl9SMnVUSGgxa2lqS2Vrb080Q2VCQnVZc1pIQTFrNDg3a3BnWVBWU040a05GeTRMR1N1dTRJ?oc=5\" target=\"_blank\">МИД России объяснил, почему контакты с ЕС бесполезны</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -78,6 +113,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCY2dzSFZ3SEMzUDc1dkZrWDVIZEk1NjlNMEhONENfS3pMRlZrWm5pZ1ZFdjQ5bHZrajJacGE2bmh1eFZxaUNUdlBVUnpCVEJUdExYcG9lWnNFcGM?oc=5\" target=\"_blank\">Средняя пенсия работающих россиян в августе достигла 24 тысяч рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Tue, 22 Sep 2026 22:18:00 GMT"
+    },
+    {
+      "title": "Вирусолог Чумаков: при ОРВИ без температуры могут возникать тяжёлые симптомы - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mcDRxT3ZSTFotdVIzV0t0dVRUMUJDaFhoSGJmWGREZHJTTGJoWlYtQS04SWNpZlhENzZrQXM3dzRtVDkwakJtZ24tSm9KSE1TOUZXcVJZdmY2WVp5VTdtRk1oZ1o2VnJranJsSTdWak9HZ9IBd0FVX3lxTE9oUElwR2x4cW42dWFlbWVmeHZnX2o4MnRpaWhtT3JPc2JadjFVOGVlLWpNcTFrcG5NSVA2TzlZWlM4ck1LS2FxVXdVYW0xU2x0SkFnZW4ycEJiVTJPN0dGcFRVTDdkTXRUcGFnZTZ5UVV4VEQzV2hR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mcDRxT3ZSTFotdVIzV0t0dVRUMUJDaFhoSGJmWGREZHJTTGJoWlYtQS04SWNpZlhENzZrQXM3dzRtVDkwakJtZ24tSm9KSE1TOUZXcVJZdmY2WVp5VTdtRk1oZ1o2VnJranJsSTdWak9HZ9IBd0FVX3lxTE9oUElwR2x4cW42dWFlbWVmeHZnX2o4MnRpaWhtT3JPc2JadjFVOGVlLWpNcTFrcG5NSVA2TzlZWlM4ck1LS2FxVXdVYW0xU2x0SkFnZW4ycEJiVTJPN0dGcFRVTDdkTXRUcGFnZTZ5UVV4VEQzV2hR?oc=5\" target=\"_blank\">Вирусолог Чумаков: при ОРВИ без температуры могут возникать тяжёлые симптомы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 22 Sep 2026 22:09:31 GMT"
     },
     {
       "title": "Педагог Езопова: важные для школы навыки формируются у ребёнка в игре - russian.rt.com",
@@ -108,13 +150,6 @@
       "pub": "Tue, 22 Sep 2026 22:02:10 GMT"
     },
     {
-      "title": "Курс рубля: ждать ли сюрпризов? — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEF4dTBROEtTQjlnY19FUXlIMmxmb3NxeWFybC1JdFl2aUxTSjVhQUNjS0d4dThOc18zUG43X3pZZHhOMG5vel9zSFowVmFzaThSTEJ3cnJWR0puckJZeUxYa19EV2JtcHhPZkJyUExVamI0ZVVHWDZvaEthUTdxaEVOalZhWjhaUElhenpvcnZfaEU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEF4dTBROEtTQjlnY19FUXlIMmxmb3NxeWFybC1JdFl2aUxTSjVhQUNjS0d4dThOc18zUG43X3pZZHhOMG5vel9zSFowVmFzaThSTEJ3cnJWR0puckJZeUxYa19EV2JtcHhPZkJyUExVamI0ZVVHWDZvaEthUTdxaEVOalZhWjhaUElhenpvcnZfaEU?oc=5\" target=\"_blank\">Курс рубля: ждать ли сюрпризов? — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 22 Sep 2026 22:02:10 GMT"
-    },
-    {
       "title": "Почти 4 тысячи туляков заболели ОРВИ за неделю — читать подробности - vrf.tass.ru",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzlnelVwREtXbDFEUjhPUDNhcnN1RkktMnBNS056T05idWh2Ny1XWFRLME1RcHl1S1lzTi00Uk9razF4Ui1sb0cyR0s3U3Brc1RvN0FqR2VMUm4wYVdiWHo5dDExMTlRa3p6Z19pNHh3YnhPT1Z0dUhCelhPRzFkaWNmWlFhN0psckVuMjByeXBQSktvczR2Ty1IYXUtQlhwcm5nbEJSWUc0SXc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzlnelVwREtXbDFEUjhPUDNhcnN1RkktMnBNS056T05idWh2Ny1XWFRLME1RcHl1S1lzTi00Uk9razF4Ui1sb0cyR0s3U3Brc1RvN0FqR2VMUm4wYVdiWHo5dDExMTlRa3p6Z19pNHh3YnhPT1Z0dUhCelhPRzFkaWNmWlFhN0psckVuMjByeXBQSktvczR2Ty1IYXUtQlhwcm5nbEJSWUc0SXc?oc=5\" target=\"_blank\">Почти 4 тысячи туляков заболели ОРВИ за неделю — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
@@ -122,11 +157,25 @@
       "pub": "Tue, 22 Sep 2026 22:02:10 GMT"
     },
     {
+      "title": "Адвокат Егоров: компания не может использовать тестовое задание без допсоглашений - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UYlIwSFRfYjVGVDJybE80QUdzYzQ4cjFZU0RielRSVUNsTENDLUc0dWMtbnNvdl9fSGJiMEtBa2JWaTAzYTV0TDJJSll1bXpDZlpSaDRYVjdLRkRaWVd1RFV6WThUa1FHV2o0N3FmZ9IBdEFVX3lxTE5UbmgwVjFTaFQ2QUR0T0JwSWJyenN6UExxMlhyQ0xtOU1QM0UwOS1SaGtaTFRTRnAyaVd3QVhrY1k3eUJZbTNDM3kwSFRXaHBHN3VJXzBQemZMOFJYQ3FsVURJbE96b1lhUkZkVmx3T0pMMlhy?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9UYlIwSFRfYjVGVDJybE80QUdzYzQ4cjFZU0RielRSVUNsTENDLUc0dWMtbnNvdl9fSGJiMEtBa2JWaTAzYTV0TDJJSll1bXpDZlpSaDRYVjdLRkRaWVd1RFV6WThUa1FHV2o0N3FmZ9IBdEFVX3lxTE5UbmgwVjFTaFQ2QUR0T0JwSWJyenN6UExxMlhyQ0xtOU1QM0UwOS1SaGtaTFRTRnAyaVd3QVhrY1k3eUJZbTNDM3kwSFRXaHBHN3VJXzBQemZMOFJYQ3FsVURJbE96b1lhUkZkVmx3T0pMMlhy?oc=5\" target=\"_blank\">Адвокат Егоров: компания не может использовать тестовое задание без допсоглашений</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 22 Sep 2026 21:57:35 GMT"
+    },
+    {
       "title": "Счетная палата: госдолг РФ за первое полугодие 2026 года увеличился на 6,8% - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40UUFYdmlocjdFRkpnakNkV2c4c044eTRoM3NENXJrVzdtQ0lGMkxRS09mWldfZ01UU0lhSXJvZFNxYjZ2SEJpX0xFYS03SlZRc0h4MlF0SQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE40UUFYdmlocjdFRkpnakNkV2c4c044eTRoM3NENXJrVzdtQ0lGMkxRS09mWldfZ01UU0lhSXJvZFNxYjZ2SEJpX0xFYS03SlZRc0h4MlF0SQ?oc=5\" target=\"_blank\">Счетная палата: госдолг РФ за первое полугодие 2026 года увеличился на 6,8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 22 Sep 2026 21:42:13 GMT"
+    },
+    {
+      "title": "В Калининградской области возбудили дело о призывах к терроризму в интернете - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zbFQyRUFGZUxYbl9rMmJkNmpMQUd4WHNmZ3IySm1rbHVuQWI3TG5PTnVlM0l5UGlHQmZwWk5iZldmOGtCQW1IVGxyc0lWZi1RcGtfQl9DQ0dTT1lDZ05VYmUxUDJ0UTBRM0g3d09ObE1tZ9IBd0FVX3lxTFB2VUd3cTZkU01FRzRCSHVvTjItVUJJY1FxU0FkRVVzWVlSXy0wcjRqVUYwNW5laVBGUzZlYm9lbVJUNUpJb3FjV3hxeXRfVWNMMW9oWEZhWkNCUlRTaFM2VnBjSlZTT2ExejdCTjY4dk9vUDYzTjBr?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zbFQyRUFGZUxYbl9rMmJkNmpMQUd4WHNmZ3IySm1rbHVuQWI3TG5PTnVlM0l5UGlHQmZwWk5iZldmOGtCQW1IVGxyc0lWZi1RcGtfQl9DQ0dTT1lDZ05VYmUxUDJ0UTBRM0g3d09ObE1tZ9IBd0FVX3lxTFB2VUd3cTZkU01FRzRCSHVvTjItVUJJY1FxU0FkRVVzWVlSXy0wcjRqVUYwNW5laVBGUzZlYm9lbVJUNUpJb3FjV3hxeXRfVWNMMW9oWEZhWkNCUlRTaFM2VnBjSlZTT2ExejdCTjY4dk9vUDYzTjBr?oc=5\" target=\"_blank\">В Калининградской области возбудили дело о призывах к терроризму в интернете</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 22 Sep 2026 21:40:48 GMT"
     },
     {
       "title": "Мошенники начали направлять россиянам сообщения о долгах по налогам - ria.ru",
@@ -178,13 +227,6 @@
       "pub": "Tue, 22 Sep 2026 21:04:15 GMT"
     },
     {
-      "title": "Цифровой рубль станет доступен россиянам с 14 лет к концу 2027 года — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTXlzdmJfVkhjTUFmZWpLQUFqcURpNWxOSEIzMndwb1RZSTVBRmJyNUFlNTZsRFNjT3hCTGZnSVdjT1NrbEFpNUoyd1c4cTBvOEZ2Sm9nWTVGSkxNWmlna0ljaUtZaThreWVhaGI1WnlrSEdfVnZzbzB4RnBXOVloOHJ1bmZkRFlKcEFJWTk5dEU2RDFldk9VT2NjZ0RYTWtCdEI2RU4yZ2ViVkE2eDhkMG1WRlRfRVpwU2UyT1N3NmdWcm1ja1FaZVhDUXZmT0RySmI1emFtWkhMamprSXJuRUFHbTk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTXlzdmJfVkhjTUFmZWpLQUFqcURpNWxOSEIzMndwb1RZSTVBRmJyNUFlNTZsRFNjT3hCTGZnSVdjT1NrbEFpNUoyd1c4cTBvOEZ2Sm9nWTVGSkxNWmlna0ljaUtZaThreWVhaGI1WnlrSEdfVnZzbzB4RnBXOVloOHJ1bmZkRFlKcEFJWTk5dEU2RDFldk9VT2NjZ0RYTWtCdEI2RU4yZ2ViVkE2eDhkMG1WRlRfRVpwU2UyT1N3NmdWcm1ja1FaZVhDUXZmT0RySmI1emFtWkhMamprSXJuRUFHbTk?oc=5\" target=\"_blank\">Цифровой рубль станет доступен россиянам с 14 лет к концу 2027 года — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 22 Sep 2026 21:04:14 GMT"
-    },
-    {
       "title": "Трамп не исключил новой встречи с Путиным — читать подробности - vrf.tass.ru",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0NrR21EWjIwc2ZSbzRrczR6X0hacngxeGMzSVV5cTVEeng1cjNFUGdUdjlnVE5xa2JsQnNleVFKVnhyaDZDc3FnenV1RzZQYk4tY0phcjdTNzY5NWZNOXpURFNhem5VRUdRQ05xX3lxeUYtb3E2dzV6OXlaUVBuYTEzNWtrMkI4Y1ljRFh5M3pKSVR2akFTczNBbUxOa2lEWkxNbi1MbXNxczZvWmxjYWtkdGtvRXFJazh2ZUFEd0p0VWVJSUE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0NrR21EWjIwc2ZSbzRrczR6X0hacngxeGMzSVV5cTVEeng1cjNFUGdUdjlnVE5xa2JsQnNleVFKVnhyaDZDc3FnenV1RzZQYk4tY0phcjdTNzY5NWZNOXpURFNhem5VRUdRQ05xX3lxeUYtb3E2dzV6OXlaUVBuYTEzNWtrMkI4Y1ljRFh5M3pKSVR2akFTczNBbUxOa2lEWkxNbi1MbXNxczZvWmxjYWtkdGtvRXFJazh2ZUFEd0p0VWVJSUE?oc=5\" target=\"_blank\">Трамп не исключил новой встречи с Путиным — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
@@ -234,53 +276,11 @@
       "pub": "Tue, 22 Sep 2026 20:36:46 GMT"
     },
     {
-      "title": "Мирошник назвал регионы, по которым ВСУ нанесли удары за неделю - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpT2x3TjY0Yk9SUEVleHUtM1J1cFk0eDBqc0ZuNGJteDN2SFFvM3Z4cFJlOTI3MHdxdVRTQnEwRm0ta0l0dUh4OXA4eVA1SWlrZV9YalZR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpT2x3TjY0Yk9SUEVleHUtM1J1cFk0eDBqc0ZuNGJteDN2SFFvM3Z4cFJlOTI3MHdxdVRTQnEwRm0ta0l0dUh4OXA4eVA1SWlrZV9YalZR?oc=5\" target=\"_blank\">Мирошник назвал регионы, по которым ВСУ нанесли удары за неделю</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 22 Sep 2026 20:20:00 GMT"
-    },
-    {
-      "title": "Эксперт объяснил, почему Запад причислил Китай к врагам - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aZUZ2LUZ3UXFWWEZfUjFaa0l2Q0V2SWtKTnNPYlN3VmhfWllNUEhWZVAyVjZReDQ2bEVQclc1MWtKaDh4eWlIT0llcGJCazJSNnhuZjRR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aZUZ2LUZ3UXFWWEZfUjFaa0l2Q0V2SWtKTnNPYlN3VmhfWllNUEhWZVAyVjZReDQ2bEVQclc1MWtKaDh4eWlIT0llcGJCazJSNnhuZjRR?oc=5\" target=\"_blank\">Эксперт объяснил, почему Запад причислил Китай к врагам</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 22 Sep 2026 20:11:00 GMT"
-    },
-    {
-      "title": "Врач Прокофьев: долгое вождение может замедлить реакцию водителя - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ycU56N182ajQxNUx4VU8xa3NqY0ZOTlZhUm9fc2R0TDFBWlJ2UUxlUHNDU3J5UlZjVDc4OUJlX3VqVFhzTVVtTWt4QWxmQWtJOWUzYkdkMkIxZXhXZE01eHRQQ09Ic2VlbGhLcXZR0gFzQVVfeXFMT1I4Y0hFOFN5Q0ZEMzNCc0FzOVBwQ2RjQkdoY1RhWXI2dDFubGFiSDhKcnp4NVZkbGx6dUtQMHBGMXp2Qlpyb2hlZF9CV3FjdXVIbGpYQ1pNYXVnZWM0U2xzbVJuSWxvSTY5Wnpnb1dERm9hRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0ycU56N182ajQxNUx4VU8xa3NqY0ZOTlZhUm9fc2R0TDFBWlJ2UUxlUHNDU3J5UlZjVDc4OUJlX3VqVFhzTVVtTWt4QWxmQWtJOWUzYkdkMkIxZXhXZE01eHRQQ09Ic2VlbGhLcXZR0gFzQVVfeXFMT1I4Y0hFOFN5Q0ZEMzNCc0FzOVBwQ2RjQkdoY1RhWXI2dDFubGFiSDhKcnp4NVZkbGx6dUtQMHBGMXp2Qlpyb2hlZF9CV3FjdXVIbGpYQ1pNYXVnZWM0U2xzbVJuSWxvSTY5Wnpnb1dERm9hRQ?oc=5\" target=\"_blank\">Врач Прокофьев: долгое вождение может замедлить реакцию водителя</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Tue, 22 Sep 2026 20:05:38 GMT"
-    },
-    {
-      "title": "Психолог Изюменко: гиперопека может привести подростка к зависимостям — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUhCQTNGMzF5WVJxVHN3QlJyZmo2TEhTOWsxdTBkaHNNcFFNRVNOMWtyX0p1TGNEM2w3UF9aS01hVEFYZ29uRDlmT3NOTzF0U0pBX2c0LXRYU1ZOb3ZOdEJ6MDRLREstMTFfNnVaaGFfRFZ1V1RQNE85MjhoSk1ZeTBIS2UydjFuWHFHX3BOaFRUT3V0ZTRyWURyU1FmNHVtOHRGWldjdGVBY0w4OXpZNHZfNFQ2MHpGRUFXU2RvVU5KeE5EbG10RG1n?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUhCQTNGMzF5WVJxVHN3QlJyZmo2TEhTOWsxdTBkaHNNcFFNRVNOMWtyX0p1TGNEM2w3UF9aS01hVEFYZ29uRDlmT3NOTzF0U0pBX2c0LXRYU1ZOb3ZOdEJ6MDRLREstMTFfNnVaaGFfRFZ1V1RQNE85MjhoSk1ZeTBIS2UydjFuWHFHX3BOaFRUT3V0ZTRyWURyU1FmNHVtOHRGWldjdGVBY0w4OXpZNHZfNFQ2MHpGRUFXU2RvVU5KeE5EbG10RG1n?oc=5\" target=\"_blank\">Психолог Изюменко: гиперопека может привести подростка к зависимостям — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 22 Sep 2026 20:04:47 GMT"
-    },
-    {
-      "title": "Тренер Гончаров: умеренные тренировки помогают снизить напряжение — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGJ2d1hFc2pjOG42R2dwWl9icHZ5N1JYZXo3aGVqU1Q3VmxHZGhlTTh2QVVzdDVBaUptN1VHOWcxdXBJb1Z5N1o2QnFwR1U4VkxWU0VBS1g0U0QtdWVFOERPRndyVVJOU2VkakZlby1wU0EyQmI1QnhhZ0kyVTNfUnZqZjNXR3FJY1B5RTFFLVU2Q1FFU1lSMGh5cWVUdFZkM1g3X2hUd0hmUVlvV1YxdG9hT0o1alB0LXR2REExNzNQVUx6?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGJ2d1hFc2pjOG42R2dwWl9icHZ5N1JYZXo3aGVqU1Q3VmxHZGhlTTh2QVVzdDVBaUptN1VHOWcxdXBJb1Z5N1o2QnFwR1U4VkxWU0VBS1g0U0QtdWVFOERPRndyVVJOU2VkakZlby1wU0EyQmI1QnhhZ0kyVTNfUnZqZjNXR3FJY1B5RTFFLVU2Q1FFU1lSMGh5cWVUdFZkM1g3X2hUd0hmUVlvV1YxdG9hT0o1alB0LXR2REExNzNQVUx6?oc=5\" target=\"_blank\">Тренер Гончаров: умеренные тренировки помогают снизить напряжение — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 22 Sep 2026 20:04:47 GMT"
-    },
-    {
-      "title": "Специалист Чихринова: листовой перегной созревает около двух лет — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlIwa2YwR2lZeWwwanNBZjhwclNua1Vld1VBWHpKOHBWVEJKYWt3eDdmRzZ6YW0xXzcwTlZiSVdqdzI0MGNlRHpVSVBFQlEwc0tNZ0F2SUtKbGlveUZDQ2VOUDItYVBONHVSMExvOEhjYXJlWlQ0N0pRbzhiUV9taGlwdjFLUXF5ZzNIWlFFMk1iNC1rS1VNc1ZqaUpxOFpReGk1NDlVNU5LVTRucjNNcFhGT0xWZWJYMHdDZVRYTEw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlIwa2YwR2lZeWwwanNBZjhwclNua1Vld1VBWHpKOHBWVEJKYWt3eDdmRzZ6YW0xXzcwTlZiSVdqdzI0MGNlRHpVSVBFQlEwc0tNZ0F2SUtKbGlveUZDQ2VOUDItYVBONHVSMExvOEhjYXJlWlQ0N0pRbzhiUV9taGlwdjFLUXF5ZzNIWlFFMk1iNC1rS1VNc1ZqaUpxOFpReGk1NDlVNU5LVTRucjNNcFhGT0xWZWJYMHdDZVRYTEw?oc=5\" target=\"_blank\">Специалист Чихринова: листовой перегной созревает около двух лет — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 22 Sep 2026 20:04:46 GMT"
-    },
-    {
-      "title": "Президент Финляндии Александр Стубб выступил на Генассамблее ООН - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWSVdjeURucTJwN3RFN2ZEeXdxUGw3a3JKa1VuYWhkNGFlaWdmeDFRSWJ2S0Z1Ul9wRlBac21SUEtOczJtSlB6ZjJJamoxZEZNQmpSSlM1aFFVYzJXWmJ1aEtfMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWSVdjeURucTJwN3RFN2ZEeXdxUGw3a3JKa1VuYWhkNGFlaWdmeDFRSWJ2S0Z1Ul9wRlBac21SUEtOczJtSlB6ZjJJamoxZEZNQmpSSlM1aFFVYzJXWmJ1aEtfMA?oc=5\" target=\"_blank\">Президент Финляндии Александр Стубб выступил на Генассамблее ООН</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "title": "Тейлор Свифт анонсировала новый сингл «Patient Zero» - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PREs0WDdFYmRySGxEa2dSdlRhck13Q0VMaGt4Skt3dW5LODVpLTVJSHRhZTBlbjNPa210T0xENUtCVER6Q1AxY3NyeXQ3WU5Zdlh4NVJEcU1ELW9yT0Z6dzNndw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PREs0WDdFYmRySGxEa2dSdlRhck13Q0VMaGt4Skt3dW5LODVpLTVJSHRhZTBlbjNPa210T0xENUtCVER6Q1AxY3NyeXQ3WU5Zdlh4NVJEcU1ELW9yT0Z6dzNndw?oc=5\" target=\"_blank\">Тейлор Свифт анонсировала новый сингл «Patient Zero»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
-      "pub": "Tue, 22 Sep 2026 19:57:00 GMT"
+      "pub": "Tue, 22 Sep 2026 20:30:00 GMT"
     }
   ]
 }
