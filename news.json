@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-24T21:04:56.697859+00:00",
+  "updated": "2026-09-24T21:35:34.474994+00:00",
   "count": 40,
   "news": [
-    {
-      "title": "АО «ПЛА» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wNmFZaTlYRzFxdmtUS1UwQk4zNFJhOXh6Z0N2clRSY2dpMDZ0NGd0d3JiN2UwV1dvR0FmZVN1Xy1WSmJmNUYtd0tFcXVLdHFhZ2x1WWN6MUM2bHlfX1E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wNmFZaTlYRzFxdmtUS1UwQk4zNFJhOXh6Z0N2clRSY2dpMDZ0NGd0d3JiN2UwV1dvR0FmZVN1Xy1WSmJmNUYtd0tFcXVLdHFhZ2x1WWN6MUM2bHlfX1E?oc=5\" target=\"_blank\">АО «ПЛА»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Wed, 31 Jul 2024 16:37:37 GMT"
-    },
     {
       "title": "Как приготовить курник - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9neVV6bGM5ZnlJVmpXTWFiVXZDbzNrRTdRY0o4VXNfMlRlcF9HVEJjSnJjVXd4MXpQNDZYeVRSaDhuQUthbFBTSUFZNkZ5TkxxYWwwRnM0c2QwWEgxWUNHazFqWQ?oc=5",
@@ -57,6 +50,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUFBRGFaWnpKa0dobldoTVlDYkVEbUlRODFOQjY2TEltd0R6Q2JUNE1Hd1JvaFJCUTM2bHZsZS1PUW5Pb1VQUzVkenkwVE8zeUhsdVZCNWluTmlhX292WFdwbmdvZ3FtZ1VIRkJkanFHbEt6LU04YmNSVjhLWHM1SVlXXzJaMWZMdlFfREtIZ1NHZnM5dF9rNnZrYU93WkFOY0NlWEdRbzY4NzRU?oc=5\" target=\"_blank\">Академик Алексей Гиппиус собрал берестяной «пазл» — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
       "pub": "Wed, 23 Sep 2026 22:54:32 GMT"
+    },
+    {
+      "title": "В Доме Республики обсудили вопросы работы общественного транспорта — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZy16WUlyOXk4NmhzRE5zb3ZXUmIwbHFsVVFHQTFPR2tpN1RvbHNhVHJ6RVAzMFc0UVVXT1BSRkk1TUQ3dDQ2QzA3eTVSajNjLUhLMV85RjREdjVtcHdqNVNTTFFOY0UyM0lhUG5TMGoyeUY0YWktYkswd2E1cHowRXhCbFdubHJYUGdLTnBydnBtQWl1Z2hqTVlzM1IwQzRGMk0wZzc2ajdlSTlZbVRQWS1tSzQtRUhTakVRNWFjSUJiMUhybVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZy16WUlyOXk4NmhzRE5zb3ZXUmIwbHFsVVFHQTFPR2tpN1RvbHNhVHJ6RVAzMFc0UVVXT1BSRkk1TUQ3dDQ2QzA3eTVSajNjLUhLMV85RjREdjVtcHdqNVNTTFFOY0UyM0lhUG5TMGoyeUY0YWktYkswd2E1cHowRXhCbFdubHJYUGdLTnBydnBtQWl1Z2hqTVlzM1IwQzRGMk0wZzc2ajdlSTlZbVRQWS1tSzQtRUhTakVRNWFjSUJiMUhybVE?oc=5\" target=\"_blank\">В Доме Республики обсудили вопросы работы общественного транспорта — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 23 Sep 2026 22:53:48 GMT"
     },
     {
       "title": "Это было мощно. Зрители обсуждают момент из прямого эфира программы Соловьёва — читать подробности - vrf.tass.ru",
@@ -108,9 +108,9 @@
       "pub": "Wed, 23 Sep 2026 22:47:00 GMT"
     },
     {
-      "title": "Капусту порубят на историческом мосту, а свадьбы сыграют в «Капустном ЗАГСе»: что ждет гостей фестиваля «Крошево» - fontanka.ru",
+      "title": "Капусту порубят на историческом мосту, а свадьбы сыграют в «Капустном ЗАГСе»: что ждет гостей фестиваля «Крошево» - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnVGhMVF85bTdCNVFPTkhFd01hZENadFpaVDB0UE5lUmo3ZlA0QnVpN25SdDhJSWkxYUlZdk9zWXU1Um9INDlKSlV1Z0Q4Y0ppdnFQOGo4bw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnVGhMVF85bTdCNVFPTkhFd01hZENadFpaVDB0UE5lUmo3ZlA0QnVpN25SdDhJSWkxYUlZdk9zWXU1Um9INDlKSlV1Z0Q4Y0ppdnFQOGo4bw?oc=5\" target=\"_blank\">Капусту порубят на историческом мосту, а свадьбы сыграют в «Капустном ЗАГСе»: что ждет гостей фестиваля «Крошево»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnVGhMVF85bTdCNVFPTkhFd01hZENadFpaVDB0UE5lUmo3ZlA0QnVpN25SdDhJSWkxYUlZdk9zWXU1Um9INDlKSlV1Z0Q4Y0ppdnFQOGo4bw?oc=5\" target=\"_blank\">Капусту порубят на историческом мосту, а свадьбы сыграют в «Капустном ЗАГСе»: что ждет гостей фестиваля «Крошево»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 23 Sep 2026 22:37:00 GMT"
     },
@@ -127,6 +127,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE5DUGxPS3cxel9MaEdWdXpxWU16ZkZUMFNhQzdfWlBLandFYWlKdFdtbXM4S2dMQUxkU09nRW93WmV4SzJD?oc=5\" target=\"_blank\">На матч сборных России и Ирана реализовано более 26 тыс. билетов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Wed, 23 Sep 2026 22:31:00 GMT"
+    },
+    {
+      "title": "Назван средний размер пенсии неработающих россиян на Чукотке - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kNko5VGREZWdfRVl4ZXFLS1MxQVNqSjRLS1k1VkhwQ1pHM2FpQ2ZJQk5ta2JqUkxwZ0M1Y1Ewd0FKaDZlOUV5TE01LWVvbF9XemFXeGIxQURHdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kNko5VGREZWdfRVl4ZXFLS1MxQVNqSjRLS1k1VkhwQ1pHM2FpQ2ZJQk5ta2JqUkxwZ0M1Y1Ewd0FKaDZlOUV5TE01LWVvbF9XemFXeGIxQURHdw?oc=5\" target=\"_blank\">Назван средний размер пенсии неработающих россиян на Чукотке</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 23 Sep 2026 22:30:00 GMT"
     },
     {
       "title": "Костин оценил влияние ситуации с БПЛА на сделку ВТБ с WB - rbc.ru",
@@ -241,9 +248,9 @@
       "pub": "Wed, 23 Sep 2026 21:54:00 GMT"
     },
     {
-      "title": "Агент OpenAI взломал веб-сайт австралийского правительства — что об этом известно - 24 сентября 2026 - fontanka.ru",
+      "title": "Агент OpenAI взломал веб-сайт австралийского правительства — что об этом известно - 24 сентября 2026 - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KWkRjRlNLU1JIbzRQSjlPZ2JycTV0eEE2cFc1ZktZREdxSElUaU9WZjBNYnNxbnRfSUM2OXpDeHZXaDNtcWlOQTZ4azRzMktFVlcyc2F5Yw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KWkRjRlNLU1JIbzRQSjlPZ2JycTV0eEE2cFc1ZktZREdxSElUaU9WZjBNYnNxbnRfSUM2OXpDeHZXaDNtcWlOQTZ4azRzMktFVlcyc2F5Yw?oc=5\" target=\"_blank\">Агент OpenAI взломал веб-сайт австралийского правительства — что об этом известно - 24 сентября 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KWkRjRlNLU1JIbzRQSjlPZ2JycTV0eEE2cFc1ZktZREdxSElUaU9WZjBNYnNxbnRfSUM2OXpDeHZXaDNtcWlOQTZ4azRzMktFVlcyc2F5Yw?oc=5\" target=\"_blank\">Агент OpenAI взломал веб-сайт австралийского правительства — что об этом известно - 24 сентября 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 23 Sep 2026 21:52:00 GMT"
     },
@@ -269,18 +276,11 @@
       "pub": "Wed, 23 Sep 2026 21:41:00 GMT"
     },
     {
-      "title": "Аксаков рассказал, кого затронет усиление проверки источника наличных - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iTWFMeFMxNjE5WmJwRVNnQUJRX19WbTdsSl8tX1Y4ckFhSHlBbVdLOGJHTjA4MWNveWFOaUtDYjE2cXh0ZmpOa3dfQi1oUVBVYkxuTmc5NkxYSVh1QmxCXzdLWWtyMFFCQmFZTk4xYndIZms4RlE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1iTWFMeFMxNjE5WmJwRVNnQUJRX19WbTdsSl8tX1Y4ckFhSHlBbVdLOGJHTjA4MWNveWFOaUtDYjE2cXh0ZmpOa3dfQi1oUVBVYkxuTmc5NkxYSVh1QmxCXzdLWWtyMFFCQmFZTk4xYndIZms4RlE?oc=5\" target=\"_blank\">Аксаков рассказал, кого затронет усиление проверки источника наличных</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "title": "«Ъ» узнал о планах по допсбору с пассажиров для поддержки самолетов - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uOVpnTzJiMlhuN1Y4NXZsRXdHQUVzTWRMVVpfMEE4Rmo4bkFuSjlIWWl0dWtSX0ViLU1zSDVCSFVjVzBrdDZnWDBIdXJfUk53N1NPVUV4eUhUQ2c1c19tZ0Fpa0lqZlBCblJ6eTdFaE4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9uOVpnTzJiMlhuN1Y4NXZsRXdHQUVzTWRMVVpfMEE4Rmo4bkFuSjlIWWl0dWtSX0ViLU1zSDVCSFVjVzBrdDZnWDBIdXJfUk53N1NPVUV4eUhUQ2c1c19tZ0Fpa0lqZlBCblJ6eTdFaE4?oc=5\" target=\"_blank\">«Ъ» узнал о планах по допсбору с пассажиров для поддержки самолетов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
-      "pub": "Wed, 23 Sep 2026 21:27:00 GMT"
-    },
-    {
-      "title": "Франция и Британия непрозрачно наращивают ядерный арсенал, заявил посол - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyUzNDcEtzVE0xakRtLUVsSW1uN2U4SHlLRGFQNWhxbnBYb0xJc1dBc3VYMlQ4WnJtc3pCRG53aHVZdmFMTUgyLU5XbWQwUXBDanV4ai04S2NJM0k0R3c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyUzNDcEtzVE0xakRtLUVsSW1uN2U4SHlLRGFQNWhxbnBYb0xJc1dBc3VYMlQ4WnJtc3pCRG53aHVZdmFMTUgyLU5XbWQwUXBDanV4ai04S2NJM0k0R3c?oc=5\" target=\"_blank\">Франция и Британия непрозрачно наращивают ядерный арсенал, заявил посол</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 23 Sep 2026 21:26:00 GMT"
+      "pub": "Wed, 23 Sep 2026 09:44:58 GMT"
     }
   ]
 }
