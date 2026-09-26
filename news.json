@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T06:40:50.980135+00:00",
+  "updated": "2026-09-26T07:04:59.749348+00:00",
   "count": 40,
   "news": [
     {
@@ -45,11 +45,53 @@
       "pub": "Sun, 20 Sep 2026 14:37:28 GMT"
     },
     {
-      "title": "Силы ПВО уничтожили 45 дронов над Калужской областью за ночь - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCeWdGX1N5RkNCVnRDcEJ2Q1dRTTVBTGQ1V1Qwa2g0UEVBZnZMeGRJWVFUVEY2d3ZTOE9WNDBCeXBJbXROdTkzcWVSNTFhT09WVWwtUUlhQ0pDVUE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCeWdGX1N5RkNCVnRDcEJ2Q1dRTTVBTGQ1V1Qwa2g0UEVBZnZMeGRJWVFUVEY2d3ZTOE9WNDBCeXBJbXROdTkzcWVSNTFhT09WVWwtUUlhQ0pDVUE?oc=5\" target=\"_blank\">Силы ПВО уничтожили 45 дронов над Калужской областью за ночь</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 05:47:00 GMT"
+      "title": "События недели: Выборы рекордной явки, мечты об ипотеке, автомобиле и вузе, в Ленобласти готовятся растить баранов - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnLVN4N00tYjFJUDBIaEJLb0hNWkowOGxYM3BhUmk5X0hiamVtU2JjZl82SjBPR0FpSlFHOG1JaUNxZGN6R3UtRDBZaDQ2ZHRMWWxNSWhiUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnLVN4N00tYjFJUDBIaEJLb0hNWkowOGxYM3BhUmk5X0hiamVtU2JjZl82SjBPR0FpSlFHOG1JaUNxZGN6R3UtRDBZaDQ2ZHRMWWxNSWhiUQ?oc=5\" target=\"_blank\">События недели: Выборы рекордной явки, мечты об ипотеке, автомобиле и вузе, в Ленобласти готовятся растить баранов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 07:01:00 GMT"
+    },
+    {
+      "title": "Собянин сообщил об атаках дронов на Москву - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2cHZRdXoyMkxqOHpmYVdNOWlCZVFHdlk5a190dVhEUDhRa08xY0VnWVJnWVVGcFVsVWkwYXQxX2xPUUJrWGlpaDBnbFNZSUtlSUZSdXVrUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2cHZRdXoyMkxqOHpmYVdNOWlCZVFHdlk5a190dVhEUDhRa08xY0VnWVJnWVVGcFVsVWkwYXQxX2xPUUJrWGlpaDBnbFNZSUtlSUZSdXVrUQ?oc=5\" target=\"_blank\">Собянин сообщил об атаках дронов на Москву</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 06:43:49 GMT"
+    },
+    {
+      "title": "РБК ТВ Юг: портфель материально-технической базы СКФУ превысил ₽2 млрд — РБК - rostov.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbU9hWlV4V29aUDM2WFZTOGp6V1M0aDB0dnU2d1BzMWxHd3N3ei1oZ0xDOG8wNndUUXNjRjVheG1ZNVZGcXcwYWR3djZqM2dVQTFfREt5c1lqU0tvTGNlSml2MTB2Wk0zc3hNWFhnWk1PcFU3ZEJITWlMV2lWTzEtOTRvTHg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbU9hWlV4V29aUDM2WFZTOGp6V1M0aDB0dnU2d1BzMWxHd3N3ei1oZ0xDOG8wNndUUXNjRjVheG1ZNVZGcXcwYWR3djZqM2dVQTFfREt5c1lqU0tvTGNlSml2MTB2Wk0zc3hNWFhnWk1PcFU3ZEJITWlMV2lWTzEtOTRvTHg?oc=5\" target=\"_blank\">РБК ТВ Юг: портфель материально-технической базы СКФУ превысил ₽2 млрд — РБК</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rostov.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 26 Sep 2026 06:40:50 GMT"
+    },
+    {
+      "title": "Джиган опроверг информацию о стрельбе по сотрудникам в своем доме - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VVFdLamYxVE9icl9ZLXl0WHZ0b3ZNZEVpdmlHQWQ5elVlT2xWVzAxR3h2eUFZY0lwSmFIbnZDWWlxaTRFSkJBbUFmWUowZUlnQl9uVDF2bVR2WUMtcTVxVDVjNDYydw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VVFdLamYxVE9icl9ZLXl0WHZ0b3ZNZEVpdmlHQWQ5elVlT2xWVzAxR3h2eUFZY0lwSmFIbnZDWWlxaTRFSkJBbUFmWUowZUlnQl9uVDF2bVR2WUMtcTVxVDVjNDYydw?oc=5\" target=\"_blank\">Джиган опроверг информацию о стрельбе по сотрудникам в своем доме</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 26 Sep 2026 06:38:27 GMT"
+    },
+    {
+      "title": "Владимир Цой объявил об уходе с поста вице-губернатора Ленобласти - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSlRMOVJhR3VBLWVQOG42Z01LQWhZWlhTdEw0aE9nNTA5d1FuLVpxdzBib1BYUG5LbF9XQjlpZmZYTmM2X243N1pjbXoyWHNPdDExTFdrb2VBMGt0Tk15bno4VQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSlRMOVJhR3VBLWVQOG42Z01LQWhZWlhTdEw0aE9nNTA5d1FuLVpxdzBib1BYUG5LbF9XQjlpZmZYTmM2X243N1pjbXoyWHNPdDExTFdrb2VBMGt0Tk15bno4VQ?oc=5\" target=\"_blank\">Владимир Цой объявил об уходе с поста вице-губернатора Ленобласти</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 06:28:41 GMT"
+    },
+    {
+      "title": "Владислав Резник и Сергей Ковалев будут представлять Адыгею в Госдуме — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc0VwZzYtTzNta3NPMHhRTzFTejdJU2xyWHFnRWQ1aUpxNWtwQXJPZlhUcTFUUEY3TnJJUG85T3B5UkJkbTZnUnhtcndmRGx5b2pNVEFyMm85UWtDVlM1RV9TbmZCc1lSNjNHZTQydzZpQzZLYTFCalQ5RE5oalFYaXNub1d4dV8yTUtsMExJR1pYblczT0RiSU84WENxNGxOMGxXYjZjRlBaZmJrX2pvYnNxOFVPRkpaTWdGUnVmZkxXU1QtYnoyc0xCckxyUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQc0VwZzYtTzNta3NPMHhRTzFTejdJU2xyWHFnRWQ1aUpxNWtwQXJPZlhUcTFUUEY3TnJJUG85T3B5UkJkbTZnUnhtcndmRGx5b2pNVEFyMm85UWtDVlM1RV9TbmZCc1lSNjNHZTQydzZpQzZLYTFCalQ5RE5oalFYaXNub1d4dV8yTUtsMExJR1pYblczT0RiSU84WENxNGxOMGxXYjZjRlBaZmJrX2pvYnNxOFVPRkpaTWdGUnVmZkxXU1QtYnoyc0xCckxyUQ?oc=5\" target=\"_blank\">Владислав Резник и Сергей Ковалев будут представлять Адыгею в Госдуме — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 26 Sep 2026 06:23:52 GMT"
+    },
+    {
+      "title": "Мельниченко предложил баланс между автономностью и открытостью страны - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZlhtWWJaTVpLQ296R3VmNkZ3emFPY05kRmJOcWJGdERxMUlxclljWm5OX2pnaUJwcDRzbVluUkVlRlB5TjV0VV9lbDVEZXRKUFd0N09ON1BRQUR1Mnl3QllydGluSGpsYlNoak5JbEE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZlhtWWJaTVpLQ296R3VmNkZ3emFPY05kRmJOcWJGdERxMUlxclljWm5OX2pnaUJwcDRzbVluUkVlRlB5TjV0VV9lbDVEZXRKUFd0N09ON1BRQUR1Mnl3QllydGluSGpsYlNoak5JbEE?oc=5\" target=\"_blank\">Мельниченко предложил баланс между автономностью и открытостью страны</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 26 Sep 2026 05:55:35 GMT"
     },
     {
       "title": "Спорт: Выпуск за 26 сентября 2026. Смотреть онлайн - tv.rbc.ru",
@@ -64,6 +106,20 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVozRWY1a0YwSjJsYVpLbDBWVHB2bGxnSzZSRGx4aWMxNzVPWVNGN0UxSnNsN01LbG9aTHpLQUpqYXVmeFV0SmFqeTJwd2ZyWV9iQldib0hvYVh3eHc3bWQzVnFyeGc1b1VDdUk5LWllU3k4OWlDVXJYbW5COVkxbjdR?oc=5\" target=\"_blank\">На Дону пять человек получили ранения после ночной атаки БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rostov.rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 26 Sep 2026 05:27:56 GMT"
+    },
+    {
+      "title": "Силы ПВО ВС России сбили 645 украинских БПЛА над страной за ночь - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HM3dlM3dYUThvbDIwM2FuNGY0NElWclcydWNkV2tjeFQyVFJIeU5fTFM3ZUVqREs0MjZ3Uk9CbF9XVVBmLUpkVjlZX1d6T05wRXg0bmNnVy1HTV9GSzVsV3RTaDdGODFfSTUw0gFwQVVfeXFMTUtxOXJNRlVXOG1zSjlHcXZyaG14cDFUREp3TVdXX1ZDRnA0ZURfeEJTUEJBQV9lVUVtT1FJOWlSMG45Y3FhQUhFQm9LZEllTkZQckdjRF8ybnVIblQ4N2R4UzJFcXpKbjlqMVRxSWpVWg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1HM3dlM3dYUThvbDIwM2FuNGY0NElWclcydWNkV2tjeFQyVFJIeU5fTFM3ZUVqREs0MjZ3Uk9CbF9XVVBmLUpkVjlZX1d6T05wRXg0bmNnVy1HTV9GSzVsV3RTaDdGODFfSTUw0gFwQVVfeXFMTUtxOXJNRlVXOG1zSjlHcXZyaG14cDFUREp3TVdXX1ZDRnA0ZURfeEJTUEJBQV9lVUVtT1FJOWlSMG45Y3FhQUhFQm9LZEllTkZQckdjRF8ybnVIblQ4N2R4UzJFcXpKbjlqMVRxSWpVWg?oc=5\" target=\"_blank\">Силы ПВО ВС России сбили 645 украинских БПЛА над страной за ночь</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 26 Sep 2026 05:22:53 GMT"
+    },
+    {
+      "title": "Первый снег мог отсчитать зиму: погодные приметы на Корнильев день - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mZXJkRmV1bFlCQV9Lal80MHNJeHFCQlFhTkpoZHJHd216Qzd1LTFiUTF3ZE1hZGFCMzNhcWVuNHNSbTNybGRlQnl6aHZnV2xZYkJwVkUwZ1gwMG11SXBPUmJNTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mZXJkRmV1bFlCQV9Lal80MHNJeHFCQlFhTkpoZHJHd216Qzd1LTFiUTF3ZE1hZGFCMzNhcWVuNHNSbTNybGRlQnl6aHZnV2xZYkJwVkUwZ1gwMG11SXBPUmJNTQ?oc=5\" target=\"_blank\">Первый снег мог отсчитать зиму: погодные приметы на Корнильев день</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 05:16:14 GMT"
     },
     {
       "title": "На подлете к Москве сбили 11 беспилотников - rbc.ru",
@@ -94,18 +150,25 @@
       "pub": "Sat, 26 Sep 2026 05:11:29 GMT"
     },
     {
-      "title": "ВС России поразили в Киеве центр, обеспечивавший поддержку Starlink для ВСУ - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VQ2lreHR4YkM2OGJqRWJ3Y1RBN2lXRFROVmdLeU55V3d6ZjlISi1UY0xuVURFZGRWZVB0elF6R3FPSW1fWEhRSThQWmFRdlZpQ2EyRVRLQXZHWGduUFRKVXJ1VVhlbkNjU296d0U0OW9nNEdkV3BUY0lHbEJNOGfSAX9BVV95cUxPVUNpa3h0eGJDNjhiakVid2NUQTdpV0RUTlZnS3lOeVd3emY5SEotVGNMblVERWRkVmVQdHpRekdxT0ltX1hIUUk4UFphUXZWaUNhMkVUS0F2R1hnblBUSlVydVVYZW5DY1NvendFNDlvZzRHZFdwVGNJR2xCTThn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9VQ2lreHR4YkM2OGJqRWJ3Y1RBN2lXRFROVmdLeU55V3d6ZjlISi1UY0xuVURFZGRWZVB0elF6R3FPSW1fWEhRSThQWmFRdlZpQ2EyRVRLQXZHWGduUFRKVXJ1VVhlbkNjU296d0U0OW9nNEdkV3BUY0lHbEJNOGfSAX9BVV95cUxPVUNpa3h0eGJDNjhiakVid2NUQTdpV0RUTlZnS3lOeVd3emY5SEotVGNMblVERWRkVmVQdHpRekdxT0ltX1hIUUk4UFphUXZWaUNhMkVUS0F2R1hnblBUSlVydVVYZW5DY1NvendFNDlvZzRHZFdwVGNJR2xCTThn?oc=5\" target=\"_blank\">ВС России поразили в Киеве центр, обеспечивавший поддержку Starlink для ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "title": "ВС России поразили сухогруз, который перевозил груз для ВСУ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNR25fZlJKVl9oRnhOZHdZNm1PSkZhdUw2cWgzdmtQN0poSE5yMk1JV2U3RDg5YnFVVmlEeGFYQWdjcnVjRXpya3JkaG42Z1V3VURrNkdsNmEzVlJDb0pLTDBRZzlFVVVpVWMyRFFnb9IBdEFVX3lxTE9SVWVsRlBSOWhSMngtcjdMc2tHckNpaW9rTXpSSU1GX0xZSEx2cHIzeWtUZ2dkaVZ4MnJBRHhuc1BNMW1OMTRxNWpsYjVPbTVIRlNWVWRWUC1ER0NFQ00waEltb3YyUVltLV9veC1ncVQ4OS0y?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBNR25fZlJKVl9oRnhOZHdZNm1PSkZhdUw2cWgzdmtQN0poSE5yMk1JV2U3RDg5YnFVVmlEeGFYQWdjcnVjRXpya3JkaG42Z1V3VURrNkdsNmEzVlJDb0pLTDBRZzlFVVVpVWMyRFFnb9IBdEFVX3lxTE9SVWVsRlBSOWhSMngtcjdMc2tHckNpaW9rTXpSSU1GX0xZSEx2cHIzeWtUZ2dkaVZ4MnJBRHhuc1BNMW1OMTRxNWpsYjVPbTVIRlNWVWRWUC1ER0NFQ00waEltb3YyUVltLV9veC1ncVQ4OS0y?oc=5\" target=\"_blank\">ВС России поразили сухогруз, который перевозил груз для ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
-      "pub": "Sat, 26 Sep 2026 05:09:10 GMT"
+      "pub": "Sat, 26 Sep 2026 05:11:22 GMT"
+    },
+    {
+      "title": "ВС России ударили по логистическому центру «Новой почты» в Одесской области — РТ на русском - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zY1RTUzc3eGhnQ3JJMzkzRXAySWU2ckdid2wtS09SdDJQTUdHdEpmcm4xQ1MzWjBnNFg3VmhZTTFfY19iLXNrUDN6b185WDByeXEzM3pJMFhkYkR3QllWb3k3T3JPaFhvQ095NUthLVNzcERHZm9WZ0pKbHNzRjA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8zY1RTUzc3eGhnQ3JJMzkzRXAySWU2ckdid2wtS09SdDJQTUdHdEpmcm4xQ1MzWjBnNFg3VmhZTTFfY19iLXNrUDN6b185WDByeXEzM3pJMFhkYkR3QllWb3k3T3JPaFhvQ095NUthLVNzcERHZm9WZ0pKbHNzRjA?oc=5\" target=\"_blank\">ВС России ударили по логистическому центру «Новой почты» в Одесской области — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 26 Sep 2026 05:09:33 GMT"
     },
     {
       "title": "ВС России поразили в Одесской области автомобильный мост, используемый ВСУ - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUw1RUViREo3LUZFVm9SM0VpSXQ5b000dERqajhodl84VXowVExCRmNiYWtadWIzZXllY2lzaWxqOXctWkw2TURSUDZoZzVsS01KUWVMQXVPUFc2U2RaQjdBeHlndnpHZGZOUHQtM2tFZXhLWGNrR0MwVk1iZVJqVdIBhgFBVV95cUxPQ3RvTGVLWngzSFFYZVFYVFNOQWZ0enZqZVByOFlNT21SM1BuRnFkeEY3d2tiekF3d0xzejZiaHJsOHVqMS1KbFFqYnk3MmtCaUE1dzBsSkpRSy1WR0hJRnNDOVpsV1V5aDZFbWpXMGdwWThfRVYxRnNOYzVZR0g3Y3B3T3oyQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUw1RUViREo3LUZFVm9SM0VpSXQ5b000dERqajhodl84VXowVExCRmNiYWtadWIzZXllY2lzaWxqOXctWkw2TURSUDZoZzVsS01KUWVMQXVPUFc2U2RaQjdBeHlndnpHZGZOUHQtM2tFZXhLWGNrR0MwVk1iZVJqVdIBhgFBVV95cUxPQ3RvTGVLWngzSFFYZVFYVFNOQWZ0enZqZVByOFlNT21SM1BuRnFkeEY3d2tiekF3d0xzejZiaHJsOHVqMS1KbFFqYnk3MmtCaUE1dzBsSkpRSy1WR0hJRnNDOVpsV1V5aDZFbWpXMGdwWThfRVYxRnNOYzVZR0g3Y3B3T3oyQQ?oc=5\" target=\"_blank\">ВС России поразили в Одесской области автомобильный мост, используемый ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3RvTGVLWngzSFFYZVFYVFNOQWZ0enZqZVByOFlNT21SM1BuRnFkeEY3d2tiekF3d0xzejZiaHJsOHVqMS1KbFFqYnk3MmtCaUE1dzBsSkpRSy1WR0hJRnNDOVpsV1V5aDZFbWpXMGdwWThfRVYxRnNOYzVZR0g3Y3B3T3oyQdIBhgFBVV95cUxPQ3RvTGVLWngzSFFYZVFYVFNOQWZ0enZqZVByOFlNT21SM1BuRnFkeEY3d2tiekF3d0xzejZiaHJsOHVqMS1KbFFqYnk3MmtCaUE1dzBsSkpRSy1WR0hJRnNDOVpsV1V5aDZFbWpXMGdwWThfRVYxRnNOYzVZR0g3Y3B3T3oyQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3RvTGVLWngzSFFYZVFYVFNOQWZ0enZqZVByOFlNT21SM1BuRnFkeEY3d2tiekF3d0xzejZiaHJsOHVqMS1KbFFqYnk3MmtCaUE1dzBsSkpRSy1WR0hJRnNDOVpsV1V5aDZFbWpXMGdwWThfRVYxRnNOYzVZR0g3Y3B3T3oyQdIBhgFBVV95cUxPQ3RvTGVLWngzSFFYZVFYVFNOQWZ0enZqZVByOFlNT21SM1BuRnFkeEY3d2tiekF3d0xzejZiaHJsOHVqMS1KbFFqYnk3MmtCaUE1dzBsSkpRSy1WR0hJRnNDOVpsV1V5aDZFbWpXMGdwWThfRVYxRnNOYzVZR0g3Y3B3T3oyQQ?oc=5\" target=\"_blank\">ВС России поразили в Одесской области автомобильный мост, используемый ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
-      "pub": "Sat, 26 Sep 2026 05:07:36 GMT"
+      "pub": "Sat, 26 Sep 2026 05:09:10 GMT"
     },
     {
       "title": "ВС России поразили центр обработки данных «Космонова» в Киеве - russian.rt.com",
@@ -115,16 +178,16 @@
       "pub": "Sat, 26 Sep 2026 05:03:35 GMT"
     },
     {
+      "title": "ВС России поразили в Киеве центр, обеспечивавший поддержку Starlink для ВСУ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91TmdGMkxRX1dmZk9DVEZaNnhhLXpJU19rSjRXQ01feDE1T3JHeDhEX1JHLVB2Ylp0UWZ0Tl9ySFE2dE82YkxiSF9rTE9sR185UnFQODdHOUx2cVVHazBVQk9rX1hvWFZSRHMyMDd4MWxmYzdqR2FScVNR0gF_QVVfeXFMT1VDaWt4dHhiQzY4YmpFYndjVEE3aVdEVE5WZ0t5TnlXd3pmOUhKLVRjTG5VREVkZFZlUHR6UXpHcU9JbV9YSFFJOFBaYVF2VmlDYTJFVEtBdkdYZ25QVEpVcnVVWGVuQ2NTb3p3RTQ5b2c0R2RXcFRjSUdsQk04Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE91TmdGMkxRX1dmZk9DVEZaNnhhLXpJU19rSjRXQ01feDE1T3JHeDhEX1JHLVB2Ylp0UWZ0Tl9ySFE2dE82YkxiSF9rTE9sR185UnFQODdHOUx2cVVHazBVQk9rX1hvWFZSRHMyMDd4MWxmYzdqR2FScVNR0gF_QVVfeXFMT1VDaWt4dHhiQzY4YmpFYndjVEE3aVdEVE5WZ0t5TnlXd3pmOUhKLVRjTG5VREVkZFZlUHR6UXpHcU9JbV9YSFFJOFBaYVF2VmlDYTJFVEtBdkdYZ25QVEpVcnVVWGVuQ2NTb3p3RTQ5b2c0R2RXcFRjSUdsQk04Zw?oc=5\" target=\"_blank\">ВС России поразили в Киеве центр, обеспечивавший поддержку Starlink для ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 26 Sep 2026 05:01:45 GMT"
+    },
+    {
       "title": "Над Кубанью, Доном, Ставропольем и другими регионами РФ сбили 645 БПЛА - kavkaz.rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEZDNTJrRVVsVml2MEI3clpCQnZPVm9LREo2UjViZy1fNlRyX3ZoWkJMS0dueHIxX2VjR1NBaTlHN21CWDk3N1hldGdxRHBzaUxNMnRfQmtpUDFwbjNoQzZhSFhCLUc1VElWa0NsQi1IU0NuNHRJMGxfMXVhNkR1Wjd3?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEZDNTJrRVVsVml2MEI3clpCQnZPVm9LREo2UjViZy1fNlRyX3ZoWkJMS0dueHIxX2VjR1NBaTlHN21CWDk3N1hldGdxRHBzaUxNMnRfQmtpUDFwbjNoQzZhSFhCLUc1VElWa0NsQi1IU0NuNHRJMGxfMXVhNkR1Wjd3?oc=5\" target=\"_blank\">Над Кубанью, Доном, Ставропольем и другими регионами РФ сбили 645 БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kavkaz.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 05:00:00 GMT"
-    },
-    {
-      "title": "РБК ТВ Юг: портфель материально-технической базы СКФУ превысил ₽2 млрд — РБК - kavkaz.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXRXeVQxYWl4b2pzYklaSkNzcWFTeVh3U3ZpdVdscTIyXzN6a2tYR19fdTJGMjdzNGZXNXhrYUFJQ2xtZTJ6d0FDRlZMR0w4Y3ZqN21oQTZSZ0U3UTZNNmx2eEI4emZTVXdQM3ZHbXpxd3JtemNRRlMzOTk5amotaUxn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXRXeVQxYWl4b2pzYklaSkNzcWFTeVh3U3ZpdVdscTIyXzN6a2tYR19fdTJGMjdzNGZXNXhrYUFJQ2xtZTJ6d0FDRlZMR0w4Y3ZqN21oQTZSZ0U3UTZNNmx2eEI4emZTVXdQM3ZHbXpxd3JtemNRRlMzOTk5amotaUxn?oc=5\" target=\"_blank\">РБК ТВ Юг: портфель материально-технической базы СКФУ превысил ₽2 млрд — РБК</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kavkaz.rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 26 Sep 2026 05:00:00 GMT"
     },
@@ -134,6 +197,20 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0ZRSDE3R203OXRnWWVFMlFfcjV3WXRTTWRoM0dPLUxjZnA1UW8yU0I3YXhTN09VeHV5UmRTLTM1cHR2TjlRZmJxa2gzNVk3MjBKcXpzN2U0NTJuMDhzRGFKcS1ySFhYUk1TbHFVMDZpcHlJbzlTVktSWG43R19xT9IBhgFBVV95cUxPRG1Wencxak91UUNTUmlOakVXWFY3XzhNbmtiQlp6c2xuLXhrQzhkeFZZa25xTXI3TE5TSC1Fa0F0OEVPX3lRd3Nhd2pkNEF1Y2U1ME40M09GMVY1YmtHczlMTFczTlV5ak9EUFV2UFZOeXRMb2N5d0hwTHZoLVlWNGU3Ry1QQQ?oc=5\" target=\"_blank\">СВ: ВС России продолжают продвижение вглубь окружённой группировки ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sat, 26 Sep 2026 04:59:13 GMT"
+    },
+    {
+      "title": "В Крыму в субботу действуют ограничения электроснабжения - crimea.ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzRWVkVaTWp4dTgtaUFESy1sNE41eFNrZWNuN2RTcmZOM2hpZTNMYUdjcEI1ZlkzMUlDYUZUcDlEeFNHUnpTQ3JESzB3X3dNN3R3QjFZbVZkdXRGYnJ1WUR3ek5FNWtWbUNxLW9uTXhKYmxnNlU4cElpa2Y3ZVVCQ2ZNc0o4MlQ1d0JuMnc1bDVCSkUzZnFHTzdIdlN4enBMWmRQLXFfMEJFRFFQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzRWVkVaTWp4dTgtaUFESy1sNE41eFNrZWNuN2RTcmZOM2hpZTNMYUdjcEI1ZlkzMUlDYUZUcDlEeFNHUnpTQ3JESzB3X3dNN3R3QjFZbVZkdXRGYnJ1WUR3ek5FNWtWbUNxLW9uTXhKYmxnNlU4cElpa2Y3ZVVCQ2ZNc0o4MlQ1d0JuMnc1bDVCSkUzZnFHTzdIdlN4enBMWmRQLXFfMEJFRFFQ?oc=5\" target=\"_blank\">В Крыму в субботу действуют ограничения электроснабжения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crimea.ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 26 Sep 2026 04:58:00 GMT"
+    },
+    {
+      "title": "В Башкирии сменится глава регионального Минстроя - ufa.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HeXQxSkVFS2pISEEyOFNoTDVCYm9lUF9uWDlQRXlrWWlweEF1c2RwVmVkS010S1llbjRFajFJRGxuT1VqelJieWdZNWpRLUdFNjZrQnJMdGFvcXBobDRqUjRpZDFDWUVPdHc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9HeXQxSkVFS2pISEEyOFNoTDVCYm9lUF9uWDlQRXlrWWlweEF1c2RwVmVkS010S1llbjRFajFJRGxuT1VqelJieWdZNWpRLUdFNjZrQnJMdGFvcXBobDRqUjRpZDFDWUVPdHc?oc=5\" target=\"_blank\">В Башкирии сменится глава регионального Минстроя</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ufa.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 26 Sep 2026 04:51:25 GMT"
     },
     {
       "title": "Назван срок завершения строительства лыжной базы в Первомайском районе - nsk.rbc.ru",
@@ -155,6 +232,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWGd3WGVCalhYREg3dTJseTdvazcxNUpEcHhrb3Jyek1ZVk5PQjRuTDFkbWtnLTY5Y2hGUHljQlNEZ3I2QllqRGJMd1g3TS1NRDNWZXd2SzIxc1BaS3hFVGFnb3MwQQ?oc=5\" target=\"_blank\">Папа Лев XIV предупредил о превращении ООН в «фарс»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 26 Sep 2026 04:27:15 GMT"
+    },
+    {
+      "title": "Марочко: ВСУ не могут восполнять потери в Дружковке из-за натиска армии России - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lZlVpb21NVVJqMTBUOUFsMHh5OGpadm1qU1dzOXo1NGIxY3d6bURlYjZMT0lOS2d5enBuT1lPanpPamh2QW5VSjd2ZVVFaEpZejk4X0UyOHlDcU5jbndGZzZLUkZlazlXZVY4TTFZaXhQYnlQSzlnZ1JRNNIBgAFBVV95cUxPZVI1SWMxOEVuQmtUd1pDb0hMYjQ1Z0RDN0dtM1l5NWx6UGhncWZQUjNobU12THRvdGppZVBqVi11UjAtM2daU2thOTc5amNOMTVvN25mXzMzZ1AyLUgxUFQ3ZUstU0FiUVlSWHVaa0g4Sk9xV25veHp4NVppellEbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5lZlVpb21NVVJqMTBUOUFsMHh5OGpadm1qU1dzOXo1NGIxY3d6bURlYjZMT0lOS2d5enBuT1lPanpPamh2QW5VSjd2ZVVFaEpZejk4X0UyOHlDcU5jbndGZzZLUkZlazlXZVY4TTFZaXhQYnlQSzlnZ1JRNNIBgAFBVV95cUxPZVI1SWMxOEVuQmtUd1pDb0hMYjQ1Z0RDN0dtM1l5NWx6UGhncWZQUjNobU12THRvdGppZVBqVi11UjAtM2daU2thOTc5amNOMTVvN25mXzMzZ1AyLUgxUFQ3ZUstU0FiUVlSWHVaa0g4Sk9xV25veHp4NVppellEbw?oc=5\" target=\"_blank\">Марочко: ВСУ не могут восполнять потери в Дружковке из-за натиска армии России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 26 Sep 2026 04:16:12 GMT"
     },
     {
       "title": "В ЕС рассказали о бурной реакции Каллас на приглашение Путина - ria.ru",
@@ -185,11 +269,11 @@
       "pub": "Sat, 26 Sep 2026 02:33:51 GMT"
     },
     {
-      "title": "Бойцы \"Центра\" уничтожили более 35 боевиков ВСУ в Доброполье - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52N0h2UHhSSG4zcWVwUFJuWVZUSUJsZFIxNVRmWmNaYm5YSVBETTA2Mk5yZXdENVo4bTU3ZXhwbGswT1RzSlYwQVRlXzU4SEtvR1ExbkRfY0laN09BMnpjTA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52N0h2UHhSSG4zcWVwUFJuWVZUSUJsZFIxNVRmWmNaYm5YSVBETTA2Mk5yZXdENVo4bTU3ZXhwbGswT1RzSlYwQVRlXzU4SEtvR1ExbkRfY0laN09BMnpjTA?oc=5\" target=\"_blank\">Бойцы \"Центра\" уничтожили более 35 боевиков ВСУ в Доброполье</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "title": "Грузия в августе нарастила импорт российского сыра на 43% - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ET2JsbTAzZ2FJX1dFLXROQkF2WmdBZ2lBQ01BZUl5Z29OSGJ0cVZqamJPb1dtb1pLanJoejNfY1ZBRjFQUERMN0R6NkNaYTJxZkdZTTFMZEQyTDA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ET2JsbTAzZ2FJX1dFLXROQkF2WmdBZ2lBQ01BZUl5Z29OSGJ0cVZqamJPb1dtb1pLanJoejNfY1ZBRjFQUERMN0R6NkNaYTJxZkdZTTFMZEQyTDA?oc=5\" target=\"_blank\">Грузия в августе нарастила импорт российского сыра на 43%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 02:04:00 GMT"
+      "pub": "Sat, 26 Sep 2026 02:32:00 GMT"
     },
     {
       "title": "Мирошник: Киев не смог поставить под сомнение итоги выборов в России - russian.rt.com",
@@ -197,90 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4tREkwczZxX0UyRTRLYUljWEJzYWd4ZDhDUGxIQVpFUXQwYWVKVHRlV1N4R09pemhDTXRFdW4xdWhxTDlwWWpxdjV2UEY4NTNSbnN4QjNMMmdkTXBKSEY0eFJxQXBfWUZXcEY1RENTdjI3dzFPZXY3LdIBfkFVX3lxTE85VnJZQ1I5cDdSQzJmb2pQb3RxQnV5el9TbXJOOTRrdUd6Z05EZFpVd0NzZHJUd2hBUXFnX25XU3hxYmlRdmpFaFBfd2JNcHZvQ2NQWXczVHBjR2JSbmVHXzMtMEYtcG52T194aERldHh3bG9FXzdlWnVJMG1PQQ?oc=5\" target=\"_blank\">Мирошник: Киев не смог поставить под сомнение итоги выборов в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sat, 26 Sep 2026 02:01:05 GMT"
-    },
-    {
-      "title": "В ОП рассказали об индексации военных пенсий с 1 октября - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0a0ZtVWQ4ZkhpMHVBeUVUV0FQZ1Rfd1o2MTN5U3NoUWNKNXR5S3VnOW01TkNucklyV3dxM3ZYSi05WV9Xa3k3Mk9ScThFdW41a054U3Z2Nm5VZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0a0ZtVWQ4ZkhpMHVBeUVUV0FQZ1Rfd1o2MTN5U3NoUWNKNXR5S3VnOW01TkNucklyV3dxM3ZYSi05WV9Xa3k3Mk9ScThFdW41a054U3Z2Nm5VZw?oc=5\" target=\"_blank\">В ОП рассказали об индексации военных пенсий с 1 октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 01:28:00 GMT"
-    },
-    {
-      "title": "В Ленобласти проверят готовность системы оповещения о ЧС - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CcHo5WWNZOUllTTRtc3lqYzlCSTBsRTBKZm50ZkVCWktlX2hiUVdHNmFfTUFTck44bVZtZDVucTNpWHlkSTVpRnR6aXZGRG8tZWlGQ1JWU2kwbWo4MmpHbllwRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CcHo5WWNZOUllTTRtc3lqYzlCSTBsRTBKZm50ZkVCWktlX2hiUVdHNmFfTUFTck44bVZtZDVucTNpWHlkSTVpRnR6aXZGRG8tZWlGQ1JWU2kwbWo4MmpHbllwRQ?oc=5\" target=\"_blank\">В Ленобласти проверят готовность системы оповещения о ЧС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 26 Sep 2026 01:26:34 GMT"
-    },
-    {
-      "title": "Песков: Россия отдельно не информировала США об атаках ВСУ в дни выборов - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1cEJLTGJtdzB6SmVLMVpBSFQ0Q3owY0s0WXpZQUQ0TWY0VTJjSmNfVVoyXzZ0dHVGT1pvcmVwc0ZpRldCZXlnTHowYVZRSW9UMzFDS01hbkIyeU42bTJOUlM5ZDQwNXVaTEZiMtIBckFVX3lxTFBnUVgwNGp1a1VXNmxNSk1rTUd1d2tPdVRHMnJrRnFFMW9aNzBodHhUYmtJSjlyUU82TDFqYXpMRjZ5a3c0eTI0ZnVFRVZOeG5XQzRJaHZ3UXNUTW5oSDZ3Z0pzcUFLLVQ1SGt2NS15bUtxdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA1cEJLTGJtdzB6SmVLMVpBSFQ0Q3owY0s0WXpZQUQ0TWY0VTJjSmNfVVoyXzZ0dHVGT1pvcmVwc0ZpRldCZXlnTHowYVZRSW9UMzFDS01hbkIyeU42bTJOUlM5ZDQwNXVaTEZiMtIBckFVX3lxTFBnUVgwNGp1a1VXNmxNSk1rTUd1d2tPdVRHMnJrRnFFMW9aNzBodHhUYmtJSjlyUU82TDFqYXpMRjZ5a3c0eTI0ZnVFRVZOeG5XQzRJaHZ3UXNUTW5oSDZ3Z0pzcUFLLVQ1SGt2NS15bUtxdw?oc=5\" target=\"_blank\">Песков: Россия отдельно не информировала США об атаках ВСУ в дни выборов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 01:25:00 GMT"
-    },
-    {
-      "title": "Член ОП Гриб предложил установить федеральную выплату за долголетие - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3NKN3U4WG5FSUd2VDJlQTJaQTBOdFVmOTFqTFp1WHJiV3lFeWpuTFgxaWZBalBkeTEwVWNIOUk5RWNnTWkzd3hYU1Zid2w1M0dDT2dlUkF6OC16RHRxcXZfeUVxWEhmak51aExfd25QejI2alZzalI3RXdxQmtrYkJHNHhTOFXSAYwBQVVfeXFMT3BKbkRndkVqdzgwT2NHVXBxVmNwckJTOHpHem1JTlIxMDlvTjFjRFhrckstZERFZzdGRE5EWXdqbmZHaGUxNDBIcEU4SGZzRG1aY3lFd3RLUFFxNVIwNDZ1bEN2dnNqdGVtWHo3VmVxRm5pdDVGdFExZ3VmcS1xQTM4Y1pKUzNPdDBDVFU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3NKN3U4WG5FSUd2VDJlQTJaQTBOdFVmOTFqTFp1WHJiV3lFeWpuTFgxaWZBalBkeTEwVWNIOUk5RWNnTWkzd3hYU1Zid2w1M0dDT2dlUkF6OC16RHRxcXZfeUVxWEhmak51aExfd25QejI2alZzalI3RXdxQmtrYkJHNHhTOFXSAYwBQVVfeXFMT3BKbkRndkVqdzgwT2NHVXBxVmNwckJTOHpHem1JTlIxMDlvTjFjRFhrckstZERFZzdGRE5EWXdqbmZHaGUxNDBIcEU4SGZzRG1aY3lFd3RLUFFxNVIwNDZ1bEN2dnNqdGVtWHo3VmVxRm5pdDVGdFExZ3VmcS1xQTM4Y1pKUzNPdDBDVFU?oc=5\" target=\"_blank\">Член ОП Гриб предложил установить федеральную выплату за долголетие</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 00:55:59 GMT"
-    },
-    {
-      "title": "В Минпросвещения рассказали, как школьники смогут использовать ИИ - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uSVlES2MyLUtRTnJ0STFtb0FRVGdVNjA4ZER1eE9aT3ZvbTloZ3FodFdjOEJzOHBVZTlmT2YwekRTMVFMXzZtNU1TMTNHRGRPQjFxYXpvSmRzUVlVU0R5WVRoTUdyT2c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uSVlES2MyLUtRTnJ0STFtb0FRVGdVNjA4ZER1eE9aT3ZvbTloZ3FodFdjOEJzOHBVZTlmT2YwekRTMVFMXzZtNU1TMTNHRGRPQjFxYXpvSmRzUVlVU0R5WVRoTUdyT2c?oc=5\" target=\"_blank\">В Минпросвещения рассказали, как школьники смогут использовать ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 00:48:00 GMT"
-    },
-    {
-      "title": "Дроны атаковали Кубань. Есть погибшие - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xeXBvSldCb2I1NzN5Nnl5elFnMjN6eUY4Z2dWTDZxQXNpMTNYVFlSY08tTE16U09zb2E2WUIwdTRrYmtJb1pTM2VGTnAyYS1IWDBLZ2h4MA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xeXBvSldCb2I1NzN5Nnl5elFnMjN6eUY4Z2dWTDZxQXNpMTNYVFlSY08tTE16U09zb2E2WUIwdTRrYmtJb1pTM2VGTnAyYS1IWDBLZ2h4MA?oc=5\" target=\"_blank\">Дроны атаковали Кубань. Есть погибшие</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 26 Sep 2026 00:26:00 GMT"
-    },
-    {
-      "title": "Киев пытался поставить под сомнение итоги выборов в России, заявил Мирошник - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nX0tGck5ZOWhCaEtuaWQ0bjVMN3NnWUVQUERkZnVPcXJfSE1sUEVTZlh3cExGTVpyR25xRTAwNFc3UDNJaUhpTlFoMEZSRUpFMWdNaVh2QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nX0tGck5ZOWhCaEtuaWQ0bjVMN3NnWUVQUERkZnVPcXJfSE1sUEVTZlh3cExGTVpyR25xRTAwNFc3UDNJaUhpTlFoMEZSRUpFMWdNaVh2QQ?oc=5\" target=\"_blank\">Киев пытался поставить под сомнение итоги выборов в России, заявил Мирошник</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 00:20:00 GMT"
-    },
-    {
-      "title": "Панда Катюша из Московского зоопарка может остаться жить в России - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8waGJneVJwU01FMmVZU05LUWgtZW5VdDJuZW5xT3hTWG5oR2FLSUxVSWp0SFQ0bUduYWVfVFM3cG5Rdnh2alVEcFVOcHhsTVN0R1kyWFZWN0s3bkFM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8waGJneVJwU01FMmVZU05LUWgtZW5VdDJuZW5xT3hTWG5oR2FLSUxVSWp0SFQ0bUduYWVfVFM3cG5Rdnh2alVEcFVOcHhsTVN0R1kyWFZWN0s3bkFM?oc=5\" target=\"_blank\">Панда Катюша из Московского зоопарка может остаться жить в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 00:18:00 GMT"
-    },
-    {
-      "title": "Памфилова заявила, что прошедшие выборы для неё стали самыми сложными - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfR19UQ3JqMHZ5WURkZE1hWU1NS3hiZWRZTkYtd1FHOW5EalBYaW9mU2tXNkFIS2RfenQxWmo3bnJiQWxsNDZPVHY5OHhtY1BodUViS01ucW5jcy1yNWVCMUJBM09TbF9xYXdjaVZMMFpZaWY3T3hr0gF8QVVfeXFMUHg4d3d3NjZ1eF9mdXNEQ3oxanV4RFliXzZERms1QUtBTFNNdHE0VWtqSXZhWW5xYTNHSTgyc1VBZHJzVjlVOUFsOEdQVzljekJxeDA0TUlRUW5QZU9FYlJVcVVnZVl3QVluY3JtQjRqUTRmc1g0X3Rob2xFVg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBfR19UQ3JqMHZ5WURkZE1hWU1NS3hiZWRZTkYtd1FHOW5EalBYaW9mU2tXNkFIS2RfenQxWmo3bnJiQWxsNDZPVHY5OHhtY1BodUViS01ucW5jcy1yNWVCMUJBM09TbF9xYXdjaVZMMFpZaWY3T3hr0gF8QVVfeXFMUHg4d3d3NjZ1eF9mdXNEQ3oxanV4RFliXzZERms1QUtBTFNNdHE0VWtqSXZhWW5xYTNHSTgyc1VBZHJzVjlVOUFsOEdQVzljekJxeDA0TUlRUW5QZU9FYlJVcVVnZVl3QVluY3JtQjRqUTRmc1g0X3Rob2xFVg?oc=5\" target=\"_blank\">Памфилова заявила, что прошедшие выборы для неё стали самыми сложными</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 00:16:41 GMT"
-    },
-    {
-      "title": "Марочко: ВСУ не могут восполнять потери в Дружковке из-за натиска армии России - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lZlVpb21NVVJqMTBUOUFsMHh5OGpadm1qU1dzOXo1NGIxY3d6bURlYjZMT0lOS2d5enBuT1lPanpPamh2QW5VSjd2ZVVFaEpZejk4X0UyOHlDcU5jbndGZzZLUkZlazlXZVY4TTFZaXhQYnlQSzlnZ1JRNNIBgAFBVV95cUxPZVI1SWMxOEVuQmtUd1pDb0hMYjQ1Z0RDN0dtM1l5NWx6UGhncWZQUjNobU12THRvdGppZVBqVi11UjAtM2daU2thOTc5amNOMTVvN25mXzMzZ1AyLUgxUFQ3ZUstU0FiUVlSWHVaa0g4Sk9xV25veHp4NVppellEbw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5lZlVpb21NVVJqMTBUOUFsMHh5OGpadm1qU1dzOXo1NGIxY3d6bURlYjZMT0lOS2d5enBuT1lPanpPamh2QW5VSjd2ZVVFaEpZejk4X0UyOHlDcU5jbndGZzZLUkZlazlXZVY4TTFZaXhQYnlQSzlnZ1JRNNIBgAFBVV95cUxPZVI1SWMxOEVuQmtUd1pDb0hMYjQ1Z0RDN0dtM1l5NWx6UGhncWZQUjNobU12THRvdGppZVBqVi11UjAtM2daU2thOTc5amNOMTVvN25mXzMzZ1AyLUgxUFQ3ZUstU0FiUVlSWHVaa0g4Sk9xV25veHp4NVppellEbw?oc=5\" target=\"_blank\">Марочко: ВСУ не могут восполнять потери в Дружковке из-за натиска армии России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 00:10:27 GMT"
-    },
-    {
-      "title": "Полянский: Россия будет добиваться прекращения украинизации повестки ОБСЕ - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MdWVWaXozajFLT3p6bU9maVQtcHplRzA2aXNZUVZEVTNkRmw4QVdOMnE0UWZJYlgtcW04RGtmUXhLN3BuNGxFTm96djJZRkZubllMMm1YTTRfNERtVk11ZTM0R1ZPTHlnOHg5ZzdkUWhvMk45QndxcHd1ZG9SbGvSAYQBQVVfeXFMUHBBYjIxMExYN3E4S2F5a1k3X2J4TnY0czZ0cDRFLWdWUDQ5VEw4UFlscUNiWUhJa1dVdEJXY0pmQTBld01PeFBVSnNOR2NJTkZxNk1BV2V3VEpEOVV4Sng2NEhqNHhSc3J0R2VrZ1c1aHhMTE1GQUxBaHktREkwM0NCTlRB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9MdWVWaXozajFLT3p6bU9maVQtcHplRzA2aXNZUVZEVTNkRmw4QVdOMnE0UWZJYlgtcW04RGtmUXhLN3BuNGxFTm96djJZRkZubllMMm1YTTRfNERtVk11ZTM0R1ZPTHlnOHg5ZzdkUWhvMk45QndxcHd1ZG9SbGvSAYQBQVVfeXFMUHBBYjIxMExYN3E4S2F5a1k3X2J4TnY0czZ0cDRFLWdWUDQ5VEw4UFlscUNiWUhJa1dVdEJXY0pmQTBld01PeFBVSnNOR2NJTkZxNk1BV2V3VEpEOVV4Sng2NEhqNHhSc3J0R2VrZ1c1aHhMTE1GQUxBaHktREkwM0NCTlRB?oc=5\" target=\"_blank\">Полянский: Россия будет добиваться прекращения украинизации повестки ОБСЕ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Fri, 25 Sep 2026 23:56:32 GMT"
-    },
-    {
-      "title": "Свыше миллиона квадратных метров дорог восстановили на Камчатке - prim.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc051STc1TnptaFlFbEhPTEVXU0VzM1lnTm1HR1BIWjVlTGtqaW5kSTU0cDVtcFRGUnpqRXdQWUFnM3Zvdl9XRE5kSFdlV2dCVHpqWHBrRDJ5RE5fX2Y3d2ZfdGs5ME1Ib0o0OUZ3c0c5RlppWFNTOUdaSF9IMWc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc051STc1TnptaFlFbEhPTEVXU0VzM1lnTm1HR1BIWjVlTGtqaW5kSTU0cDVtcFRGUnpqRXdQWUFnM3Zvdl9XRE5kSFdlV2dCVHpqWHBrRDJ5RE5fX2Y3d2ZfdGs5ME1Ib0o0OUZ3c0c5RlppWFNTOUdaSF9IMWc?oc=5\" target=\"_blank\">Свыше миллиона квадратных метров дорог восстановили на Камчатке</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prim.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Fri, 25 Sep 2026 23:56:24 GMT"
     }
   ]
 }
