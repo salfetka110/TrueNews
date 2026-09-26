@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T08:37:36.080168+00:00",
+  "updated": "2026-09-26T09:04:43.985074+00:00",
   "count": 40,
   "news": [
     {
@@ -45,18 +45,81 @@
       "pub": "Sun, 20 Sep 2026 14:37:28 GMT"
     },
     {
+      "title": "ВСУ потеряли более 275 боевиков в зоне действий \"Востока\" за сутки - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50Rm5TeHF6RTJmZzhRNWlKUXZHc2J0TXk3cmp5bENfZTRUcWlaNXZsRDAxVmdnVjlpT3k1bVBxay1UbWMxMjluR3JJTDBPNzdobjA0QlBn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE50Rm5TeHF6RTJmZzhRNWlKUXZHc2J0TXk3cmp5bENfZTRUcWlaNXZsRDAxVmdnVjlpT3k1bVBxay1UbWMxMjluR3JJTDBPNzdobjA0QlBn?oc=5\" target=\"_blank\">ВСУ потеряли более 275 боевиков в зоне действий \"Востока\" за сутки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 26 Sep 2026 08:55:00 GMT"
+    },
+    {
+      "title": "ВСУ потеряли до 160 боевиков в зоне действий \"Юга\" за сутки - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybnIxUzU2dkFUaVMtSzB3WEJLZEVxdDFySlo4cjdCTVVOV29kZC15NlNXZ0xxWm5kMkpvc2VRYkE2cU9mVWtodW9EdmxLellsTHp0LV9B?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybnIxUzU2dkFUaVMtSzB3WEJLZEVxdDFySlo4cjdCTVVOV29kZC15NlNXZ0xxWm5kMkpvc2VRYkE2cU9mVWtodW9EdmxLellsTHp0LV9B?oc=5\" target=\"_blank\">ВСУ потеряли до 160 боевиков в зоне действий \"Юга\" за сутки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 26 Sep 2026 08:50:00 GMT"
+    },
+    {
+      "title": "Трое погибших, двое раненых: что известно об атаке на Краснодарский край - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iRDFWenlZZ0JKeVVxUnhNUnkxSFpQd1p5YklPVnc0bURyQzc4VFJkQXBWUk40Z3k1Z2NFbjFxOU5uNi1FdFFKeE0yLVROV0dFdUtaLVJRUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iRDFWenlZZ0JKeVVxUnhNUnkxSFpQd1p5YklPVnc0bURyQzc4VFJkQXBWUk40Z3k1Z2NFbjFxOU5uNi1FdFFKeE0yLVROV0dFdUtaLVJRUQ?oc=5\" target=\"_blank\">Трое погибших, двое раненых: что известно об атаке на Краснодарский край</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 08:45:59 GMT"
+    },
+    {
+      "title": "Грузовик выехал на пути в Петербурге и угодил под поезд - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ld1RDYmJweGl6VDlldDBQakxxRlo4T1dlbzlwTnQyZFJBUGhxd2p2SjlMZXZUel9xeUpLTngxLXFvOXUwRmhjLXVsZUtGdTYtWWw0RTNZNDh1bXB3RkVBSEJJQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ld1RDYmJweGl6VDlldDBQakxxRlo4T1dlbzlwTnQyZFJBUGhxd2p2SjlMZXZUel9xeUpLTngxLXFvOXUwRmhjLXVsZUtGdTYtWWw0RTNZNDh1bXB3RkVBSEJJQQ?oc=5\" target=\"_blank\">Грузовик выехал на пути в Петербурге и угодил под поезд</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 08:39:00 GMT"
+    },
+    {
+      "title": "Полпред Игорь Руденя высказался против концерта Канье Уэста в Петербурге - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IdXpQWXJnWUViV3k0Yk5URmd5RWdBRnFTalQzMThqMk5LeGVleFBkWTdLRW1uR1RZUW1FalEwTUF1NGhiOU8zaktMcTB6dkJoZEc3NTZIX3I3SHdxSWRKY28zZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IdXpQWXJnWUViV3k0Yk5URmd5RWdBRnFTalQzMThqMk5LeGVleFBkWTdLRW1uR1RZUW1FalEwTUF1NGhiOU8zaktMcTB6dkJoZEc3NTZIX3I3SHdxSWRKY28zZw?oc=5\" target=\"_blank\">Полпред Игорь Руденя высказался против концерта Канье Уэста в Петербурге</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 08:33:21 GMT"
+    },
+    {
+      "title": "Собянин сообщил об уничтожении 20 летевших на Москву БПЛА - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LdjdPVW11dkotQVF1M2ZJb1JZQWtWUFFOcEpwWlhsN3l2TlBINUkwNmNIcURITm56QnU4S3d0NmVPY0dLdVFVM1ZFOC1vTUZWT0k5SVVPR1NuaXhVUW4ycG83cw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LdjdPVW11dkotQVF1M2ZJb1JZQWtWUFFOcEpwWlhsN3l2TlBINUkwNmNIcURITm56QnU4S3d0NmVPY0dLdVFVM1ZFOC1vTUZWT0k5SVVPR1NuaXhVUW4ycG83cw?oc=5\" target=\"_blank\">Собянин сообщил об уничтожении 20 летевших на Москву БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 08:32:52 GMT"
+    },
+    {
+      "title": "Мексиканский боксер умер через несколько дней после поражения нокаутом - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtckFSMnNWbVo0VExxcTNQX2pOc1NRT09kc2oxdGp5dlVJUF9tams0WExwNVdFMVZRLUlsR1Q1eWZJYXZQVFNFdUVMaG4zMkp2c3lzOHpqSE54Zm5oSDA1cFRaenB6ZmpRdWZEVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAtckFSMnNWbVo0VExxcTNQX2pOc1NRT09kc2oxdGp5dlVJUF9tams0WExwNVdFMVZRLUlsR1Q1eWZJYXZQVFNFdUVMaG4zMkp2c3lzOHpqSE54Zm5oSDA1cFRaenB6ZmpRdWZEVQ?oc=5\" target=\"_blank\">Мексиканский боксер умер через несколько дней после поражения нокаутом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 26 Sep 2026 08:27:29 GMT"
+    },
+    {
+      "title": "180-я ракетка мира из России сенсационно вышла в полуфинал турнира WTA - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdm1sNkdKNzdlQzNYcXpZU3JvQ2VsSVdaTEFIaFZYNG5YS01XNTBtSm9PaGR5Z19zZFo3b25JYzZuY196OE5CWDlrWHZQM0YxYVFCUC1zWFIySFRmWFV3M0dHQmsxaGU0ZEZZUA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdm1sNkdKNzdlQzNYcXpZU3JvQ2VsSVdaTEFIaFZYNG5YS01XNTBtSm9PaGR5Z19zZFo3b25JYzZuY196OE5CWDlrWHZQM0YxYVFCUC1zWFIySFRmWFV3M0dHQmsxaGU0ZEZZUA?oc=5\" target=\"_blank\">180-я ракетка мира из России сенсационно вышла в полуфинал турнира WTA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 26 Sep 2026 08:27:29 GMT"
+    },
+    {
+      "title": "Рабочие погибли при взрыве на угольном месторождении в Якутии - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YRjFwYnloVlRUaGc2T3Bvclh5UFNsSWhMcHZZY2dYc0FyR2JBUzFqdUxsOEtaRHMzM3R0UmJRbTFwX0F1V2R2SGVGMzBaeXM5VDVWb0JBNA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YRjFwYnloVlRUaGc2T3Bvclh5UFNsSWhMcHZZY2dYc0FyR2JBUzFqdUxsOEtaRHMzM3R0UmJRbTFwX0F1V2R2SGVGMzBaeXM5VDVWb0JBNA?oc=5\" target=\"_blank\">Рабочие погибли при взрыве на угольном месторождении в Якутии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 08:21:45 GMT"
+    },
+    {
+      "title": "В Петербурге нашелся пенсионер с финской фамилией: тезка родни спасителей Ленина - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByY05qSE5lVE1KNEJWWEc5UVB0aWJYQUlPNTQwNXlkWElxVEVUU1dNOXlqbmdFZmtKVGs5bXdQdE96d3dKQ1E0alhqRUZ2dnRPZDN4LVZTZjZZZ3ZZQUhKVGZYSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByY05qSE5lVE1KNEJWWEc5UVB0aWJYQUlPNTQwNXlkWElxVEVUU1dNOXlqbmdFZmtKVGs5bXdQdE96d3dKQ1E0alhqRUZ2dnRPZDN4LVZTZjZZZ3ZZQUhKVGZYSQ?oc=5\" target=\"_blank\">В Петербурге нашелся пенсионер с финской фамилией: тезка родни спасителей Ленина</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 08:09:30 GMT"
+    },
+    {
       "title": "В Петербурге нашелся пенсионер с финской фамилией. Его тезка — родня спасителей Ленина - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zM3pxRVZKRWN3am9WVzkyQ1J3VG13VUlnZzZtX2ZlMGdtN0FvMnM1TENaZ2EwZUNNbXFKSVEwVHBwdlFhVXBZcUt2Uk1sT2p1d3RaVWo1TQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zM3pxRVZKRWN3am9WVzkyQ1J3VG13VUlnZzZtX2ZlMGdtN0FvMnM1TENaZ2EwZUNNbXFKSVEwVHBwdlFhVXBZcUt2Uk1sT2p1d3RaVWo1TQ?oc=5\" target=\"_blank\">В Петербурге нашелся пенсионер с финской фамилией. Его тезка — родня спасителей Ленина</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Sat, 26 Sep 2026 08:09:30 GMT"
-    },
-    {
-      "title": "Билл Гейтс предупредил о риске гибели миллиарда человек из-за ИИ - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvWVV0U0hlNUhYVFlCcnBTOVhhdmtlVlRFLWNfTUV1NkdwTEk4N2tlbURNWmZidXFBS0p0TGd2UlJadk9mM3BqQ0RKb0QxdlhzNlFNLXBWV2YtZEczS25rZ044VQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvWVV0U0hlNUhYVFlCcnBTOVhhdmtlVlRFLWNfTUV1NkdwTEk4N2tlbURNWmZidXFBS0p0TGd2UlJadk9mM3BqQ0RKb0QxdlhzNlFNLXBWV2YtZEczS25rZ044VQ?oc=5\" target=\"_blank\">Билл Гейтс предупредил о риске гибели миллиарда человек из-за ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 26 Sep 2026 07:58:12 GMT"
     },
     {
       "title": "«Безусловно, достаточно силен»: Билл Гейтс предупредил о риске гибели миллиарда человек из-за ИИ - ФОНТАНКА.ру",
@@ -85,6 +148,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5HdVZiWFQwQzJZMm5Nd0s5VjN3TEx6dWVKRDZ3SUJiN2NyVExaRnYzQ2tlYWpvR1pYRFk4MFJSd0hiZGtQdFVMS0V5cjV2aklMUDJfaW9LZzcyRGhRNmVwMXlCX2NYY21KUHc?oc=5\" target=\"_blank\">В Башкирии нашли подрядчика на ремонт трассы Р-240 за ₽350 млн</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ufa.rbc.ru</font>",
       "source": "РБК",
       "pub": "Sat, 26 Sep 2026 07:48:31 GMT"
+    },
+    {
+      "title": "Неизвестные стёрли указатели на Москву в Латвии - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12RzJ1TjA4cHNyeHZ0U01RRWVOeUZqbzNUWUJydjI0Ukl1UUpnZGdueTk2SDl4cVBOVGhxMUFiNzBFTnNMdkUxZlh5NjFEUnpodmdNbFJ2RHktT3RSQzdSYmV6aw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE12RzJ1TjA4cHNyeHZ0U01RRWVOeUZqbzNUWUJydjI0Ukl1UUpnZGdueTk2SDl4cVBOVGhxMUFiNzBFTnNMdkUxZlh5NjFEUnpodmdNbFJ2RHktT3RSQzdSYmV6aw?oc=5\" target=\"_blank\">Неизвестные стёрли указатели на Москву в Латвии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 07:47:11 GMT"
     },
     {
       "title": "Исчезновение указателя на Москву стало уголовным делом в Латвии - ФОНТАНКА.ру",
@@ -122,6 +192,20 @@
       "pub": "Sat, 26 Sep 2026 07:23:10 GMT"
     },
     {
+      "title": "ТАСС: ВС России выдавливают ВСУ на запад Орехова - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nVUVFSWItRU1TejJhZC0tUkZ0ZnZLcmRNa2FNM1B1VjFkSndVUVRNci1Ea1JHZXRmbjlQRVA0M3I1dDNkdUpSbkFrZ25IV01JSGtoRlI5MTJKQWJaUm1COUo3bVYtVUN1dFFYUTNSR0tiV3ItY0pjcNIBeEFVX3lxTE1nVUVFSWItRU1TejJhZC0tUkZ0ZnZLcmRNa2FNM1B1VjFkSndVUVRNci1Ea1JHZXRmbjlQRVA0M3I1dDNkdUpSbkFrZ25IV01JSGtoRlI5MTJKQWJaUm1COUo3bVYtVUN1dFFYUTNSR0tiV3ItY0pjcA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1nVUVFSWItRU1TejJhZC0tUkZ0ZnZLcmRNa2FNM1B1VjFkSndVUVRNci1Ea1JHZXRmbjlQRVA0M3I1dDNkdUpSbkFrZ25IV01JSGtoRlI5MTJKQWJaUm1COUo3bVYtVUN1dFFYUTNSR0tiV3ItY0pjcNIBeEFVX3lxTE1nVUVFSWItRU1TejJhZC0tUkZ0ZnZLcmRNa2FNM1B1VjFkSndVUVRNci1Ea1JHZXRmbjlQRVA0M3I1dDNkdUpSbkFrZ25IV01JSGtoRlI5MTJKQWJaUm1COUo3bVYtVUN1dFFYUTNSR0tiV3ItY0pjcA?oc=5\" target=\"_blank\">ТАСС: ВС России выдавливают ВСУ на запад Орехова</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 26 Sep 2026 07:16:20 GMT"
+    },
+    {
+      "title": "Михаил Леус рассказал о погоде в Петербурге на 26 сентября - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOQ3kwU3dPUVFrYzgtNklmdFFabktScXVUeFlkTUFWUnJ4alFRZnU3X2RkaVoyM1gwNTVVTllITGtxOFE4U2N5T1NPNVNqNUFrc1BNZFdiUFJPbkl5NTJlYXU3bw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOQ3kwU3dPUVFrYzgtNklmdFFabktScXVUeFlkTUFWUnJ4alFRZnU3X2RkaVoyM1gwNTVVTllITGtxOFE4U2N5T1NPNVNqNUFrc1BNZFdiUFJPbkl5NTJlYXU3bw?oc=5\" target=\"_blank\">Михаил Леус рассказал о погоде в Петербурге на 26 сентября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 07:12:30 GMT"
+    },
+    {
       "title": "Утром — одно, вечером — другое: какой будет погода в Петербурге сегодня - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xUXBtWVQwaDBST3FxMklMbldvMmFtcF9vaW1fenZrRERyMUwyY0dRdEotWkJMaWZGQnV3ZDZEOHRpVmQwU0JUWHBXenVVMHRON0Y2UVNfVQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xUXBtWVQwaDBST3FxMklMbldvMmFtcF9vaW1fenZrRERyMUwyY0dRdEotWkJMaWZGQnV3ZDZEOHRpVmQwU0JUWHBXenVVMHRON0Y2UVNfVQ?oc=5\" target=\"_blank\">Утром — одно, вечером — другое: какой будет погода в Петербурге сегодня</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -129,9 +213,9 @@
       "pub": "Sat, 26 Sep 2026 07:12:30 GMT"
     },
     {
-      "title": "МО: все логистические пути ВСУ у Доброполья находятся под контролем ВС России - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVDBfSmg5OHppRjlzR0M4RGFxMUR4YjVhVXVlc1l6VUxRY3VDUFgxR0tTLTBJeU53WHE0eWpfMjhRNEVtZDR6UTdBT2hWNmFrTC1mWXpwMVBTR3BTMHdaZTNXeFloQXZPQy16Y2VKdkNzd9IBd0FVX3lxTE5fcDNVc2pQU2xHdEFsa2ZMSl9Bb3dPMml0eGtzX0NiME5fa2RmZFdlV1JHUkxEcGVoLWp1amdoeUNONXNlZXFyQjR5a0RvcXUybFBvQV9COElLczJOTWpsWDhWcUpCUzFDRThmVTJmVU90blZUVnk4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVDBfSmg5OHppRjlzR0M4RGFxMUR4YjVhVXVlc1l6VUxRY3VDUFgxR0tTLTBJeU53WHE0eWpfMjhRNEVtZDR6UTdBT2hWNmFrTC1mWXpwMVBTR3BTMHdaZTNXeFloQXZPQy16Y2VKdkNzd9IBd0FVX3lxTE5fcDNVc2pQU2xHdEFsa2ZMSl9Bb3dPMml0eGtzX0NiME5fa2RmZFdlV1JHUkxEcGVoLWp1amdoeUNONXNlZXFyQjR5a0RvcXUybFBvQV9COElLczJOTWpsWDhWcUpCUzFDRThmVTJmVU90blZUVnk4?oc=5\" target=\"_blank\">МО: все логистические пути ВСУ у Доброполья находятся под контролем ВС России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "title": "МО: все логистические пути ВСУ у Доброполья находятся под контролем ВС России — РТ на русском - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVDBfSmg5OHppRjlzR0M4RGFxMUR4YjVhVXVlc1l6VUxRY3VDUFgxR0tTLTBJeU53WHE0eWpfMjhRNEVtZDR6UTdBT2hWNmFrTC1mWXpwMVBTR3BTMHdaZTNXeFloQXZPQy16Y2VKdkNzdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVDBfSmg5OHppRjlzR0M4RGFxMUR4YjVhVXVlc1l6VUxRY3VDUFgxR0tTLTBJeU53WHE0eWpfMjhRNEVtZDR6UTdBT2hWNmFrTC1mWXpwMVBTR3BTMHdaZTNXeFloQXZPQy16Y2VKdkNzdw?oc=5\" target=\"_blank\">МО: все логистические пути ВСУ у Доброполья находятся под контролем ВС России — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sat, 26 Sep 2026 07:01:03 GMT"
     },
@@ -139,13 +223,6 @@
       "title": "События недели: выборы рекордной явки, мечты об ипотеке, автомобиле и вузе, в Ленобласти готовятся растить баранов - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnLVN4N00tYjFJUDBIaEJLb0hNWkowOGxYM3BhUmk5X0hiamVtU2JjZl82SjBPR0FpSlFHOG1JaUNxZGN6R3UtRDBZaDQ2ZHRMWWxNSWhiUQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnLVN4N00tYjFJUDBIaEJLb0hNWkowOGxYM3BhUmk5X0hiamVtU2JjZl82SjBPR0FpSlFHOG1JaUNxZGN6R3UtRDBZaDQ2ZHRMWWxNSWhiUQ?oc=5\" target=\"_blank\">События недели: выборы рекордной явки, мечты об ипотеке, автомобиле и вузе, в Ленобласти готовятся растить баранов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 26 Sep 2026 07:01:00 GMT"
-    },
-    {
-      "title": "Ипотека для многодетных, новые правила ЕГЭ и прощание с Birch: что случилось в Петербурге за неделю - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JMkVpejRHaDFtZG1URmpCV0FPc1hwUFkyZ0U2UW5JSllQaEtyZjJyUlg5SnJyelJnYUU2NzNVR1JVXzJJV01jc1dvd3UtUDREWGFSYjY1T1JtUFR2V0w3WWdnNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JMkVpejRHaDFtZG1URmpCV0FPc1hwUFkyZ0U2UW5JSllQaEtyZjJyUlg5SnJyelJnYUU2NzNVR1JVXzJJV01jc1dvd3UtUDREWGFSYjY1T1JtUFR2V0w3WWdnNA?oc=5\" target=\"_blank\">Ипотека для многодетных, новые правила ЕГЭ и прощание с Birch: что случилось в Петербурге за неделю</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Sat, 26 Sep 2026 07:01:00 GMT"
     },
@@ -185,13 +262,6 @@
       "pub": "Sat, 26 Sep 2026 06:28:25 GMT"
     },
     {
-      "title": "МИД: бесконтрольное создание БПЛА в ЕС увеличивает риски для России и других стран - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwc0p3YThKZ0EwZ2ExOGtNcl9CYldRa0JjbjZTTzVGZDctMVBoa01mTzFUbzVGU0RzNjBrR042dEI1ZEE3NGdfQktvaS1mVWRmZWNOTnktWHY1dDRIX25ydlcxdnc4S00xdWgyVEtLd29nUkRkWENN0gF3QVVfeXFMUHBzSndhOEpnQTBnYTE4a01yX0JiV1FrQmNuNlNPNUZkNy0xUGhrTWZPMVRvNUZTRHM2MGtHTjZ0QjVkQTc0Z19CS29pLWZVZGZlY05OeS1YdjV0NEhfbnJ2VzF2dzhLTTF1aDJUS0t3b2dSRGRYQ00?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwc0p3YThKZ0EwZ2ExOGtNcl9CYldRa0JjbjZTTzVGZDctMVBoa01mTzFUbzVGU0RzNjBrR042dEI1ZEE3NGdfQktvaS1mVWRmZWNOTnktWHY1dDRIX25ydlcxdnc4S00xdWgyVEtLd29nUkRkWENN0gF3QVVfeXFMUHBzSndhOEpnQTBnYTE4a01yX0JiV1FrQmNuNlNPNUZkNy0xUGhrTWZPMVRvNUZTRHM2MGtHTjZ0QjVkQTc0Z19CS29pLWZVZGZlY05OeS1YdjV0NEhfbnJ2VzF2dzhLTTF1aDJUS0t3b2dSRGRYQ00?oc=5\" target=\"_blank\">МИД: бесконтрольное создание БПЛА в ЕС увеличивает риски для России и других стран</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 06:25:27 GMT"
-    },
-    {
       "title": "26 сентября — «Осенняя Пасха»: что нужно знать о празднике Воскресения словущего — читать подробности - vrf.tass.ru",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0cxVzhXYngzZ3pMQ1NYZmdZWE1xbk1oalVrdzlUVnZWVEkxcVJPVHloYjBYVEQ4dWtiaTBCa3AtWmE4WUxpOU9uXzlaWXhyUk1EVGd4OWJrR1dOUno0a0xUSnJjS09leTJ6Y3NTZ05GNngxaTRpcllDcHhXTThjNWxudHFmdk5xQXU2Qk1TcGI0aDNEMWFDbXNzeGxyNDdxUXlVMERpYVlSSHhMenBCRHk0N1h0OUFTZjJrazdfR0dDRUk4andETWJUblVjRGh0RHNWdlpMa1FkcENaa2RTckV6V20xc1E?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0cxVzhXYngzZ3pMQ1NYZmdZWE1xbk1oalVrdzlUVnZWVEkxcVJPVHloYjBYVEQ4dWtiaTBCa3AtWmE4WUxpOU9uXzlaWXhyUk1EVGd4OWJrR1dOUno0a0xUSnJjS09leTJ6Y3NTZ05GNngxaTRpcllDcHhXTThjNWxudHFmdk5xQXU2Qk1TcGI0aDNEMWFDbXNzeGxyNDdxUXlVMERpYVlSSHhMenBCRHk0N1h0OUFTZjJrazdfR0dDRUk4andETWJUblVjRGh0RHNWdlpMa1FkcENaa2RTckV6V20xc1E?oc=5\" target=\"_blank\">26 сентября — «Осенняя Пасха»: что нужно знать о празднике Воскресения словущего — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
@@ -211,76 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQc0VwZzYtTzNta3NPMHhRTzFTejdJU2xyWHFnRWQ1aUpxNWtwQXJPZlhUcTFUUEY3TnJJUG85T3B5UkJkbTZnUnhtcndmRGx5b2pNVEFyMm85UWtDVlM1RV9TbmZCc1lSNjNHZTQydzZpQzZLYTFCalQ5RE5oalFYaXNub1d4dV8yTUtsMExJR1pYblczT0RiSU84WENxNGxOMGxXYjZjRlBaZmJrX2pvYnNxOFVPRkpaTWdGUnVmZkxXU1QtYnoyc0xCckxyUQ?oc=5\" target=\"_blank\">Владислав Резник и Сергей Ковалев будут представлять Адыгею в Госдуме — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
       "pub": "Sat, 26 Sep 2026 06:23:52 GMT"
-    },
-    {
-      "title": "В Майкопе в первый выходной день недели прохладно и облачно с прояснениями — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmdsVWNXc2g4NGhBbjBTY3JqeXN1S3Vfd3d2SkctYXFYN3kzTUZwRFFuc1JxUDExZVJqM2pYd1RMTEZyTURva0tzdHBtOXRncDRxTkZyVFVCRVlKWDFBWFhId2xackN3YzJ2clRIajI2dkU1OC1BUXV1SEFCS0VZblQtMmtDcXYydXIyTU1rY1pmRUV3TmpZM1BCMlNZQVZ2b0NpcUktTlR2OXNJTF9SbFNRTmV4YWtEWnFfZjc5ZEYtcEVDZVVyLXp1dE9PaXN5Q1Y5ZUhn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmdsVWNXc2g4NGhBbjBTY3JqeXN1S3Vfd3d2SkctYXFYN3kzTUZwRFFuc1JxUDExZVJqM2pYd1RMTEZyTURva0tzdHBtOXRncDRxTkZyVFVCRVlKWDFBWFhId2xackN3YzJ2clRIajI2dkU1OC1BUXV1SEFCS0VZblQtMmtDcXYydXIyTU1rY1pmRUV3TmpZM1BCMlNZQVZ2b0NpcUktTlR2OXNJTF9SbFNRTmV4YWtEWnFfZjc5ZEYtcEVDZVVyLXp1dE9PaXN5Q1Y5ZUhn?oc=5\" target=\"_blank\">В Майкопе в первый выходной день недели прохладно и облачно с прояснениями — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sat, 26 Sep 2026 06:23:52 GMT"
-    },
-    {
-      "title": "Мельниченко предложил баланс между автономностью и открытостью страны - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZlhtWWJaTVpLQ296R3VmNkZ3emFPY05kRmJOcWJGdERxMUlxclljWm5OX2pnaUJwcDRzbVluUkVlRlB5TjV0VV9lbDVEZXRKUFd0N09ON1BRQUR1Mnl3QllydGluSGpsYlNoak5JbEE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZlhtWWJaTVpLQ296R3VmNkZ3emFPY05kRmJOcWJGdERxMUlxclljWm5OX2pnaUJwcDRzbVluUkVlRlB5TjV0VV9lbDVEZXRKUFd0N09ON1BRQUR1Mnl3QllydGluSGpsYlNoak5JbEE?oc=5\" target=\"_blank\">Мельниченко предложил баланс между автономностью и открытостью страны</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 05:55:35 GMT"
-    },
-    {
-      "title": "ВС России наносят удары по ВСУ в кольце окружения в Харьковской области - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52Q1hUZXFTNDVJMm1iUS03aG9FekJKazlNYXRGOXpFck8yNUozYjFlaGM0NTQ5QnAyLVFXOTFlVFY1bkpJbVV6dWN0SGNmMktCNENlRDBFel9ITWRNeTdBR1lFU1BzX0hqdGdGZ2JwSVdNcF9NYlRjLdIBfkFVX3lxTFBsamRBM3lFX1dvLTNPdkxnZU1TeDdZNXQ2SGZ4NmZ2WEwwZ2Q1TFNET29CN0k3T200RVQ3U0hIZUViYXhuTk12TnRrd3dTdFVIaUdwZ21meUlteXRZazlrQzFBeFdYZ19zQ21kZ1JZem1FY3VRMG15OGZQak9Cdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE52Q1hUZXFTNDVJMm1iUS03aG9FekJKazlNYXRGOXpFck8yNUozYjFlaGM0NTQ5QnAyLVFXOTFlVFY1bkpJbVV6dWN0SGNmMktCNENlRDBFel9ITWRNeTdBR1lFU1BzX0hqdGdGZ2JwSVdNcF9NYlRjLdIBfkFVX3lxTFBsamRBM3lFX1dvLTNPdkxnZU1TeDdZNXQ2SGZ4NmZ2WEwwZ2Q1TFNET29CN0k3T200RVQ3U0hIZUViYXhuTk12TnRrd3dTdFVIaUdwZ21meUlteXRZazlrQzFBeFdYZ19zQ21kZ1JZem1FY3VRMG15OGZQak9Cdw?oc=5\" target=\"_blank\">ВС России наносят удары по ВСУ в кольце окружения в Харьковской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 05:51:13 GMT"
-    },
-    {
-      "title": "Силы ПВО уничтожили 45 дронов над Калужской областью за ночь - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCeWdGX1N5RkNCVnRDcEJ2Q1dRTTVBTGQ1V1Qwa2g0UEVBZnZMeGRJWVFUVEY2d3ZTOE9WNDBCeXBJbXROdTkzcWVSNTFhT09WVWwtUUlhQ0pDVUE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCeWdGX1N5RkNCVnRDcEJ2Q1dRTTVBTGQ1V1Qwa2g0UEVBZnZMeGRJWVFUVEY2d3ZTOE9WNDBCeXBJbXROdTkzcWVSNTFhT09WVWwtUUlhQ0pDVUE?oc=5\" target=\"_blank\">Силы ПВО уничтожили 45 дронов над Калужской областью за ночь</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 05:47:00 GMT"
-    },
-    {
-      "title": "Спорт: Выпуск за 26 сентября 2026. Смотреть онлайн - tv.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJcDdqQkc4VUxqTzM5ZDVEdUc2dWtpSS03aHhLR0RFczZjNWpIY3BiTklKeGtLaEFnbU9Sa1dkblFHS0RleW0wekMxeVJDOGd3UUhqRklTTFZMNmdydGw3M1ZCdkN4THV5VEFNMg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBJcDdqQkc4VUxqTzM5ZDVEdUc2dWtpSS03aHhLR0RFczZjNWpIY3BiTklKeGtLaEFnbU9Sa1dkblFHS0RleW0wekMxeVJDOGd3UUhqRklTTFZMNmdydGw3M1ZCdkN4THV5VEFNMg?oc=5\" target=\"_blank\">Спорт: Выпуск за 26 сентября 2026. Смотреть онлайн</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tv.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 05:38:56 GMT"
-    },
-    {
-      "title": "\"У Зеленского есть шанс\". Украинский историк оценила предложение Трампа - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JeVNVd0NkaHNJV1ZzajNuRlFQUHBKRHZpcXo3U2psdDNzempTYU5Td19ZaklQS2RnODF1ZUJoT2NYdHdNb3N1aTgzb080WDZtMy15YU9KbURPWUdGWWc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JeVNVd0NkaHNJV1ZzajNuRlFQUHBKRHZpcXo3U2psdDNzempTYU5Td19ZaklQS2RnODF1ZUJoT2NYdHdNb3N1aTgzb080WDZtMy15YU9KbURPWUdGWWc?oc=5\" target=\"_blank\">\"У Зеленского есть шанс\". Украинский историк оценила предложение Трампа</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 05:35:00 GMT"
-    },
-    {
-      "title": "На Дону пять человек получили ранения после ночной атаки БПЛА - rostov.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVozRWY1a0YwSjJsYVpLbDBWVHB2bGxnSzZSRGx4aWMxNzVPWVNGN0UxSnNsN01LbG9aTHpLQUpqYXVmeFV0SmFqeTJwd2ZyWV9iQldib0hvYVh3eHc3bWQzVnFyeGc1b1VDdUk5LWllU3k4OWlDVXJYbW5COVkxbjdR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVozRWY1a0YwSjJsYVpLbDBWVHB2bGxnSzZSRGx4aWMxNzVPWVNGN0UxSnNsN01LbG9aTHpLQUpqYXVmeFV0SmFqeTJwd2ZyWV9iQldib0hvYVh3eHc3bWQzVnFyeGc1b1VDdUk5LWllU3k4OWlDVXJYbW5COVkxbjdR?oc=5\" target=\"_blank\">На Дону пять человек получили ранения после ночной атаки БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rostov.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 05:27:56 GMT"
-    },
-    {
-      "title": "Силы ПВО ВС России сбили 645 украинских БПЛА над страной за ночь - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HM3dlM3dYUThvbDIwM2FuNGY0NElWclcydWNkV2tjeFQyVFJIeU5fTFM3ZUVqREs0MjZ3Uk9CbF9XVVBmLUpkVjlZX1d6T05wRXg0bmNnVy1HTV9GSzVsV3RTaDdGODFfSTUw0gFwQVVfeXFMTUtxOXJNRlVXOG1zSjlHcXZyaG14cDFUREp3TVdXX1ZDRnA0ZURfeEJTUEJBQV9lVUVtT1FJOWlSMG45Y3FhQUhFQm9LZEllTkZQckdjRF8ybnVIblQ4N2R4UzJFcXpKbjlqMVRxSWpVWg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1HM3dlM3dYUThvbDIwM2FuNGY0NElWclcydWNkV2tjeFQyVFJIeU5fTFM3ZUVqREs0MjZ3Uk9CbF9XVVBmLUpkVjlZX1d6T05wRXg0bmNnVy1HTV9GSzVsV3RTaDdGODFfSTUw0gFwQVVfeXFMTUtxOXJNRlVXOG1zSjlHcXZyaG14cDFUREp3TVdXX1ZDRnA0ZURfeEJTUEJBQV9lVUVtT1FJOWlSMG45Y3FhQUhFQm9LZEllTkZQckdjRF8ybnVIblQ4N2R4UzJFcXpKbjlqMVRxSWpVWg?oc=5\" target=\"_blank\">Силы ПВО ВС России сбили 645 украинских БПЛА над страной за ночь</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 05:22:53 GMT"
-    },
-    {
-      "title": "На подлете к Москве сбили 11 беспилотников - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNzljREZCN0ttOHZONjVMZ29FQU16dHFCSVpHdC1tVVpLUjRGRDcwUmZZYmhrV2dyUkZNSTROdGpLbEhSaGR5a1VkOUhDYWRXdmlsM0RHa1FYOGRXUG1mZi1qTE1kNTlVU2VDLWs3ZWM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNzljREZCN0ttOHZONjVMZ29FQU16dHFCSVpHdC1tVVpLUjRGRDcwUmZZYmhrV2dyUkZNSTROdGpLbEhSaGR5a1VkOUhDYWRXdmlsM0RHa1FYOGRXUG1mZi1qTE1kNTlVU2VDLWs3ZWM?oc=5\" target=\"_blank\">На подлете к Москве сбили 11 беспилотников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 05:13:41 GMT"
-    },
-    {
-      "title": "645 украинских БПЛА сбили над Россией за ночь - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBTXR2bDBLWlh6RE9NS252UjQtRWFvdHBBVTV3aEpYcUEyQVdWTERoRnVGaUREalhLZnJiT3RMakdSYzkxbmU0SnBvUUZkWmxtVmt3b1I5T3NaeU5DWFNqN19GcWtKdzJiMW9jd3Zyd3lBdDJQODE2cA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBBTXR2bDBLWlh6RE9NS252UjQtRWFvdHBBVTV3aEpYcUEyQVdWTERoRnVGaUREalhLZnJiT3RMakdSYzkxbmU0SnBvUUZkWmxtVmt3b1I5T3NaeU5DWFNqN19GcWtKdzJiMW9jd3Zyd3lBdDJQODE2cA?oc=5\" target=\"_blank\">645 украинских БПЛА сбили над Россией за ночь</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 05:13:41 GMT"
     }
   ]
 }
