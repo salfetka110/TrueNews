@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:04:13.403910+00:00",
+  "updated": "2026-09-26T01:35:53.046691+00:00",
   "count": 40,
   "news": [
     {
@@ -24,6 +24,13 @@
       "pub": "Thu, 17 Sep 2026 09:05:11 GMT"
     },
     {
+      "title": "ООО «АВА-ПЕТЕР» - companies.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5\" target=\"_blank\">ООО «АВА-ПЕТЕР»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Thu, 09 Sep 2021 16:29:53 GMT"
+    },
+    {
       "title": "Минздрав уточнил данные о пострадавших после атаки БПЛА в Подмосковье - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Sl8xMEdCMGxpSUVzeXhCNktEendhaEdBTktkZzRtR195T0RqWmltRW5IYm1FOVN3elhZVFZQcU4tdERaeEFuVnJyU1I5bFhFX0JadW1DdWlId09ncFBZNFY1dEE3dw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Sl8xMEdCMGxpSUVzeXhCNktEendhaEdBTktkZzRtR195T0RqWmltRW5IYm1FOVN3elhZVFZQcU4tdERaeEFuVnJyU1I5bFhFX0JadW1DdWlId09ncFBZNFY1dEE3dw?oc=5\" target=\"_blank\">Минздрав уточнил данные о пострадавших после атаки БПЛА в Подмосковье</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
@@ -36,6 +43,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1LVzctNWJjZ0lkd2VFQldlR1NxcXNCV3RqcEZWajdtZkhjTE1nenBZV0JUNjVlbzc5bjhzSjZ5Y19CTzJnXzlwY001YWFyeWpMMTBESTliMkVfNlVRSkk4LW51dVZiekV2MlFfNWRZaWFPdw?oc=5\" target=\"_blank\">WSJ объяснила, почему НПЗ — главное уязвимое звено мирового энергорынка</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sun, 20 Sep 2026 14:37:28 GMT"
+    },
+    {
+      "title": "На судне «Триумф» у берегов Камчатки произошел пожар - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqNXVRMGxjcHB1T2pueEtyeFI1c21FZUZmM1MySkNtMzFxd3pJYjVtT1R2Nm5vUTBGc212emwtOG1SZVVqYWNSV1h1aVdpU3dBZWE0aTFKN0R0MXVBT3hTOXRFcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqNXVRMGxjcHB1T2pueEtyeFI1c21FZUZmM1MySkNtMzFxd3pJYjVtT1R2Nm5vUTBGc212emwtOG1SZVVqYWNSV1h1aVdpU3dBZWE0aTFKN0R0MXVBT3hTOXRFcw?oc=5\" target=\"_blank\">На судне «Триумф» у берегов Камчатки произошел пожар</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 26 Sep 2026 01:27:46 GMT"
     },
     {
       "title": "Дроны атаковали Кубань. Есть погибшие - ФОНТАНКА.ру",
@@ -52,18 +66,18 @@
       "pub": "Sat, 26 Sep 2026 00:20:00 GMT"
     },
     {
+      "title": "Памфилова заявила, что прошедшие выборы для неё стали самыми сложными - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfR19UQ3JqMHZ5WURkZE1hWU1NS3hiZWRZTkYtd1FHOW5EalBYaW9mU2tXNkFIS2RfenQxWmo3bnJiQWxsNDZPVHY5OHhtY1BodUViS01ucW5jcy1yNWVCMUJBM09TbF9xYXdjaVZMMFpZaWY3T3hr0gF8QVVfeXFMUHg4d3d3NjZ1eF9mdXNEQ3oxanV4RFliXzZERms1QUtBTFNNdHE0VWtqSXZhWW5xYTNHSTgyc1VBZHJzVjlVOUFsOEdQVzljekJxeDA0TUlRUW5QZU9FYlJVcVVnZVl3QVluY3JtQjRqUTRmc1g0X3Rob2xFVg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBfR19UQ3JqMHZ5WURkZE1hWU1NS3hiZWRZTkYtd1FHOW5EalBYaW9mU2tXNkFIS2RfenQxWmo3bnJiQWxsNDZPVHY5OHhtY1BodUViS01ucW5jcy1yNWVCMUJBM09TbF9xYXdjaVZMMFpZaWY3T3hr0gF8QVVfeXFMUHg4d3d3NjZ1eF9mdXNEQ3oxanV4RFliXzZERms1QUtBTFNNdHE0VWtqSXZhWW5xYTNHSTgyc1VBZHJzVjlVOUFsOEdQVzljekJxeDA0TUlRUW5QZU9FYlJVcVVnZVl3QVluY3JtQjRqUTRmc1g0X3Rob2xFVg?oc=5\" target=\"_blank\">Памфилова заявила, что прошедшие выборы для неё стали самыми сложными</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sat, 26 Sep 2026 00:16:41 GMT"
+    },
+    {
       "title": "Как изменилась российская деревня Простоквашино - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hOGFRNDVPMm9HUldQekx3TEdyZF9VajlEM1J6QjUyRVF4YV9aOVNmc2VXS2RqTncwbGJYb1JMVkhkRHB0X25qVVpfT2ZjTy15bENlOE14VnppaTRka2s2RVJrYw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hOGFRNDVPMm9HUldQekx3TEdyZF9VajlEM1J6QjUyRVF4YV9aOVNmc2VXS2RqTncwbGJYb1JMVkhkRHB0X25qVVpfT2ZjTy15bENlOE14VnppaTRka2s2RVJrYw?oc=5\" target=\"_blank\">Как изменилась российская деревня Простоквашино</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Fri, 25 Sep 2026 23:57:14 GMT"
-    },
-    {
-      "title": "Полянский: Россия будет добиваться прекращения украинизации повестки ОБСЕ - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MdWVWaXozajFLT3p6bU9maVQtcHplRzA2aXNZUVZEVTNkRmw4QVdOMnE0UWZJYlgtcW04RGtmUXhLN3BuNGxFTm96djJZRkZubllMMm1YTTRfNERtVk11ZTM0R1ZPTHlnOHg5ZzdkUWhvMk45QndxcHd1ZG9SbGvSAYQBQVVfeXFMUHBBYjIxMExYN3E4S2F5a1k3X2J4TnY0czZ0cDRFLWdWUDQ5VEw4UFlscUNiWUhJa1dVdEJXY0pmQTBld01PeFBVSnNOR2NJTkZxNk1BV2V3VEpEOVV4Sng2NEhqNHhSc3J0R2VrZ1c1aHhMTE1GQUxBaHktREkwM0NCTlRB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9MdWVWaXozajFLT3p6bU9maVQtcHplRzA2aXNZUVZEVTNkRmw4QVdOMnE0UWZJYlgtcW04RGtmUXhLN3BuNGxFTm96djJZRkZubllMMm1YTTRfNERtVk11ZTM0R1ZPTHlnOHg5ZzdkUWhvMk45QndxcHd1ZG9SbGvSAYQBQVVfeXFMUHBBYjIxMExYN3E4S2F5a1k3X2J4TnY0czZ0cDRFLWdWUDQ5VEw4UFlscUNiWUhJa1dVdEJXY0pmQTBld01PeFBVSnNOR2NJTkZxNk1BV2V3VEpEOVV4Sng2NEhqNHhSc3J0R2VrZ1c1aHhMTE1GQUxBaHktREkwM0NCTlRB?oc=5\" target=\"_blank\">Полянский: Россия будет добиваться прекращения украинизации повестки ОБСЕ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Fri, 25 Sep 2026 23:56:32 GMT"
     },
     {
       "title": "Два человека с судна \"Триумф\" на Камчатке находятся в тяжелом состоянии - ria.ru",
@@ -80,18 +94,11 @@
       "pub": "Fri, 25 Sep 2026 23:45:22 GMT"
     },
     {
-      "title": "На судне «Триумф» у берегов Камчатки произошел пожар - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqNXVRMGxjcHB1T2pueEtyeFI1c21FZUZmM1MySkNtMzFxd3pJYjVtT1R2Nm5vUTBGc212emwtOG1SZVVqYWNSV1h1aVdpU3dBZWE0aTFKN0R0MXVBT3hTOXRFcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqNXVRMGxjcHB1T2pueEtyeFI1c21FZUZmM1MySkNtMzFxd3pJYjVtT1R2Nm5vUTBGc212emwtOG1SZVVqYWNSV1h1aVdpU3dBZWE0aTFKN0R0MXVBT3hTOXRFcw?oc=5\" target=\"_blank\">На судне «Триумф» у берегов Камчатки произошел пожар</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Fri, 25 Sep 2026 23:39:36 GMT"
-    },
-    {
-      "title": "Попова заявила о напряженной эпидемиологической ситуации в мире - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tYmFuc05mSGs5RVBCajRDZUhTTlRtblNfbmZleGNlXzdIY0MzWllZYXV3RE1GMVc0T0s5amR4aVlSSDVuSUNNUVhpbDFUZGNLcjVFM3pGWXprdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tYmFuc05mSGs5RVBCajRDZUhTTlRtblNfbmZleGNlXzdIY0MzWllZYXV3RE1GMVc0T0s5amR4aVlSSDVuSUNNUVhpbDFUZGNLcjVFM3pGWXprdw?oc=5\" target=\"_blank\">Попова заявила о напряженной эпидемиологической ситуации в мире</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Fri, 25 Sep 2026 23:17:00 GMT"
+      "title": "Минпросвещения подготовило рекомендации по применению ИИ в школах - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1JiYk1GT1pxSEZBTzU3Y3M5b0dzSHg1RlV1SWY4RFRxZm1fMXhEVmVJcVhIVFpTX182MzlCSzNPNDZybW5rWjNMLVBRRVdMUXVlN2xxMnVEdHFVNkNJQXdRQ0VCZVRGaVRyclpyZThXWGNTQ2RFWmp3ZGdYajh0YU1R0gGHAUFVX3lxTE4ySkNkaHNNb1p5VDc0d0VwQWdyeXdnVTFPRTlPT2FxaGNTVnp4emhoWk5zMndtRTk5anY1ckpkMlBIa0dDek1xU19vTTRpUUtfMDdLWXd3Z20yMk1Rc2lUUVVMNXUxdW85U09ZaVo2VXhiQ3pydldFTXgwMUVxdUFtbnZYLURHVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1JiYk1GT1pxSEZBTzU3Y3M5b0dzSHg1RlV1SWY4RFRxZm1fMXhEVmVJcVhIVFpTX182MzlCSzNPNDZybW5rWjNMLVBRRVdMUXVlN2xxMnVEdHFVNkNJQXdRQ0VCZVRGaVRyclpyZThXWGNTQ2RFWmp3ZGdYajh0YU1R0gGHAUFVX3lxTE4ySkNkaHNNb1p5VDc0d0VwQWdyeXdnVTFPRTlPT2FxaGNTVnp4emhoWk5zMndtRTk5anY1ckpkMlBIa0dDek1xU19vTTRpUUtfMDdLWXd3Z20yMk1Rc2lUUVVMNXUxdW85U09ZaVo2VXhiQ3pydldFTXgwMUVxdUFtbnZYLURHVQ?oc=5\" target=\"_blank\">Минпросвещения подготовило рекомендации по применению ИИ в школах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Fri, 25 Sep 2026 23:22:18 GMT"
     },
     {
       "title": "Клубы АПЛ могут подать в суд на \"Манчестер Сити\", пишут СМИ - ria.ru",
@@ -174,6 +181,13 @@
       "title": "Мэрия Челнов показала, как выглядит обновленный концертный зал Сары Садыковой — читать подробности - vrf.tass.ru",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGxFZzd6cGkzWFQwbnlVRkkwRmZ4bVJuZWRvbTN3V3F0akdXYVNObVlfRk0yd3RUREZMUm5iTnI2UWFIV2R1MUNZQUJXT1lqWlgyY0VZY18tZE9iQV9rTlhHRWR3SWkxUWIzVVduRlFCSlp6U0J5ek4xQXVjVkN5RlMweDc5Zk5TV000R2NxMjhYYmZ4cWkxZ1I1TF9hVjdaLTNlaWZacGpUX2dyWkxTVWxld3R6d1VuZ2RGNUlHSk1Idmd3MGV4YmMxYl9UT25IazFUMC1rTEszZFlHZEE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGxFZzd6cGkzWFQwbnlVRkkwRmZ4bVJuZWRvbTN3V3F0akdXYVNObVlfRk0yd3RUREZMUm5iTnI2UWFIV2R1MUNZQUJXT1lqWlgyY0VZY18tZE9iQV9rTlhHRWR3SWkxUWIzVVduRlFCSlp6U0J5ek4xQXVjVkN5RlMweDc5Zk5TV000R2NxMjhYYmZ4cWkxZ1I1TF9hVjdaLTNlaWZacGpUX2dyWkxTVWxld3R6d1VuZ2RGNUlHSk1Idmd3MGV4YmMxYl9UT25IazFUMC1rTEszZFlHZEE?oc=5\" target=\"_blank\">Мэрия Челнов показала, как выглядит обновленный концертный зал Сары Садыковой — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Fri, 25 Sep 2026 22:21:15 GMT"
+    },
+    {
+      "title": "«Газета.ру»: квартиры с отделкой в Москве стоят дороже жилья без ремонта — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHlkaXFKcXQ4cE9LaGpTSjFyRU05d3EtOXdLZk9BQVZ3X2llaFJQYkd3WUNHLXNCVWFlSWpGWWlNRi1GOFBBdEc2WUJMM1NXSjljMVhDQ2E0WEp3V3dCR3NFSWxrZzcxSEh2VEdWZ3ZhT0tFYlVxRXZmZWF1bDlnNHh6Vl9XY25FWWNqWmdZMWhTcVZDeVQ2alRGQ0FjRjNkQVJoaTkxc1Rfdnk4RmRUemcxUGFSeGV5VmVPSzlTdm50elcyaDA4SHRLTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHlkaXFKcXQ4cE9LaGpTSjFyRU05d3EtOXdLZk9BQVZ3X2llaFJQYkd3WUNHLXNCVWFlSWpGWWlNRi1GOFBBdEc2WUJMM1NXSjljMVhDQ2E0WEp3V3dCR3NFSWxrZzcxSEh2VEdWZ3ZhT0tFYlVxRXZmZWF1bDlnNHh6Vl9XY25FWWNqWmdZMWhTcVZDeVQ2alRGQ0FjRjNkQVJoaTkxc1Rfdnk4RmRUemcxUGFSeGV5VmVPSzlTdm50elcyaDA4SHRLTQ?oc=5\" target=\"_blank\">«Газета.ру»: квартиры с отделкой в Москве стоят дороже жилья без ремонта — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
       "pub": "Fri, 25 Sep 2026 22:21:15 GMT"
     },
@@ -267,20 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJDM3VuVzFObUE0a2dBaVlVUGZGdDZNXzRvWHJMLWxSUG94d1dBNGUzQTF4N1RZcTVzX0Rwbm9keWw1Rm1YWTNXVmJWTk01cUU0dXA5NVc2aHVIX2NXMFNHblA2MmJVQWx5N0diRmI2SXJuNWhNNU0yRk9qT2Yza3lvS2R0THA5N0JyX0V3YVNzMnZRMlROQm5hZ25BdFgtcEJYYmZOM0lnT240UVQ0MkJfYmVQSzR1TlRlUnIxcEg2Mld5UjJXNHdfOEk?oc=5\" target=\"_blank\">Нижегородская «Норманочка» с победы стартовала в чемпионате России — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
       "pub": "Fri, 25 Sep 2026 22:09:29 GMT"
-    },
-    {
-      "title": "В подмосковной Истре объявили режим беспилотной опасности - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15TkQ0TzlIeXFKQmZiVXBfLWMzcF9yLWxzaEF4WDE5U1E2X3ByMllYU09uamd3TFJjZElsRVU5UjE4dGhScVdVeE9QVDRWRDlHaTEwOWVkTktwRGV6aDhXNmhZTmM0Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE15TkQ0TzlIeXFKQmZiVXBfLWMzcF9yLWxzaEF4WDE5U1E2X3ByMllYU09uamd3TFJjZElsRVU5UjE4dGhScVdVeE9QVDRWRDlHaTEwOWVkTktwRGV6aDhXNmhZTmM0Zw?oc=5\" target=\"_blank\">В подмосковной Истре объявили режим беспилотной опасности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Fri, 25 Sep 2026 21:58:10 GMT"
-    },
-    {
-      "title": "Володин рассказал о режиме работы детский садов - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1QUhIUFc5Nk9RRGVxLWdDR3lmRUliejc2LTU5MmxMdFMwU29sam9DTHg5RE9rZURJa2IxUnpDT0FKT3B2ai1FSmd4UjRJYVN2MFZSM0hOZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1QUhIUFc5Nk9RRGVxLWdDR3lmRUliejc2LTU5MmxMdFMwU29sam9DTHg5RE9rZURJa2IxUnpDT0FKT3B2ai1FSmd4UjRJYVN2MFZSM0hOZw?oc=5\" target=\"_blank\">Володин рассказал о режиме работы детский садов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Fri, 25 Sep 2026 21:56:00 GMT"
     }
   ]
 }
