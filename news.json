@@ -1,5 +1,286 @@
 {
-  "updated": "2026-09-27T13:36:50.374117+00:00",
-  "count": 0,
-  "news": []
+  "updated": "2026-09-27T14:04:49.235076+00:00",
+  "count": 40,
+  "news": [
+    {
+      "title": "Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaVNKbEVvMGI1clVVbzBmcU05dFExazN3QXhoSUtTWDhtQkxlNkFUTUdma3BCZU1kTFhWZDJwUjJJcE1lWkhnSDZJQU40X1I3U0YtMTdvRG4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaVNKbEVvMGI1clVVbzBmcU05dFExazN3QXhoSUtTWDhtQkxlNkFUTUdma3BCZU1kTFhWZDJwUjJJcE1lWkhnSDZJQU40X1I3U0YtMTdvRG4?oc=5\" target=\"_blank\">Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Thu, 24 Sep 2026 16:10:38 GMT"
+    },
+    {
+      "title": "Швейцарцы отвергли «вечный нейтралитет» и запрет на санкции - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sMElfRVpaYmNvVzRLeTllTUtETmFBaXFQOW5fUUFKOXFGa1ZaTjdDMDA0R0JnMzZZeDN2b0xCd1p0M2xjNXRwRVBXeVRxWk53VkxEZURrTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sMElfRVpaYmNvVzRLeTllTUtETmFBaXFQOW5fUUFKOXFGa1ZaTjdDMDA0R0JnMzZZeDN2b0xCd1p0M2xjNXRwRVBXeVRxWk53VkxEZURrTQ?oc=5\" target=\"_blank\">Швейцарцы отвергли «вечный нейтралитет» и запрет на санкции</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:47:00 GMT"
+    },
+    {
+      "title": "Троих мужчин задержали в Петербурге за стрельбу на улице Козлова - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmeGFlQlJVMWNZSFpVYUpIQjhtcEc2bWkzVmRUdUE0NE1wb25ucjc0VG1NYTJTUjc5MnpsTWg2OFlJanZlRzNHWHg3WEwyYVprMzZFZW5WVElaZHdnMEJZYUdrOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmeGFlQlJVMWNZSFpVYUpIQjhtcEc2bWkzVmRUdUE0NE1wb25ucjc0VG1NYTJTUjc5MnpsTWg2OFlJanZlRzNHWHg3WEwyYVprMzZFZW5WVElaZHdnMEJZYUdrOA?oc=5\" target=\"_blank\">Троих мужчин задержали в Петербурге за стрельбу на улице Козлова</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:44:27 GMT"
+    },
+    {
+      "title": "Киселев прокомментировал удаленную колонку РИА Новости - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrcFFTVmdPbTBVZk5sY3M4M0l2RjFqV3lwQkxkazdYNzI3TUgzMktITGhVUlhFV2wweTVKYjROOGRtWjdhWVo4TnVNWlBQOS1xaUZwZ3hrTW5sOFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrcFFTVmdPbTBVZk5sY3M4M0l2RjFqV3lwQkxkazdYNzI3TUgzMktITGhVUlhFV2wweTVKYjROOGRtWjdhWVo4TnVNWlBQOS1xaUZwZ3hrTW5sOFE?oc=5\" target=\"_blank\">Киселев прокомментировал удаленную колонку РИА Новости</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 13:43:00 GMT"
+    },
+    {
+      "title": "У российских врачей появились клинические рекомендации по лечению парафильных расстройств - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xU2pEY2pMQnFaeXZ4emJWdXVRVnJ5MG5CdG5nYklvaVVMb3BiVDdzY1d6c1pJVVNQaDdaMkZWZ2IxOUJDSXcyMzVNSk9lT0ZYc2R3SzhZTlQ0MGRaaVNwc1VXSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xU2pEY2pMQnFaeXZ4emJWdXVRVnJ5MG5CdG5nYklvaVVMb3BiVDdzY1d6c1pJVVNQaDdaMkZWZ2IxOUJDSXcyMzVNSk9lT0ZYc2R3SzhZTlQ0MGRaaVNwc1VXSQ?oc=5\" target=\"_blank\">У российских врачей появились клинические рекомендации по лечению парафильных расстройств</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:41:07 GMT"
+    },
+    {
+      "title": "Эксперт Елена Ким назвала главный тренд маникюра осени 2026 года - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yWWRLWFFVaDB6cEpzYUo0Q0JRel9sTElOcW1TUTVzZ29IV215Z2pBemdaeUVjQW1PZy1VZTkteGxRYkw2UFFqU2duaDFsN3hoMHZzcmE2ZUFIZlREdUFBMGFUWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yWWRLWFFVaDB6cEpzYUo0Q0JRel9sTElOcW1TUTVzZ29IV215Z2pBemdaeUVjQW1PZy1VZTkteGxRYkw2UFFqU2duaDFsN3hoMHZzcmE2ZUFIZlREdUFBMGFUWQ?oc=5\" target=\"_blank\">Эксперт Елена Ким назвала главный тренд маникюра осени 2026 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:38:18 GMT"
+    },
+    {
+      "title": "Ударивший женщину битой в Петербурге арестован - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sM3dsY2pmZS1lOGdtenNQZS01d19kNEJETnBKYXJMS1U3bkpHS0xpRzliLVBKQXNUWWpmaFpQYUZCV3pMbmg4bWxSejlJOUpoWVJMTWd3TTJScVkwVG5nSm5fcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sM3dsY2pmZS1lOGdtenNQZS01d19kNEJETnBKYXJMS1U3bkpHS0xpRzliLVBKQXNUWWpmaFpQYUZCV3pMbmg4bWxSejlJOUpoWVJMTWd3TTJScVkwVG5nSm5fcw?oc=5\" target=\"_blank\">Ударивший женщину битой в Петербурге арестован</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:35:55 GMT"
+    },
+    {
+      "title": "Ученые рассказали, когда Африка треснет - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zaEhBTzNDOWl6NnkxMTk3NkpsbzV0UFI5Ym9RY0l4X0kzNlJFY25xd250aThIb3gwVTZJNGVBVXZwdnp6N3RvSU0xUC15SG94SFVRTDZmdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zaEhBTzNDOWl6NnkxMTk3NkpsbzV0UFI5Ym9RY0l4X0kzNlJFY25xd250aThIb3gwVTZJNGVBVXZwdnp6N3RvSU0xUC15SG94SFVRTDZmdw?oc=5\" target=\"_blank\">Ученые рассказали, когда Африка треснет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:34:00 GMT"
+    },
+    {
+      "title": "Футболист ЦСКА Аззи получил травму в ходе товарищеского матча - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PY1FybjRkTzZHWEtIX1RKT2pKajBvNmR2OHlUcTg0ZnNaYjJyV0pLYTdodmFQN0FUR1g4WjVRSmpZaEdZX0NTM1JxMVgtdVViN3FLNEltaGM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PY1FybjRkTzZHWEtIX1RKT2pKajBvNmR2OHlUcTg0ZnNaYjJyV0pLYTdodmFQN0FUR1g4WjVRSmpZaEdZX0NTM1JxMVgtdVViN3FLNEltaGM?oc=5\" target=\"_blank\">Футболист ЦСКА Аззи получил травму в ходе товарищеского матча</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 13:27:00 GMT"
+    },
+    {
+      "title": "ВС Ирана нанесли удары по 19 судам в Ормузе за две ночи, сообщает Fars - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EMG9TTEptVy1SelhvQzhYaDlYRmJUaXpkNnM2QVRzUktpUHU4TFdCeDhkZEVndk40ZmdSZy1WTE9JcU9JMkhkNm1HMHhsNUFpZC1rQXBLWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EMG9TTEptVy1SelhvQzhYaDlYRmJUaXpkNnM2QVRzUktpUHU4TFdCeDhkZEVndk40ZmdSZy1WTE9JcU9JMkhkNm1HMHhsNUFpZC1rQXBLWQ?oc=5\" target=\"_blank\">ВС Ирана нанесли удары по 19 судам в Ормузе за две ночи, сообщает Fars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 13:22:00 GMT"
+    },
+    {
+      "title": "Летний сад до реставрации и быки «Самсона»: что с ними стало - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wdm9wWTNiTmxoQnV0SDBfNE80ZlJRdmZXS1Fib2lscDBxXy1jR0VGQy1nc280YnJiWGlZVy1jS2gxQ3VLM2VFU3UtZ2pIUjZlUWg2QlNKVHZTR3E4akhrNWRSbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wdm9wWTNiTmxoQnV0SDBfNE80ZlJRdmZXS1Fib2lscDBxXy1jR0VGQy1nc280YnJiWGlZVy1jS2gxQ3VLM2VFU3UtZ2pIUjZlUWg2QlNKVHZTR3E4akhrNWRSbw?oc=5\" target=\"_blank\">Летний сад до реставрации и быки «Самсона»: что с ними стало</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:20:03 GMT"
+    },
+    {
+      "title": "Стубб предложил расширить Starlink: реакция Пескова в интервью - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zLWlzUVNNNWNiT1lSZjhKNmp5WE9VM0JPYkE1SXpQRHFTMjJ4X0lTa1lWdS1oTW9BZW1Qc1NuckJKUmFEb2Y5U1FMdUZUbnI1VzV2TUwxNFVrRGoxNUdIYW1vaw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zLWlzUVNNNWNiT1lSZjhKNmp5WE9VM0JPYkE1SXpQRHFTMjJ4X0lTa1lWdS1oTW9BZW1Qc1NuckJKUmFEb2Y5U1FMdUZUbnI1VzV2TUwxNFVrRGoxNUdIYW1vaw?oc=5\" target=\"_blank\">Стубб предложил расширить Starlink: реакция Пескова в интервью</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:20:00 GMT"
+    },
+    {
+      "title": "Стубб попросил расширить Starlink для ударов по России. В Кремле ответили - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxbG11Z1JoUlRKUE9RdlM2ZnFEY3I1SlJSTEdSUy1Telg5cC1RLWJXTnZCVlRHTVdsekZUOGprMXBqNDZNaE5iRUJRSWxDMHkzcnZyU05ndw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxbG11Z1JoUlRKUE9RdlM2ZnFEY3I1SlJSTEdSUy1Telg5cC1RLWJXTnZCVlRHTVdsekZUOGprMXBqNDZNaE5iRUJRSWxDMHkzcnZyU05ndw?oc=5\" target=\"_blank\">Стубб попросил расширить Starlink для ударов по России. В Кремле ответили</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:20:00 GMT"
+    },
+    {
+      "title": "Фицо назвал условие досрочных выборов в парламент Словакии - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBST2pxMWtfVVNVSFl0VWhMRDhqVTJZcTdnSXlxRENDVFdkelJndU1UMjEwLW1OTkZZaWY1WHUwNkZmVWVIRXBRTmtjWDhURDdBMm1kWDVfN3g3TXN0X2xMelR3bkJMMEFWM2dlTGF5aFQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBST2pxMWtfVVNVSFl0VWhMRDhqVTJZcTdnSXlxRENDVFdkelJndU1UMjEwLW1OTkZZaWY1WHUwNkZmVWVIRXBRTmtjWDhURDdBMm1kWDVfN3g3TXN0X2xMelR3bkJMMEFWM2dlTGF5aFQ?oc=5\" target=\"_blank\">Фицо назвал условие досрочных выборов в парламент Словакии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 13:19:44 GMT"
+    },
+    {
+      "title": "В Нью-Йорке из-за шторма затоплены улицы, погиб человек - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Mam9GbTNOVV9qbDg0SXlQZHJmRTNNMUJxWkEtbDBGQjAxYl83aEdRTmY1dGRpUmtWMWVubHE2MkxZV0tLMFB5bmNFcVpKcDVRWG9DSzRmanE5a3RsZEZJa2NYaw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Mam9GbTNOVV9qbDg0SXlQZHJmRTNNMUJxWkEtbDBGQjAxYl83aEdRTmY1dGRpUmtWMWVubHE2MkxZV0tLMFB5bmNFcVpKcDVRWG9DSzRmanE5a3RsZEZJa2NYaw?oc=5\" target=\"_blank\">В Нью-Йорке из-за шторма затоплены улицы, погиб человек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:12:09 GMT"
+    },
+    {
+      "title": "Украинские теннисистки проиграли чешкам финал Кубка Билли Джин Кинг - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GTXY3UGZoX1lfdXBIVjZZVUFqaWlIZFA2STM2aVNRd0lGZlhaMk1acmo3dTV2THQ3cVo2blVsMURfVkVYVGdpN3dPYURldHJxcHV1enpaTWZJM212dExoTklQQ3d2ZzlxamZuOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5GTXY3UGZoX1lfdXBIVjZZVUFqaWlIZFA2STM2aVNRd0lGZlhaMk1acmo3dTV2THQ3cVo2blVsMURfVkVYVGdpN3dPYURldHJxcHV1enpaTWZJM212dExoTklQQ3d2ZzlxamZuOA?oc=5\" target=\"_blank\">Украинские теннисистки проиграли чешкам финал Кубка Билли Джин Кинг</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 13:12:00 GMT"
+    },
+    {
+      "title": "Гарбузов: компания наращивает производство упаковки при поддержке города - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SN3A5dzdpSm1ZbndSRXNLRXJGUWFFdlU1M3BHRUJmSTlaTElHajlnQUNjRVQzUHZram5zWVVNMFlaSTNvTHFMWWYxNFBHXzlMcFVMNzE0U3d5ajk2?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SN3A5dzdpSm1ZbndSRXNLRXJGUWFFdlU1M3BHRUJmSTlaTElHajlnQUNjRVQzUHZram5zWVVNMFlaSTNvTHFMWWYxNFBHXzlMcFVMNzE0U3d5ajk2?oc=5\" target=\"_blank\">Гарбузов: компания наращивает производство упаковки при поддержке города</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 13:12:00 GMT"
+    },
+    {
+      "title": "Кольская ветроэлектростанция встречает гостей в Териберке - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TNFdUZUJTbWVZaHlnaDh2LThCVTNIU3JXZjg0emNlN3Uzd3otanlHbHhfZzJVSVlnV1ZPd1hqOFJhQUdteHJ2ZFdOWjRqZDR0c181aWNyNXJiTGpaQV9BcGl2dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TNFdUZUJTbWVZaHlnaDh2LThCVTNIU3JXZjg0emNlN3Uzd3otanlHbHhfZzJVSVlnV1ZPd1hqOFJhQUdteHJ2ZFdOWjRqZDR0c181aWNyNXJiTGpaQV9BcGl2dw?oc=5\" target=\"_blank\">Кольская ветроэлектростанция встречает гостей в Териберке</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:10:27 GMT"
+    },
+    {
+      "title": "Для благотворителей повысят страховые взносы. Как это повлияет на известные организации Петербурга - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHUkxXRjhnaU1ybXhPQ3ZBQmVBR1dVR0tvUkVCQWl0Y2pCWXpzSkRRMTRJWVN3VUV5ZjhoQnl3aUpBcWc5dHVwbWs3U2s5Ri16S2ZjUUxOcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHUkxXRjhnaU1ybXhPQ3ZBQmVBR1dVR0tvUkVCQWl0Y2pCWXpzSkRRMTRJWVN3VUV5ZjhoQnl3aUpBcWc5dHVwbWs3U2s5Ri16S2ZjUUxOcw?oc=5\" target=\"_blank\">Для благотворителей повысят страховые взносы. Как это повлияет на известные организации Петербурга</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 13:05:00 GMT"
+    },
+    {
+      "title": "Россия увеличила экспорт рыбы в Китай на 19% за восемь месяцев - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jVXZhc2Y3cGhGOVRPb3o5WUtsZllVdEE4dVllejFUaFluX2ZHejNYRDk2andVdVFwak5yQ0I5US1uN3pCRXpJQWNIbVNCTkEyaTJtT0UxSHNWcWJmdUpDeHhjaEZOZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jVXZhc2Y3cGhGOVRPb3o5WUtsZllVdEE4dVllejFUaFluX2ZHejNYRDk2andVdVFwak5yQ0I5US1uN3pCRXpJQWNIbVNCTkEyaTJtT0UxSHNWcWJmdUpDeHhjaEZOZw?oc=5\" target=\"_blank\">Россия увеличила экспорт рыбы в Китай на 19% за восемь месяцев</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 12:59:31 GMT"
+    },
+    {
+      "title": "Илья Мительман, у которого роман с мисс Россия, владеет бизнесом с выручкой 6 млрд - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWENfYWdsMFJtcVJRVGN0RDdmN25CYkhtS1UtVzBWS2pTNDgwOXhveThEY0cxYl9sU2U4N1pMU1hIM0M3emEtY0EwV0E3amk3N1Z1ZjdIeURkSjlXaGZYdWdpRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWENfYWdsMFJtcVJRVGN0RDdmN25CYkhtS1UtVzBWS2pTNDgwOXhveThEY0cxYl9sU2U4N1pMU1hIM0M3emEtY0EwV0E3amk3N1Z1ZjdIeURkSjlXaGZYdWdpRQ?oc=5\" target=\"_blank\">Илья Мительман, у которого роман с мисс Россия, владеет бизнесом с выручкой 6 млрд</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 12:58:20 GMT"
+    },
+    {
+      "title": "Вучич: Сербия и Россия должны поддерживать традиционно хорошие отношения - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10XzRfYTlQMDB3c25TUkR5VEhoRDFPMTVKeFFsbHNQLVJhWV9uaUpGQnBsQWZpcElqdDRsbnl1cy10a01sLUhUUVFEQmRGdGR5R0F1VXAxbWtKNFR6Y3R1VFBqZHpNUlNZUU5FWHpZVzRqdmNTU216aC1manlZUdIBfkFVX3lxTE10XzRfYTlQMDB3c25TUkR5VEhoRDFPMTVKeFFsbHNQLVJhWV9uaUpGQnBsQWZpcElqdDRsbnl1cy10a01sLUhUUVFEQmRGdGR5R0F1VXAxbWtKNFR6Y3R1VFBqZHpNUlNZUU5FWHpZVzRqdmNTU216aC1manlZUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE10XzRfYTlQMDB3c25TUkR5VEhoRDFPMTVKeFFsbHNQLVJhWV9uaUpGQnBsQWZpcElqdDRsbnl1cy10a01sLUhUUVFEQmRGdGR5R0F1VXAxbWtKNFR6Y3R1VFBqZHpNUlNZUU5FWHpZVzRqdmNTU216aC1manlZUdIBfkFVX3lxTE10XzRfYTlQMDB3c25TUkR5VEhoRDFPMTVKeFFsbHNQLVJhWV9uaUpGQnBsQWZpcElqdDRsbnl1cy10a01sLUhUUVFEQmRGdGR5R0F1VXAxbWtKNFR6Y3R1VFBqZHpNUlNZUU5FWHpZVzRqdmNTU216aC1manlZUQ?oc=5\" target=\"_blank\">Вучич: Сербия и Россия должны поддерживать традиционно хорошие отношения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 27 Sep 2026 12:54:09 GMT"
+    },
+    {
+      "title": "Больше полусотни человек погибли из-за ливней в индийском штате Уттар-Прадеш - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3SGhKeGRYbkNkcGtQNnA0Y2VUaUVjWHNWTXp3cjhvYjlMXzlEVmxDSWE1T284aWV5dlZKa1BqdHI4d2hXQ2NOMXREMlJWTElIYVU1Q1NVYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3SGhKeGRYbkNkcGtQNnA0Y2VUaUVjWHNWTXp3cjhvYjlMXzlEVmxDSWE1T284aWV5dlZKa1BqdHI4d2hXQ2NOMXREMlJWTElIYVU1Q1NVYw?oc=5\" target=\"_blank\">Больше полусотни человек погибли из-за ливней в индийском штате Уттар-Прадеш</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 12:49:00 GMT"
+    },
+    {
+      "title": "Reuters: Китай провел военные учения в районе спорного рифа Скарборо в Южно-Китайском море - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RZTNNcWdmNmpYckZYLURwN0dUajJXY2pqbmYxYV9CZFdOcXNrdUJBVnNEemVGVkJFcWQyUEtVTW96UmVPS3V0QnEyalFLbjRTMUhKeWFqTjFfNDBnTFNQWlNwQnpBQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RZTNNcWdmNmpYckZYLURwN0dUajJXY2pqbmYxYV9CZFdOcXNrdUJBVnNEemVGVkJFcWQyUEtVTW96UmVPS3V0QnEyalFLbjRTMUhKeWFqTjFfNDBnTFNQWlNwQnpBQQ?oc=5\" target=\"_blank\">Reuters: Китай провел военные учения в районе спорного рифа Скарборо в Южно-Китайском море</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 12:47:43 GMT"
+    },
+    {
+      "title": "В Нидерландах бензин подорожал до исторического максимума - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UOFFLanlWYmZ5NlQxekxTcGVtekRfVlR3cFpvSlhOVENsUkphTThiemFyd0FrbnZoY0ZveTV1WFBtbmN1UFBWYm1HX1lySmw3STc3dUZmazF4dE5RV2M3a3ZKUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UOFFLanlWYmZ5NlQxekxTcGVtekRfVlR3cFpvSlhOVENsUkphTThiemFyd0FrbnZoY0ZveTV1WFBtbmN1UFBWYm1HX1lySmw3STc3dUZmazF4dE5RV2M3a3ZKUQ?oc=5\" target=\"_blank\">В Нидерландах бензин подорожал до исторического максимума</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 12:41:09 GMT"
+    },
+    {
+      "title": "Захарова объяснила, зачем глава МИД ФРГ просил о встрече с Лавровым - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sckNXQXRsa0JTWEZUZWx1clBfZlFVSWR6endJa3drTzUtXzNINDFraGk5MFRmNFR5VEc0ZXctaFYycHhfeFlmS1l0ZmtuUkItRTZWWlpiT3JjZ1Vo?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sckNXQXRsa0JTWEZUZWx1clBfZlFVSWR6endJa3drTzUtXzNINDFraGk5MFRmNFR5VEc0ZXctaFYycHhfeFlmS1l0ZmtuUkItRTZWWlpiT3JjZ1Vo?oc=5\" target=\"_blank\">Захарова объяснила, зачем глава МИД ФРГ просил о встрече с Лавровым</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 12:41:00 GMT"
+    },
+    {
+      "title": "В Петербурге сносят многоквартирный дом на проспекте Обуховской Обороны - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXWVdXdW1laEw0dHpPbW96T09QcWpldVNzNS1BZTkyVzZuUmtyNS1rYWRGVUNOOWs2QVJlNnEzdzZRaFJtQ3kyakxtd2Y3cW45OXBpTVFkNzVKLS1vcW1FbDV0MA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXWVdXdW1laEw0dHpPbW96T09QcWpldVNzNS1BZTkyVzZuUmtyNS1rYWRGVUNOOWs2QVJlNnEzdzZRaFJtQ3kyakxtd2Y3cW45OXBpTVFkNzVKLS1vcW1FbDV0MA?oc=5\" target=\"_blank\">В Петербурге сносят многоквартирный дом на проспекте Обуховской Обороны</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 12:33:32 GMT"
+    },
+    {
+      "title": "В Абхазии пропала туристка из России - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oNDR4b1QwT2lCRTBTaFRab09VLWtqTjYwenNLcmFBUFAyNXNNT2Vxd0dGV0tMMWdjbDZjTzFDU1J3WjNabmJHUjlQSUdOME9ESERtNWFkUlBaXzktZEg0ZnhlQVJJVG9vZ0JpNWdBVlBvN2VO0gF6QVVfeXFMTW4zOXg2SzJWN0ZqeU5aZmloWFZ2TmNERVRBOTdNam1pVTJmZjRCS2Z4eUFsanc3VjQzWF90eFcyVFc3UHNwNGJ3WGU2TTJ2ay14bzR3TjIyNHEzVjFxbkg1Y1U1d09pVlU5cXgtdXkwZC1YdmxNUXlqNVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1oNDR4b1QwT2lCRTBTaFRab09VLWtqTjYwenNLcmFBUFAyNXNNT2Vxd0dGV0tMMWdjbDZjTzFDU1J3WjNabmJHUjlQSUdOME9ESERtNWFkUlBaXzktZEg0ZnhlQVJJVG9vZ0JpNWdBVlBvN2VO0gF6QVVfeXFMTW4zOXg2SzJWN0ZqeU5aZmloWFZ2TmNERVRBOTdNam1pVTJmZjRCS2Z4eUFsanc3VjQzWF90eFcyVFc3UHNwNGJ3WGU2TTJ2ay14bzR3TjIyNHEzVjFxbkg1Y1U1d09pVlU5cXgtdXkwZC1YdmxNUXlqNVE?oc=5\" target=\"_blank\">В Абхазии пропала туристка из России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 27 Sep 2026 12:32:57 GMT"
+    },
+    {
+      "title": "Джиган опроверг информацию о стрельбе по сотрудникам в своем доме - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VVFdLamYxVE9icl9ZLXl0WHZ0b3ZNZEVpdmlHQWQ5elVlT2xWVzAxR3h2eUFZY0lwSmFIbnZDWWlxaTRFSkJBbUFmWUowZUlnQl9uVDF2bVR2WUMtcTVxVDVjNDYydw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VVFdLamYxVE9icl9ZLXl0WHZ0b3ZNZEVpdmlHQWQ5elVlT2xWVzAxR3h2eUFZY0lwSmFIbnZDWWlxaTRFSkJBbUFmWUowZUlnQl9uVDF2bVR2WUMtcTVxVDVjNDYydw?oc=5\" target=\"_blank\">Джиган опроверг информацию о стрельбе по сотрудникам в своем доме</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 12:26:32 GMT"
+    },
+    {
+      "title": "Немцы набросились на главу МИД из-за встречи с Лавровым - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVb0R6ZXphUkkyTGxHcmUzTGpWcnhrTGY4MzdQS0N5S2VPUDJPcDBDTVRyc01DbmpoOUp3MDNiTlVJSmlVU0VsbW0xSTM2NWUxVmxBTzViMk0zQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVb0R6ZXphUkkyTGxHcmUzTGpWcnhrTGY4MzdQS0N5S2VPUDJPcDBDTVRyc01DbmpoOUp3MDNiTlVJSmlVU0VsbW0xSTM2NWUxVmxBTzViMk0zQQ?oc=5\" target=\"_blank\">Немцы набросились на главу МИД из-за встречи с Лавровым</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 12:22:00 GMT"
+    },
+    {
+      "title": "«Маникюр жены миллионера»: как выглядят трендовые ноготочки осени-2026 - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13NHQwYjBFTGphWUNqS292UHExNy1xUU16Y0s2VWtpVnowSkpJMmVnQkJRMWRqZm01bDNCWVlCVmptdFZMZkpodHYzbzJaby1TX3djWU11QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE13NHQwYjBFTGphWUNqS292UHExNy1xUU16Y0s2VWtpVnowSkpJMmVnQkJRMWRqZm01bDNCWVlCVmptdFZMZkpodHYzbzJaby1TX3djWU11QQ?oc=5\" target=\"_blank\">«Маникюр жены миллионера»: как выглядят трендовые ноготочки осени-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 12:20:00 GMT"
+    },
+    {
+      "title": "Захарова ответила цитатой из Евангелия на заявление Вадефуля о России — РТ на русском - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkRWZ3l3U09TeDBMQ2F1S2lDd01UbTJZSmVxSzdoUEhZaG1UNXdkcDBKaTRQcEhfVmt3UldBSU54RUhQVDIzcWhlMkh3ZWtaQmxUWFZxUXYwSGpqbXBDSDUxa1hOZVFKMm5fYTRYT2lBSVV5ZHoyRjJYSGdZcmdDZ0d3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkRWZ3l3U09TeDBMQ2F1S2lDd01UbTJZSmVxSzdoUEhZaG1UNXdkcDBKaTRQcEhfVmt3UldBSU54RUhQVDIzcWhlMkh3ZWtaQmxUWFZxUXYwSGpqbXBDSDUxa1hOZVFKMm5fYTRYT2lBSVV5ZHoyRjJYSGdZcmdDZ0d3?oc=5\" target=\"_blank\">Захарова ответила цитатой из Евангелия на заявление Вадефуля о России — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 27 Sep 2026 12:16:36 GMT"
+    },
+    {
+      "title": "Трамп отменит стандарты экономии топлива «эпохи» Байдена - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3RfbTBrR3ZHNlNIUHo4ZTlkbUN4ZUptNnJGbVlKS1lYZEZpNHMtSzlPWmx5VTJJVmF2ci04TDIxc240Q3A3YlFTZmNKek00UHVIRDZycUtRUHpEWElOLVhJUFVkZl8zV1Y1YWVZT0RaRW4tRU1zUFI5Zjg1c1gzc1ViYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3RfbTBrR3ZHNlNIUHo4ZTlkbUN4ZUptNnJGbVlKS1lYZEZpNHMtSzlPWmx5VTJJVmF2ci04TDIxc240Q3A3YlFTZmNKek00UHVIRDZycUtRUHpEWElOLVhJUFVkZl8zV1Y1YWVZT0RaRW4tRU1zUFI5Zjg1c1gzc1ViYw?oc=5\" target=\"_blank\">Трамп отменит стандарты экономии топлива «эпохи» Байдена</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 12:11:46 GMT"
+    },
+    {
+      "title": "Карта спецоперации Вооруженных сил России на Украине на 27.09.2026 - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RN19peTBRNGN6SW9lU0tudVk2VWFZdmFhNnJOdzNUWEhxQXdtRS0xczVpajYySy1DOU9ORi01alpEZ3JueDM0X0xlWUZna0MycDNpd0lyVktLUzN2RVMtbnhjR2RBdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RN19peTBRNGN6SW9lU0tudVk2VWFZdmFhNnJOdzNUWEhxQXdtRS0xczVpajYySy1DOU9ORi01alpEZ3JueDM0X0xlWUZna0MycDNpd0lyVktLUzN2RVMtbnhjR2RBdw?oc=5\" target=\"_blank\">Карта спецоперации Вооруженных сил России на Украине на 27.09.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 12:08:00 GMT"
+    },
+    {
+      "title": "\"Нет противодействия\". На Украине сделали заявление после ударов ВС России - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ucFFVUWVCRFhYS1ZBZWhoVUwxRWk3QmU4VXR4Y1VaelB1akM0WW1hM0tzRUNnRFowb21mOVFOVzdDWER3a2x4T0RVWXZmSU11dVFldXlqcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ucFFVUWVCRFhYS1ZBZWhoVUwxRWk3QmU4VXR4Y1VaelB1akM0WW1hM0tzRUNnRFowb21mOVFOVzdDWER3a2x4T0RVWXZmSU11dVFldXlqcw?oc=5\" target=\"_blank\">\"Нет противодействия\". На Украине сделали заявление после ударов ВС России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 12:03:00 GMT"
+    },
+    {
+      "title": "Как лечить эксгибиционистов, педофилов и садомазохистов. Впервые появились клинические рекомендации - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12OTg5Z1l2LXEtM3FYWXd0RnZ5MEVibHU0dTF6RjRNWC1mUmg3SFlPbUdzWWFsTk91Y2dCQkNkTWd6TXk0bzlkS1A4bkRDZjFCcTdPb0ZCcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE12OTg5Z1l2LXEtM3FYWXd0RnZ5MEVibHU0dTF6RjRNWC1mUmg3SFlPbUdzWWFsTk91Y2dCQkNkTWd6TXk0bzlkS1A4bkRDZjFCcTdPb0ZCcw?oc=5\" target=\"_blank\">Как лечить эксгибиционистов, педофилов и садомазохистов. Впервые появились клинические рекомендации</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 12:02:00 GMT"
+    },
+    {
+      "title": "в Перми на ведение бухгалтерии больницы выделили 41,6 млн руб. - perm.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQRTVFdUs5Qm5UUmZYeVRIYUhVLWZGaFNnMUVCb2FvWGUzQTJzNHBvTkN0U2NHa1VTUENRZ29fc3l3MDloYWlNV1RLN1c1bnY4WnlMR2YxSlZIQ3ZRc0lndFhDZkdJN3pGdGQ5SkVwSVNhTHI5aGRCZ0lQeVo?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBQRTVFdUs5Qm5UUmZYeVRIYUhVLWZGaFNnMUVCb2FvWGUzQTJzNHBvTkN0U2NHa1VTUENRZ29fc3l3MDloYWlNV1RLN1c1bnY4WnlMR2YxSlZIQ3ZRc0lndFhDZkdJN3pGdGQ5SkVwSVNhTHI5aGRCZ0lQeVo?oc=5\" target=\"_blank\">в Перми на ведение бухгалтерии больницы выделили 41,6 млн руб.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">perm.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 11:50:36 GMT"
+    },
+    {
+      "title": "Снял все сливки? Что известно про «кондитерского короля» Мительмана, роман которого с любимой девушкой Киркорова обсуждает вся страна - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1neVdFSDJqXzJmT0xURHUtbE9LUXJGNHNlNXd5cnJuWGpsOWtrcmQ5YThEaTlsRmFJRUw0LTctX0g3MlNtZi00VGtacll1ZlM1MnF0b21DRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1neVdFSDJqXzJmT0xURHUtbE9LUXJGNHNlNXd5cnJuWGpsOWtrcmQ5YThEaTlsRmFJRUw0LTctX0g3MlNtZi00VGtacll1ZlM1MnF0b21DRQ?oc=5\" target=\"_blank\">Снял все сливки? Что известно про «кондитерского короля» Мительмана, роман которого с любимой девушкой Киркорова обсуждает вся страна</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 11:47:04 GMT"
+    },
+    {
+      "title": "Швейцарцы не поддержали инициативу об ужесточении нейтралитета - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1U2WVFTVXBJa1lDZ2tMZXVIUDl5MmlMOUM0Z0M1N1RGWEpEUFZscW5DWWlkRzg2Q3g3NnVmbEVtUFZmbXZsd0tlWWZObUllOXJlMkQwZzN0SUdYWlNYdEZCZEE2ZEhGc2ZWZlo4azVkS2lkX2Rvb3ZvdFEwcmZ4QzlWUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1U2WVFTVXBJa1lDZ2tMZXVIUDl5MmlMOUM0Z0M1N1RGWEpEUFZscW5DWWlkRzg2Q3g3NnVmbEVtUFZmbXZsd0tlWWZObUllOXJlMkQwZzN0SUdYWlNYdEZCZEE2ZEhGc2ZWZlo4azVkS2lkX2Rvb3ZvdFEwcmZ4QzlWUQ?oc=5\" target=\"_blank\">Швейцарцы не поддержали инициативу об ужесточении нейтралитета</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 11:41:09 GMT"
+    },
+    {
+      "title": "SCMP назвала три причины сильной позиции Си на новой встрече с Трампом - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KRksyYmhnLVhBWE54eWprNkIwNHo4azk5UTdBSlpSWWl4c25rV01UbzMwekRoVHBQRjZCeTRnc2FkYm5jVUJrQWNOc0lJQ0xJdXJXYVhNdFJ4eGNWZ0l5SllLMGFyWnNpUjVMaklXRUVVVElZNzdXcjVEMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1KRksyYmhnLVhBWE54eWprNkIwNHo4azk5UTdBSlpSWWl4c25rV01UbzMwekRoVHBQRjZCeTRnc2FkYm5jVUJrQWNOc0lJQ0xJdXJXYVhNdFJ4eGNWZ0l5SllLMGFyWnNpUjVMaklXRUVVVElZNzdXcjVEMA?oc=5\" target=\"_blank\">SCMP назвала три причины сильной позиции Си на новой встрече с Трампом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 11:30:08 GMT"
+    }
+  ]
 }
