@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T07:36:37.434720+00:00",
+  "updated": "2026-09-27T08:05:12.769143+00:00",
   "count": 40,
   "news": [
     {
@@ -10,11 +10,74 @@
       "pub": "Thu, 24 Sep 2026 08:22:59 GMT"
     },
     {
+      "title": "Московский экспорт - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GZTFuQk41ZzlRN2p3MWJwMjFwUFlBekd5VzRlYjQ3WkN1QkY2Z1pzLVplUGZIeWwzdnRua2xLNS1jU09fVU05UDR2ZnR4bjQ3bDFLRDM3SXFONkZqX3c5VHlXQ0VRVmg0ZVg2SGtB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5GZTFuQk41ZzlRN2p3MWJwMjFwUFlBekd5VzRlYjQ3WkN1QkY2Z1pzLVplUGZIeWwzdnRua2xLNS1jU09fVU05UDR2ZnR4bjQ3bDFLRDM3SXFONkZqX3c5VHlXQ0VRVmg0ZVg2SGtB?oc=5\" target=\"_blank\">Московский экспорт</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 08:00:10 GMT"
+    },
+    {
+      "title": "Трое весельчаков потеряли дар речи, когда после стрельбы в Петербурге за ними приехала полиция - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81MFdMUkVmcXp6SHpDV0RwUjdyWS1zTG9MT2VTMjQwQWx0NGRmbjVmSTBXZ19DMXR2M0lVLTZIVGpQWFNJQmhFc0hXZTVMdHdEU1N1ZXhPdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE81MFdMUkVmcXp6SHpDV0RwUjdyWS1zTG9MT2VTMjQwQWx0NGRmbjVmSTBXZ19DMXR2M0lVLTZIVGpQWFNJQmhFc0hXZTVMdHdEU1N1ZXhPdw?oc=5\" target=\"_blank\">Трое весельчаков потеряли дар речи, когда после стрельбы в Петербурге за ними приехала полиция</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 07:53:56 GMT"
+    },
+    {
+      "title": "Выборы в Государственную думу - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dzNOS3lPeXRTZWlidFdiMTJod1ZNRDNRN1Vsc1hTVTdGLXF5TkVvTEZJbVJBdjRWOUtPVU93MG1QWk51VWFMUzFqZFBYLUo0T1doSWhzaFI1QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dzNOS3lPeXRTZWlidFdiMTJod1ZNRDNRN1Vsc1hTVTdGLXF5TkVvTEZJbVJBdjRWOUtPVU93MG1QWk51VWFMUzFqZFBYLUo0T1doSWhzaFI1QQ?oc=5\" target=\"_blank\">Выборы в Государственную думу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 07:52:27 GMT"
+    },
+    {
+      "title": "ВС России предотвратили попытки ВСУ выйти из окружения в районе Нефедовки - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQUm9iVnByb010X3BpNXYxM2xHQkVWNFNDNTM1UDhzYnViWDd1SU9YemdQTmhhT1hwblhrWUY5REloQzFEMkxKZ1FBRFByRTZIaDRtdXp3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQUm9iVnByb010X3BpNXYxM2xHQkVWNFNDNTM1UDhzYnViWDd1SU9YemdQTmhhT1hwblhrWUY5REloQzFEMkxKZ1FBRFByRTZIaDRtdXp3?oc=5\" target=\"_blank\">ВС России предотвратили попытки ВСУ выйти из окружения в районе Нефедовки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 07:42:00 GMT"
+    },
+    {
+      "title": "МО РФ: ВСУ потеряли свыше 230 военных в зоне действия \"Запада\" за сутки - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12RlJkOFNscERfVDczYzNGWlRoVWptTGpDQkJwUGtFUDZ3QXdYSWd0REl3VnJqMG5zbXNQeVZ1X2V0emthTUxEYzlraGhFRkRtM2xaZGF1YjI?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE12RlJkOFNscERfVDczYzNGWlRoVWptTGpDQkJwUGtFUDZ3QXdYSWd0REl3VnJqMG5zbXNQeVZ1X2V0emthTUxEYzlraGhFRkRtM2xaZGF1YjI?oc=5\" target=\"_blank\">МО РФ: ВСУ потеряли свыше 230 военных в зоне действия \"Запада\" за сутки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 07:40:00 GMT"
+    },
+    {
+      "title": "Уролог, токи и «лазер по крови». Пациентов с депрессией будут лечить по-новому - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbTZXeDJhYThCa3IzT1piV1VCYy1xU2lxUDJQd1RvMzZJNEx3d2FOamRCaWZGcVhiM0JQVGhmeGFFTG00dEVMcmRlY2tmamtvczE5VVNwQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbTZXeDJhYThCa3IzT1piV1VCYy1xU2lxUDJQd1RvMzZJNEx3d2FOamRCaWZGcVhiM0JQVGhmeGFFTG00dEVMcmRlY2tmamtvczE5VVNwQQ?oc=5\" target=\"_blank\">Уролог, токи и «лазер по крови». Пациентов с депрессией будут лечить по-новому</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 07:39:00 GMT"
+    },
+    {
+      "title": "Перекрытия в Москве 26 и 27 сентября из-за марафона. Где и в какое время - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwakRmYkZIY3BrX3pXaktOMTFxazhNZjd4ZzZ3bWQ4TUU2TFBReVp5UWkzeGZWUlc4a3I2WktQNXZESEVLeC0wdnQxeTBtNVN3MnNXNk5KcjJYRFdHRDVzQWUwZldyZF9WSzdGeW12NA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAwakRmYkZIY3BrX3pXaktOMTFxazhNZjd4ZzZ3bWQ4TUU2TFBReVp5UWkzeGZWUlc4a3I2WktQNXZESEVLeC0wdnQxeTBtNVN3MnNXNk5KcjJYRFdHRDVzQWUwZldyZF9WSzdGeW12NA?oc=5\" target=\"_blank\">Перекрытия в Москве 26 и 27 сентября из-за марафона. Где и в какое время</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 07:34:30 GMT"
+    },
+    {
+      "title": "Юрист предупредил о новой схеме обмана с вопросами к \"объявлению\" о продаже - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mdWNWUzZLeEVMakd4YVBMaUQ2SHo1QTVCc2xHOVdlYjM0QzBDOG94Z2JFZExvM3p4eEFXN3JGRW1MZEpyVmJXQS1IbXR0dWpjSXlELTJsZ0w?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mdWNWUzZLeEVMakd4YVBMaUQ2SHo1QTVCc2xHOVdlYjM0QzBDOG94Z2JFZExvM3p4eEFXN3JGRW1MZEpyVmJXQS1IbXR0dWpjSXlELTJsZ0w?oc=5\" target=\"_blank\">Юрист предупредил о новой схеме обмана с вопросами к \"объявлению\" о продаже</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 07:31:00 GMT"
+    },
+    {
       "title": "Жители России испытывают дефицит витамина D - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1seS05aVljS1JoWFBtc2lvV0hnQ1FybkNVSU9EZHp4WTc0dGJmOTVTZF9RRlRnUTZaOE5yTUJrRlFzTEtqVnl6Q0ZIVWpNVnBEckdNZVRLc2oyMXRrb1NMVERVbw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1seS05aVljS1JoWFBtc2lvV0hnQ1FybkNVSU9EZHp4WTc0dGJmOTVTZF9RRlRnUTZaOE5yTUJrRlFzTEtqVnl6Q0ZIVWpNVnBEckdNZVRLc2oyMXRrb1NMVERVbw?oc=5\" target=\"_blank\">Жители России испытывают дефицит витамина D</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Sun, 27 Sep 2026 07:28:15 GMT"
+    },
+    {
+      "title": "СМИ: Бардачев вошел в топ-10 центральных защитников мира до 22 лет - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95Qmc1RlI3ZFlIU0pCNDRTOTVwMzlqOGt4VGp5bVpoVEFiU2x6SDRvTGlVTHREMVZKMWp2cS1IaUdzb1JPVFdZRF80MWdFNkNObG1OeFBuZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE95Qmc1RlI3ZFlIU0pCNDRTOTVwMzlqOGt4VGp5bVpoVEFiU2x6SDRvTGlVTHREMVZKMWp2cS1IaUdzb1JPVFdZRF80MWdFNkNObG1OeFBuZw?oc=5\" target=\"_blank\">СМИ: Бардачев вошел в топ-10 центральных защитников мира до 22 лет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 07:28:00 GMT"
     },
     {
       "title": "«Теремису» в вафельном стаканчике. Самые оригинальные блюда фестиваля «Петербургский десерт» - ФОНТАНКА.ру",
@@ -87,6 +150,13 @@
       "pub": "Sun, 27 Sep 2026 06:14:00 GMT"
     },
     {
+      "title": "Как определить погоду по кошке: 6 сигналов домашнего метеоролога - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40dF90WTYtc2FHdWtlSkNZUHcxZUpxRTA3aE1GUEJfcjBEZmRhRVRpc005Nk1yNjlIUWJoS3k0S19KblZWanBBWjdUQU1fQWcyQ0tpSmo5ZmxLUTB2NlFkb09kbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE40dF90WTYtc2FHdWtlSkNZUHcxZUpxRTA3aE1GUEJfcjBEZmRhRVRpc005Nk1yNjlIUWJoS3k0S19KblZWanBBWjdUQU1fQWcyQ0tpSmo5ZmxLUTB2NlFkb09kbw?oc=5\" target=\"_blank\">Как определить погоду по кошке: 6 сигналов домашнего метеоролога</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 06:11:00 GMT"
+    },
+    {
       "title": "Не только клубок и укрытый нос. Поза спящей кошки подскажет, когда ждать похолодания и грозы - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaT204dGdKMzB1MldrUjQ1MjMtSzZBdldtT1NDQ053VDJKcW41dUk1M3lPVndRZnRMbnVKUW5ybXZ0VWpsZ2FDSnZJUHlScjVSc0hmbEVTWQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaT204dGdKMzB1MldrUjQ1MjMtSzZBdldtT1NDQ053VDJKcW41dUk1M3lPVndRZnRMbnVKUW5ybXZ0VWpsZ2FDSnZJUHlScjVSc0hmbEVTWQ?oc=5\" target=\"_blank\">Не только клубок и укрытый нос. Поза спящей кошки подскажет, когда ждать похолодания и грозы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -129,11 +199,11 @@
       "pub": "Sun, 27 Sep 2026 06:00:00 GMT"
     },
     {
-      "title": "МИД России: действия Запада серьёзно вредят Арктическому совету — РТ на русском - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HWmtqOWlWaE1pWmdjUFRiaXIzaExqdzJZZ2h1SW8zN0NLUEY2QTUzWG9SOV81cWRVbTg5ZmQ5VEhmb0Z3ZHhVaXh0Yjladl82WkVzWHdDR0xpSWM4OHBVRW9HYTJfSEFlN0FJNEZMbTBCOUcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1HWmtqOWlWaE1pWmdjUFRiaXIzaExqdzJZZ2h1SW8zN0NLUEY2QTUzWG9SOV81cWRVbTg5ZmQ5VEhmb0Z3ZHhVaXh0Yjladl82WkVzWHdDR0xpSWM4OHBVRW9HYTJfSEFlN0FJNEZMbTBCOUcw?oc=5\" target=\"_blank\">МИД России: действия Запада серьёзно вредят Арктическому совету — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sun, 27 Sep 2026 05:57:56 GMT"
+      "title": "В Сочи открыли доступ к пляжам и набережным после отмены угрозы БЭК - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMVZaSV9JcllFc1EwYWxmdk03dlA3VFFoN25XdjljTXYtZVBidlJpWjRqeHprNE1fQ3VuZDZiRGZOSE92OHZ6ZzRfMk5ua01PLW5aN2ZHOHlwQmZBUW94eGlQdDZuZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMVZaSV9JcllFc1EwYWxmdk03dlA3VFFoN25XdjljTXYtZVBidlJpWjRqeHprNE1fQ3VuZDZiRGZOSE92OHZ6ZzRfMk5ua01PLW5aN2ZHOHlwQmZBUW94eGlQdDZuZw?oc=5\" target=\"_blank\">В Сочи открыли доступ к пляжам и набережным после отмены угрозы БЭК</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 05:50:22 GMT"
     },
     {
       "title": "Кинолог назвал самый эффективный способ воспитания собаки - ria.ru",
@@ -148,13 +218,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9uYWhaMkFzZGxRQWVRVXVzckt5U0xvMU04S3EzTFlLQ3oxWUZ0ckJvR0hNQ3JGaThHTWxwbURIYXoxSlN2aktNdHFiSjU1TkEwbEFmSmNqZVJsdUlJZ3BtOWtoczgwNXNmZmQw0gFwQVVfeXFMUHdRY0pzSVZJU0ZVNUNsTF83VjBBSmMyWm1HWHg3ejZHd2hTckk4OHRWMzM5ZnNHZzg5Wlg4WVkxWm1vNU9vWUsyejdBSG1xdmRGSFZwaWMtV1NrQWgweTJycVpOOGdRWXBBc1lSTXR2cg?oc=5\" target=\"_blank\">Силы ПВО ВС России сбили 96 украинских БПЛА над страной за ночь</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sun, 27 Sep 2026 05:39:52 GMT"
-    },
-    {
-      "title": "Перекрытия в Москве 26 и 27 сентября из-за марафона. Где и в какое время - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwakRmYkZIY3BrX3pXaktOMTFxazhNZjd4ZzZ3bWQ4TUU2TFBReVp5UWkzeGZWUlc4a3I2WktQNXZESEVLeC0wdnQxeTBtNVN3MnNXNk5KcjJYRFdHRDVzQWUwZldyZF9WSzdGeW12NA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAwakRmYkZIY3BrX3pXaktOMTFxazhNZjd4ZzZ3bWQ4TUU2TFBReVp5UWkzeGZWUlc4a3I2WktQNXZESEVLeC0wdnQxeTBtNVN3MnNXNk5KcjJYRFdHRDVzQWUwZldyZF9WSzdGeW12NA?oc=5\" target=\"_blank\">Перекрытия в Москве 26 и 27 сентября из-за марафона. Где и в какое время</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 05:39:10 GMT"
     },
     {
       "title": "ВС России поразили штаб военно-морской базы «Восток» ВМС Украины в порту Килия - russian.rt.com",
@@ -185,18 +248,11 @@
       "pub": "Sun, 27 Sep 2026 05:35:36 GMT"
     },
     {
-      "title": "ВС России ударили в Киевской области по логистическому центру «Залмер групп» - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51ZDltQng0dTB5Y0JPYzh2TjVmM0NMZm1qZXhPdnJOMWZYVlA4LW12WmpaTy1qNll2UmZsTjBMSWtTWktmRkFLTjh2RmU1N3Q1Q3lGR1phQ2ROTXllQXBxaWE0OXNFN3RBUjJUX2hOemlYRUpYSUV1LXlJeE1WU0XSAYQBQVVfeXFMUFNsWE55cEVPY0pEM25mbXRQYnM2V1dNTHpmTWgybXJ1WU42bi1JbGQ1RGM2R1ZEUmd6ZG5HLWlTd092VmloNkJmNThNcmhWVlF3RW9kWFVOZmxTbmhrNkJXSWthVXJYMGhfR1VxRWRSYTlBU0RXaGZmOEtnQ1pqRjVZOFA4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE51ZDltQng0dTB5Y0JPYzh2TjVmM0NMZm1qZXhPdnJOMWZYVlA4LW12WmpaTy1qNll2UmZsTjBMSWtTWktmRkFLTjh2RmU1N3Q1Q3lGR1phQ2ROTXllQXBxaWE0OXNFN3RBUjJUX2hOemlYRUpYSUV1LXlJeE1WU0XSAYQBQVVfeXFMUFNsWE55cEVPY0pEM25mbXRQYnM2V1dNTHpmTWgybXJ1WU42bi1JbGQ1RGM2R1ZEUmd6ZG5HLWlTd092VmloNkJmNThNcmhWVlF3RW9kWFVOZmxTbmhrNkJXSWthVXJYMGhfR1VxRWRSYTlBU0RXaGZmOEtnQ1pqRjVZOFA4?oc=5\" target=\"_blank\">ВС России ударили в Киевской области по логистическому центру «Залмер групп»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "title": "ВС России ударили в Николаеве по складам БПЛА ВСУ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1MGFJVU5OR1V4V2NKVkxoRHROcExmVjQ3Z1BuRThjOFZNV3V4cm1PdW1NbU5OLVZ6Sjhzd0VvV2p5RVRYbGlnUXFjdzFSWFpDRWg4M2Z6eUFWeThPSFFfamJKdFNCcTNZaG01bldZU19IUzN4bkp1RExqZHEtUdIBgwFBVV95cUxQdm5zVmVub1NUcDByMi1OMDNIUUV2dFl1NmNEOGpTOGx5Y05XMExKaFRXc2pRN3k1UXM2SE12X3RhbWtuM216YlNrQUNVandibm05ZUI4bm9NYWpRUDlFR1k0dEFMWGl0WDdVRUxXaVdyX2d2NVplUld3N3VQaFRjd1JLMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1MGFJVU5OR1V4V2NKVkxoRHROcExmVjQ3Z1BuRThjOFZNV3V4cm1PdW1NbU5OLVZ6Sjhzd0VvV2p5RVRYbGlnUXFjdzFSWFpDRWg4M2Z6eUFWeThPSFFfamJKdFNCcTNZaG01bldZU19IUzN4bkp1RExqZHEtUdIBgwFBVV95cUxQdm5zVmVub1NUcDByMi1OMDNIUUV2dFl1NmNEOGpTOGx5Y05XMExKaFRXc2pRN3k1UXM2SE12X3RhbWtuM216YlNrQUNVandibm05ZUI4bm9NYWpRUDlFR1k0dEFMWGl0WDdVRUxXaVdyX2d2NVplUld3N3VQaFRjd1JLMA?oc=5\" target=\"_blank\">ВС России ударили в Николаеве по складам БПЛА ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
-      "pub": "Sun, 27 Sep 2026 05:31:32 GMT"
-    },
-    {
-      "title": "ВС России поразили судно, доставлявшее в порт Одесса груз для ВСУ - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVFVZbW9zaS1qRjhianp3d1U4Yk9BUWc2aVVhR1NMWGpBbF9nQm1GSExDS1MtcHBpTFB0SXdlVWJQcEpCT1ZSdGVkNDdRTW5hMFpScXVnWHVLOE9rLTNoS2hLYlRLOEo5V0JKVndB0gFuQVVfeXFMUHFUVVltb3NpLWpGOGJqend3VThiT0FRZzZpVWFHU0xYakFsX2dCbUZITENLUy1wcGlMUHRJd2VVYlBwSkJPVlJ0ZWQ0N1FNbmEwWlJxdWdYdUs4T2stM2hLaEtiVEs4SjlXQkpWd0E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVFVZbW9zaS1qRjhianp3d1U4Yk9BUWc2aVVhR1NMWGpBbF9nQm1GSExDS1MtcHBpTFB0SXdlVWJQcEpCT1ZSdGVkNDdRTW5hMFpScXVnWHVLOE9rLTNoS2hLYlRLOEo5V0JKVndB0gFuQVVfeXFMUHFUVVltb3NpLWpGOGJqend3VThiT0FRZzZpVWFHU0xYakFsX2dCbUZITENLUy1wcGlMUHRJd2VVYlBwSkJPVlJ0ZWQ0N1FNbmEwWlJxdWdYdUs4T2stM2hLaEtiVEs4SjlXQkpWd0E?oc=5\" target=\"_blank\">ВС России поразили судно, доставлявшее в порт Одесса груз для ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sun, 27 Sep 2026 05:30:20 GMT"
+      "pub": "Sun, 27 Sep 2026 05:35:18 GMT"
     },
     {
       "title": "Российские войска поразили в Киеве центр обработки данных Vodafone - russian.rt.com",
@@ -204,6 +260,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1DLURoWm9TaGNoNmNoaGM3TkJMdTdOeWMzZnpVRGxKR2k4QlNEaFZwQUc1cGJSc256d2c2ajNFaldxU1IwZGFSbi1xTE1aZnB0WlJRNl80clJJeFpIWG5IZm0zbmRmUlgtNS1HZ25WLTYwdlBIN3Y0NFA3Y9IBgAFBVV95cUxOVTVWcVBNQWZnY19uQVFQM19sWUVvT1BLOUhET1c1cmV5MUwxWUZVRGZtMTNiTTBHemJNN3RiMkpvTmdRUnp6WnVQamdDT0NaU2JMYm9fRGNZLXV6VjNUZHNscktnUTVJNG9JVzV4bTN1VWMybXRKWE5qUElSZldQUw?oc=5\" target=\"_blank\">Российские войска поразили в Киеве центр обработки данных Vodafone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sun, 27 Sep 2026 05:28:09 GMT"
+    },
+    {
+      "title": "ВС России поразили судно, доставлявшее в порт Одесса груз для ВСУ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IY3ltR19zdDFRVkVHcklGTFZUUkFXbmctR3haTTA3dzNvaUhGSzlLZ2dPcVJBWlNBV2p3MDd3eE82UWVndkVUZ3NvTFpWNDItLXdqWUFnY3haaWdNcG1MY3JLT21BeE4t0gFuQVVfeXFMUHFUVVltb3NpLWpGOGJqend3VThiT0FRZzZpVWFHU0xYakFsX2dCbUZITENLUy1wcGlMUHRJd2VVYlBwSkJPVlJ0ZWQ0N1FNbmEwWlJxdWdYdUs4T2stM2hLaEtiVEs4SjlXQkpWd0E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IY3ltR19zdDFRVkVHcklGTFZUUkFXbmctR3haTTA3dzNvaUhGSzlLZ2dPcVJBWlNBV2p3MDd3eE82UWVndkVUZ3NvTFpWNDItLXdqWUFnY3haaWdNcG1MY3JLT21BeE4t0gFuQVVfeXFMUHFUVVltb3NpLWpGOGJqend3VThiT0FRZzZpVWFHU0xYakFsX2dCbUZITENLUy1wcGlMUHRJd2VVYlBwSkJPVlJ0ZWQ0N1FNbmEwWlJxdWdYdUs4T2stM2hLaEtiVEs4SjlXQkpWd0E?oc=5\" target=\"_blank\">ВС России поразили судно, доставлявшее в порт Одесса груз для ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 27 Sep 2026 05:28:08 GMT"
     },
     {
       "title": "МО: ВС России поразили штаб базы \"Восток\" ВМС Украины в порту Килия под Одессой - ria.ru",
@@ -218,69 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5WTHNaelBNdDhQdk0xblZmUFlqVnZXVnlYcVBqdGVYbm1CODFRV1FjbGV3bHRQVFdvTVZYZmluYjh5MDk5UnZJc2d1U0F4Tk11VFROckhQZ3llTThYeENIVWFUWWFTdTlqU21rYmFR0gFzQVVfeXFMTlJMTnkwZzZxZ1R2SjM3bjIxaEN2Wm0zbVpzOXprbGU1NE9vaEVtVWJlU2tWZkcxZDBmTHR0RWU5LTVObzQ3eVBZR2VtUUdLRU9CTnRLLUJiSHcxWjE3UEhyVTBoVGNEeV9NX0VPWU1pSWEwbw?oc=5\" target=\"_blank\">ВС России поразили логистические центры и порты Украины</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sun, 27 Sep 2026 05:26:28 GMT"
-    },
-    {
-      "title": "Петербуржцы принесли для животных Ленинградского зоопарка более 1,5 т даров осени - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81QmVQX2RMbG80eXpuV25GUjNjY2p0eGNGQnRqZTNPbC1kV0pad0RSTnk1TlVsSkdxdVcyYVZ4OG1fZHBabHl1Qlozby1xczFadXlsTGMzV3pMZEg4QnFHcFlZOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE81QmVQX2RMbG80eXpuV25GUjNjY2p0eGNGQnRqZTNPbC1kV0pad0RSTnk1TlVsSkdxdVcyYVZ4OG1fZHBabHl1Qlozby1xczFadXlsTGMzV3pMZEg4QnFHcFlZOA?oc=5\" target=\"_blank\">Петербуржцы принесли для животных Ленинградского зоопарка более 1,5 т даров осени</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sun, 27 Sep 2026 05:17:48 GMT"
-    },
-    {
-      "title": "В «Яндекс Афише» назвали самые топовые концерты в Новосибирске за полгода - nsk.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaER2TkVzZDNzSlpqemJtU3l4ODNFN2g4MTIxcjJ6V2F0Tm5qc3A4Q3J2X3Z2d1VLakYxSTNUTV9QWS00bEtCT2Fsb3NsVlc0SUhDNFRkeTdQanp4NDlSVU9xcDZiMkVyaHotQWNROUdYXzdKZlBfQ3VSWGp3cWU2VA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNaER2TkVzZDNzSlpqemJtU3l4ODNFN2g4MTIxcjJ6V2F0Tm5qc3A4Q3J2X3Z2d1VLakYxSTNUTV9QWS00bEtCT2Fsb3NsVlc0SUhDNFRkeTdQanp4NDlSVU9xcDZiMkVyaHotQWNROUdYXzdKZlBfQ3VSWGp3cWU2VA?oc=5\" target=\"_blank\">В «Яндекс Афише» назвали самые топовые концерты в Новосибирске за полгода</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nsk.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 05:16:23 GMT"
-    },
-    {
-      "title": "В Хабаровске произошел пожар в здании с несколькими заведениями общепита - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nLXY0a2IwZkhVWG9nbW1aNld6NWJLZGdUT0pGWTg3NmkwNWRkUEZBUmNaV1JDbXl6aEI0T2VjU2VhcV9hZlJkcmFwanFyekFvZFZLNDRQbTh3R01PUHFqdGZCU1ZrZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nLXY0a2IwZkhVWG9nbW1aNld6NWJLZGdUT0pGWTg3NmkwNWRkUEZBUmNaV1JDbXl6aEI0T2VjU2VhcV9hZlJkcmFwanFyekFvZFZLNDRQbTh3R01PUHFqdGZCU1ZrZw?oc=5\" target=\"_blank\">В Хабаровске произошел пожар в здании с несколькими заведениями общепита</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 05:05:00 GMT"
-    },
-    {
-      "title": "Синоптик Леус спрогнозировал сухую и довольно солнечную погоду в Москве — РТ на русском - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zaHRNWUNfa3ZfWFlNcHpOcFVQTnFlQ3JOSURTTjNKeWpBNUpMT0NiWlZrWXlIdk1CMXBnNHJKNXkxWHZFejFZcUdNdWRvMEdEX2lXamItUHRRSDRRSmZENkVETndTRFpMWEYtenBLWnhfU2g3MmNz?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9zaHRNWUNfa3ZfWFlNcHpOcFVQTnFlQ3JOSURTTjNKeWpBNUpMT0NiWlZrWXlIdk1CMXBnNHJKNXkxWHZFejFZcUdNdWRvMEdEX2lXamItUHRRSDRRSmZENkVETndTRFpMWEYtenBLWnhfU2g3MmNz?oc=5\" target=\"_blank\">Синоптик Леус спрогнозировал сухую и довольно солнечную погоду в Москве — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sun, 27 Sep 2026 05:01:51 GMT"
-    },
-    {
-      "title": "\"Роковой момент\". Дипломат раскрыл, к чему готовится Зеленский - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZnNoMGFGLVU0Z3AyTF8xc1ZOSGZCTWlNdnlqbkRSbDRYUzN1REl0eC1XbUdVMDNRVVQ1djhidUIwUXBPYVppc2hMQ1RjTUdvak81dUw5ODVhWEFvUEE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZnNoMGFGLVU0Z3AyTF8xc1ZOSGZCTWlNdnlqbkRSbDRYUzN1REl0eC1XbUdVMDNRVVQ1djhidUIwUXBPYVppc2hMQ1RjTUdvak81dUw5ODVhWEFvUEE?oc=5\" target=\"_blank\">\"Роковой момент\". Дипломат раскрыл, к чему готовится Зеленский</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sun, 27 Sep 2026 05:01:00 GMT"
-    },
-    {
-      "title": "задержанный по делу о наркотиках политолог Кынев мог быть ранее судим — РТ на русском - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02SzNSZU9La2NiRmcwUnRBVzBaNHcwQ1F0b0Zqa05kODZieEdSc1ZoNHB6SXhISlpXQ0RkcEo3RG1ZdGYzNk1ibHQ4NkhxREs5ZFg4Si02M2l2dm5wRVkxaTRac0RlOVpPUFdnbnQ3d0lFb2dJQjFqbGUyTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE02SzNSZU9La2NiRmcwUnRBVzBaNHcwQ1F0b0Zqa05kODZieEdSc1ZoNHB6SXhISlpXQ0RkcEo3RG1ZdGYzNk1ibHQ4NkhxREs5ZFg4Si02M2l2dm5wRVkxaTRac0RlOVpPUFdnbnQ3d0lFb2dJQjFqbGUyTQ?oc=5\" target=\"_blank\">задержанный по делу о наркотиках политолог Кынев мог быть ранее судим — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sun, 27 Sep 2026 05:00:02 GMT"
-    },
-    {
-      "title": "Регионы Юга вошли в топ-10 по бронированиям при спаде турпотока летом - rostov.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05Uk4xREY1WXNJUlhOWHlwalJ1WGdWYUo5TlY4VWVjUmVJYWRjVk9tY3U3RW1fY3NuakRzSmRJNXVRTW1YRTMyaXBsVEdpNnhhNGpMbVNaanJSSjBVblR1RzE5UWQ3d3o4VjA1WmJmTVRYUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE05Uk4xREY1WXNJUlhOWHlwalJ1WGdWYUo5TlY4VWVjUmVJYWRjVk9tY3U3RW1fY3NuakRzSmRJNXVRTW1YRTMyaXBsVEdpNnhhNGpMbVNaanJSSjBVblR1RzE5UWQ3d3o4VjA1WmJmTVRYUQ?oc=5\" target=\"_blank\">Регионы Юга вошли в топ-10 по бронированиям при спаде турпотока летом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rostov.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 05:00:00 GMT"
-    },
-    {
-      "title": "Главные новости: Выпуск за 27 сентября 2026. Смотреть онлайн - tv.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GemRzbnJCZ2FNdmJPSWVfRXBpb05mZGwtTGhhalV5cm9TR0xTQVNDLWxpY2xMc1d0cUtVM2ZZUmRxeV9MUWZJZDkxV0xtZVcyWlRsamQtNjg2bFotWlNVSFdWc0liQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GemRzbnJCZ2FNdmJPSWVfRXBpb05mZGwtTGhhalV5cm9TR0xTQVNDLWxpY2xMc1d0cUtVM2ZZUmRxeV9MUWZJZDkxV0xtZVcyWlRsamQtNjg2bFotWlNVSFdWc0liQQ?oc=5\" target=\"_blank\">Главные новости: Выпуск за 27 сентября 2026. Смотреть онлайн</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tv.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 05:00:00 GMT"
-    },
-    {
-      "title": "В Сочи открыли доступ к пляжам и набережным после отмены угрозы БЭК - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMVZaSV9JcllFc1EwYWxmdk03dlA3VFFoN25XdjljTXYtZVBidlJpWjRqeHprNE1fQ3VuZDZiRGZOSE92OHZ6ZzRfMk5ua01PLW5aN2ZHOHlwQmZBUW94eGlQdDZuZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMVZaSV9JcllFc1EwYWxmdk03dlA3VFFoN25XdjljTXYtZVBidlJpWjRqeHprNE1fQ3VuZDZiRGZOSE92OHZ6ZzRfMk5ua01PLW5aN2ZHOHlwQmZBUW94eGlQdDZuZw?oc=5\" target=\"_blank\">В Сочи открыли доступ к пляжам и набережным после отмены угрозы БЭК</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 04:56:31 GMT"
     }
   ]
 }
