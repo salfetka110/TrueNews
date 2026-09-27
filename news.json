@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T05:04:47.095765+00:00",
+  "updated": "2026-09-27T05:36:23.683156+00:00",
   "count": 40,
   "news": [
     {
@@ -8,6 +8,41 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPZGRRTW92U3pQRmNMT2p6cWJHR0haODJqLS10a2dwSDBuVnV3Y0dPM2U5VHNBZ2VZT080QVY2WVY0SzhsNGRDRFlQZmZFNnV6UE1BRWdLSEw3SkxLTHJzWnluRk1yVDNpVTNxckw0RTQ?oc=5\" target=\"_blank\">Костин оценил влияние ситуации с БПЛА на сделку ВТБ с WB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Thu, 24 Sep 2026 08:22:59 GMT"
+    },
+    {
+      "title": "Уфа вошла в топ-5 мегаполисов по росту среднего душевого дохода - ufa.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWhNWDBLQm5xMXlmSGsxYllSMm9Obl95UjUzMS1VR0NJZXZrbU1HNjlZX1RtVnJYMnpFZURaaFVKU2wtMGxGaUpYMDRQZENjSUw4cExXMkxMcHNYNmM4Rjd1cEFDeGt5SmdGWEVmbGZJZFpuTkZDdjJfZTgwT2NBRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWhNWDBLQm5xMXlmSGsxYllSMm9Obl95UjUzMS1VR0NJZXZrbU1HNjlZX1RtVnJYMnpFZURaaFVKU2wtMGxGaUpYMDRQZENjSUw4cExXMkxMcHNYNmM4Rjd1cEFDeGt5SmdGWEVmbGZJZFpuTkZDdjJfZTgwT2NBRQ?oc=5\" target=\"_blank\">Уфа вошла в топ-5 мегаполисов по росту среднего душевого дохода</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ufa.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 05:31:07 GMT"
+    },
+    {
+      "title": "ВС России поразили штаб военно-морской базы ВМС Украины в порту Килия - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96blgwRHp2RXdiMlhLWXhEc0dlcnVrNk42ZVlybkx1V2dQLWo1RnozdFFCVjQyTHoyNEFTUWNxY2RJUkpBb2gteHQ3aGV0SzZsWGtqUnVn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE96blgwRHp2RXdiMlhLWXhEc0dlcnVrNk42ZVlybkx1V2dQLWo1RnozdFFCVjQyTHoyNEFTUWNxY2RJUkpBb2gteHQ3aGV0SzZsWGtqUnVn?oc=5\" target=\"_blank\">ВС России поразили штаб военно-морской базы ВМС Украины в порту Килия</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 05:27:00 GMT"
+    },
+    {
+      "title": "Петербуржцы принесли для животных Ленинградского зоопарка более 1,5 т даров осени - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81QmVQX2RMbG80eXpuV25GUjNjY2p0eGNGQnRqZTNPbC1kV0pad0RSTnk1TlVsSkdxdVcyYVZ4OG1fZHBabHl1Qlozby1xczFadXlsTGMzV3pMZEg4QnFHcFlZOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE81QmVQX2RMbG80eXpuV25GUjNjY2p0eGNGQnRqZTNPbC1kV0pad0RSTnk1TlVsSkdxdVcyYVZ4OG1fZHBabHl1Qlozby1xczFadXlsTGMzV3pMZEg4QnFHcFlZOA?oc=5\" target=\"_blank\">Петербуржцы принесли для животных Ленинградского зоопарка более 1,5 т даров осени</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sun, 27 Sep 2026 05:17:48 GMT"
+    },
+    {
+      "title": "В Хабаровске произошел пожар в здании с несколькими заведениями общепита - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nLXY0a2IwZkhVWG9nbW1aNld6NWJLZGdUT0pGWTg3NmkwNWRkUEZBUmNaV1JDbXl6aEI0T2VjU2VhcV9hZlJkcmFwanFyekFvZFZLNDRQbTh3R01PUHFqdGZCU1ZrZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nLXY0a2IwZkhVWG9nbW1aNld6NWJLZGdUT0pGWTg3NmkwNWRkUEZBUmNaV1JDbXl6aEI0T2VjU2VhcV9hZlJkcmFwanFyekFvZFZLNDRQbTh3R01PUHFqdGZCU1ZrZw?oc=5\" target=\"_blank\">В Хабаровске произошел пожар в здании с несколькими заведениями общепита</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 05:05:00 GMT"
+    },
+    {
+      "title": "\"Роковой момент\". Дипломат раскрыл, к чему готовится Зеленский - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZnNoMGFGLVU0Z3AyTF8xc1ZOSGZCTWlNdnlqbkRSbDRYUzN1REl0eC1XbUdVMDNRVVQ1djhidUIwUXBPYVppc2hMQ1RjTUdvak81dUw5ODVhWEFvUEE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZnNoMGFGLVU0Z3AyTF8xc1ZOSGZCTWlNdnlqbkRSbDRYUzN1REl0eC1XbUdVMDNRVVQ1djhidUIwUXBPYVppc2hMQ1RjTUdvak81dUw5ODVhWEFvUEE?oc=5\" target=\"_blank\">\"Роковой момент\". Дипломат раскрыл, к чему готовится Зеленский</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 05:01:00 GMT"
     },
     {
       "title": "Россияне сдвинули турсезон в Анталье, рассказал советник мэра - ria.ru",
@@ -108,6 +143,13 @@
       "pub": "Sun, 27 Sep 2026 02:48:47 GMT"
     },
     {
+      "title": "Лингвист спрогнозировал смену ударения в слове «звонит» - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sZl90cXVvdzRJT2RSd0xTTll6aDJFQUFkR0J2YzlNa1NPS3NXVFEtVU9heFh1amE1MkI3bTZGMW1kTUE3M0Q5QXpyLXBORXNTMUlycnZaSGhVbnNGTi1BUERxUXY4RzRUdFFIMDJtaVdyd1d50gF6QVVfeXFMTlpVaE5USVZBbHgtM0dqRkMzbVZhN2dnUVBaSk43YkRRbEdTQVBOeVI0UjFjUVNNUzdxWlZWN29SbDh4bjJIOEYyeDd5a1RqWTFnaXEwU0RZbWhtckhVaXFlVExKX0Ryb01PWW9oSEt2Y25BNHpCT0ZtOHc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5sZl90cXVvdzRJT2RSd0xTTll6aDJFQUFkR0J2YzlNa1NPS3NXVFEtVU9heFh1amE1MkI3bTZGMW1kTUE3M0Q5QXpyLXBORXNTMUlycnZaSGhVbnNGTi1BUERxUXY4RzRUdFFIMDJtaVdyd1d50gF6QVVfeXFMTlpVaE5USVZBbHgtM0dqRkMzbVZhN2dnUVBaSk43YkRRbEdTQVBOeVI0UjFjUVNNUzdxWlZWN29SbDh4bjJIOEYyeDd5a1RqWTFnaXEwU0RZbWhtckhVaXFlVExKX0Ryb01PWW9oSEt2Y25BNHpCT0ZtOHc?oc=5\" target=\"_blank\">Лингвист спрогнозировал смену ударения в слове «звонит»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 27 Sep 2026 02:33:44 GMT"
+    },
+    {
       "title": "Группировка \"Запад\" за сутки уничтожила 89 тяжелых боевых мультикоптеров ВСУ - tass.ru",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaSkpCSWVVNHBIOUdDbnRtZlI5bWo1UnJQdTI2aWN2SUtWUDhFLXJIZGVnSUZzX25Ra2FxLXYzMF9rSDEzVnhJN19PM2xPZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaSkpCSWVVNHBIOUdDbnRtZlI5bWo1UnJQdTI2aWN2SUtWUDhFLXJIZGVnSUZzX25Ra2FxLXYzMF9rSDEzVnhJN19PM2xPZw?oc=5\" target=\"_blank\">Группировка \"Запад\" за сутки уничтожила 89 тяжелых боевых мультикоптеров ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
@@ -115,16 +157,9 @@
       "pub": "Sun, 27 Sep 2026 02:08:21 GMT"
     },
     {
-      "title": "\"Роковой момент\". Дипломат раскрыл, к чему готовится Зеленский - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZnNoMGFGLVU0Z3AyTF8xc1ZOSGZCTWlNdnlqbkRSbDRYUzN1REl0eC1XbUdVMDNRVVQ1djhidUIwUXBPYVppc2hMQ1RjTUdvak81dUw5ODVhWEFvUEE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZnNoMGFGLVU0Z3AyTF8xc1ZOSGZCTWlNdnlqbkRSbDRYUzN1REl0eC1XbUdVMDNRVVQ1djhidUIwUXBPYVppc2hMQ1RjTUdvak81dUw5ODVhWEFvUEE?oc=5\" target=\"_blank\">\"Роковой момент\". Дипломат раскрыл, к чему готовится Зеленский</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sun, 27 Sep 2026 02:06:00 GMT"
-    },
-    {
-      "title": "ВСУ в результате действий \"Севера\" потеряли за сутки 72 дрона самолетного типа - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RM3I2TXlFSjZkTkRIbGdNbnpQV3FhMThIdHRHUWVBR3lfM0pKSDU3UEdvLWxCMm1nb0VUaVRLUWY1Ql9tZjdxOWZXRl9Xdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RM3I2TXlFSjZkTkRIbGdNbnpQV3FhMThIdHRHUWVBR3lfM0pKSDU3UEdvLWxCMm1nb0VUaVRLUWY1Ql9tZjdxOWZXRl9Xdw?oc=5\" target=\"_blank\">ВСУ в результате действий \"Севера\" потеряли за сутки 72 дрона самолетного типа</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "title": "Российские штурмовики идут до 25 км к позициям ВСУ на сумском направлении - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0N3ZwR29OSG1BYWFodmJtV01TRXpBSS1USEF6OUg0Tzh5TUpxM0dvZDZUMWxtM2hibHcwOUtFYmRRZjNyem5HNnd3TDhpZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0N3ZwR29OSG1BYWFodmJtV01TRXpBSS1USEF6OUg0Tzh5TUpxM0dvZDZUMWxtM2hibHcwOUtFYmRRZjNyem5HNnd3TDhpZw?oc=5\" target=\"_blank\">Российские штурмовики идут до 25 км к позициям ВСУ на сумском направлении</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Sun, 27 Sep 2026 02:04:21 GMT"
     },
@@ -164,6 +199,13 @@
       "pub": "Sun, 27 Sep 2026 01:07:15 GMT"
     },
     {
+      "title": "Сильный дождь и ветер ожидаются на Сахалине днем 27 сентября — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzA0aVJSNk5YM3psRHAwY0tnZTdUcVdhY2hQckVaWTVVU3V1cUtwV1F6ajdnb2JPblBwUExqeGhRU294Skw2OFZENGs5VFdhMEJ5QW9hU2lqSjh2VlNjY3d1aWEzMzFzR3d4ODlMSTFudHIxMW5iQUkwbkVqVUJuMUo2b2VhYVNUZUFDbXBHc1ZYaWNJbDBxbkxrTHBWdVpnbC1qRjBzQ3Yzcm02QVJDYjk2MTVId1Q5ZnRqUmFSWjJOblk1?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzA0aVJSNk5YM3psRHAwY0tnZTdUcVdhY2hQckVaWTVVU3V1cUtwV1F6ajdnb2JPblBwUExqeGhRU294Skw2OFZENGs5VFdhMEJ5QW9hU2lqSjh2VlNjY3d1aWEzMzFzR3d4ODlMSTFudHIxMW5iQUkwbkVqVUJuMUo2b2VhYVNUZUFDbXBHc1ZYaWNJbDBxbkxrTHBWdVpnbC1qRjBzQ3Yzcm02QVJDYjk2MTVId1Q5ZnRqUmFSWjJOblk1?oc=5\" target=\"_blank\">Сильный дождь и ветер ожидаются на Сахалине днем 27 сентября — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 27 Sep 2026 01:03:30 GMT"
+    },
+    {
       "title": "Регионы получат право передать Соцфонду выплаты пособий - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LaWczbmZ6Y0kyVjJlOUdSMnVDNlNfbk83aDBReDBGcGxKUFppOFRYa3RYejFZX0x1UUtfXzdkWDl2VHJiRjhPb2p3NDFUTF9YUGZTbEhUUTBqR0hMRmgxRU8xbzNZdEF0cGdOOGdMWUF2QWJP0gF6QVVfeXFMTjZvRWVDOWxlcVdhbE1sSEY3OUU5eVdaYktMLXZmWjdUNFN0bU1iRTNlS2piMjJ0R2k4c3lYVzgxTFgtcVlaQ1E5NFg5Vkxsdm9aNnFFSTVzVTFyYTdVT0I4S1BNTmx3c0lRR01abWNkc1B0NzU3MzZ5cmc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9LaWczbmZ6Y0kyVjJlOUdSMnVDNlNfbk83aDBReDBGcGxKUFppOFRYa3RYejFZX0x1UUtfXzdkWDl2VHJiRjhPb2p3NDFUTF9YUGZTbEhUUTBqR0hMRmgxRU8xbzNZdEF0cGdOOGdMWUF2QWJP0gF6QVVfeXFMTjZvRWVDOWxlcVdhbE1sSEY3OUU5eVdaYktMLXZmWjdUNFN0bU1iRTNlS2piMjJ0R2k4c3lYVzgxTFgtcVlaQ1E5NFg5Vkxsdm9aNnFFSTVzVTFyYTdVT0I4S1BNTmx3c0lRR01abWNkc1B0NzU3MzZ5cmc?oc=5\" target=\"_blank\">Регионы получат право передать Соцфонду выплаты пособий</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -199,6 +241,13 @@
       "pub": "Sun, 27 Sep 2026 00:03:13 GMT"
     },
     {
+      "title": "За полгода Амурскую область посетили более 200 тысяч туристов - prim.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqU3RCWV9uRC0tbHFRcmEzaWlDTjFCUXJJcE55UndaSTlaMkhWemhTZTY3MXNWLTBiMi1BQ3B1eVBxR1dpSjZsajU2c0lzamdaTXFJenozLTZDeXJfaFp3SlB0Zm9ROUl3U0pUaw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBqU3RCWV9uRC0tbHFRcmEzaWlDTjFCUXJJcE55UndaSTlaMkhWemhTZTY3MXNWLTBiMi1BQ3B1eVBxR1dpSjZsajU2c0lzamdaTXFJenozLTZDeXJfaFp3SlB0Zm9ROUl3U0pUaw?oc=5\" target=\"_blank\">За полгода Амурскую область посетили более 200 тысяч туристов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prim.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sat, 26 Sep 2026 23:55:49 GMT"
+    },
+    {
       "title": "Машаров перечислил имена, которые запрещено давать детям - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FLVFDcmhZYjUwRXFFTThzdDlhbExIaVVKcnhYTXJSR1JGTG9UazdRbEtSV3dzOGpHSjBsZlJKTE5LbFI3V3RZd1p1TnU3dVhBZ2FUMUN2bDZLVmNrNGxGbXZNeUJqRFk2cFhyVmZad9IBdEFVX3lxTFBhLXV6QjdiV0FJaW92WGlZaHU5WnJuZGJUNlpwZmxOUUtLdjFobkxHQ2E0UkxpdGNHWDlpSTFha0w5ZTY4bHRFM0FUeUhvQ09oMXVjVENyYUpYOHdRdDd6ZHlUajI3ZFYwUk82WFFqMEt1N21v?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1FLVFDcmhZYjUwRXFFTThzdDlhbExIaVVKcnhYTXJSR1JGTG9UazdRbEtSV3dzOGpHSjBsZlJKTE5LbFI3V3RZd1p1TnU3dVhBZ2FUMUN2bDZLVmNrNGxGbXZNeUJqRFk2cFhyVmZad9IBdEFVX3lxTFBhLXV6QjdiV0FJaW92WGlZaHU5WnJuZGJUNlpwZmxOUUtLdjFobkxHQ2E0UkxpdGNHWDlpSTFha0w5ZTY4bHRFM0FUeUhvQ09oMXVjVENyYUpYOHdRdDd6ZHlUajI3ZFYwUk82WFFqMEt1N21v?oc=5\" target=\"_blank\">Машаров перечислил имена, которые запрещено давать детям</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -232,55 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KOU1lbTVUaThmemhZd0ZKd0RnUEJJaXFWbHROamFyR0hRVEpTR2pJOXBMU2VRakZWZER1ei1vRDhFVE5lNU4xUmN4Zm9NN2diWXRKdERKQUpfSm1yQ1E?oc=5\" target=\"_blank\">В аэропорту Сочи ввели временные ограничения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sat, 26 Sep 2026 23:10:00 GMT"
-    },
-    {
-      "title": "Джиган опроверг информацию о стрельбе по сотрудникам в своем доме - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VVFdLamYxVE9icl9ZLXl0WHZ0b3ZNZEVpdmlHQWQ5elVlT2xWVzAxR3h2eUFZY0lwSmFIbnZDWWlxaTRFSkJBbUFmWUowZUlnQl9uVDF2bVR2WUMtcTVxVDVjNDYydw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VVFdLamYxVE9icl9ZLXl0WHZ0b3ZNZEVpdmlHQWQ5elVlT2xWVzAxR3h2eUFZY0lwSmFIbnZDWWlxaTRFSkJBbUFmWUowZUlnQl9uVDF2bVR2WUMtcTVxVDVjNDYydw?oc=5\" target=\"_blank\">Джиган опроверг информацию о стрельбе по сотрудникам в своем доме</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 23:01:50 GMT"
-    },
-    {
-      "title": "Кравцов: Минпросвещения обновит стандарт работы детских садов - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11VnFZOFBNSTBsbnFtOGh5bmNpdFp4SmZpU2lZdlJJeWJPOENZM1V3V0JJXzFjM043NUt6WHI5b3piWVItOU5wNExreGFwbkl3NTY5NGNuU25EamxmSlVOSEpVOU1Nd3c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11VnFZOFBNSTBsbnFtOGh5bmNpdFp4SmZpU2lZdlJJeWJPOENZM1V3V0JJXzFjM043NUt6WHI5b3piWVItOU5wNExreGFwbkl3NTY5NGNuU25EamxmSlVOSEpVOU1Nd3c?oc=5\" target=\"_blank\">Кравцов: Минпросвещения обновит стандарт работы детских садов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 23:00:00 GMT"
-    },
-    {
-      "title": "Суд в Польше арестовал украинца по делу о нападении на монастырь - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzczg4bUowYXBmZDZ0c25WVEF2TEtCb0JqbEhCaFpEdl9ib0poUlR1c2MyY0xBcFdZTWxyaXl1eHRDdWV3TUVvcndYd3AwUFVPcm8wYWFCd25NMVpHaEIyOElmQklaUkRaRWxPcGZvbUdyUVQ0d1kzbA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAzczg4bUowYXBmZDZ0c25WVEF2TEtCb0JqbEhCaFpEdl9ib0poUlR1c2MyY0xBcFdZTWxyaXl1eHRDdWV3TUVvcndYd3AwUFVPcm8wYWFCd25NMVpHaEIyOElmQklaUkRaRWxPcGZvbUdyUVQ0d1kzbA?oc=5\" target=\"_blank\">Суд в Польше арестовал украинца по делу о нападении на монастырь</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sat, 26 Sep 2026 22:49:12 GMT"
-    },
-    {
-      "title": "Пенсии работающих россиян превысили 35 тысяч рублей в трёх регионах - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FLWFGbE5wUGdXTlFORXVMMlJpdF9ZeFFIU1M1MzFfTG55Y2FNaF9SVHl4cVRZaEJSMnhWdWdnTHBDVEh0Y1RFN1gySkJHRTc3MHNjMmxXbXA2U2t0X19fYlIxVy1NZ3k1eG9LWU5FZWtvVi1PdHVaaDE5LTPSAYIBQVVfeXFMUG85eVVHc3RhM0M1X1A0TEl6ajU4c3ZKcjhidmo0WHYxNGNiYjFxR3I4NGRfOGtDdzlraUNLeUhrUVpXZkxMeFhaaHltZlVkNENZRDg3R2RfMFFPNVItT1AxRHlKNGU2TWh5MndfWEFzTi1pN3VWOU50czRTajFzWVN4UQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9FLWFGbE5wUGdXTlFORXVMMlJpdF9ZeFFIU1M1MzFfTG55Y2FNaF9SVHl4cVRZaEJSMnhWdWdnTHBDVEh0Y1RFN1gySkJHRTc3MHNjMmxXbXA2U2t0X19fYlIxVy1NZ3k1eG9LWU5FZWtvVi1PdHVaaDE5LTPSAYIBQVVfeXFMUG85eVVHc3RhM0M1X1A0TEl6ajU4c3ZKcjhidmo0WHYxNGNiYjFxR3I4NGRfOGtDdzlraUNLeUhrUVpXZkxMeFhaaHltZlVkNENZRDg3R2RfMFFPNVItT1AxRHlKNGU2TWh5MndfWEFzTi1pN3VWOU50czRTajFzWVN4UQ?oc=5\" target=\"_blank\">Пенсии работающих россиян превысили 35 тысяч рублей в трёх регионах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 22:47:50 GMT"
-    },
-    {
-      "title": "В Киеве объявили воздушную тревогу - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qSThXVFl5ajN1djRpUU1EWmVJbHo0Y2xTZ25fLUpCbGFwTV9qZktZdXI4X2VNR1pvMEZPVThRbWc2ZV9JQnQ1TlVjeUtKS2pvX09SZ2JRTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qSThXVFl5ajN1djRpUU1EWmVJbHo0Y2xTZ25fLUpCbGFwTV9qZktZdXI4X2VNR1pvMEZPVThRbWc2ZV9JQnQ1TlVjeUtKS2pvX09SZ2JRTQ?oc=5\" target=\"_blank\">В Киеве объявили воздушную тревогу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sat, 26 Sep 2026 22:43:00 GMT"
-    },
-    {
-      "title": "Минфин раскрыл новые виды сбережений под страховку с 2027 года - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42aFUxdWlSdXVHWkdoeWVRT1B6UV93MnVQSy1UbG1XbEIyZDI4VU9tWEszczQwdkZ5Um4wWll2c2J2dU1LZkFYNV9yRFFCWjdLRXg2UkdkN3dBZ255VTZRTTA2THNxM3J4T1FCTUhRVUpzMkcwVjdZ0gF8QVVfeXFMUFlRM0QzSG5vU3kzUFF4SXoySE5scXJURkdvMDRXcjMyelhOM2NLSTlITWQ1VXUxRU9MV1Bfcjk0bVJEdDF3ZUQ3ZjZubGZ2UTZvb3EtaS1FRnAzS1dYWnJyV05zTzdrWl9Fd1RuSWZQR3JYYzI3V2M0Q0JTTw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE42aFUxdWlSdXVHWkdoeWVRT1B6UV93MnVQSy1UbG1XbEIyZDI4VU9tWEszczQwdkZ5Um4wWll2c2J2dU1LZkFYNV9yRFFCWjdLRXg2UkdkN3dBZ255VTZRTTA2THNxM3J4T1FCTUhRVUpzMkcwVjdZ0gF8QVVfeXFMUFlRM0QzSG5vU3kzUFF4SXoySE5scXJURkdvMDRXcjMyelhOM2NLSTlITWQ1VXUxRU9MV1Bfcjk0bVJEdDF3ZUQ3ZjZubGZ2UTZvb3EtaS1FRnAzS1dYWnJyV05zTzdrWl9Fd1RuSWZQR3JYYzI3V2M0Q0JTTw?oc=5\" target=\"_blank\">Минфин раскрыл новые виды сбережений под страховку с 2027 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Sat, 26 Sep 2026 22:32:32 GMT"
-    },
-    {
-      "title": "Наркотики обнаружили у жительницы Лысковского округа — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVpNRkdSOFljZ1BSRGFsYjYtUzZidGhBR3hQc1VhVk9fOHg0Q293bDhpTHB1SzJ4Skp3VzNyNTA3eVRlRHFOdW0yb2cwaUJkS1NZNkIxdTFlbnpJZnJUR2FuZy1SVzZRLWgwdk9Cai1pUF9qYjhUSkE2V0xuYmI1b0hPZlNnSzVpRHI4S3p2S05SS0tMdS01TGV4THdPWTR0SHRFRmZBWnV5WTZJR1ZCS1NFT0dfZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVpNRkdSOFljZ1BSRGFsYjYtUzZidGhBR3hQc1VhVk9fOHg0Q293bDhpTHB1SzJ4Skp3VzNyNTA3eVRlRHFOdW0yb2cwaUJkS1NZNkIxdTFlbnpJZnJUR2FuZy1SVzZRLWgwdk9Cai1pUF9qYjhUSkE2V0xuYmI1b0hPZlNnSzVpRHI4S3p2S05SS0tMdS01TGV4THdPWTR0SHRFRmZBWnV5WTZJR1ZCS1NFT0dfZw?oc=5\" target=\"_blank\">Наркотики обнаружили у жительницы Лысковского округа — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sat, 26 Sep 2026 22:23:44 GMT"
     }
   ]
 }
