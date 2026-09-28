@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:38:50.977764+00:00",
+  "updated": "2026-09-28T20:04:36.451180+00:00",
   "count": 40,
   "news": [
     {
@@ -85,13 +85,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMVZaSV9JcllFc1EwYWxmdk03dlA3VFFoN25XdjljTXYtZVBidlJpWjRqeHprNE1fQ3VuZDZiRGZOSE92OHZ6ZzRfMk5ua01PLW5aN2ZHOHlwQmZBUW94eGlQdDZuZw?oc=5\" target=\"_blank\">В Сочи открыли доступ к пляжам и набережным после отмены угрозы БЭК</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sun, 27 Sep 2026 23:03:00 GMT"
-    },
-    {
-      "title": "ВС РФ наступают в северо-восточной, центральной и южной частях Доброполья - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15UGZ0NDNhbUtpYjVoc01leTM1d3F3MnR6b0hyaV9jWnVwWS1oY1AzUFlOV19zVjNkcVhwMWs3MGdKeC16OW5nbmR3OEhRZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE15UGZ0NDNhbUtpYjVoc01leTM1d3F3MnR6b0hyaV9jWnVwWS1oY1AzUFlOV19zVjNkcVhwMWs3MGdKeC16OW5nbmR3OEhRZw?oc=5\" target=\"_blank\">ВС РФ наступают в северо-восточной, центральной и южной частях Доброполья</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sun, 27 Sep 2026 22:58:00 GMT"
     },
     {
       "title": "Глава Томской области отказался от мандата в региональное заксобрание - tass.ru",
@@ -281,6 +274,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kTjhRanVxa1lJSU1YMWRzMkdZaDk5bXE3TFc2RFBDbVdmdFZ0dkxrVlNZOVNneEJUV3Z0dkZ2NVJRTnlUQUhQODdkRjRyQ0FaVFR6MUNfZVo?oc=5\" target=\"_blank\">Трамп подтвердил встречу с гендиректором Anthropic Амодеем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 27 Sep 2026 21:43:00 GMT"
+    },
+    {
+      "title": "Трамп допустил запрет на экспорт дизеля - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFRjlQMlpzNkpkQjlLM3F4OUNSSTRCUXVnRlVFSzQxeVc4WG8tLS13UzdzdjVBOFFzdWZvQjF0NllmdVZoQm03TzBYanJlYUUxUFRCN1pJT18?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFRjlQMlpzNkpkQjlLM3F4OUNSSTRCUXVnRlVFSzQxeVc4WG8tLS13UzdzdjVBOFFzdWZvQjF0NllmdVZoQm03TzBYanJlYUUxUFRCN1pJT18?oc=5\" target=\"_blank\">Трамп допустил запрет на экспорт дизеля</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 27 Sep 2026 21:40:00 GMT"
     }
   ]
 }
