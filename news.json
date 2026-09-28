@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-28T06:07:18.967117+00:00",
+  "updated": "2026-09-28T06:45:55.357528+00:00",
   "count": 40,
   "news": [
     {
-      "title": "Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня - fontanka.ru",
+      "title": "Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaVNKbEVvMGI1clVVbzBmcU05dFExazN3QXhoSUtTWDhtQkxlNkFUTUdma3BCZU1kTFhWZDJwUjJJcE1lWkhnSDZJQU40X1I3U0YtMTdvRG4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaVNKbEVvMGI1clVVbzBmcU05dFExazN3QXhoSUtTWDhtQkxlNkFUTUdma3BCZU1kTFhWZDJwUjJJcE1lWkhnSDZJQU40X1I3U0YtMTdvRG4?oc=5\" target=\"_blank\">Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaVNKbEVvMGI1clVVbzBmcU05dFExazN3QXhoSUtTWDhtQkxlNkFUTUdma3BCZU1kTFhWZDJwUjJJcE1lWkhnSDZJQU40X1I3U0YtMTdvRG4?oc=5\" target=\"_blank\">Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Thu, 24 Sep 2026 16:10:38 GMT"
+    },
+    {
+      "title": "ООО «АВА-ПЕТЕР» - companies.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5\" target=\"_blank\">ООО «АВА-ПЕТЕР»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Thu, 09 Sep 2021 16:29:53 GMT"
     },
     {
       "title": "Мельниченко предложил баланс между автономностью и открытостью страны - rbc.ru",
@@ -171,18 +178,18 @@
       "pub": "Sun, 27 Sep 2026 21:45:44 GMT"
     },
     {
-      "title": "Трамп заявил, что призвал Киев «сбавить обороты» с ударами по НПЗ России - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GYnpaTFdjcE4xS3RtMjRQX2l2eGNxd2w0RzRvWWpmeXZLQjBrenhxcXFScE1aZmdaLTlKMmpfcXBfTEVWRUdWMDRReUZJQnlac2FXYWlTZXRLR3o1R0Q4YVNzYVpCYlJvdjJBV2ZxTDVJNW5uWUxCZVpJaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9GYnpaTFdjcE4xS3RtMjRQX2l2eGNxd2w0RzRvWWpmeXZLQjBrenhxcXFScE1aZmdaLTlKMmpfcXBfTEVWRUdWMDRReUZJQnlac2FXYWlTZXRLR3o1R0Q4YVNzYVpCYlJvdjJBV2ZxTDVJNW5uWUxCZVpJaw?oc=5\" target=\"_blank\">Трамп заявил, что призвал Киев «сбавить обороты» с ударами по НПЗ России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 21:43:57 GMT"
-    },
-    {
       "title": "Трамп подтвердил встречу с гендиректором Anthropic Амодеем - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kTjhRanVxa1lJSU1YMWRzMkdZaDk5bXE3TFc2RFBDbVdmdFZ0dkxrVlNZOVNneEJUV3Z0dkZ2NVJRTnlUQUhQODdkRjRyQ0FaVFR6MUNfZVo?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kTjhRanVxa1lJSU1YMWRzMkdZaDk5bXE3TFc2RFBDbVdmdFZ0dkxrVlNZOVNneEJUV3Z0dkZ2NVJRTnlUQUhQODdkRjRyQ0FaVFR6MUNfZVo?oc=5\" target=\"_blank\">Трамп подтвердил встречу с гендиректором Anthropic Амодеем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 27 Sep 2026 21:43:00 GMT"
+    },
+    {
+      "title": "Число сбитых на подлете к Москве дронов выросло до 20 - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wVTMwWEdJX01hLUNIM2ktc1d0dk5HWGgzcUVwS1dKXzcyRmFNNi00Tzk1MVNKNlpmTVNWUWlqLUlvZC1wZUFadTNzNWRzOWlGc2FtM0JTdWxVeDk4ZE81OGtjZnNGQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wVTMwWEdJX01hLUNIM2ktc1d0dk5HWGgzcUVwS1dKXzcyRmFNNi00Tzk1MVNKNlpmTVNWUWlqLUlvZC1wZUFadTNzNWRzOWlGc2FtM0JTdWxVeDk4ZE81OGtjZnNGQQ?oc=5\" target=\"_blank\">Число сбитых на подлете к Москве дронов выросло до 20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 21:41:22 GMT"
     },
     {
       "title": "Трамп допустил запрет на экспорт дизеля - ria.ru",
@@ -248,6 +255,13 @@
       "pub": "Sun, 27 Sep 2026 21:04:00 GMT"
     },
     {
+      "title": "Тренер «Шанхай Шэньхуа» пожелал российским футболистам вернуться в еврокубки — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcy1KM1FFZmpGdTRRY19tMzNwZXoxRzZydHRJME5FUHV1cXRSdFlETE5rVUVHMTdnN0t6OEFzOVB1WVlKTW1mbzBzS2RSdXBlYVVJam82NGFxZlZiN21yUVAtWENGUFV5N0FhaTVIOUhBeVFaOU5OWlhSWjVWbi1Xb0JjVnVYWEZOMUFLbEZlZXpZMjBVQUtQSkc1bzhPaFk0dk9xTWRBbjRzUTRQMFdER2ZDWjJCRDh3NU1hV3lITFhQZjMxS0Q4eF9idnJrdUFsSHNra0FtRzhlQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcy1KM1FFZmpGdTRRY19tMzNwZXoxRzZydHRJME5FUHV1cXRSdFlETE5rVUVHMTdnN0t6OEFzOVB1WVlKTW1mbzBzS2RSdXBlYVVJam82NGFxZlZiN21yUVAtWENGUFV5N0FhaTVIOUhBeVFaOU5OWlhSWjVWbi1Xb0JjVnVYWEZOMUFLbEZlZXpZMjBVQUtQSkc1bzhPaFk0dk9xTWRBbjRzUTRQMFdER2ZDWjJCRDh3NU1hV3lITFhQZjMxS0Q4eF9idnJrdUFsSHNra0FtRzhlQQ?oc=5\" target=\"_blank\">Тренер «Шанхай Шэньхуа» пожелал российским футболистам вернуться в еврокубки — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 27 Sep 2026 20:51:51 GMT"
+    },
+    {
       "title": "Алиханов заявил о последовательном развитии Россией серийного выпуска самолётов - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VeEVlWlQ1bHYtVEU0VjFfd3FKV25aaVBGT1E5cU1LQjhCTUxVdUNYN0JJZEpDMC1fbjlTQkF1TGlEel9pdXhUVzRXdDVGT3A5aURhekZUUW5Fa3RLVGJjaWVDOTVjWUdfUnVJeG1MVzdpYmpzVWxJ0gF8QVVfeXFMUFRiWWh4QVh0WllRZVpaazZJc3UwRTNGX3g1VGl2TWxRQWw3dTZyRDN4ejJzWVR1ZnVnek8zQzZxRXFSNkFrT2tZLTZEM185dW9uUDBkX2ZQWklHUnduYXpLaWpQWll2dWZBcjYyWGxocGRzSzJXUGlQajlzSw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1VeEVlWlQ1bHYtVEU0VjFfd3FKV25aaVBGT1E5cU1LQjhCTUxVdUNYN0JJZEpDMC1fbjlTQkF1TGlEel9pdXhUVzRXdDVGT3A5aURhekZUUW5Fa3RLVGJjaWVDOTVjWUdfUnVJeG1MVzdpYmpzVWxJ0gF8QVVfeXFMUFRiWWh4QVh0WllRZVpaazZJc3UwRTNGX3g1VGl2TWxRQWw3dTZyRDN4ejJzWVR1ZnVnek8zQzZxRXFSNkFrT2tZLTZEM185dW9uUDBkX2ZQWklHUnduYXpLaWpQWll2dWZBcjYyWGxocGRzSzJXUGlQajlzSw?oc=5\" target=\"_blank\">Алиханов заявил о последовательном развитии Россией серийного выпуска самолётов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -255,32 +269,18 @@
       "pub": "Sun, 27 Sep 2026 20:49:10 GMT"
     },
     {
-      "title": "Глава МИД Франции Барро: снятие санкций с Усманова отвечает нашим интересам — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVROTTluRFdCTVBwbnZfT1NFeVFQa0dWVTlUNTFEOXJoSFU2RXExbUFuZERzN3pFNVRIcXVfb3prNU5NaDNkREg0RmtOZklKYjFXbHlnZXpBVS12cThVYVFQOHJDbkF1aE91N1hJbjVwWUhYaWxRYnB2SVFQZkFwUW1XUVB1eUpYUk9Jd0ZkVjlBdDIyMTV1cXBsN1J0TjFyNkQ5YzVpQUpzT2NNZTJnanF4X1Ixanp4YTJBeXJEUzdTZ3ZuMXc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVROTTluRFdCTVBwbnZfT1NFeVFQa0dWVTlUNTFEOXJoSFU2RXExbUFuZERzN3pFNVRIcXVfb3prNU5NaDNkREg0RmtOZklKYjFXbHlnZXpBVS12cThVYVFQOHJDbkF1aE91N1hJbjVwWUhYaWxRYnB2SVFQZkFwUW1XUVB1eUpYUk9Jd0ZkVjlBdDIyMTV1cXBsN1J0TjFyNkQ5YzVpQUpzT2NNZTJnanF4X1Ixanp4YTJBeXJEUzdTZ3ZuMXc?oc=5\" target=\"_blank\">Глава МИД Франции Барро: снятие санкций с Усманова отвечает нашим интересам — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "title": "Александр Вучич ушел в отставку с поста президента Сербии — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0tSZ1FnUGMwVDBhR0RiVzhoUHZISHk3RVF3S012OF83SzViM2lsN3JNc0wwWFlkTktUU3hXQXNZeW9GTGpUVk1FQnU0ZjNLcWk1VWp6c1ZJMFdjVFdnZjdGNHU0Mk1mRVFaQXlQWmlJRm5uT0NKbjhLNzlWQkVxNFoyY0pub21tTXVRcjRhczhxUzlMNThRc08wRDdPQTVQM0hIelAzVWZ3LTJEaS1qeTNCWkplSTUwREpqakZGMlZReFRTNlE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0tSZ1FnUGMwVDBhR0RiVzhoUHZISHk3RVF3S012OF83SzViM2lsN3JNc0wwWFlkTktUU3hXQXNZeW9GTGpUVk1FQnU0ZjNLcWk1VWp6c1ZJMFdjVFdnZjdGNHU0Mk1mRVFaQXlQWmlJRm5uT0NKbjhLNzlWQkVxNFoyY0pub21tTXVRcjRhczhxUzlMNThRc08wRDdPQTVQM0hIelAzVWZ3LTJEaS1qeTNCWkplSTUwREpqakZGMlZReFRTNlE?oc=5\" target=\"_blank\">Александр Вучич ушел в отставку с поста президента Сербии — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
-      "pub": "Sun, 27 Sep 2026 20:46:52 GMT"
+      "pub": "Sun, 27 Sep 2026 20:36:28 GMT"
     },
     {
-      "title": "Большинство жителей Швейцарии не поддержали инициативу о нейтралитете — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHhwY1Q1QXB6dDZmalQ4ak5jVWJfaVhTamtZeFJVZ1Q0MjhXS3J1SzIxZy1GbE1iQTk3bkZqUW1vUnRBbkhJYV9qSzN5X1AxRDVHTGo1VV9sME5iWWEtX0pRTDRWTUctVzA1eW1aUWU3Mm5KWlZCRmhpdHFTUFVPdU9xc0I0QmhneUh2czRHcXR1bW16RTl4OHYxN2RBN1BIQThlSUhvUUh5WVRmNjdLYUl2b3ZlYlJkSlRRYUY1RlUydmh5SGQya3ZfZW5yaExO?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHhwY1Q1QXB6dDZmalQ4ak5jVWJfaVhTamtZeFJVZ1Q0MjhXS3J1SzIxZy1GbE1iQTk3bkZqUW1vUnRBbkhJYV9qSzN5X1AxRDVHTGo1VV9sME5iWWEtX0pRTDRWTUctVzA1eW1aUWU3Mm5KWlZCRmhpdHFTUFVPdU9xc0I0QmhneUh2czRHcXR1bW16RTl4OHYxN2RBN1BIQThlSUhvUUh5WVRmNjdLYUl2b3ZlYlJkSlRRYUY1RlUydmh5SGQya3ZfZW5yaExO?oc=5\" target=\"_blank\">Большинство жителей Швейцарии не поддержали инициативу о нейтралитете — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sun, 27 Sep 2026 20:46:50 GMT"
-    },
-    {
-      "title": "Подкаст «Проходной двор»: как редактор газеты из Новгорода стал геополитиком — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVgtbU1ic01MN05KVnhSQ2dUR3JCT1AzT0RxWTZiSy1qTFQ3YjZITk9HN0JPYW9zT0FyaGRkcWp6VE9KV0IwUHQ4RlhIUy1sN1FGUGFURkdfeTU1bzhYaklRNy0ybWJab1N6N3oybU9TOThsamc2YW1yM3M3RGlrYXBHSGlXd2NObkJBdlBxWmVtZjdTSjljWTFfS1FzZ3JaQUVIcE5fM0d4X1AzZ1pqcnNyaXpPVFBsYXRMOGR3NlBfZXU1bzVlemlzd0dOUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVgtbU1ic01MN05KVnhSQ2dUR3JCT1AzT0RxWTZiSy1qTFQ3YjZITk9HN0JPYW9zT0FyaGRkcWp6VE9KV0IwUHQ4RlhIUy1sN1FGUGFURkdfeTU1bzhYaklRNy0ybWJab1N6N3oybU9TOThsamc2YW1yM3M3RGlrYXBHSGlXd2NObkJBdlBxWmVtZjdTSjljWTFfS1FzZ3JaQUVIcE5fM0d4X1AzZ1pqcnNyaXpPVFBsYXRMOGR3NlBfZXU1bzVlemlzd0dOUQ?oc=5\" target=\"_blank\">Подкаст «Проходной двор»: как редактор газеты из Новгорода стал геополитиком — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sun, 27 Sep 2026 20:36:41 GMT"
-    },
-    {
-      "title": "Более 5 тыс. паломников стали участниками Елисаветинского крестного хода — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm5mZTV3T2l5d3ZWb2FMdlBUa3dkSEpDQmZrU0wzeGIxcURjemZ3M203V3pEVkh1Qm9iY2Y2dFEwM3R6Z2Z6NFhCQmdWWFNKT2ZtTUNKT0R1MldESzdHdkN3MEUwNHBTeWFBTExHZUtBMUJYQ1VlX3FQYWptdFlzRzZNMFV6bWNfUkZDdEwycGhxOUNCZkRfODVHdGlnUmVGcFp2N0FVblBNaTI5VnpWSmFVVDB2cHRpVlYwQm8xUGdKSVIzQzYyOVVoSQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm5mZTV3T2l5d3ZWb2FMdlBUa3dkSEpDQmZrU0wzeGIxcURjemZ3M203V3pEVkh1Qm9iY2Y2dFEwM3R6Z2Z6NFhCQmdWWFNKT2ZtTUNKT0R1MldESzdHdkN3MEUwNHBTeWFBTExHZUtBMUJYQ1VlX3FQYWptdFlzRzZNMFV6bWNfUkZDdEwycGhxOUNCZkRfODVHdGlnUmVGcFp2N0FVblBNaTI5VnpWSmFVVDB2cHRpVlYwQm8xUGdKSVIzQzYyOVVoSQ?oc=5\" target=\"_blank\">Более 5 тыс. паломников стали участниками Елисаветинского крестного хода — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sun, 27 Sep 2026 20:36:36 GMT"
+      "title": "На Украине уничтожен склад Kärcher: подробности об обстреле логистического центра немецкого производителя - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13NnVMRHB2WjlPWnY5TUVReDJNSFJOWno0NVFLTXFXWlZtSUl3NkdLSGljWjhkTWhFRGtJckc1MDBlWGRNQW9KWEE2aHdKOFdSVGFrbGVCQnBsdmhRR2lSVEFNRGJJWTl1M1N4ZDNob3ZRbmI3Nzhpdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE13NnVMRHB2WjlPWnY5TUVReDJNSFJOWno0NVFLTXFXWlZtSUl3NkdLSGljWjhkTWhFRGtJckc1MDBlWGRNQW9KWEE2aHdKOFdSVGFrbGVCQnBsdmhRR2lSVEFNRGJJWTl1M1N4ZDNob3ZRbmI3Nzhpdw?oc=5\" target=\"_blank\">На Украине уничтожен склад Kärcher: подробности об обстреле логистического центра немецкого производителя</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 20:34:00 GMT"
     }
   ]
 }
