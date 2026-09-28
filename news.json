@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:39:15.550973+00:00",
+  "updated": "2026-09-28T21:05:37.438408+00:00",
   "count": 40,
   "news": [
     {
@@ -50,6 +50,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE96VTR6MzRVTVBmaThFVzA4SkhQMVBCZWt0UzlIZmxzQldDVzB6UWNVN29QZ0RyZ19mRjZFUmt3clZTWTBVazlwdXdBN1phbGJieXZJOXZOSFZQZnU0bXZDWUUzQmlyZw?oc=5\" target=\"_blank\">Заседание клуба «Валдай» перенесли из Сочи в Подмосковье из-за логистики</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sun, 27 Sep 2026 23:25:00 GMT"
+    },
+    {
+      "title": "Кремль заявил, что Украине придется \"заплатить цену\" за свои действия - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1icTRYNEVHUnN1elNVWmM1UWVLazZYYVpOUnRDWGk0VFdxelhBbEI4ZDA5WmxHZzNIam5WeWNuVno2TzFuRE1WSA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1icTRYNEVHUnN1elNVWmM1UWVLazZYYVpOUnRDWGk0VFdxelhBbEI4ZDA5WmxHZzNIam5WeWNuVno2TzFuRE1WSA?oc=5\" target=\"_blank\">Кремль заявил, что Украине придется \"заплатить цену\" за свои действия</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Sun, 27 Sep 2026 23:23:00 GMT"
     },
     {
       "title": "Сенатором от Тамбовской области стал Алексей Пучнин - tass.ru",
@@ -274,13 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFRjlQMlpzNkpkQjlLM3F4OUNSSTRCUXVnRlVFSzQxeVc4WG8tLS13UzdzdjVBOFFzdWZvQjF0NllmdVZoQm03TzBYanJlYUUxUFRCN1pJT18?oc=5\" target=\"_blank\">Трамп допустил запрет на экспорт дизеля</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 27 Sep 2026 21:40:00 GMT"
-    },
-    {
-      "title": "На строительство туристической инфраструктуры направят почти 5 млрд рублей - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TU2V2M3NBcEEwYkZOa3dMejVwVFhmTjRZSWhDeVY5Q2xzUGtFR3hCMWxIUkpFYUIzeEw4R1I3aDVLRG1hSGxJTVBlNU9qZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TU2V2M3NBcEEwYkZOa3dMejVwVFhmTjRZSWhDeVY5Q2xzUGtFR3hCMWxIUkpFYUIzeEw4R1I3aDVLRG1hSGxJTVBlNU9qZw?oc=5\" target=\"_blank\">На строительство туристической инфраструктуры направят почти 5 млрд рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sun, 27 Sep 2026 21:37:00 GMT"
     }
   ]
 }
