@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T14:40:44.234678+00:00",
+  "updated": "2026-09-28T15:08:30.377078+00:00",
   "count": 40,
   "news": [
     {
@@ -28,6 +28,13 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RT3pRb2o0Qm9MZV9qZ2tmdWVzWUR4c2NLV0dmY3A2eXlvZWtCWWIwdU40Zm1fNl93bXZpV3ZxR1k4b1p2c05ydGFwR1d5QngxM1IyWkUxT3F0bEJsUjc5NW1oSmRjTmdDU01v?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5RT3pRb2o0Qm9MZV9qZ2tmdWVzWUR4c2NLV0dmY3A2eXlvZWtCWWIwdU40Zm1fNl93bXZpV3ZxR1k4b1p2c05ydGFwR1d5QngxM1IyWkUxT3F0bEJsUjc5NW1oSmRjTmdDU01v?oc=5\" target=\"_blank\">Карьера нефтяника: чем промышленность привлекает специалистов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 23:39:00 GMT"
+    },
+    {
+      "title": "Более 70% опрошенных украинцев считают, что Зеленский ответственен за коррупцию - tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56TFpiQXNJeDJvZnMyeEFWblVFSUx4RjVhaVBDTzd0UzVGWEdfSGhXRjRaMjZXcG1leVRtS1hTRFVwVEVoQ2VwR29EZS12QjdxWEVlR3lUbVJVRTU1eFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE56TFpiQXNJeDJvZnMyeEFWblVFSUx4RjVhaVBDTzd0UzVGWEdfSGhXRjRaMjZXcG1leVRtS1hTRFVwVEVoQ2VwR29EZS12QjdxWEVlR3lUbVJVRTU1eFE?oc=5\" target=\"_blank\">Более 70% опрошенных украинцев считают, что Зеленский ответственен за коррупцию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
+      "source": "ТАСС",
       "pub": "Sun, 27 Sep 2026 23:39:00 GMT"
     },
     {
@@ -274,13 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBOSkh2eVFEbUtsR00yd1V2Y1NXZlFZMmVwZ1ViNEpVZVNxSFFUTU9BNmF5SGdERDhMUUJvQTdaYTF1MVpDMmxod3M4NFlOMEdneHBidXB2UEdTdVhzVmlyamdEZF9LYmROVFROT3ZRLVZoZ2NzN2fSAXtBVV95cUxNNy1sODh3SlZIdEpCbkxsLXRrd1ZFeUZoYWdUVzJUWWlYX3RxNjhJT0JYelMzZkVSbDNwOXpwX3ltejlQdlg3bm8tcWRZVERVYnc4a296LWdWQXUydllvbm4zNko2U2RWNVNncHloVEFIWkxmVWp1MHVsNkk?oc=5\" target=\"_blank\">Роспотребнадзор советует промывать рану после укуса животного</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sun, 27 Sep 2026 22:00:11 GMT"
-    },
-    {
-      "title": "ВСУ 11 раз атаковали территорию ДНР за сутки, сведений о жертвах нет - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUnhxS2pFbmMwTlI4eDJ0TmNkMTh6RkdyZTRXdUVFMlJ3UGkzeXNZMzlkNW5XUTZ3Q09zVm9FLVBXbmhNXy1DdnlDd2djclhwQzJtc2h3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUnhxS2pFbmMwTlI4eDJ0TmNkMTh6RkdyZTRXdUVFMlJ3UGkzeXNZMzlkNW5XUTZ3Q09zVm9FLVBXbmhNXy1DdnlDd2djclhwQzJtc2h3?oc=5\" target=\"_blank\">ВСУ 11 раз атаковали территорию ДНР за сутки, сведений о жертвах нет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Sun, 27 Sep 2026 21:55:00 GMT"
     }
   ]
 }
