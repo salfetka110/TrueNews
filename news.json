@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T01:37:41.086296+00:00",
+  "updated": "2026-09-28T02:05:13.517172+00:00",
   "count": 40,
   "news": [
     {
@@ -8,13 +8,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaVNKbEVvMGI1clVVbzBmcU05dFExazN3QXhoSUtTWDhtQkxlNkFUTUdma3BCZU1kTFhWZDJwUjJJcE1lWkhnSDZJQU40X1I3U0YtMTdvRG4?oc=5\" target=\"_blank\">Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Thu, 24 Sep 2026 16:10:38 GMT"
-    },
-    {
-      "title": "ООО «АВА-ПЕТЕР» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5\" target=\"_blank\">ООО «АВА-ПЕТЕР»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Thu, 09 Sep 2021 16:29:53 GMT"
     },
     {
       "title": "Сотни протестующих остались ночевать в палаточном лагере на площади Мадрида - ria.ru",
@@ -29,6 +22,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZlhtWWJaTVpLQ296R3VmNkZ3emFPY05kRmJOcWJGdERxMUlxclljWm5OX2pnaUJwcDRzbVluUkVlRlB5TjV0VV9lbDVEZXRKUFd0N09ON1BRQUR1Mnl3QllydGluSGpsYlNoak5JbEE?oc=5\" target=\"_blank\">Мельниченко предложил баланс между автономностью и открытостью страны</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sun, 27 Sep 2026 23:28:22 GMT"
+    },
+    {
+      "title": "Умер музыкальный критик Сергей Соседов - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zWWJVSFh0UkwxXzNzWE1vTTNldnVYYlRWTC1IM3NBUVRJa2pzUnlQOW5tZFJycDlaX2d6NzhpLWVCNUlnNGc0NE40UHhlT09iU3B2YWlnTFVhWEd6QmtHS1ViZEpEYjJ6VmNzUFA4TQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4zWWJVSFh0UkwxXzNzWE1vTTNldnVYYlRWTC1IM3NBUVRJa2pzUnlQOW5tZFJycDlaX2d6NzhpLWVCNUlnNGc0NE40UHhlT09iU3B2YWlnTFVhWEd6QmtHS1ViZEpEYjJ6VmNzUFA4TQ?oc=5\" target=\"_blank\">Умер музыкальный критик Сергей Соседов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 23:18:51 GMT"
     },
     {
       "title": "Канадцы хотят, чтобы власти раскрыли архивы о нацистах, заявил посол - ria.ru",
@@ -129,13 +129,6 @@
       "pub": "Sun, 27 Sep 2026 22:32:56 GMT"
     },
     {
-      "title": "Станиславу Кочеву вручили удостоверение об избрании депутатом Госдумы от Коми — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFlzQmkzUHREeFpGM3huMHVuMjgzNGFUOUwyRXJ5TTdYUUZMSnNsUXkwTlNYelVaUVBUMF9YR01yZGVCdGpFZUZYakR1aThPUGVsT1ZhN0cxcmRTeGUtaHVGNVR3YUVRSmNrRTVkOGtpUmRkaThidGFITkYxdkxYWE5VVDl5bzc0b1RuM0xYR3c5djZpNGFra2FsZU94WXJvbEQtRGVHWXMyamIwbUo5QUU3RVZ0VDFnQmtUZFFabUVpaldvSWFkZFAtLWVfRTBwWjRTRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFlzQmkzUHREeFpGM3huMHVuMjgzNGFUOUwyRXJ5TTdYUUZMSnNsUXkwTlNYelVaUVBUMF9YR01yZGVCdGpFZUZYakR1aThPUGVsT1ZhN0cxcmRTeGUtaHVGNVR3YUVRSmNrRTVkOGtpUmRkaThidGFITkYxdkxYWE5VVDl5bzc0b1RuM0xYR3c5djZpNGFra2FsZU94WXJvbEQtRGVHWXMyamIwbUo5QUU3RVZ0VDFnQmtUZFFabUVpaldvSWFkZFAtLWVfRTBwWjRTRQ?oc=5\" target=\"_blank\">Станиславу Кочеву вручили удостоверение об избрании депутатом Госдумы от Коми — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sun, 27 Sep 2026 22:32:56 GMT"
-    },
-    {
       "title": "В Туле состоялся фестиваль «Молодо-зелено» — читать подробности - vrf.tass.ru",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlFpVWtMOWZvR2o3RVEtbmJKSWRvRjNCYUdBMjFJSFVOaFlmMlZsbHI1Nlhvb3pyWmN0enFTb3paMkhWWmNKZzUyeGtsT25TM2MybHBESVRyRGVRbXhwbktmajFkWXo1UUJ3RDZyNjduejJNeUJYY3gwc0pPMFRfNXZaZVFSNEtjczBQTUljWDhQSGZkSE9iT0hHblNOQQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQlFpVWtMOWZvR2o3RVEtbmJKSWRvRjNCYUdBMjFJSFVOaFlmMlZsbHI1Nlhvb3pyWmN0enFTb3paMkhWWmNKZzUyeGtsT25TM2MybHBESVRyRGVRbXhwbktmajFkWXo1UUJ3RDZyNjduejJNeUJYY3gwc0pPMFRfNXZaZVFSNEtjczBQTUljWDhQSGZkSE9iT0hHblNOQQ?oc=5\" target=\"_blank\">В Туле состоялся фестиваль «Молодо-зелено» — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
@@ -232,6 +225,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFRjlQMlpzNkpkQjlLM3F4OUNSSTRCUXVnRlVFSzQxeVc4WG8tLS13UzdzdjVBOFFzdWZvQjF0NllmdVZoQm03TzBYanJlYUUxUFRCN1pJT18?oc=5\" target=\"_blank\">Трамп допустил запрет на экспорт дизеля</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 27 Sep 2026 21:40:00 GMT"
+    },
+    {
+      "title": "Нарижный — об организации турниров в России и мире: это вообще небо и земля - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DVEpVcVpmUEJ3MlYyQjhfejdkR3dFcnIyQm1NNFF5YVRTS3ROeWgwazhfUU9VYzBiSEZrVmJoOGIyTEV0b3JydVAzeHowaDZWd2xneTR3QXk3ck1FcXFNa2E2VGxKRmk2V3JaSlNmXzFtWjhEZ0dGcHhDTHLSAYIBQVVfeXFMUFVYNUlOc3plZDFZQkhraGZodXpqYTNnRDNPWjdYWE00dW1PWDBnTGJoR1VqbU5XQTlYR0V3T09GWEtIRzVDbFNIdFZQNUttM3M5UW14aXRlQmUyZ05rUlBpYXhxU01rWXVyMWdxYUZWeTRJeVVQVjM4RWRxTTlxLXA5Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1DVEpVcVpmUEJ3MlYyQjhfejdkR3dFcnIyQm1NNFF5YVRTS3ROeWgwazhfUU9VYzBiSEZrVmJoOGIyTEV0b3JydVAzeHowaDZWd2xneTR3QXk3ck1FcXFNa2E2VGxKRmk2V3JaSlNmXzFtWjhEZ0dGcHhDTHLSAYIBQVVfeXFMUFVYNUlOc3plZDFZQkhraGZodXpqYTNnRDNPWjdYWE00dW1PWDBnTGJoR1VqbU5XQTlYR0V3T09GWEtIRzVDbFNIdFZQNUttM3M5UW14aXRlQmUyZ05rUlBpYXhxU01rWXVyMWdxYUZWeTRJeVVQVjM4RWRxTTlxLXA5Zw?oc=5\" target=\"_blank\">Нарижный — об организации турниров в России и мире: это вообще небо и земля</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 27 Sep 2026 21:31:51 GMT"
     },
     {
       "title": "Роспотребнадзор назвал основных переносчиков бешенства - russian.rt.com",
