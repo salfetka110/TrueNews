@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T04:05:59.555166+00:00",
+  "updated": "2026-09-28T04:40:56.526923+00:00",
   "count": 40,
   "news": [
     {
@@ -8,13 +8,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaVNKbEVvMGI1clVVbzBmcU05dFExazN3QXhoSUtTWDhtQkxlNkFUTUdma3BCZU1kTFhWZDJwUjJJcE1lWkhnSDZJQU40X1I3U0YtMTdvRG4?oc=5\" target=\"_blank\">Новости рубрики «Доктор Питер» Санкт-Петербурга за сегодня</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Thu, 24 Sep 2026 16:10:38 GMT"
-    },
-    {
-      "title": "ООО «АВА-ПЕТЕР» - companies.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWFCUGZxUG5Ja0NyQmpkRnNfdTBNR040VXI5eDhnaG5jNDJUN1lsZDEwNnc2VHNPV04xbk83dHBrVzJ3dXoxaGh0TUxiSDFiSWFRNXRZeTRLSkFVZTJOZTlVanVzNTdzbVRJMjVvVENwVmJ6V2k2dkdDZWxzWlk0N191YmYzdUdEUWY4SUcybVR5WDNDTDE4azhBQi1DLXZONHc?oc=5\" target=\"_blank\">ООО «АВА-ПЕТЕР»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">companies.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Thu, 09 Sep 2021 16:29:53 GMT"
     },
     {
       "title": "Сотни протестующих остались ночевать в палаточном лагере на площади Мадрида - ria.ru",
@@ -164,6 +157,13 @@
       "pub": "Sun, 27 Sep 2026 22:32:17 GMT"
     },
     {
+      "title": "Bloomberg узнал, что налоговики КНР начали «охоту» на сверхбогатых - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PdEJZaXpyZkxLakFwWFdMY3Z3U3J4TFRKRlBETkhvVTM1Q054R3ZFXy1nZEtfR1MwWkxISFdzOUZ1eWZHRlQzWVNiTWI4UXk0ZTBOelkydXNBTlR0TDVFVHlZbmZOdDh4cE5DS1gxMXk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5PdEJZaXpyZkxLakFwWFdMY3Z3U3J4TFRKRlBETkhvVTM1Q054R3ZFXy1nZEtfR1MwWkxISFdzOUZ1eWZHRlQzWVNiTWI4UXk0ZTBOelkydXNBTlR0TDVFVHlZbmZOdDh4cE5DS1gxMXk?oc=5\" target=\"_blank\">Bloomberg узнал, что налоговики КНР начали «охоту» на сверхбогатых</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 22:20:21 GMT"
+    },
+    {
       "title": "Укороченный МС-21 совершит первый полёт в августе 2028 года — РТ на русском - russian.rt.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1ekllSU9pSERvVVYwY1VtcnltaXJ2Sm5yWi0wX0F3cTU1OXBabVZ3QldWWkZramdMQXpSNGQ2T3hBUHFfbWF0SWlGRWlDSl8wUWFhLWlaVHhTaG9yZXpxZmo1T09UXzVBUG54aDBXLU1wWWNCWWc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1ekllSU9pSERvVVYwY1VtcnltaXJ2Sm5yWi0wX0F3cTU1OXBabVZ3QldWWkZramdMQXpSNGQ2T3hBUHFfbWF0SWlGRWlDSl8wUWFhLWlaVHhTaG9yZXpxZmo1T09UXzVBUG54aDBXLU1wWWNCWWc?oc=5\" target=\"_blank\">Укороченный МС-21 совершит первый полёт в августе 2028 года — РТ на русском</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
@@ -197,6 +197,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qNmw4eWRUWHA4aFdWdzNoVEpjOEhoTlJZdGhPVWhEUWpYblEzTVhoX0ViM25QYjZnOFNfVkdYRUNsYk1GeHF0eDlFNlBZb3kzbmQ4RTl5bV9tcmI0NWc?oc=5\" target=\"_blank\">ЕС разрабатывает дорожные карты вступления в блок четырех стран, пишут СМИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
       "source": "РИА Новости",
       "pub": "Sun, 27 Sep 2026 21:48:00 GMT"
+    },
+    {
+      "title": "Суд арестовал владельца ТСК «Солнечный» после пожара с четырьмя погибшими - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82aEVWUEVmalo0anlJeG1Mc19kTm1yT01qdktGYm5Ta1lvb2VXZ1h5ejNaZDNtY1o1cnFodHdoVTlZeVFrc2dFU0x1UlFpQlRhNDY5dzlnSkt5OTIzZUN2QTJEaEd1QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE82aEVWUEVmalo0anlJeG1Mc19kTm1yT01qdktGYm5Ta1lvb2VXZ1h5ejNaZDNtY1o1cnFodHdoVTlZeVFrc2dFU0x1UlFpQlRhNDY5dzlnSkt5OTIzZUN2QTJEaEd1QQ?oc=5\" target=\"_blank\">Суд арестовал владельца ТСК «Солнечный» после пожара с четырьмя погибшими</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Sun, 27 Sep 2026 21:46:07 GMT"
     },
     {
       "title": "Ямало-Ненецкий округ возглавил рейтинг доступности ипотеки - russian.rt.com",
@@ -267,13 +274,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE92QjM4NEtPZ1VnNUdLa25zdlQ2X1lNRjBhTUVBM2QxWElmVmlZVXpxOTJya0M1bDRHd1FyZko1aUdpYnFhdHdEYmxpeTQxa0htc2J2aWhPQWpLOXFfOTNVTWtUeUJON3V0YVJwWUFBSXlyTFV60gF6QVVfeXFMTUtEWnZZdGFnTUFJZ193cFNDM3VvTldaWmJSSlZqVXlWaHZRQ0RObWlFSGJyTFNzUDRzWktZZ25TbllmNXJ2YjVoRXVmdlFTdzF4YlZaOEQtZ0lWYnlsN2U3TE5nX2tFLTNVMEV3Y1pBTjBNUWpGdFZLakE?oc=5\" target=\"_blank\">МВД перечислило шаги при утечке банковских данных</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Sun, 27 Sep 2026 21:15:44 GMT"
-    },
-    {
-      "title": "В Молдавии объявили красный уровень тревоги из-за обмеления Днестра - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IRWNqSVhXSWlkc3NpMzlQejhNaXBHcTIwY0JERjZ0S0dOR09EdmhIUmhMRjVFZFV0SGl0VEJPSzV3VXh6WjhiZGF2Y0s3UERjbzBpazY0eFBPSE9LYzdOcC13cWR0Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IRWNqSVhXSWlkc3NpMzlQejhNaXBHcTIwY0JERjZ0S0dOR09EdmhIUmhMRjVFZFV0SGl0VEJPSzV3VXh6WjhiZGF2Y0s3UERjbzBpazY0eFBPSE9LYzdOcC13cWR0Zw?oc=5\" target=\"_blank\">В Молдавии объявили красный уровень тревоги из-за обмеления Днестра</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Sun, 27 Sep 2026 21:10:59 GMT"
     },
     {
       "title": "Худайбердиева: после победы на чемпионате России я услышала массу нелицеприятного о себе - russian.rt.com",
