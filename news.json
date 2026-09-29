@@ -1,53 +1,81 @@
 {
-  "updated": "2026-09-29T07:07:39.883600+00:00",
+  "updated": "2026-09-29T07:39:23.784537+00:00",
   "count": 40,
   "news": [
     {
-      "title": "ВТБ за восемь месяцев получил 314,8 млрд рублей прибыли - fontanka.ru",
+      "title": "Овечкин сыграет в стартовом матче нового сезона НХЛ - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MeVpwZm9xVzZ5QWhETDExX0dFS0hUZVBQTUc1bzVwQVI5dHh2TWNDdFhReUREamQ1dUdmT0lkZnFwZU1hSEtpMGxiVmx5cF9HblBXeHhUckFJQzJ6S2QxSmZVTERDN0VYMUtTdA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5MeVpwZm9xVzZ5QWhETDExX0dFS0hUZVBQTUc1bzVwQVI5dHh2TWNDdFhReUREamQ1dUdmT0lkZnFwZU1hSEtpMGxiVmx5cF9HblBXeHhUckFJQzJ6S2QxSmZVTERDN0VYMUtTdA?oc=5\" target=\"_blank\">Овечкин сыграет в стартовом матче нового сезона НХЛ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Tue, 29 Sep 2026 07:28:15 GMT"
+    },
+    {
+      "title": "Назван средний чек на подарок ко Дню учителя - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yTU92RFo2Ung0Y2Q5S0hmcXZOMTI5WWxkZnEyOGFwQjFNbUpsN1BEZmRqRElUQ2h6cFdncGwzOGNUcW1zQnAzRnBERHVSRFNfaU1TaXJxc1ZoRFU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yTU92RFo2Ung0Y2Q5S0hmcXZOMTI5WWxkZnEyOGFwQjFNbUpsN1BEZmRqRElUQ2h6cFdncGwzOGNUcW1zQnAzRnBERHVSRFNfaU1TaXJxc1ZoRFU?oc=5\" target=\"_blank\">Назван средний чек на подарок ко Дню учителя</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Tue, 29 Sep 2026 07:16:00 GMT"
+    },
+    {
+      "title": "ВТБ прогнозирует прибыль банковского сектора в 3,8–4,5 трлн рублей в год - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10OFBzWk5mOUdvdlE0Y0o2RkQ4SDZlMjRMcEozaE45dFBiT1plb1lXQlF2ekY2aEhDZHFUeW1BaFFsdUNkWjV3ellZZVRlc2pRX3h4T1RkUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE10OFBzWk5mOUdvdlE0Y0o2RkQ4SDZlMjRMcEozaE45dFBiT1plb1lXQlF2ekY2aEhDZHFUeW1BaFFsdUNkWjV3ellZZVRlc2pRX3h4T1RkUQ?oc=5\" target=\"_blank\">ВТБ прогнозирует прибыль банковского сектора в 3,8–4,5 трлн рублей в год</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Tue, 29 Sep 2026 07:15:17 GMT"
+    },
+    {
+      "title": "Советник Нетаньяху назвал цель обвинений в адрес премьера накануне выборов - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5COTFIMzBybDdvQWhlZ1ZzNWRsUl9KY3B3eGxEeHl5aFJIei14YVhVX0pIbng2VVBuSWlFMEdNN0FuY2gxTlRjMmNzR25WUE9MSV9CY0d1Q2hLdHQ1WkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5COTFIMzBybDdvQWhlZ1ZzNWRsUl9KY3B3eGxEeHl5aFJIei14YVhVX0pIbng2VVBuSWlFMEdNN0FuY2gxTlRjMmNzR25WUE9MSV9CY0d1Q2hLdHQ1WkE?oc=5\" target=\"_blank\">Советник Нетаньяху назвал цель обвинений в адрес премьера накануне выборов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Tue, 29 Sep 2026 07:13:00 GMT"
+    },
+    {
+      "title": "ВТБ за восемь месяцев получил 314,8 млрд рублей прибыли - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OMEVNZW9iQ1FCUjNzcWo5NTV4cVNMSzBMMjU3NUNVRnNNVDJsVmlCSndMckQycHRDd05fTS1vQXdFWUstem1PT2VaMERBSjdWdGkzZjE1WQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OMEVNZW9iQ1FCUjNzcWo5NTV4cVNMSzBMMjU3NUNVRnNNVDJsVmlCSndMckQycHRDd05fTS1vQXdFWUstem1PT2VaMERBSjdWdGkzZjE1WQ?oc=5\" target=\"_blank\">ВТБ за восемь месяцев получил 314,8 млрд рублей прибыли</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OMEVNZW9iQ1FCUjNzcWo5NTV4cVNMSzBMMjU3NUNVRnNNVDJsVmlCSndMckQycHRDd05fTS1vQXdFWUstem1PT2VaMERBSjdWdGkzZjE1WQ?oc=5\" target=\"_blank\">ВТБ за восемь месяцев получил 314,8 млрд рублей прибыли</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 07:05:04 GMT"
     },
     {
-      "title": "Задержан директор завода пиротехники в Ярославской области, где произошел пожар с 14 погибшими - fontanka.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfbmFMdF8wckVRNzdsSVNEcHFZbk5aOXR5dmkxUVZCS0hKa3ZwemZrcTlwUFZiWjZyWU9UUEplZ2FvTThPd1FnM2JHYzZwOXpNWUZOUjVJOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfbmFMdF8wckVRNzdsSVNEcHFZbk5aOXR5dmkxUVZCS0hKa3ZwemZrcTlwUFZiWjZyWU9UUEplZ2FvTThPd1FnM2JHYzZwOXpNWUZOUjVJOA?oc=5\" target=\"_blank\">Задержан директор завода пиротехники в Ярославской области, где произошел пожар с 14 погибшими</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 29 Sep 2026 07:03:00 GMT"
+      "title": "Врач рассказал о связи тренировок с крепкими зубами - ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIM2syZ3RoLXBrd3JRQ1o4VjFEWlVpNW1vUjdJVFc4QW42dkE4Ri0wa2JxUWtKd00zOEFTV2xxdXVYc04xR1hLalBoVkRyRjBMVUtYTlQ2SQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIM2syZ3RoLXBrd3JRQ1o4VjFEWlVpNW1vUjdJVFc4QW42dkE4Ri0wa2JxUWtKd00zOEFTV2xxdXVYc04xR1hLalBoVkRyRjBMVUtYTlQ2SQ?oc=5\" target=\"_blank\">Врач рассказал о связи тренировок с крепкими зубами</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Tue, 29 Sep 2026 07:04:00 GMT"
     },
     {
-      "title": "Пьянов: бюджет может позитивно повлиять на решение ЦБ по ключевой ставке - fontanka.ru",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdmtITXJ6YzJKYWdqb0dqX1N4dzdNY21mSl9lV2tMdjNiQ0p0eXlNdVBxY2NSQ3hjT1NTNEw1dUJfdkt4QzZDNW9fMm9Md3lsbVduNlg3SQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdmtITXJ6YzJKYWdqb0dqX1N4dzdNY21mSl9lV2tMdjNiQ0p0eXlNdVBxY2NSQ3hjT1NTNEw1dUJfdkt4QzZDNW9fMm9Md3lsbVduNlg3SQ?oc=5\" target=\"_blank\">Пьянов: бюджет может позитивно повлиять на решение ЦБ по ключевой ставке</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 29 Sep 2026 07:00:23 GMT"
-    },
-    {
-      "title": "Когда 185 миллионов евро уже не роскошь. Как «Зенит» отстал от футбольной Европы - fontanka.ru",
+      "title": "Когда 185 миллионов евро уже не роскошь. Как «Зенит» отстал от футбольной Европы - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xWTRKQmgxdUxkWHlCZlZHdEFDNEp1YWEtMVpIbUdlbFdKRXhIV3JhVHlTeTNwMWIyVmN6eFRUM0RwcHhFNVpyTk5YajZKeFVZT3pudUtWVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xWTRKQmgxdUxkWHlCZlZHdEFDNEp1YWEtMVpIbUdlbFdKRXhIV3JhVHlTeTNwMWIyVmN6eFRUM0RwcHhFNVpyTk5YajZKeFVZT3pudUtWVQ?oc=5\" target=\"_blank\">Когда 185 миллионов евро уже не роскошь. Как «Зенит» отстал от футбольной Европы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xWTRKQmgxdUxkWHlCZlZHdEFDNEp1YWEtMVpIbUdlbFdKRXhIV3JhVHlTeTNwMWIyVmN6eFRUM0RwcHhFNVpyTk5YajZKeFVZT3pudUtWVQ?oc=5\" target=\"_blank\">Когда 185 миллионов евро уже не роскошь. Как «Зенит» отстал от футбольной Европы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Атмосферный фронт принесет небольшие дожди в Петербург - fontanka.ru",
+      "title": "Папа римский увидел противоречие в словах главы NVIDIA об ограничении ИИ - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrc1FDWnphcUh6Z0FUZ2NZNENGMGcySTVnX3NUMmZiRzhRMDFLVUV6b095QmNZN3ZxSnBiY19wcVQ4RVBIb3JSUjFBeldnOHVjVUJXc0hIQjY5NFpjWU9zN1N5X0tmNUYtZGNGdkRwaWNYWU5qN2ctMw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBrc1FDWnphcUh6Z0FUZ2NZNENGMGcySTVnX3NUMmZiRzhRMDFLVUV6b095QmNZN3ZxSnBiY19wcVQ4RVBIb3JSUjFBeldnOHVjVUJXc0hIQjY5NFpjWU9zN1N5X0tmNUYtZGNGdkRwaWNYWU5qN2ctMw?oc=5\" target=\"_blank\">Папа римский увидел противоречие в словах главы NVIDIA об ограничении ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Tue, 29 Sep 2026 06:56:38 GMT"
+    },
+    {
+      "title": "Атмосферный фронт принесет небольшие дожди в Петербург - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LeW9ZM2tzTlVtVUprQnFZOHpoZVE2OXJTSUNrblRpaTFOeVkyMmh0NXMyRkZRSjl4TnpMQVBrNGNOVGpNc3VBUHRLVVNkWXA5N21rRkI4QUJIMlRTbjF0Q0tRaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LeW9ZM2tzTlVtVUprQnFZOHpoZVE2OXJTSUNrblRpaTFOeVkyMmh0NXMyRkZRSjl4TnpMQVBrNGNOVGpNc3VBUHRLVVNkWXA5N21rRkI4QUJIMlRTbjF0Q0tRaw?oc=5\" target=\"_blank\">Атмосферный фронт принесет небольшие дожди в Петербург</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LeW9ZM2tzTlVtVUprQnFZOHpoZVE2OXJTSUNrblRpaTFOeVkyMmh0NXMyRkZRSjl4TnpMQVBrNGNOVGpNc3VBUHRLVVNkWXA5N21rRkI4QUJIMlRTbjF0Q0tRaw?oc=5\" target=\"_blank\">Атмосферный фронт принесет небольшие дожди в Петербург</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 06:49:01 GMT"
     },
     {
-      "title": "Прокуратура оценила в 279 тысяч прыжок кане-корсо на петербурженку - fontanka.ru",
+      "title": "Прокуратура оценила в 279 тысяч прыжок кане-корсо на петербурженку - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yanRqTFQ1LXJYUWc1Mi0tZ3JyTVlnT0MtRFdmWXRlYy0yQ1Baa0RnUERTV0o5Q0h1Qm0xRmtnNi1ZdTZCNG8tampzdGptTV9GWkZpRTNWSQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yanRqTFQ1LXJYUWc1Mi0tZ3JyTVlnT0MtRFdmWXRlYy0yQ1Baa0RnUERTV0o5Q0h1Qm0xRmtnNi1ZdTZCNG8tampzdGptTV9GWkZpRTNWSQ?oc=5\" target=\"_blank\">Прокуратура оценила в 279 тысяч прыжок кане-корсо на петербурженку</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yanRqTFQ1LXJYUWc1Mi0tZ3JyTVlnT0MtRFdmWXRlYy0yQ1Baa0RnUERTV0o5Q0h1Qm0xRmtnNi1ZdTZCNG8tampzdGptTV9GWkZpRTNWSQ?oc=5\" target=\"_blank\">Прокуратура оценила в 279 тысяч прыжок кане-корсо на петербурженку</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 06:48:00 GMT"
     },
     {
-      "title": "Ночные заморозки пришли в Ленобласть. Температура в Тихвине ушла в минус - fontanka.ru",
+      "title": "Ночные заморозки пришли в Ленобласть. Температура в Тихвине ушла в минус - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BUkxIZG9ZSDBlX05XSDFuRTBqOEk1YUN4aHotazlXLVB4T2czbDAyVFBLMUdwZ3VDaHJRNnZ2RHFGX0FyRHNfUzdRTEN3ZjNjanBVRTJ4TQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BUkxIZG9ZSDBlX05XSDFuRTBqOEk1YUN4aHotazlXLVB4T2czbDAyVFBLMUdwZ3VDaHJRNnZ2RHFGX0FyRHNfUzdRTEN3ZjNjanBVRTJ4TQ?oc=5\" target=\"_blank\">Ночные заморозки пришли в Ленобласть. Температура в Тихвине ушла в минус</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BUkxIZG9ZSDBlX05XSDFuRTBqOEk1YUN4aHotazlXLVB4T2czbDAyVFBLMUdwZ3VDaHJRNnZ2RHFGX0FyRHNfUzdRTEN3ZjNjanBVRTJ4TQ?oc=5\" target=\"_blank\">Ночные заморозки пришли в Ленобласть. Температура в Тихвине ушла в минус</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 06:38:38 GMT"
     },
@@ -59,23 +87,30 @@
       "pub": "Tue, 29 Sep 2026 06:31:00 GMT"
     },
     {
-      "title": "В Калифорнии застрелили топ-менеджера The New York Times Джонатана Маккинзи - fontanka.ru",
+      "title": "ВС России ударили по складскому терминалу в Киевской области, где хранили БПЛА - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ05BZHBYcDJxcTdRVHp5WnBENEZ5TWJaODZBMENKb2tMbEhrWGdwMFJVU1ZjajJGeVJZeXFCM1BUamRXX0VzT2xBMWxLOUY3eWdkRE91bWc2ZEZ4RXdKNjQ3bURVT2ZSNEhCb0d2MlQxbGtMZTMxQ20taUN1VUN1bGRkRGlUUFdSZ2k3WVpsUDFLS0XSAZgBQVVfeXFMTWFlaGxyN0hSSTdQejBIejAxU3lab0U1ekozZ2FkVHVERmR5MkQ4MkdpMUNGaHAwQVFSWF91X1JkRHdBejFuY1BxUk1MaDNBUUc0YzlYQ2JVaEtHeXlsV0RSRmpPQUFhVFR1RENxeDV2TEFnWk95ekNueERQelV1a0ZsNWFEdmZvMnB6OUlSVm8xemdtcy1LXzI?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ05BZHBYcDJxcTdRVHp5WnBENEZ5TWJaODZBMENKb2tMbEhrWGdwMFJVU1ZjajJGeVJZeXFCM1BUamRXX0VzT2xBMWxLOUY3eWdkRE91bWc2ZEZ4RXdKNjQ3bURVT2ZSNEhCb0d2MlQxbGtMZTMxQ20taUN1VUN1bGRkRGlUUFdSZ2k3WVpsUDFLS0XSAZgBQVVfeXFMTWFlaGxyN0hSSTdQejBIejAxU3lab0U1ekozZ2FkVHVERmR5MkQ4MkdpMUNGaHAwQVFSWF91X1JkRHdBejFuY1BxUk1MaDNBUUc0YzlYQ2JVaEtHeXlsV0RSRmpPQUFhVFR1RENxeDV2TEFnWk95ekNueERQelV1a0ZsNWFEdmZvMnB6OUlSVm8xemdtcy1LXzI?oc=5\" target=\"_blank\">ВС России ударили по складскому терминалу в Киевской области, где хранили БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 29 Sep 2026 06:20:41 GMT"
+    },
+    {
+      "title": "Совместные заводы: бизнес Татарстана расширяет сотрудничество с Индией - rt.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2dGZVpHNTBtOTF3MHF6Z0lXbWNsSjRhZ2hJMjF6OE5FemEtVjNsQWxEekV5Q0t4OFFpWWRiNDg3Z29zVUhBWVZZNFJhZFg3OXl6OF9zb1NUR2dmdDlLNkN0ZW44QUsxTVJBXzUxRVltVEd3MGotdlNLVEhVd1gybg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2dGZVpHNTBtOTF3MHF6Z0lXbWNsSjRhZ2hJMjF6OE5FemEtVjNsQWxEekV5Q0t4OFFpWWRiNDg3Z29zVUhBWVZZNFJhZFg3OXl6OF9zb1NUR2dmdDlLNkN0ZW44QUsxTVJBXzUxRVltVEd3MGotdlNLVEhVd1gybg?oc=5\" target=\"_blank\">Совместные заводы: бизнес Татарстана расширяет сотрудничество с Индией</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rt.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Tue, 29 Sep 2026 06:11:35 GMT"
+    },
+    {
+      "title": "В Калифорнии застрелили топ-менеджера The New York Times Джонатана Маккинзи - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmX083X3pvVk44SWdYelRoeTA2UGRUN2dQTDgtS3lNaDczVm1HNTVhRG1lWWExRS1hQ3N3c282NWdPVHlpakdtNnhoSTNpQUo2bGhJZk4wRkdtbF94NUxmLWRvbw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmX083X3pvVk44SWdYelRoeTA2UGRUN2dQTDgtS3lNaDczVm1HNTVhRG1lWWExRS1hQ3N3c282NWdPVHlpakdtNnhoSTNpQUo2bGhJZk4wRkdtbF94NUxmLWRvbw?oc=5\" target=\"_blank\">В Калифорнии застрелили топ-менеджера The New York Times Джонатана Маккинзи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmX083X3pvVk44SWdYelRoeTA2UGRUN2dQTDgtS3lNaDczVm1HNTVhRG1lWWExRS1hQ3N3c282NWdPVHlpakdtNnhoSTNpQUo2bGhJZk4wRkdtbF94NUxmLWRvbw?oc=5\" target=\"_blank\">В Калифорнии застрелили топ-менеджера The New York Times Джонатана Маккинзи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 06:08:21 GMT"
     },
     {
-      "title": "ВС России поразили под Киевом складской терминал, в котором хранились БПЛА - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aS0NiYjRiTWpiODd1RGczZkdKUkRwT25CVEtRdGdTM19Ta2dra1dXV0tPUXA1Mi1WcjU4STVhckVIM3hod01iRGlxQ2lBUFVaX3Bfdg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aS0NiYjRiTWpiODd1RGczZkdKUkRwT25CVEtRdGdTM19Ta2dra1dXV0tPUXA1Mi1WcjU4STVhckVIM3hod01iRGlxQ2lBUFVaX3Bfdg?oc=5\" target=\"_blank\">ВС России поразили под Киевом складской терминал, в котором хранились БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 29 Sep 2026 06:08:00 GMT"
-    },
-    {
-      "title": "Корабли Северного флота впервые в истории ВМФ РФ прошли через пролив Шокальского - fontanka.ru",
+      "title": "Корабли Северного флота впервые в истории ВМФ РФ прошли через пролив Шокальского - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1MFdDaUlCbXJuaDd1dFJwXy1xXzh6Q2hfUGtWLVludElvUmgxaUE4R01rVHF5QXByekgya2xnYTlXa0NXVmtZWFliY0lzZzByVEtUWk9xNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1MFdDaUlCbXJuaDd1dFJwXy1xXzh6Q2hfUGtWLVludElvUmgxaUE4R01rVHF5QXByekgya2xnYTlXa0NXVmtZWFliY0lzZzByVEtUWk9xNA?oc=5\" target=\"_blank\">Корабли Северного флота впервые в истории ВМФ РФ прошли через пролив Шокальского</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1MFdDaUlCbXJuaDd1dFJwXy1xXzh6Q2hfUGtWLVludElvUmgxaUE4R01rVHF5QXByekgya2xnYTlXa0NXVmtZWFliY0lzZzByVEtUWk9xNA?oc=5\" target=\"_blank\">Корабли Северного флота впервые в истории ВМФ РФ прошли через пролив Шокальского</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 06:05:00 GMT"
     },
@@ -87,37 +122,30 @@
       "pub": "Tue, 29 Sep 2026 06:00:00 GMT"
     },
     {
-      "title": "Зачем кладут лавровый лист в шкаф с крупами: ответ знали еще наши бабушки - fontanka.ru",
+      "title": "ВС России удерживают позиции в Редкодубе, Ямполе, Новомихайловке и Новом в ДНР - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVBuM2Z3dnR1UF8wMDc1ZGVzNzYtNnc5OVEyaVZmT1pmZHpwN0Q5SGlNeld5QU8xOXNXMVZZWlplVVhINTdWQzRKUzliUVVpVWJfZkJ5N2NpTU91czRzZGdHVi1TLXZjb1Uzc0dtQTV3b09MaDctRnQ2UzZkUGs3S9IBhgFBVV95cUxOSEctaGZyYjNwbVNBVmExZ0xjNzh1Tl9aQjFYR1REMllsX29mNlJFaDRKWEpoS3FrSlBaeWQ3T1JzSTlmQmJ1dGYydGdTUUlpbWZ1WThIQmpHcnVXaVFRM212YWVSRkFCMkRhSHdTNmp6Z21XMklPdnZlYjBMdnJPdzhZMW9fdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVBuM2Z3dnR1UF8wMDc1ZGVzNzYtNnc5OVEyaVZmT1pmZHpwN0Q5SGlNeld5QU8xOXNXMVZZWlplVVhINTdWQzRKUzliUVVpVWJfZkJ5N2NpTU91czRzZGdHVi1TLXZjb1Uzc0dtQTV3b09MaDctRnQ2UzZkUGs3S9IBhgFBVV95cUxOSEctaGZyYjNwbVNBVmExZ0xjNzh1Tl9aQjFYR1REMllsX29mNlJFaDRKWEpoS3FrSlBaeWQ3T1JzSTlmQmJ1dGYydGdTUUlpbWZ1WThIQmpHcnVXaVFRM212YWVSRkFCMkRhSHdTNmp6Z21XMklPdnZlYjBMdnJPdzhZMW9fdw?oc=5\" target=\"_blank\">ВС России удерживают позиции в Редкодубе, Ямполе, Новомихайловке и Новом в ДНР</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 29 Sep 2026 05:46:01 GMT"
+    },
+    {
+      "title": "Зачем кладут лавровый лист в шкаф с крупами: ответ знали еще наши бабушки - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Day1VQnNiQ2gtTXRFWnNwZElacHN2NWtnS0hYeHBubjlJVGtTSWhFYlhTMmhWVUxvcEdtaU1kd2xLZlV0ZXhITDhETTRLS2JTZGVvODFyUEVwYlN0NkU1ZEhmdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Day1VQnNiQ2gtTXRFWnNwZElacHN2NWtnS0hYeHBubjlJVGtTSWhFYlhTMmhWVUxvcEdtaU1kd2xLZlV0ZXhITDhETTRLS2JTZGVvODFyUEVwYlN0NkU1ZEhmdw?oc=5\" target=\"_blank\">Зачем кладут лавровый лист в шкаф с крупами: ответ знали еще наши бабушки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Day1VQnNiQ2gtTXRFWnNwZElacHN2NWtnS0hYeHBubjlJVGtTSWhFYlhTMmhWVUxvcEdtaU1kd2xLZlV0ZXhITDhETTRLS2JTZGVvODFyUEVwYlN0NkU1ZEhmdw?oc=5\" target=\"_blank\">Зачем кладут лавровый лист в шкаф с крупами: ответ знали еще наши бабушки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 05:44:44 GMT"
     },
     {
-      "title": "Бывший глава избиркома Петербурга стал сенатором от Тамбовской области - fontanka.ru",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0aEFMZ3AwV1NoVTB4anJEOWtoSV9laGUyTzhfSjU1RW9US2U2TXY2T1ZsY3N0aXY3T2VfWUZ4OUN1YXF5enpSa1pqR2I0dDh0emdCQlI2UURwMGk5a1ZmS1kwZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0aEFMZ3AwV1NoVTB4anJEOWtoSV9laGUyTzhfSjU1RW9US2U2TXY2T1ZsY3N0aXY3T2VfWUZ4OUN1YXF5enpSa1pqR2I0dDh0emdCQlI2UURwMGk5a1ZmS1kwZw?oc=5\" target=\"_blank\">Бывший глава избиркома Петербурга стал сенатором от Тамбовской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 29 Sep 2026 05:36:31 GMT"
-    },
-    {
-      "title": "Лишат ли «Манчестер Сити» чемпионских титулов из-за финансовых махинаций - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbGtxdUlUUFZFXzkzMDJjOHZHRXlqdERCS2x1amJvRW9qLWJMYnJYX1pPQVFieFhkYVhRbU1qcVU5LWV5UEFUM21IeExhaWd6TUx4MFl6ZzJlS3lDS1BLY21MdlVTLXBxZi1pVg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbGtxdUlUUFZFXzkzMDJjOHZHRXlqdERCS2x1amJvRW9qLWJMYnJYX1pPQVFieFhkYVhRbU1qcVU5LWV5UEFUM21IeExhaWd6TUx4MFl6ZzJlS3lDS1BLY21MdlVTLXBxZi1pVg?oc=5\" target=\"_blank\">Лишат ли «Манчестер Сити» чемпионских титулов из-за финансовых махинаций</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "title": "Арендатор магазина в «Меге» в Уфе не смог добиться расторжения договора - ufa.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWjQ0TzZwSjJtZDFJeTRGaUdjRGtwNlFXdkh3YmdYekZlcTFEWXotWktoUjVGcF9XQnNNNVJ4TkZERlFibEE5cExrWDNKM2tpdTBmTjlPWF9Lb2xMZkU0T3VCOGYwZzk0QXRFalRHdHVUZVpMamw5ZmRWU1A?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWjQ0TzZwSjJtZDFJeTRGaUdjRGtwNlFXdkh3YmdYekZlcTFEWXotWktoUjVGcF9XQnNNNVJ4TkZERlFibEE5cExrWDNKM2tpdTBmTjlPWF9Lb2xMZkU0T3VCOGYwZzk0QXRFalRHdHVUZVpMamw5ZmRWU1A?oc=5\" target=\"_blank\">Арендатор магазина в «Меге» в Уфе не смог добиться расторжения договора</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ufa.rbc.ru</font>",
       "source": "РБК",
-      "pub": "Tue, 29 Sep 2026 05:31:09 GMT"
+      "pub": "Tue, 29 Sep 2026 05:25:34 GMT"
     },
     {
-      "title": "Силы ПВО за ночь сбили 129 БПЛА ВСУ над шестью регионами России и Чёрным морем - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMDJyRnNacVluYjRCZGxDalVnMlZGRlBwcGpRVXY5SERiQ2tBMXZGM3ppaG5odVRvZ0kySERTeFowZ1JuWFpMQURtR2pyRHdUT2NmOXhQZDRsTFlsckRETHZNMG5GbXVRZDhEZkRaQ3VSUXlL0gF6QVVfeXFMTl9qQloza2ozbEc1QXpST0VnN3Yya2JZd0FRTll0T1c3TFYxdEh6UnJZOUU3MTBVc0dkNlR0eEdBdlVzbjFyUUlRbkhrd1U2SFFnZXdmS3dxMXl4OU13S054T3o5Q2p5ZTZMQnhZNHR4aVpJdHROVWZiTHc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMDJyRnNacVluYjRCZGxDalVnMlZGRlBwcGpRVXY5SERiQ2tBMXZGM3ppaG5odVRvZ0kySERTeFowZ1JuWFpMQURtR2pyRHdUT2NmOXhQZDRsTFlsckRETHZNMG5GbXVRZDhEZkRaQ3VSUXlL0gF6QVVfeXFMTl9qQloza2ozbEc1QXpST0VnN3Yya2JZd0FRTll0T1c3TFYxdEh6UnJZOUU3MTBVc0dkNlR0eEdBdlVzbjFyUUlRbkhrd1U2SFFnZXdmS3dxMXl4OU13S054T3o5Q2p5ZTZMQnhZNHR4aVpJdHROVWZiTHc?oc=5\" target=\"_blank\">Силы ПВО за ночь сбили 129 БПЛА ВСУ над шестью регионами России и Чёрным морем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Tue, 29 Sep 2026 05:19:25 GMT"
-    },
-    {
-      "title": "Петербург накроет атмосферный фронт с небольшими дождями - fontanka.ru",
+      "title": "Петербург накроет атмосферный фронт с небольшими дождями - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ub2FwUE5sdjJSOWNzS3pMUEY5blNLMmtwOE1ZOC1NS1ZtUGV1QmYtaWJQTkk2VGN1Mi1JWVBIZkVXczN1bWtoZTNlanVvUUM1S1c1MG9MQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ub2FwUE5sdjJSOWNzS3pMUEY5blNLMmtwOE1ZOC1NS1ZtUGV1QmYtaWJQTkk2VGN1Mi1JWVBIZkVXczN1bWtoZTNlanVvUUM1S1c1MG9MQQ?oc=5\" target=\"_blank\">Петербург накроет атмосферный фронт с небольшими дождями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ub2FwUE5sdjJSOWNzS3pMUEY5blNLMmtwOE1ZOC1NS1ZtUGV1QmYtaWJQTkk2VGN1Mi1JWVBIZkVXczN1bWtoZTNlanVvUUM1S1c1MG9MQQ?oc=5\" target=\"_blank\">Петербург накроет атмосферный фронт с небольшими дождями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 05:19:00 GMT"
     },
@@ -129,9 +157,9 @@
       "pub": "Tue, 29 Sep 2026 05:16:00 GMT"
     },
     {
-      "title": "Театр начинается с миллиардов. Как в Петербурге строят и ремонтируют сцены - fontanka.ru",
+      "title": "Театр начинается с миллиардов. Как в Петербурге строят и ремонтируют сцены - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jano1dFcycW1rUElfY1F3VnZWODlyS0NmdFBOZlBHYzRub0RxNW5CRGxITzBJU0N1RlhjS3Q4aDUwVHo2YVlIbmNvYjB6RGs2Q0h0VktjUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jano1dFcycW1rUElfY1F3VnZWODlyS0NmdFBOZlBHYzRub0RxNW5CRGxITzBJU0N1RlhjS3Q4aDUwVHo2YVlIbmNvYjB6RGs2Q0h0VktjUQ?oc=5\" target=\"_blank\">Театр начинается с миллиардов. Как в Петербурге строят и ремонтируют сцены</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jano1dFcycW1rUElfY1F3VnZWODlyS0NmdFBOZlBHYzRub0RxNW5CRGxITzBJU0N1RlhjS3Q4aDUwVHo2YVlIbmNvYjB6RGs2Q0h0VktjUQ?oc=5\" target=\"_blank\">Театр начинается с миллиардов. Как в Петербурге строят и ремонтируют сцены</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 05:04:00 GMT"
     },
@@ -141,13 +169,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAwZUpHZnNnR3R0RUdoOWhKbnJhWU11UzlyQUxFN2ZxOTNOQ25mUXF5Z3YwMkFtdm8yaTd6eXBpN0kzV1Y3bEVhWEhJV3M5T3ZMTGxJc09fWnNENDVna25YSDBfMmVzdzRIRVpJN3NLcw?oc=5\" target=\"_blank\">Поезд Тында — Кисловодск задержали более чем на пять часов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kavkaz.rbc.ru</font>",
       "source": "РБК",
       "pub": "Tue, 29 Sep 2026 05:00:00 GMT"
-    },
-    {
-      "title": "Минфин предложил страховать жильё в зонах риска ЧС - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TUThUWnFPZ2EyRjNQbk9EckpfS1A5cU5mVzVTa2Nsa0lCTmhOazUxN09EMlg4RVBCTlBlQkp5RzdmalpIbWhFMG5RTVhaQUtwVmFwT0NrSHpGUXdpb3diYm00RmFHTUo5TlZwOWZCek9RRU3SAXhBVV95cUxPTE9NVG1nX0pXSFVWTVJjM24wdk1XNW9ZWGJjVzdpNUVXTEV2aVU3Qlp4SjljaEJuNUlMX09sSWxsdkwxZjFPdGMtMnRGSmkyOUtHbFRkZFUxNi12RVNpanFuV1VoTWpXTmltdFo1T0dycE81MlhZaWk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5TUThUWnFPZ2EyRjNQbk9EckpfS1A5cU5mVzVTa2Nsa0lCTmhOazUxN09EMlg4RVBCTlBlQkp5RzdmalpIbWhFMG5RTVhaQUtwVmFwT0NrSHpGUXdpb3diYm00RmFHTUo5TlZwOWZCek9RRU3SAXhBVV95cUxPTE9NVG1nX0pXSFVWTVJjM24wdk1XNW9ZWGJjVzdpNUVXTEV2aVU3Qlp4SjljaEJuNUlMX09sSWxsdkwxZjFPdGMtMnRGSmkyOUtHbFRkZFUxNi12RVNpanFuV1VoTWpXTmltdFo1T0dycE81MlhZaWk?oc=5\" target=\"_blank\">Минфин предложил страховать жильё в зонах риска ЧС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Tue, 29 Sep 2026 04:57:40 GMT"
     },
     {
       "title": "ПСБ не смог продать тюменскую молочную компанию Алексея Боброва - t.rbc.ru",
@@ -178,11 +199,25 @@
       "pub": "Tue, 29 Sep 2026 04:40:49 GMT"
     },
     {
-      "title": "В Калифорнии застрелили топ-менеджера газеты The New York Times - fontanka.ru",
+      "title": "В Калифорнии застрелили топ-менеджера газеты The New York Times - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qb3pOam1VSjI4anlxWTVoUDZJU0lISkhrLTFuZnJsRXRySm5wYndqMWh6UFFlekkwVVVuQ21iZkJqdVFGVEpUNWJaZDFBZUE4N0pMWkJQZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qb3pOam1VSjI4anlxWTVoUDZJU0lISkhrLTFuZnJsRXRySm5wYndqMWh6UFFlekkwVVVuQ21iZkJqdVFGVEpUNWJaZDFBZUE4N0pMWkJQZw?oc=5\" target=\"_blank\">В Калифорнии застрелили топ-менеджера газеты The New York Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qb3pOam1VSjI4anlxWTVoUDZJU0lISkhrLTFuZnJsRXRySm5wYndqMWh6UFFlekkwVVVuQ21iZkJqdVFGVEpUNWJaZDFBZUE4N0pMWkJQZw?oc=5\" target=\"_blank\">В Калифорнии застрелили топ-менеджера газеты The New York Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 04:40:00 GMT"
+    },
+    {
+      "title": "Юристы назвали риски неуплаты налога на жилье и землю в 2026 году в срок - realty.ria.ru",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KeV9tU1pMTzFsWnVENDhQQTlHMDVHbXZGbWQ3d19JOXpycjVNMTJWT0h4MEFLM21RWi1GYjVjcy1zcUQwZXRLcll2b1JxN0ZBczFfc211NEhVVzZWRGh5MVVLUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KeV9tU1pMTzFsWnVENDhQQTlHMDVHbXZGbWQ3d19JOXpycjVNMTJWT0h4MEFLM21RWi1GYjVjcy1zcUQwZXRLcll2b1JxN0ZBczFfc211NEhVVzZWRGh5MVVLUQ?oc=5\" target=\"_blank\">Юристы назвали риски неуплаты налога на жилье и землю в 2026 году в срок</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">realty.ria.ru</font>",
+      "source": "РИА Новости",
+      "pub": "Tue, 29 Sep 2026 04:40:00 GMT"
+    },
+    {
+      "title": "В России с 2027 года появятся прививки от менингококка и ВПЧ - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DeEJuY2ZMQXQ1VURzaFd2NkhJUkZVZVZKQ0FsdFJkazZnMnd0UGxFbm9BLWtfcmtDQzAwcGJhQnp6V3hyVFZoTUNRTFdabk82MEl5cFRuSmxLeG40ZlZlVUFWVV8xRDdwcUZNZk5qY252b1nSAXhBVV95cUxNWEx0ak9RNG93RWJLckZDNEM0YTJraGtfODFGc3daU2tTeWlJOTFJOXVheEktai1sVWRNYk1CQWdPTzRoU1FONTd6d2Zad0VRTll0LUlzeXQzNllPanpsVGtoS2liSWZ3UTNMWXJ4UEJTeGlZVFdRUG4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1DeEJuY2ZMQXQ1VURzaFd2NkhJUkZVZVZKQ0FsdFJkazZnMnd0UGxFbm9BLWtfcmtDQzAwcGJhQnp6V3hyVFZoTUNRTFdabk82MEl5cFRuSmxLeG40ZlZlVUFWVV8xRDdwcUZNZk5qY252b1nSAXhBVV95cUxNWEx0ak9RNG93RWJLckZDNEM0YTJraGtfODFGc3daU2tTeWlJOTFJOXVheEktai1sVWRNYk1CQWdPTzRoU1FONTd6d2Zad0VRTll0LUlzeXQzNllPanpsVGtoS2liSWZ3UTNMWXJ4UEJTeGlZVFdRUG4?oc=5\" target=\"_blank\">В России с 2027 года появятся прививки от менингококка и ВПЧ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Tue, 29 Sep 2026 04:36:10 GMT"
     },
     {
       "title": "Операторы 11-го корпуса держат FPV-дроны в засаде на дорогах снабжения ВСУ - ria.ru",
@@ -206,11 +241,11 @@
       "pub": "Tue, 29 Sep 2026 04:29:42 GMT"
     },
     {
-      "title": "В Пентагоне заявили о поддержке в Европе концепции перехода к «НАТО 3.0» - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oREtYX0VSdjlRNkFLbmJ3QUs2ektpeVMxU0Znd1hqTnRyZ3V3anlkUjhJVVhRZkRJSmNIOG5qajhiNFdmT2tQck5wcXJoeDJ6LTZIUEZCdmRrYUVyNHBPNllrR2dMUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oREtYX0VSdjlRNkFLbmJ3QUs2ektpeVMxU0Znd1hqTnRyZ3V3anlkUjhJVVhRZkRJSmNIOG5qajhiNFdmT2tQck5wcXJoeDJ6LTZIUEZCdmRrYUVyNHBPNllrR2dMUQ?oc=5\" target=\"_blank\">В Пентагоне заявили о поддержке в Европе концепции перехода к «НАТО 3.0»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Tue, 29 Sep 2026 04:24:55 GMT"
+      "title": "Парламент Ирана готовит срочный законопроект о выходе из Договора о нераспространении ядерного оружия - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WNkRpRzdZbEFQdFZKanlMMTc1RjllaWo1RF80Y0w5VFNJaGFKOVFzWUtjLUprZmstQjZFaVQ5NHpFenJnRU9rMHJWVlZaN2NISW9GMTBzWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WNkRpRzdZbEFQdFZKanlMMTc1RjllaWo1RF80Y0w5VFNJaGFKOVFzWUtjLUprZmstQjZFaVQ5NHpFenJnRU9rMHJWVlZaN2NISW9GMTBzWQ?oc=5\" target=\"_blank\">Парламент Ирана готовит срочный законопроект о выходе из Договора о нераспространении ядерного оружия</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Tue, 29 Sep 2026 04:19:00 GMT"
     },
     {
       "title": "В Минусинском округе ввели режим повышенной готовности из-за медведей - ria.ru",
@@ -234,9 +269,9 @@
       "pub": "Tue, 29 Sep 2026 04:14:48 GMT"
     },
     {
-      "title": "В Оренбурге после взрыва газа в котельной спортивного центра эвакуировали более 50 человек - fontanka.ru",
+      "title": "В Оренбурге после взрыва газа в котельной спортивного центра эвакуировали более 50 человек - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mSUZaNTluOXBpY3hXQVpBWDU4emlvSWlHSFpMVlprNG9CQWtyRklEcmttNnFTZWJ2cV91b3dVVGVoYzktamc2elUxUFNiT1JMM1Q5ZlBzRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mSUZaNTluOXBpY3hXQVpBWDU4emlvSWlHSFpMVlprNG9CQWtyRklEcmttNnFTZWJ2cV91b3dVVGVoYzktamc2elUxUFNiT1JMM1Q5ZlBzRQ?oc=5\" target=\"_blank\">В Оренбурге после взрыва газа в котельной спортивного центра эвакуировали более 50 человек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fontanka.ru</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mSUZaNTluOXBpY3hXQVpBWDU4emlvSWlHSFpMVlprNG9CQWtyRklEcmttNnFTZWJ2cV91b3dVVGVoYzktamc2elUxUFNiT1JMM1Q5ZlBzRQ?oc=5\" target=\"_blank\">В Оренбурге после взрыва газа в котельной спортивного центра эвакуировали более 50 человек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 29 Sep 2026 04:09:00 GMT"
     },
@@ -246,41 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KcTdsRmxQZVVVNTR4d0hNNFQ4YXAtSjhoM0ZvMUxFWkliUTVKZldDNHZHa0x2RHc5b2VpMUVuV3BReHdkQTRQQkwzUQ?oc=5\" target=\"_blank\">Замглавы Минфина РФ: регулирование криптовалют будет зависеть от практики использования</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Tue, 29 Sep 2026 04:07:29 GMT"
-    },
-    {
-      "title": "Российское военно-историческое общество – о единой линейке учебников по истории - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VVXl4ZmJOTklJdm1iclVBdzJzX3dzWVpDVTI3TC1NRmRDQm82Qm51cXBEckdJMmE4SC1hcWE2cDk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VVXl4ZmJOTklJdm1iclVBdzJzX3dzWVpDVTI3TC1NRmRDQm82Qm51cXBEckdJMmE4SC1hcWE2cDk?oc=5\" target=\"_blank\">Российское военно-историческое общество – о единой линейке учебников по истории</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 29 Sep 2026 04:07:27 GMT"
-    },
-    {
-      "title": "На Алтае уменьшилось число медведей, выходящих к людям у Телецкого озера - ria.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZ2FhYlFTRmRoS3puUDRyVThXWVBpSEJDUUtaU2lSd1lKM05rekdpaU80SWJoVEdBaVVuSThvUkp2NGZQdm1nczh5Y3RleGdlblVmbUF3S2pWeHM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZ2FhYlFTRmRoS3puUDRyVThXWVBpSEJDUUtaU2lSd1lKM05rekdpaU80SWJoVEdBaVVuSThvUkp2NGZQdm1nczh5Y3RleGdlblVmbUF3S2pWeHM?oc=5\" target=\"_blank\">На Алтае уменьшилось число медведей, выходящих к людям у Телецкого озера</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 29 Sep 2026 04:01:00 GMT"
-    },
-    {
-      "title": "Под Новосибирском экс-депутата приговорили к 4,5 годам тюрьмы - nsk.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeDBQVVIySXdQcWtKN2VJZWttcExpaGlVZFVvUzJUdGRrZzV0eXNIOWhmMi1FTEh4UXhtTy03SXp0S0pJdDVVb0p6MUpzYjU1TlhRbE52N0ZzSHZDQlVtc1E1UXdSMURLenc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeDBQVVIySXdQcWtKN2VJZWttcExpaGlVZFVvUzJUdGRrZzV0eXNIOWhmMi1FTEh4UXhtTy03SXp0S0pJdDVVb0p6MUpzYjU1TlhRbE52N0ZzSHZDQlVtc1E1UXdSMURLenc?oc=5\" target=\"_blank\">Под Новосибирском экс-депутата приговорили к 4,5 годам тюрьмы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nsk.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Tue, 29 Sep 2026 03:57:47 GMT"
-    },
-    {
-      "title": "РБК ТВ Юг: уровень воды в Каспийском море падает на 25 см ежегодно — РБК - kuban.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44ZnBPbFdGSnJsNlR1TmlhRGp6U1FSbnlUZDZkdnFRYXhQRU4yV281ZUtQSzQ3bVMyVnNnTlNqc21PeVlUZld0UlBLV1RjcW9WdTFIT25IRHVVNWU0R09ZaTBDWkhNODJKdmdmeW9PSWZ2UQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE44ZnBPbFdGSnJsNlR1TmlhRGp6U1FSbnlUZDZkdnFRYXhQRU4yV281ZUtQSzQ3bVMyVnNnTlNqc21PeVlUZld0UlBLV1RjcW9WdTFIT25IRHVVNWU0R09ZaTBDWkhNODJKdmdmeW9PSWZ2UQ?oc=5\" target=\"_blank\">РБК ТВ Юг: уровень воды в Каспийском море падает на 25 см ежегодно — РБК</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kuban.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Tue, 29 Sep 2026 03:50:00 GMT"
-    },
-    {
-      "title": "Карачаево-Черкесия вложит ₽10 млрд в модернизацию Кубанской ГАЭС - kavkaz.rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnJuRzhlbXA3anFVTGNRUVZqSGl1bjRxQ21XS1dCaW0wdUJXWi1ReUNPWDc4bExwZEE5Q2dCMDVZMVUxZGxVNlQ4UjRrVFRiemdkMVJoWTcxd3JoRU5VSGU1dFRBUFZpVldGMVpqczlKRzFlNUMxdWczMklxb3VDcnhPaFRoQmpJMGZFakw2U2Z5RDJXVzVpekZveW5uNW1iU29BNUVPd0Y?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnJuRzhlbXA3anFVTGNRUVZqSGl1bjRxQ21XS1dCaW0wdUJXWi1ReUNPWDc4bExwZEE5Q2dCMDVZMVUxZGxVNlQ4UjRrVFRiemdkMVJoWTcxd3JoRU5VSGU1dFRBUFZpVldGMVpqczlKRzFlNUMxdWczMklxb3VDcnhPaFRoQmpJMGZFakw2U2Z5RDJXVzVpekZveW5uNW1iU29BNUVPd0Y?oc=5\" target=\"_blank\">Карачаево-Черкесия вложит ₽10 млрд в модернизацию Кубанской ГАЭС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kavkaz.rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Tue, 29 Sep 2026 03:50:00 GMT"
     }
   ]
 }
