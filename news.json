@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T05:06:27.551375+00:00",
+  "updated": "2026-10-01T05:39:53.420141+00:00",
   "count": 40,
   "news": [
     {
@@ -8,13 +8,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxYmFmMF9TLU0yVFpoTWJDNUtJQ082SF9INGkyUGs4Z1dwNTM4M2FQaGNROHU1QkNxYi1DNkU0YVowTUpuRlFZYkdFMVdoaVZEdS1qb080aw?oc=5\" target=\"_blank\">В Центре Курехина пройдет стрит-арт фестиваль «Арт-Стена»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Wed, 30 Sep 2026 23:53:37 GMT"
-    },
-    {
-      "title": "Во Владимирской области произошел пожар на производстве - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhZ2VMVHJWZ3BPc09tUWlST1hYWGF0NGtCU0ZsUnhKakdtTUt0RXJ5cVU1ek5xTWUzLVFJeUYtUnk5RURRYktWZEZVa3NndnlS?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhZ2VMVHJWZ3BPc09tUWlST1hYWGF0NGtCU0ZsUnhKakdtTUt0RXJ5cVU1ek5xTWUzLVFJeUYtUnk5RURRYktWZEZVa3NndnlS?oc=5\" target=\"_blank\">Во Владимирской области произошел пожар на производстве</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Wed, 30 Sep 2026 23:45:00 GMT"
     },
     {
       "title": "Жители Подмосковья сообщили о следах медведей в лесах - russian.rt.com",
@@ -185,11 +178,18 @@
       "pub": "Wed, 30 Sep 2026 21:58:33 GMT"
     },
     {
-      "title": "Разложите перед зеркалом купюры, дабы богатство было в доме: приметы на 1 октября - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTklqVUx6WjVDT2wteFc3SjdBdlBNa0hSSEV3VnVhUjBNamcxbnNoaXN2U0lZZHpPY05EYXZrdm9KQjFhdHo2eTdTdjFqRV93NUs2MzlCZTFrbTg4V2p1TmdYNVQyU3c5ME0zNTVHNVJlVVpPU1dwckh6RExuVTJzeFVLTHM3RXB4Nkhrd0psc05ZTFNEeVd2elh1ZTdhRzZPdENac2hiLU5ZNlFGSi1FVDZyWnN3VHB0OVgwOXJiWXE4U1JPeGtnMy1MSGVraXVfQjhPOE1kcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTklqVUx6WjVDT2wteFc3SjdBdlBNa0hSSEV3VnVhUjBNamcxbnNoaXN2U0lZZHpPY05EYXZrdm9KQjFhdHo2eTdTdjFqRV93NUs2MzlCZTFrbTg4V2p1TmdYNVQyU3c5ME0zNTVHNVJlVVpPU1dwckh6RExuVTJzeFVLTHM3RXB4Nkhrd0psc05ZTFNEeVd2elh1ZTdhRzZPdENac2hiLU5ZNlFGSi1FVDZyWnN3VHB0OVgwOXJiWXE4U1JPeGtnMy1MSGVraXVfQjhPOE1kcw?oc=5\" target=\"_blank\">Разложите перед зеркалом купюры, дабы богатство было в доме: приметы на 1 октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "title": "Почти 160 тысяч петербуржцев привились от гриппа — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjVEbmxBcm9FcVlXZTUwV2tNSnNhQkdmc3ktYVlMZzFXYjgteHRnTGxyRFdFWGZCUWs2Q3VwcXprd3ZlU3I1STFjZzJ6NnA3cTFzVXZzR1p6RUdiaGVqbnBwQW5ldzA3NkhVOGR5bWl0cDg0enp6RXhoSDdkaHZWdEVtTU5rdlRnQTViQ19lLV9XeTBUdFFtMjZ6U3dDckduODdqWENTX2hKa0UtNVo1LVY4ZEhIMjdGakxiNmRhRVdCTEVacHBkN1lmcTRpaGM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjVEbmxBcm9FcVlXZTUwV2tNSnNhQkdmc3ktYVlMZzFXYjgteHRnTGxyRFdFWGZCUWs2Q3VwcXprd3ZlU3I1STFjZzJ6NnA3cTFzVXZzR1p6RUdiaGVqbnBwQW5ldzA3NkhVOGR5bWl0cDg0enp6RXhoSDdkaHZWdEVtTU5rdlRnQTViQ19lLV9XeTBUdFFtMjZ6U3dDckduODdqWENTX2hKa0UtNVo1LVY4ZEhIMjdGakxiNmRhRVdCTEVacHBkN1lmcTRpaGM?oc=5\" target=\"_blank\">Почти 160 тысяч петербуржцев привились от гриппа — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
-      "pub": "Wed, 30 Sep 2026 21:53:43 GMT"
+      "pub": "Wed, 30 Sep 2026 21:53:52 GMT"
+    },
+    {
+      "title": "В Госдуму внесен проект федерального бюджета на ближайшие три года — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVhPOW44dl83aTh1TnhhbGZPOXB6NWZFcmViZlRRZVBQZGdSZlFoR2w2U3lkeWJ5Y3ZjNjR0bTJKclNBUWY5VnNTQlVlUHFCNlZUM3RnRnI3dFFjNTl1TEFvR0dIZVJmVHJRemFTVDd1ZUVZUmRRMXlYS2VBX2xBbUw4ME9XaFVic2F2Q19icXl5T1JETzd3dHlSdDdpQ1RFYkFFMUd6VUhDWXNEZW8xNVVGUXloSEV2aXNxVDhQVldVTFpqWFYyX09VME1HRDhfWlpWazFxMUJWaThvSzFPd1ZwRzhRSVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVhPOW44dl83aTh1TnhhbGZPOXB6NWZFcmViZlRRZVBQZGdSZlFoR2w2U3lkeWJ5Y3ZjNjR0bTJKclNBUWY5VnNTQlVlUHFCNlZUM3RnRnI3dFFjNTl1TEFvR0dIZVJmVHJRemFTVDd1ZUVZUmRRMXlYS2VBX2xBbUw4ME9XaFVic2F2Q19icXl5T1JETzd3dHlSdDdpQ1RFYkFFMUd6VUhDWXNEZW8xNVVGUXloSEV2aXNxVDhQVldVTFpqWFYyX09VME1HRDhfWlpWazFxMUJWaThvSzFPd1ZwRzhRSVE?oc=5\" target=\"_blank\">В Госдуму внесен проект федерального бюджета на ближайшие три года — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 30 Sep 2026 21:53:38 GMT"
     },
     {
       "title": "Трамп назвал последствия запрета на экспорт дизтоплива в США - ria.ru",
@@ -234,13 +234,6 @@
       "pub": "Wed, 30 Sep 2026 21:15:00 GMT"
     },
     {
-      "title": "Волейбольный «Факел Ямал» обыграл московское «Динамо-Олимп» в Салехарде — читать подробности - vrf.tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPblpnRTRmMDBwZ1dISnJSRUZoTUNpUGlDLXNhOUszcGhoTDZPcWcxRFkyRWstNjdMUjQ0ZTl1bTBOTjNoVHlrYWVvaGgtdmtmcF90R2RrVnNJNWwwVWtKUHNCLTh2bkU2a2lVZUlGSGpNVVM4NFozcmRVaTZUSE9jajdDYlJQcU9iSFd0OHBvb0xua2xwRERscXhCZWhnSVhYcmZtZDVveEF3TXpFVUFxVEZ6UGtFVlFa?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPblpnRTRmMDBwZ1dISnJSRUZoTUNpUGlDLXNhOUszcGhoTDZPcWcxRFkyRWstNjdMUjQ0ZTl1bTBOTjNoVHlrYWVvaGgtdmtmcF90R2RrVnNJNWwwVWtKUHNCLTh2bkU2a2lVZUlGSGpNVVM4NFozcmRVaTZUSE9jajdDYlJQcU9iSFd0OHBvb0xua2xwRERscXhCZWhnSVhYcmZtZDVveEF3TXpFVUFxVEZ6UGtFVlFa?oc=5\" target=\"_blank\">Волейбольный «Факел Ямал» обыграл московское «Динамо-Олимп» в Салехарде — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Wed, 30 Sep 2026 21:06:30 GMT"
-    },
-    {
       "title": "Полученный в 2026-м от собранной на Ставрополье свеклы сахар поступил на рынок — читать подробности - vrf.tass.ru",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZlM3YmJzVEhyLTl0NHprdGlpTjVzdS15dUtmMWoyUUtHRC1vb1lvbWRjN3J3bnpfQUdocjItaTNDTjZVc214UmdXR1lsMW5DbGdwQnY0emNSODdIS3dlNXJBVzYxejgxWXNYOVhFQmNrRk1idEhUM0YxSFdJV2REdnk2S3NxWkIzbDlhXzBMOGZtcmNqYkV6RXZUaTFEN3YwVVZ5YnBKSFlwRGl3VFRIWGNGMmdRTXFKM3UxRFFQUi1sTUtOdllkN2VNdjVJdUwydnNfVA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZlM3YmJzVEhyLTl0NHprdGlpTjVzdS15dUtmMWoyUUtHRC1vb1lvbWRjN3J3bnpfQUdocjItaTNDTjZVc214UmdXR1lsMW5DbGdwQnY0emNSODdIS3dlNXJBVzYxejgxWXNYOVhFQmNrRk1idEhUM0YxSFdJV2REdnk2S3NxWkIzbDlhXzBMOGZtcmNqYkV6RXZUaTFEN3YwVVZ5YnBKSFlwRGl3VFRIWGNGMmdRTXFKM3UxRFFQUi1sTUtOdllkN2VNdjVJdUwydnNfVA?oc=5\" target=\"_blank\">Полученный в 2026-м от собранной на Ставрополье свеклы сахар поступил на рынок — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
@@ -281,6 +274,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA5eHJLWlVVUHdIc28weklsZ096NzZlMXR5djc0LXpDYjdaQlZNWjktUFcyMHhnMVVsSHVfWFdNRllmWnQwWHZzRXRPOWNmX3VVMmFaV1FNUXcwME01eXJaNnlxY1psOUFONHM40gFwQVVfeXFMUHVLRVBNOVIzUWd1bDktYUpiaGFyOWNrT2lYd2t6NENOdllEbzJzZkdQSVJwREpPMlR4amlMM2hnTHUxTDdpcEo0Sm5xN0R1b0k5ZDY1TzZ2Y2hRbUhEX2YxQW9KcXRtS1R4a2E2Y0JYVQ?oc=5\" target=\"_blank\">Экс-представитель НАТО Лоу назвал правдой слова о превосходстве России на СВО</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Wed, 30 Sep 2026 20:38:00 GMT"
+    },
+    {
+      "title": "Генсек ХДС поддержала Мерца на фоне недовольства им членов партии - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82cVhjamJhd2JqWXhDZDgySVU0OGY2V296X0EzMUZGc0RKR3hFdGpNQk5BS1EzMFhXd2NUX0Rtay1teWRNbmg5UWtvY21LWjhiSnloamVCTkswQUk4dUdUYkxZM1FWdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE82cVhjamJhd2JqWXhDZDgySVU0OGY2V296X0EzMUZGc0RKR3hFdGpNQk5BS1EzMFhXd2NUX0Rtay1teWRNbmg5UWtvY21LWjhiSnloamVCTkswQUk4dUdUYkxZM1FWdw?oc=5\" target=\"_blank\">Генсек ХДС поддержала Мерца на фоне недовольства им членов партии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 30 Sep 2026 20:23:57 GMT"
     }
   ]
 }
