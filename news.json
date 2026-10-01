@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:05:51.371408+00:00",
+  "updated": "2026-10-01T20:40:59.795380+00:00",
   "count": 40,
   "news": [
     {
@@ -17,25 +17,11 @@
       "pub": "Wed, 30 Sep 2026 23:56:00 GMT"
     },
     {
-      "title": "В Центре Курехина пройдет стрит-арт фестиваль «Арт-Стена» - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxYmFmMF9TLU0yVFpoTWJDNUtJQ082SF9INGkyUGs4Z1dwNTM4M2FQaGNROHU1QkNxYi1DNkU0YVowTUpuRlFZYkdFMVdoaVZEdS1qb080aw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxYmFmMF9TLU0yVFpoTWJDNUtJQ082SF9INGkyUGs4Z1dwNTM4M2FQaGNROHU1QkNxYi1DNkU0YVowTUpuRlFZYkdFMVdoaVZEdS1qb080aw?oc=5\" target=\"_blank\">В Центре Курехина пройдет стрит-арт фестиваль «Арт-Стена»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 30 Sep 2026 23:53:37 GMT"
-    },
-    {
       "title": "Песков не увидел в предупреждениях о ядерном ответе конфронтации - rbc.ru",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jaElJUUxIWl8zeTdCNUVIOEF4aHgwN2pqWF96YV9oN1hqamR6VHVVNWdXck1acVhadmtkMnlMVm94QTZYT3JPcnpxOTdoVi1MbFlKWXVYeXlmVW5EOE1GUmpFb1MtTHIzdk9ELUFGV3Q?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9jaElJUUxIWl8zeTdCNUVIOEF4aHgwN2pqWF96YV9oN1hqamR6VHVVNWdXck1acVhadmtkMnlMVm94QTZYT3JPcnpxOTdoVi1MbFlKWXVYeXlmVW5EOE1GUmpFb1MtTHIzdk9ELUFGV3Q?oc=5\" target=\"_blank\">Песков не увидел в предупреждениях о ядерном ответе конфронтации</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Wed, 30 Sep 2026 23:44:00 GMT"
-    },
-    {
-      "title": "Жители Подмосковья сообщили о следах медведей в лесах - russian.rt.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iZUNLWWVTeWdqNnJ3bDh5SkhmeEFWbjZCZlg4ZU5IMzNQc0kzeXIxSC1JQXkyeEE1OEVsSkZQYWxzWmw5MDAyRlpQamFpV0ZxNXVwenl4NktnSFZ0bWI5WEtaZENsdl9DTllTOUlxakxRbDdwa3fSAXtBVV95cUxQVUhoX0RlWHBIUlhFQXg2Zjg3MnhFVWVZd3NIX2UxSFpIY0todjFSS0taUkR6dzhWd1o3YTg3U0VoWkNpVG16YU1NQzh4UmRJNXNCdTNQTi1SeTB1X3NJYVAzek9oMEJvMEl3NzFDTVZUdlVSX1p1Y1hvb2s?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5iZUNLWWVTeWdqNnJ3bDh5SkhmeEFWbjZCZlg4ZU5IMzNQc0kzeXIxSC1JQXkyeEE1OEVsSkZQYWxzWmw5MDAyRlpQamFpV0ZxNXVwenl4NktnSFZ0bWI5WEtaZENsdl9DTllTOUlxakxRbDdwa3fSAXtBVV95cUxQVUhoX0RlWHBIUlhFQXg2Zjg3MnhFVWVZd3NIX2UxSFpIY0todjFSS0taUkR6dzhWd1o3YTg3U0VoWkNpVG16YU1NQzh4UmRJNXNCdTNQTi1SeTB1X3NJYVAzek9oMEJvMEl3NzFDTVZUdlVSX1p1Y1hvb2s?oc=5\" target=\"_blank\">Жители Подмосковья сообщили о следах медведей в лесах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
-      "source": "RT",
-      "pub": "Wed, 30 Sep 2026 23:43:58 GMT"
     },
     {
       "title": "Финансирование развития авиапрома в 2027-2029 годах может превысить 130 млрд рублей - tass.ru",
@@ -281,6 +267,20 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTklqVUx6WjVDT2wteFc3SjdBdlBNa0hSSEV3VnVhUjBNamcxbnNoaXN2U0lZZHpPY05EYXZrdm9KQjFhdHo2eTdTdjFqRV93NUs2MzlCZTFrbTg4V2p1TmdYNVQyU3c5ME0zNTVHNVJlVVpPU1dwckh6RExuVTJzeFVLTHM3RXB4Nkhrd0psc05ZTFNEeVd2elh1ZTdhRzZPdENac2hiLU5ZNlFGSi1FVDZyWnN3VHB0OVgwOXJiWXE4U1JPeGtnMy1MSGVraXVfQjhPOE1kcw?oc=5\" target=\"_blank\">Разложите перед зеркалом купюры, дабы богатство было в доме: приметы на 1 октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
       "source": "ТАСС",
       "pub": "Wed, 30 Sep 2026 21:53:43 GMT"
+    },
+    {
+      "title": "В Госдуму внесен проект федерального бюджета на ближайшие три года — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVhPOW44dl83aTh1TnhhbGZPOXB6NWZFcmViZlRRZVBQZGdSZlFoR2w2U3lkeWJ5Y3ZjNjR0bTJKclNBUWY5VnNTQlVlUHFCNlZUM3RnRnI3dFFjNTl1TEFvR0dIZVJmVHJRemFTVDd1ZUVZUmRRMXlYS2VBX2xBbUw4ME9XaFVic2F2Q19icXl5T1JETzd3dHlSdDdpQ1RFYkFFMUd6VUhDWXNEZW8xNVVGUXloSEV2aXNxVDhQVldVTFpqWFYyX09VME1HRDhfWlpWazFxMUJWaThvSzFPd1ZwRzhRSVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVhPOW44dl83aTh1TnhhbGZPOXB6NWZFcmViZlRRZVBQZGdSZlFoR2w2U3lkeWJ5Y3ZjNjR0bTJKclNBUWY5VnNTQlVlUHFCNlZUM3RnRnI3dFFjNTl1TEFvR0dIZVJmVHJRemFTVDd1ZUVZUmRRMXlYS2VBX2xBbUw4ME9XaFVic2F2Q19icXl5T1JETzd3dHlSdDdpQ1RFYkFFMUd6VUhDWXNEZW8xNVVGUXloSEV2aXNxVDhQVldVTFpqWFYyX09VME1HRDhfWlpWazFxMUJWaThvSzFPd1ZwRzhRSVE?oc=5\" target=\"_blank\">В Госдуму внесен проект федерального бюджета на ближайшие три года — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 30 Sep 2026 21:53:38 GMT"
+    },
+    {
+      "title": "СК сообщил о задержании троих участников банды Басаева и Хаттаба - rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmeUpQZnV6eHBTU2FzLV9mVmZyT2RYSVRXV0lSTmd1ZER1YndxZURvQ2llTTJuVzFBVlRhcUFJTXptT0laNXJfU05SMi1PeFJzUkNta0c2bGJRRjJmSUNkWGpxMEJuQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmeUpQZnV6eHBTU2FzLV9mVmZyT2RYSVRXV0lSTmd1ZER1YndxZURvQ2llTTJuVzFBVlRhcUFJTXptT0laNXJfU05SMi1PeFJzUkNta0c2bGJRRjJmSUNkWGpxMEJuQQ?oc=5\" target=\"_blank\">СК сообщил о задержании троих участников банды Басаева и Хаттаба</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Wed, 30 Sep 2026 21:42:00 GMT"
     }
   ]
 }
