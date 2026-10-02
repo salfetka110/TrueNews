@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:07:08.701486+00:00",
+  "updated": "2026-10-02T01:39:00.641901+00:00",
   "count": 40,
   "news": [
     {
@@ -38,16 +38,16 @@
       "pub": "Thu, 01 Oct 2026 22:11:51 GMT"
     },
     {
-      "title": "Пожар в особняке Миллера в Петербурге локализован - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjdVVkTGFaZ29tMHF0X0tlQmFGdC1kb0FWVmFQVDNiNWxuTEpacVZVcTBLMWNNb0t5RXVIRlFKNV9WX254Mi1Hd3JheTJXYUNNZDVWa1duR0pnTElMc3ZlZ20yUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjdVVkTGFaZ29tMHF0X0tlQmFGdC1kb0FWVmFQVDNiNWxuTEpacVZVcTBLMWNNb0t5RXVIRlFKNV9WX254Mi1Hd3JheTJXYUNNZDVWa1duR0pnTElMc3ZlZ20yUQ?oc=5\" target=\"_blank\">Пожар в особняке Миллера в Петербурге локализован</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "title": "Пожар в особняке Миллера локализован. Показываем, что там происходит - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQbV9VcDh0UlNtWmR1YzJfSDY4RDFiXzlpQU1BMVdaSHBiS1Y5MlFadWtocUN2NVM4d0txX0FjVnhheUs0X2VlYlU5aEpaNGZ5QUR4ZFlxMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQbV9VcDh0UlNtWmR1YzJfSDY4RDFiXzlpQU1BMVdaSHBiS1Y5MlFadWtocUN2NVM4d0txX0FjVnhheUs0X2VlYlU5aEpaNGZ5QUR4ZFlxMA?oc=5\" target=\"_blank\">Пожар в особняке Миллера локализован. Показываем, что там происходит</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Thu, 01 Oct 2026 21:50:05 GMT"
     },
     {
-      "title": "Пожар в особняке Миллера локализован. Показываем, что там происходит - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQbV9VcDh0UlNtWmR1YzJfSDY4RDFiXzlpQU1BMVdaSHBiS1Y5MlFadWtocUN2NVM4d0txX0FjVnhheUs0X2VlYlU5aEpaNGZ5QUR4ZFlxMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQbV9VcDh0UlNtWmR1YzJfSDY4RDFiXzlpQU1BMVdaSHBiS1Y5MlFadWtocUN2NVM4d0txX0FjVnhheUs0X2VlYlU5aEpaNGZ5QUR4ZFlxMA?oc=5\" target=\"_blank\">Пожар в особняке Миллера локализован. Показываем, что там происходит</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "title": "Пожар в особняке Миллера в Петербурге локализован - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjdVVkTGFaZ29tMHF0X0tlQmFGdC1kb0FWVmFQVDNiNWxuTEpacVZVcTBLMWNNb0t5RXVIRlFKNV9WX254Mi1Hd3JheTJXYUNNZDVWa1duR0pnTElMc3ZlZ20yUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjdVVkTGFaZ29tMHF0X0tlQmFGdC1kb0FWVmFQVDNiNWxuTEpacVZVcTBLMWNNb0t5RXVIRlFKNV9WX254Mi1Hd3JheTJXYUNNZDVWa1duR0pnTElMc3ZlZ20yUQ?oc=5\" target=\"_blank\">Пожар в особняке Миллера в Петербурге локализован</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Thu, 01 Oct 2026 21:50:05 GMT"
     },
@@ -64,6 +64,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB4cHlKR2ViNTQ0UnB1NzdfRHNNSXo4VTlBa0RHVUExcjlHekgtUUMtYTRaWnZYSUVZcFVMYU9PS3R2d3hzMTg0aUpzVmNUTjVUYjhRUkd5bGhoZndHelktS3ItbDZYTFQ5N2RIQkhQS1VsaGJzTjRLTzNB0gF_QVVfeXFMT2g2ODBMejZPRURfVjNtTFNtdF8ySGFrck9wejlkeEt6OWF1a3N6YjZESU5nUGkyWWJfTFJqZk4zRDFPdFROMWJiQXhNRWo0U05VWHY2dmZCZlZmU1M0djNDMW5ZM05KSHoyQjBLa2I1a2xjZzBUV1U4MzgtZ0JyYw?oc=5\" target=\"_blank\">Роспатент аннулировал регистрацию бренда «Балерина Капучино» из-за жалобы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Thu, 01 Oct 2026 21:13:49 GMT"
+    },
+    {
+      "title": "Об отличиях рыночной структуры в жилищном строительстве Москвы и Подмосковья - marketing.rbc.ru",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KMV9yWDB1RlluR2E4MnBJSldaaFFJazNSZWpEa0p2V2VlZVpYRmcxZXc4QU9WYlRPenk5QzQ4VERvWG9HR2RIclRVWHhpWnRGRVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KMV9yWDB1RlluR2E4MnBJSldaaFFJazNSZWpEa0p2V2VlZVpYRmcxZXc4QU9WYlRPenk5QzQ4VERvWG9HR2RIclRVWHhpWnRGRVE?oc=5\" target=\"_blank\">Об отличиях рыночной структуры в жилищном строительстве Москвы и Подмосковья</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketing.rbc.ru</font>",
+      "source": "РБК",
+      "pub": "Thu, 01 Oct 2026 21:12:35 GMT"
     },
     {
       "title": "Эвакуированных у особняка Миллера разместили в образовательном учреждении - ФОНТАНКА.ру",
@@ -115,6 +122,13 @@
       "pub": "Thu, 01 Oct 2026 20:32:00 GMT"
     },
     {
+      "title": "Два тульских педагога из Щекино стали лучшими в России — читать подробности - vrf.tass.ru",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUNFLUhvci14cU5rTTRabkpsa1p4Rk5GYWNRdTdDRnREWlJUaHZpWUt6dFlTaFlvUERNNkRwbHpPYWk1U2hfQmcwdG1hMGFYcGNhUENhSEFfMldYc2w0QVM5SjIwbTE4eTdna19EU1JlLUhudkw0WnVSdUFKUGZtUnhnOXhnNzJKeXdGSEF4N1BlSWtweG53RTVKQ0VFemZObWF2NmlGMWNfRTZSWVVSdVYyRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONUNFLUhvci14cU5rTTRabkpsa1p4Rk5GYWNRdTdDRnREWlJUaHZpWUt6dFlTaFlvUERNNkRwbHpPYWk1U2hfQmcwdG1hMGFYcGNhUENhSEFfMldYc2w0QVM5SjIwbTE4eTdna19EU1JlLUhudkw0WnVSdUFKUGZtUnhnOXhnNzJKeXdGSEF4N1BlSWtweG53RTVKQ0VFemZObWF2NmlGMWNfRTZSWVVSdVYyRQ?oc=5\" target=\"_blank\">Два тульских педагога из Щекино стали лучшими в России — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vrf.tass.ru</font>",
+      "source": "ТАСС",
+      "pub": "Thu, 01 Oct 2026 20:26:33 GMT"
+    },
+    {
       "title": "Поставлять оружие в зоны конфликтов считается неприличным, заявил Путин - ria.ru",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sY1FIMGV1RnBZcTVBcVVlMXJBUmpmMmNQQ3B6Z2pKd29OSGh3SkFMMTNZX2xMUF9tVFB3QWduZHUzeUZYTE42YUhBbk5aZko5U0JKWTd4TGs?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sY1FIMGV1RnBZcTVBcVVlMXJBUmpmMmNQQ3B6Z2pKd29OSGh3SkFMMTNZX2xMUF9tVFB3QWduZHUzeUZYTE42YUhBbk5aZko5U0JKWTd4TGs?oc=5\" target=\"_blank\">Поставлять оружие в зоны конфликтов считается неприличным, заявил Путин</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ria.ru</font>",
@@ -134,6 +148,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9JRl80NnlySEJKTV9PWnZxVml2MUpIbnJ6WWlRU0pybms2d1lvTE1KUVc3cHAyalcycXRFNUZLenl3d1pIRC1OWG04Mkprbk54R1c0WW9Yci1kRUl1c1Y2WUlvMDl5VkZIMS1hMUJwV1ZUQdIBd0FVX3lxTE9tMmtKbS1zaG5KOENDQnQwempJS0tFcnYyenpsd0JjamdrR0g0alNEZS1ILWhtMVJTQlBZZlhyTk9BUFZkeDQ3emZhcmE5QnBzZGtiMXBHVmRWZzJyS0hnMzhZTVU2RG0tQU4zY1BBZkQ3T2g0Y0Y0?oc=5\" target=\"_blank\">Путин: Россия готова менять свои подходы, если ошибается</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
       "source": "RT",
       "pub": "Thu, 01 Oct 2026 20:12:44 GMT"
+    },
+    {
+      "title": "В Самарской области завершили расследование дела о гибели двух человек на зиплайне - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUlJmU3llcjZFM2FIaU16cUFrN1RBUVpBVzRwemRWVXRwOEJqQmpzbl9zOS1LMHdRN3o5YXVCVzNfZUt0VVRWS1loYnRJVUZ5dzEyaFZXVVc1ZV80ZVlHT0RWb0p5c0F3R3FF0gFwQVVfeXFMTlRkRmJ1TGxocENxejAweVlBWExyQndmV196ZWNoT3FEZm5oazV0ek9VOFRBVmhwbFhwRTUtMzVKekhJdTJsRFczTlRPSFU1YzVYd25SUFN0YVhmZXhYSzNaQ3BCdDZYc0s3QWJ3Znp5cQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUlJmU3llcjZFM2FIaU16cUFrN1RBUVpBVzRwemRWVXRwOEJqQmpzbl9zOS1LMHdRN3o5YXVCVzNfZUt0VVRWS1loYnRJVUZ5dzEyaFZXVVc1ZV80ZVlHT0RWb0p5c0F3R3FF0gFwQVVfeXFMTlRkRmJ1TGxocENxejAweVlBWExyQndmV196ZWNoT3FEZm5oazV0ek9VOFRBVmhwbFhwRTUtMzVKekhJdTJsRFczTlRPSFU1YzVYd25SUFN0YVhmZXhYSzNaQ3BCdDZYc0s3QWJ3Znp5cQ?oc=5\" target=\"_blank\">В Самарской области завершили расследование дела о гибели двух человек на зиплайне</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Thu, 01 Oct 2026 20:12:36 GMT"
     },
     {
       "title": "Путин заявил, что Россия не прекратит наносить удары по украинским кораблям - russian.rt.com",
@@ -260,27 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vVlNTbWk5d09VQy10UUZ4WFItdlA2TG9id3dQbWJvbksyNnh6RHh4X3I3ZWZsUmlvZVpQVHdWQnVOWjdUSGRQUFpJUVhoX243YmJ0NEszUQ?oc=5\" target=\"_blank\">СК выяснит обстоятельства крупного пожара на Исаакиевской площади</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Thu, 01 Oct 2026 19:14:23 GMT"
-    },
-    {
-      "title": "«Огонь может перемещаться из окна в окно»: эксперт прокомментировал пожар в особняке Миллера - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QN2IwdWtrY1YtUk5XdDk3ZTZNYXZkQml0eWVkak00M1AwSlMwY2l1NWpKSnp1MTdsY2NnbXhwelJjRkN1dDAyYlo0Mm1NNmlWOEJraUdMNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QN2IwdWtrY1YtUk5XdDk3ZTZNYXZkQml0eWVkak00M1AwSlMwY2l1NWpKSnp1MTdsY2NnbXhwelJjRkN1dDAyYlo0Mm1NNmlWOEJraUdMNA?oc=5\" target=\"_blank\">«Огонь может перемещаться из окна в окно»: эксперт прокомментировал пожар в особняке Миллера</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Thu, 01 Oct 2026 19:07:59 GMT"
-    },
-    {
-      "title": "новости, акции, курсы валют, доллар, евро - rbc.ru",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xS0NtSXhfUEp3X3VTZlZCdTVMUG5zSjlhV0pESjlSSU1fdzFLTTMxTGV0OEV6REJ4Z2VOTkRFNjNVaEFmbFpLWUd3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xS0NtSXhfUEp3X3VTZlZCdTVMUG5zSjlhV0pESjlSSU1fdzFLTTMxTGV0OEV6REJ4Z2VOTkRFNjNVaEFmbFpLWUd3?oc=5\" target=\"_blank\">новости, акции, курсы валют, доллар, евро</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
-      "source": "РБК",
-      "pub": "Thu, 01 Oct 2026 19:05:10 GMT"
-    },
-    {
-      "title": "Ни пройти ни проехать. Показываем, как перекрыли Исаакиевскую площадь из-за пожара - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sNms2WHo4Q0VQcHQtZTZ3ODgzZm5JYktXbEVDQmtreUdIc25NcTVqeEpZNDNXWUhsSjhKMG9Odk91NGI2cEhnWDFDa3hDZ1hDTXIzX0pPVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sNms2WHo4Q0VQcHQtZTZ3ODgzZm5JYktXbEVDQmtreUdIc25NcTVqeEpZNDNXWUhsSjhKMG9Odk91NGI2cEhnWDFDa3hDZ1hDTXIzX0pPVQ?oc=5\" target=\"_blank\">Ни пройти ни проехать. Показываем, как перекрыли Исаакиевскую площадь из-за пожара</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Thu, 01 Oct 2026 19:02:27 GMT"
     }
   ]
 }
