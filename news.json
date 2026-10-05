@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:06:29.410725+00:00",
+  "updated": "2026-10-05T16:42:37.573165+00:00",
   "count": 40,
   "news": [
     {
@@ -50,13 +50,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBacmUzZHRXSnk5aUMybGd0TmZrbkhGLTRPY05WV3A4MTByR01PaE5TOWctLVpVWENaRDA1V3drSU9rSUpCMUtwTFJxSDQyS2ttcmE3azZSeS1YSTZKU243N25yWFFBSF9UaFNxdXp5aw?oc=5\" target=\"_blank\">Песков заявил, что за ситуацией в Иркутске следит Роспотребнадзор</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbc.ru</font>",
       "source": "РБК",
       "pub": "Sun, 04 Oct 2026 23:34:00 GMT"
-    },
-    {
-      "title": "Песков: именно киевский режим пошел на расширение перечня целей в мирной экономике - tass.ru",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPUEdXMVBjZmQ5SWstQmVpOHl1c2RzcTdIWUZOeHhDb2hwSlB3QnRGWVFIN2JsR0trSlg4STllV2ZpR1VSM3dTXw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPUEdXMVBjZmQ5SWstQmVpOHl1c2RzcTdIWUZOeHhDb2hwSlB3QnRGWVFIN2JsR0trSlg4STllV2ZpR1VSM3dTXw?oc=5\" target=\"_blank\">Песков: именно киевский режим пошел на расширение перечня целей в мирной экономике</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
-      "source": "ТАСС",
-      "pub": "Sun, 04 Oct 2026 23:32:00 GMT"
     },
     {
       "title": "«Известия» рассказали о вилле Исмаилова в Черногории со скорпионами - rbc.ru",
@@ -281,6 +274,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LamxFNndINGJNN0pMNGVTNGhUY3pWb3FKTUJDQnd1X2x2OVBYUzBVVlpwZkpCZEVzUEFIVW1CVlNtbU5ZMFM4Wg?oc=5\" target=\"_blank\">Кадыров вступил в должность главы Чечни на новый срок</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tass.ru</font>",
       "source": "ТАСС",
       "pub": "Sun, 04 Oct 2026 22:44:00 GMT"
+    },
+    {
+      "title": "Роспотребнадзор заблокировал более 48 тысяч площадок с БАД - russian.rt.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94VV9QMXgyQ3VNSWNNQ3ZLdFBpNjBTYUUxX0wwVmJVOEQ2R2ZMZDkxQ1NRVVh3MWJ3dlVNeW9laVdDTEY2eXJyRWY1LTRTcjhGTjR0RTc0ZVViRzFOMFllN2xOWEhFS3ZEcUx4MWg5M2JEbEVwcnc3MXJBeUVHUdIBgwFBVV95cUxQSGF1em1WelE1Zi1faXpRNWY3VWNRcTNDSDV1eXlEM1FTekY3ekdoZU03Y1NQZHNpV1Z5MlJRbUlMbVVrRW9KRkJmRk50V0NWVjYxaEJsZWxxNVNWVkJQb1dIb2tXVFQybkVESGJjRTRBS3p6bHkyenlaU0I2STRrZDE3cw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE94VV9QMXgyQ3VNSWNNQ3ZLdFBpNjBTYUUxX0wwVmJVOEQ2R2ZMZDkxQ1NRVVh3MWJ3dlVNeW9laVdDTEY2eXJyRWY1LTRTcjhGTjR0RTc0ZVViRzFOMFllN2xOWEhFS3ZEcUx4MWg5M2JEbEVwcnc3MXJBeUVHUdIBgwFBVV95cUxQSGF1em1WelE1Zi1faXpRNWY3VWNRcTNDSDV1eXlEM1FTekY3ekdoZU03Y1NQZHNpV1Z5MlJRbUlMbVVrRW9KRkJmRk50V0NWVjYxaEJsZWxxNVNWVkJQb1dIb2tXVFQybkVESGJjRTRBS3p6bHkyenlaU0I2STRrZDE3cw?oc=5\" target=\"_blank\">Роспотребнадзор заблокировал более 48 тысяч площадок с БАД</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">russian.rt.com</font>",
+      "source": "RT",
+      "pub": "Sun, 04 Oct 2026 22:34:43 GMT"
     }
   ]
 }
