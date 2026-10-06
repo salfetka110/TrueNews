@@ -1,13 +1,90 @@
 {
-  "updated": "2026-10-06T19:05:45.094617+00:00",
+  "updated": "2026-10-06T19:39:37.203174+00:00",
   "count": 40,
   "news": [
+    {
+      "title": "На Парнасе сбоит электричество. Свет мигнул и вернулся, но не ко всем - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1R09WUFRvZWw1b0p2WEZUcWpOVmRUS3VoN2d4UXFPRzFfVDNzU2d1NjBhV2JaV09jdEF6ZXdsc2kwN19VWUh1ZEkyRk9DX29tWHVGa05jSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1R09WUFRvZWw1b0p2WEZUcWpOVmRUS3VoN2d4UXFPRzFfVDNzU2d1NjBhV2JaV09jdEF6ZXdsc2kwN19VWUh1ZEkyRk9DX29tWHVGa05jSQ?oc=5\" target=\"_blank\">На Парнасе сбоит электричество. Свет мигнул и вернулся, но не ко всем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Tue, 06 Oct 2026 19:31:00 GMT"
+    },
+    {
+      "title": "Концентрация загрязняющих веществ в Сириусе не представляет угрозы - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUkpLWVNUYjR2OUpkVjZ4aG9idnB3WXRKRkQwZS1DOFhSTURnWldKXzl5RHk1d2stNG10dzhYQnA1WFJjLU9Iejlub0VDRWlzeWlvVWp6SWhEdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUkpLWVNUYjR2OUpkVjZ4aG9idnB3WXRKRkQwZS1DOFhSTURnWldKXzl5RHk1d2stNG10dzhYQnA1WFJjLU9Iejlub0VDRWlzeWlvVWp6SWhEdw?oc=5\" target=\"_blank\">Концентрация загрязняющих веществ в Сириусе не представляет угрозы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Tue, 06 Oct 2026 19:27:00 GMT"
+    },
+    {
+      "title": "Снова пять пропущенных. Дубль Аймурзина не спас СКА от «Северстали» - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95UTg2RTFiMjR0MnN1YkN2WmRLYW9oZ0pRTkowVEJpekVIYTBzSm53czFsUVhPR0I3SzVuTnlSMEczZXB2aGtiLV9FWnRma1B5SkNLOEcxZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE95UTg2RTFiMjR0MnN1YkN2WmRLYW9oZ0pRTkowVEJpekVIYTBzSm53czFsUVhPR0I3SzVuTnlSMEczZXB2aGtiLV9FWnRma1B5SkNLOEcxZw?oc=5\" target=\"_blank\">Снова пять пропущенных. Дубль Аймурзина не спас СКА от «Северстали»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Tue, 06 Oct 2026 19:20:00 GMT"
+    },
+    {
+      "title": "«Троицу» Рублева вернули в иконостас Троице-Сергиевой лавры - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MaTkzbWlJVFZMb3RRYTIxLWVuSllLZEV0LXBNbExwc0doYUxwOWI4akdFalI1dXRSS0JEdVVkbTViS0tWVk93cVpDcXpxcnpoS1VtSkNWWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MaTkzbWlJVFZMb3RRYTIxLWVuSllLZEV0LXBNbExwc0doYUxwOWI4akdFalI1dXRSS0JEdVVkbTViS0tWVk93cVpDcXpxcnpoS1VtSkNWWQ?oc=5\" target=\"_blank\">«Троицу» Рублева вернули в иконостас Троице-Сергиевой лавры</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Tue, 06 Oct 2026 19:09:00 GMT"
+    },
+    {
+      "title": "Власти Калининграда рассказали о фейках про планы призыва - РБК",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZTVlLWF8xUzZ1REdZMlJNSUVsZnRkVGJvLWYxbGdXMl9DenJ4VTJub0ZGMDVhRjQ0Zkp4UXBYMkZYMmtDcmgwd1dMdHlzaG0xaFVvQmgtX1d3VVQzR1dVSnE2WlAybm1QX08tc3Mzek9pMTJneDl3Rw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZTVlLWF8xUzZ1REdZMlJNSUVsZnRkVGJvLWYxbGdXMl9DenJ4VTJub0ZGMDVhRjQ0Zkp4UXBYMkZYMmtDcmgwd1dMdHlzaG0xaFVvQmgtX1d3VVQzR1dVSnE2WlAybm1QX08tc3Mzek9pMTJneDl3Rw?oc=5\" target=\"_blank\">Власти Калининграда рассказали о фейках про планы призыва</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Tue, 06 Oct 2026 19:07:51 GMT"
+    },
+    {
+      "title": "Григоренко заявил о сокращении на треть числа преступлений в интернете - РБК",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIaWtSNVdIR3ZyWUNBSGpvWHBVLWxiMDFYenpKTEwwTEJOUW5GeDFmWFJSZFJ6dXRjbzZWRHVDbzJHR0Qxc0I2ZG1uaG5vOC12Ml8zclN5SVRlcWprWDRxdnF1NlhLUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIaWtSNVdIR3ZyWUNBSGpvWHBVLWxiMDFYenpKTEwwTEJOUW5GeDFmWFJSZFJ6dXRjbzZWRHVDbzJHR0Qxc0I2ZG1uaG5vOC12Ml8zclN5SVRlcWprWDRxdnF1NlhLUQ?oc=5\" target=\"_blank\">Григоренко заявил о сокращении на треть числа преступлений в интернете</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Tue, 06 Oct 2026 19:06:16 GMT"
+    },
+    {
+      "title": "Yle: незаконные пересечения границы из РФ чаще происходят в Северной Карелии - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82VjJXQXBudEFoWExsN0lUWnpxbURWbHJGQkl3RTlMMVFHNTRibTZmY2wwdDg1ZW9HVEFCN3VRbGtjb2lFNlJIbFN5WnBvUkxxVUQ1SDVUS2ZJMVE3LVR3ZlVxVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE82VjJXQXBudEFoWExsN0lUWnpxbURWbHJGQkl3RTlMMVFHNTRibTZmY2wwdDg1ZW9HVEFCN3VRbGtjb2lFNlJIbFN5WnBvUkxxVUQ1SDVUS2ZJMVE3LVR3ZlVxVQ?oc=5\" target=\"_blank\">Yle: незаконные пересечения границы из РФ чаще происходят в Северной Карелии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Tue, 06 Oct 2026 19:05:37 GMT"
+    },
+    {
+      "title": "Средства на исходе: как во Франции предупреждают Киев об ограниченности поддержки - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ycjlYTGp1bzA5RWdnMFZjalZfeWZxUkt4bHlTUXdpU1RxMHRsWngwanZ4ZDkwYnBSVVJacVliRVhobzhTQjlTTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ycjlYTGp1bzA5RWdnMFZjalZfeWZxUkt4bHlTUXdpU1RxMHRsWngwanZ4ZDkwYnBSVVJacVliRVhobzhTQjlTTQ?oc=5\" target=\"_blank\">Средства на исходе: как во Франции предупреждают Киев об ограниченности поддержки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Tue, 06 Oct 2026 19:04:03 GMT"
+    },
+    {
+      "title": "Минтранс сообщил о спасении экипажа с горящего танкера в Черном море - РБК",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hQXJkMUFNaHlNTkw1N1ZTckFJaUtJaW90TXpvMHI2cWxOLXFlZGxCbjE2SFkzSlJGTFNkWERmN0tXQXNxRDl6V0JFWkhILTllQ3RIQTFOUXB6WEVEM2VDV09sdU1pdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hQXJkMUFNaHlNTkw1N1ZTckFJaUtJaW90TXpvMHI2cWxOLXFlZGxCbjE2SFkzSlJGTFNkWERmN0tXQXNxRDl6V0JFWkhILTllQ3RIQTFOUXB6WEVEM2VDV09sdU1pdw?oc=5\" target=\"_blank\">Минтранс сообщил о спасении экипажа с горящего танкера в Черном море</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Tue, 06 Oct 2026 19:01:07 GMT"
+    },
     {
       "title": "Атака БЭК и ликвидация последствий: главное о пожаре на танкере у берегов Сочи - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CZVl4cnR4RGVuVVpDQzJKTkdyVnRReXhiSThqX081M2tzS1FjejQ3QlQwQV9FcW5VWmpaM0hiWVB2c3QycDFxUFdtQ1RHWVhYaFU0aEtDQQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CZVl4cnR4RGVuVVpDQzJKTkdyVnRReXhiSThqX081M2tzS1FjejQ3QlQwQV9FcW5VWmpaM0hiWVB2c3QycDFxUFdtQ1RHWVhYaFU0aEtDQQ?oc=5\" target=\"_blank\">Атака БЭК и ликвидация последствий: главное о пожаре на танкере у берегов Сочи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 06 Oct 2026 18:58:00 GMT"
+    },
+    {
+      "title": "Потеря высоты и сигнал о захвате. Что происходило на маршруте flydubai - РБК",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iRzBYMGRvckUtX2lZZ2RNLU1CcFlEdDQ4aW9DelM4b3VBWDBLSDNxaWtDTURkRTV5b2YwTVp0VS1rUGFnTUNxZjg5N3IyUkZYVHlnMkt4bU9NUmVyc3Bmbng2XzR3Vm44LUdvQnVQbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1iRzBYMGRvckUtX2lZZ2RNLU1CcFlEdDQ4aW9DelM4b3VBWDBLSDNxaWtDTURkRTV5b2YwTVp0VS1rUGFnTUNxZjg5N3IyUkZYVHlnMkt4bU9NUmVyc3Bmbng2XzR3Vm44LUdvQnVQbw?oc=5\" target=\"_blank\">Потеря высоты и сигнал о захвате. Что происходило на маршруте flydubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Tue, 06 Oct 2026 18:57:04 GMT"
+    },
+    {
+      "title": "«ТЭК СПб» пообещал полное восстановление благоустройства в Шушарах после вырубки - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56UE5pSXZkclBDanRFWnVGUTZCVXg3Q0RLcjFLUGgyQTVDV0R2bmlsTUNCZG9adHZWbGpDWUpuZVFnc2NLOVByMGVEUC1aOGFmQTJXUEdKMjRzV0NZRTItbl9NUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56UE5pSXZkclBDanRFWnVGUTZCVXg3Q0RLcjFLUGgyQTVDV0R2bmlsTUNCZG9adHZWbGpDWUpuZVFnc2NLOVByMGVEUC1aOGFmQTJXUEdKMjRzV0NZRTItbl9NUQ?oc=5\" target=\"_blank\">«ТЭК СПб» пообещал полное восстановление благоустройства в Шушарах после вырубки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Tue, 06 Oct 2026 18:50:27 GMT"
     },
     {
       "title": "Задачка для главных эрудитов: сможете составить 70 слов всего из 7 букв? - ФОНТАНКА.ру",
@@ -24,13 +101,6 @@
       "pub": "Tue, 06 Oct 2026 18:47:00 GMT"
     },
     {
-      "title": "Загоревшейся у Сочи танкер был атакован дронами - РБК",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tdG1zMGdjX0wxUDFSeENDRlA1dGhmZzdUQ0lhQmlVUTVndjRKVVF2NVZRY2ROVW10NFZuYVhiZzVvX3ZHZXBHQXkwa0g3VWlXZmtybGdUTkRPaEFuTFJXdjBWeFRva1BHVjB4X2RDVkQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5tdG1zMGdjX0wxUDFSeENDRlA1dGhmZzdUQ0lhQmlVUTVndjRKVVF2NVZRY2ROVW10NFZuYVhiZzVvX3ZHZXBHQXkwa0g3VWlXZmtybGdUTkRPaEFuTFJXdjBWeFRva1BHVjB4X2RDVkQ?oc=5\" target=\"_blank\">Загоревшейся у Сочи танкер был атакован дронами</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Tue, 06 Oct 2026 18:41:25 GMT"
-    },
-    {
       "title": "Экс-депутат объяснила, что означает поддержка ЕС для Молдавии - РИА Новости",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51TlFFbncxS21ua28xcGFvc2VnVWtQU25UcjBQQW1NNnFwaXZNTGZ3UElJMVNfRjFaMVBWVzJxbXktNHRJQXZCMWFiWmRKRm1DWnpORU1zWW10N2R5VVE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE51TlFFbncxS21ua28xcGFvc2VnVWtQU25UcjBQQW1NNnFwaXZNTGZ3UElJMVNfRjFaMVBWVzJxbXktNHRJQXZCMWFiWmRKRm1DWnpORU1zWW10N2R5VVE?oc=5\" target=\"_blank\">Экс-депутат объяснила, что означает поддержка ЕС для Молдавии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
@@ -38,18 +108,25 @@
       "pub": "Tue, 06 Oct 2026 18:40:00 GMT"
     },
     {
-      "title": "В Ленобласти ищут 57-летнего фаната «Зенита» Виктора Левинзона - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DQk41bkdET0xTbFNITmJpODVVZEtyTy1lRjd3S2ljNks2XzJ1Skw1REtQQVFYUkZsaUdHRzc1QnNyYmVfWDVNcGZsX0dGZDB4SmNBLVl4bTlpS2d0anZ4anc4NA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DQk41bkdET0xTbFNITmJpODVVZEtyTy1lRjd3S2ljNks2XzJ1Skw1REtQQVFYUkZsaUdHRzc1QnNyYmVfWDVNcGZsX0dGZDB4SmNBLVl4bTlpS2d0anZ4anc4NA?oc=5\" target=\"_blank\">В Ленобласти ищут 57-летнего фаната «Зенита» Виктора Левинзона</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 18:39:18 GMT"
-    },
-    {
       "title": "Нейробиолог рассказал о значении открытия лауреатов Нобелевки по медицине - РБК",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ21POTZ3SFhjREd5WlJlV2VmX3BIYjZxMDl6NXpqMFNsWmpKZU00c0d6eXdjTko4M1cwcnRDVkpXOXQ5MzhlNHhKdEJrWWk3WWM5aEpGVTREeXY5Zks5djdIUVFCS0MyYUx0VlJ2ZGU4NGNLZHloRS1LTFItY0xMd2wxTmwyTGpSdmJ6S3U3U1lpZmVPQmtZNDl1UWVSbFk?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ21POTZ3SFhjREd5WlJlV2VmX3BIYjZxMDl6NXpqMFNsWmpKZU00c0d6eXdjTko4M1cwcnRDVkpXOXQ5MzhlNHhKdEJrWWk3WWM5aEpGVTREeXY5Zks5djdIUVFCS0MyYUx0VlJ2ZGU4NGNLZHloRS1LTFItY0xMd2wxTmwyTGpSdmJ6S3U3U1lpZmVPQmtZNDl1UWVSbFk?oc=5\" target=\"_blank\">Нейробиолог рассказал о значении открытия лауреатов Нобелевки по медицине</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
       "source": "РБК",
       "pub": "Tue, 06 Oct 2026 18:32:54 GMT"
+    },
+    {
+      "title": "\"Без комментариев\": Разин выложил фото с голым торсом после отстранения - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xakZSYXFtbjRlcTFFMUNVdEVLTHhLVFhCZUlTbDRZa1o5YU42SXZsbmtKQXdDT1puVkd2RDExVWZhZjJCT2FIWkI4QXNzUlJPWlFPT1YxWFA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xakZSYXFtbjRlcTFFMUNVdEVLTHhLVFhCZUlTbDRZa1o5YU42SXZsbmtKQXdDT1puVkd2RDExVWZhZjJCT2FIWkI4QXNzUlJPWlFPT1YxWFA?oc=5\" target=\"_blank\">\"Без комментариев\": Разин выложил фото с голым торсом после отстранения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Tue, 06 Oct 2026 18:30:00 GMT"
+    },
+    {
+      "title": "Минтранс заявил, что загоревшийся в районе Сочи танкер атаковали дроны - РБК",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tdG1zMGdjX0wxUDFSeENDRlA1dGhmZzdUQ0lhQmlVUTVndjRKVVF2NVZRY2ROVW10NFZuYVhiZzVvX3ZHZXBHQXkwa0g3VWlXZmtybGdUTkRPaEFuTFJXdjBWeFRva1BHVjB4X2RDVkQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5tdG1zMGdjX0wxUDFSeENDRlA1dGhmZzdUQ0lhQmlVUTVndjRKVVF2NVZRY2ROVW10NFZuYVhiZzVvX3ZHZXBHQXkwa0g3VWlXZmtybGdUTkRPaEFuTFJXdjBWeFRva1BHVjB4X2RDVkQ?oc=5\" target=\"_blank\">Минтранс заявил, что загоревшийся в районе Сочи танкер атаковали дроны</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Tue, 06 Oct 2026 18:28:26 GMT"
     },
     {
       "title": "Сборная России по футболу упустила победу на последних секундах - ФОНТАНКА.ру",
@@ -73,6 +150,13 @@
       "pub": "Tue, 06 Oct 2026 18:16:00 GMT"
     },
     {
+      "title": "Аналитик Солдатенкова: при двух дорогих микрозаймах новый не выдадут - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12NkpTZjZtTjhUNXZXUzhMbEFhYkc4enM0OGJ0bF90b2ZNeGxfc0o5WHBzc2UtTnc5STBtVjFabUdfQ0xhLURZTFJ3LXdLZGtTRUtUemRFNmdJM2xORzk5Y2JrZTdNWlNSeXFYT2RVbHFYQXk0VVZJ0gF8QVVfeXFMTnhLa09KeTMtdUZ2LTZyV2dMOGpraHRkOGVZNjh6bU9oSUFZd3labEhmczJwRWtqQm9LLUJyVTZ3WjBYa29ta3hNcHl1cDhEc0VGZTBndi1qRVRPNFI2NF9Scm1rOVZfb21KY2Q3N3ZOV3JrWm04clJhVE9UeQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE12NkpTZjZtTjhUNXZXUzhMbEFhYkc4enM0OGJ0bF90b2ZNeGxfc0o5WHBzc2UtTnc5STBtVjFabUdfQ0xhLURZTFJ3LXdLZGtTRUtUemRFNmdJM2xORzk5Y2JrZTdNWlNSeXFYT2RVbHFYQXk0VVZJ0gF8QVVfeXFMTnhLa09KeTMtdUZ2LTZyV2dMOGpraHRkOGVZNjh6bU9oSUFZd3labEhmczJwRWtqQm9LLUJyVTZ3WjBYa29ta3hNcHl1cDhEc0VGZTBndi1qRVRPNFI2NF9Scm1rOVZfb21KY2Q3N3ZOV3JrWm04clJhVE9UeQ?oc=5\" target=\"_blank\">Аналитик Солдатенкова: при двух дорогих микрозаймах новый не выдадут</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Tue, 06 Oct 2026 18:10:54 GMT"
+    },
+    {
       "title": "Исторические залы на Думской впервые за долгое время открыты для посещения. Показываем, что там - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42SXhONERPYkt2VjZRS2lVSTFYVXlZdjhSN3NpZmpiLTAzQnFzeVVYNE5oNGVhU1dWWi1tNmxVeDVyVUF0cld5Q3AxUDV3YmVwVVNJdzNLZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE42SXhONERPYkt2VjZRS2lVSTFYVXlZdjhSN3NpZmpiLTAzQnFzeVVYNE5oNGVhU1dWWi1tNmxVeDVyVUF0cld5Q3AxUDV3YmVwVVNJdzNLZw?oc=5\" target=\"_blank\">Исторические залы на Думской впервые за долгое время открыты для посещения. Показываем, что там</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -85,6 +169,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CbEpSc09oMmowcHh5VklGY2Y2emhsdmpqMnZjYUE5S1JUQnpIWUU4SDJpZkw2ZVRWMzczeFp3SHZRUnpZSUVUMW9jNWlSZTBGODVzbDNwbw?oc=5\" target=\"_blank\">Больше ста дронов ВСУ атаковали днем регионы России. Власти сообщили о пострадавших</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 06 Oct 2026 17:55:00 GMT"
+    },
+    {
+      "title": "В Роскачестве рассказали, что маткапиталом можно оплатить учёбу любого ребёнка - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTBWVzBET2IwZlBTOC1lZWRLOVpac25sOGpfZGlnUEp2d0lEbTlnbDZqZFhxdGNuaUlJb1lCVDVCUHlXNk1abjg1MjczRkR2MnFQUTI2bENxc1lLUFRfTjk3cVR3em9IX3RVRjF4M3FCdUlnaWNXMzh1aFZpbFhKNGpnZ2jSAYoBQVVfeXFMTTJ2WVZNMDNQX285azhoNng3SzRQdHNNSlVFeEh2Y29rMi0ycGlSM2JYOWVjdEFTUTZQb2NTM2JhTEJheWwzcUh2MG15R3RDOVhrRmhPSi04NC1LY0VQVVhyUFAwUmRUaXZnOXQ4YnpodFFNczZXcUMzZ1RvSGlGc0REQ1kyVmxSMUFn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTBWVzBET2IwZlBTOC1lZWRLOVpac25sOGpfZGlnUEp2d0lEbTlnbDZqZFhxdGNuaUlJb1lCVDVCUHlXNk1abjg1MjczRkR2MnFQUTI2bENxc1lLUFRfTjk3cVR3em9IX3RVRjF4M3FCdUlnaWNXMzh1aFZpbFhKNGpnZ2jSAYoBQVVfeXFMTTJ2WVZNMDNQX285azhoNng3SzRQdHNNSlVFeEh2Y29rMi0ycGlSM2JYOWVjdEFTUTZQb2NTM2JhTEJheWwzcUh2MG15R3RDOVhrRmhPSi04NC1LY0VQVVhyUFAwUmRUaXZnOXQ4YnpodFFNczZXcUMzZ1RvSGlGc0REQ1kyVmxSMUFn?oc=5\" target=\"_blank\">В Роскачестве рассказали, что маткапиталом можно оплатить учёбу любого ребёнка</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Tue, 06 Oct 2026 17:53:45 GMT"
     },
     {
       "title": "В Риме студенты заняли здание лицея под лозунгом \"Сделаем как во Франции\" - РИА Новости",
@@ -108,11 +199,18 @@
       "pub": "Tue, 06 Oct 2026 17:44:00 GMT"
     },
     {
-      "title": "В РСТ допустили сокращение выдачи шенгена в 2027 году - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUNzZtaEd6M19JMTNlQmJqM0hqX1cxUERsQTd1NGJFcEtRMUlnN3JmTW9ScjY3VW5jcGxOVW8xQ0FNTThPM0FhNHhFcVlTbHRvRkZwQlRhUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUNzZtaEd6M19JMTNlQmJqM0hqX1cxUERsQTd1NGJFcEtRMUlnN3JmTW9ScjY3VW5jcGxOVW8xQ0FNTThPM0FhNHhFcVlTbHRvRkZwQlRhUQ?oc=5\" target=\"_blank\">В РСТ допустили сокращение выдачи шенгена в 2027 году</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 17:36:00 GMT"
+      "title": "Экономист Кузнецова: ФНС может без суда взыскать бесспорный налоговый долг - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2ZVF6eFZkX0NXRUxLTmpoV1Y4WjBSTHpxREt5NnMyWGd6b2V2ajdPMmdhd1Z0R2V4VzVScG1wSjI1alp5YUpoOC15dzdlQzlTM2tncXNhb2h1MTRoMWlxOElmN2k1SVd0N2Rpc3RrONIBdEFVX3lxTE5BTXVQeEhuaFJBLU53WDJqSVVtOXNYY2JGNi10QWQ4VW05VFEtSWw0bUhZVUxEbU9makw3V0RoU2RMM2lkNVpGQUJXSnNfQTR5YnRndl9NZDM5VnNwWmd1aThZQ3V1M3lsclVNVm5JRTJkWjRv?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB2ZVF6eFZkX0NXRUxLTmpoV1Y4WjBSTHpxREt5NnMyWGd6b2V2ajdPMmdhd1Z0R2V4VzVScG1wSjI1alp5YUpoOC15dzdlQzlTM2tncXNhb2h1MTRoMWlxOElmN2k1SVd0N2Rpc3RrONIBdEFVX3lxTE5BTXVQeEhuaFJBLU53WDJqSVVtOXNYY2JGNi10QWQ4VW05VFEtSWw0bUhZVUxEbU9makw3V0RoU2RMM2lkNVpGQUJXSnNfQTR5YnRndl9NZDM5VnNwWmd1aThZQ3V1M3lsclVNVm5JRTJkWjRv?oc=5\" target=\"_blank\">Экономист Кузнецова: ФНС может без суда взыскать бесспорный налоговый долг</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Tue, 06 Oct 2026 17:39:39 GMT"
+    },
+    {
+      "title": "Аналитик Попов: перед покупкой вторички нужно оценить состояние дома - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XYWtyaHZaY3JrODYzeDJwMVBCYjJ0ZkxfM0V3SHZtLUFJdWZRVG1rZTF6aWZ6anN1ZFVjTGU1Q05uazBnRTQyRWhDTklsbXdtZ192LW5NNFRlV0F6OGJMMGhjUkh5cjZVUC1USVpEemotejlFak1R0gF8QVVfeXFMTWxyallsLWdKVWNLYkd4OFVaUTZFSFk4LUhjbVZwNzFDbUJ4eGltV3FzUlBITlUzMmp4S3RiM1hiYmFxUEZ4RGphNUxMQV93ZU5qaVJqWktneURXRXExQU1qX0FCX3hpM0E0aFVWQTJWYWtHYV85ZzBVc0NWQw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9XYWtyaHZaY3JrODYzeDJwMVBCYjJ0ZkxfM0V3SHZtLUFJdWZRVG1rZTF6aWZ6anN1ZFVjTGU1Q05uazBnRTQyRWhDTklsbXdtZ192LW5NNFRlV0F6OGJMMGhjUkh5cjZVUC1USVpEemotejlFak1R0gF8QVVfeXFMTWxyallsLWdKVWNLYkd4OFVaUTZFSFk4LUhjbVZwNzFDbUJ4eGltV3FzUlBITlUzMmp4S3RiM1hiYmFxUEZ4RGphNUxMQV93ZU5qaVJqWktneURXRXExQU1qX0FCX3hpM0E0aFVWQTJWYWtHYV85ZzBVc0NWQw?oc=5\" target=\"_blank\">Аналитик Попов: перед покупкой вторички нужно оценить состояние дома</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Tue, 06 Oct 2026 17:37:56 GMT"
     },
     {
       "title": "В ГД внесли постановление о досрочном прекращении полномочий Елиферовой - РИА Новости",
@@ -129,18 +227,18 @@
       "pub": "Tue, 06 Oct 2026 17:32:00 GMT"
     },
     {
-      "title": "Владельцы автомобилей, поврежденных в непогоду, вправе требовать компенсацию - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSTjdzYUxBOV8xR08yaFRyNTlmMU91TWhjclZwV3JCRTM5WTZwd1EyMldWTDNqR3NIdEsybkd0czlCVDdEVXFTS1dpTUFEY1pHaHc3azEwMEZ4UVlaTWNMbXA4cw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSTjdzYUxBOV8xR08yaFRyNTlmMU91TWhjclZwV3JCRTM5WTZwd1EyMldWTDNqR3NIdEsybkd0czlCVDdEVXFTS1dpTUFEY1pHaHc3azEwMEZ4UVlaTWNMbXA4cw?oc=5\" target=\"_blank\">Владельцы автомобилей, поврежденных в непогоду, вправе требовать компенсацию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 17:29:37 GMT"
-    },
-    {
       "title": "Облачная АТС \"билайн бизнес\" вошла в Реестр российского ПО - РИА Новости",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52WWdidGlralE1WjJJRm51dGJJVzNVbkt1U3poWV83R1FIRnhnbVp0NC1JODBWTGpNM1VpRVhJS3gxbUVsckc4YnlCVHktOEE1aDhRQjZVYy0zdw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE52WWdidGlralE1WjJJRm51dGJJVzNVbkt1U3poWV83R1FIRnhnbVp0NC1JODBWTGpNM1VpRVhJS3gxbUVsckc4YnlCVHktOEE1aDhRQjZVYy0zdw?oc=5\" target=\"_blank\">Облачная АТС \"билайн бизнес\" вошла в Реестр российского ПО</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
       "source": "РИА Новости",
       "pub": "Tue, 06 Oct 2026 17:25:00 GMT"
+    },
+    {
+      "title": "Корчажникова лидирует после короткой программы на втором этапе Гран-при России в Москве - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PQVFIV00zVzhvYVNaem9OVVBBamRJaG05ajNZZkR6NFlLVVlZd0pzemduYTZpeFZyRlZpSjBBUUh1bTBkOVVNbFVrcjlCNWk5MGNvLWpkaVFZY2FGWDlQUEs4b1ZQNWdtWHlMU0xCSUtMckY4ZUtSSHZNYmjSAYIBQVVfeXFMT1VtN3dORUNncGItenBueGc3eVJ0UkZWU09sTjMyRi1lNXlQdmtTOVdfS3hOMnlZS3Mzb25fZGYyWEJjWUJzUDVxTlNJT2JOWDJxbThLMWV1SjJEZ3hadVN6QjhaSXF3ZnlsbmJReHRDS05PRGNvdEFXT1NWczRoT2RFQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5PQVFIV00zVzhvYVNaem9OVVBBamRJaG05ajNZZkR6NFlLVVlZd0pzemduYTZpeFZyRlZpSjBBUUh1bTBkOVVNbFVrcjlCNWk5MGNvLWpkaVFZY2FGWDlQUEs4b1ZQNWdtWHlMU0xCSUtMckY4ZUtSSHZNYmjSAYIBQVVfeXFMT1VtN3dORUNncGItenBueGc3eVJ0UkZWU09sTjMyRi1lNXlQdmtTOVdfS3hOMnlZS3Mzb25fZGYyWEJjWUJzUDVxTlNJT2JOWDJxbThLMWV1SjJEZ3hadVN6QjhaSXF3ZnlsbmJReHRDS05PRGNvdEFXT1NWczRoT2RFQQ?oc=5\" target=\"_blank\">Корчажникова лидирует после короткой программы на втором этапе Гран-при России в Москве</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Tue, 06 Oct 2026 17:13:59 GMT"
     },
     {
       "title": "Вход на станцию «Горный институт» ограничили второй раз за день - ФОНТАНКА.ру",
@@ -150,18 +248,11 @@
       "pub": "Tue, 06 Oct 2026 17:09:37 GMT"
     },
     {
-      "title": "Осенние каникулы в этом учебном году будут самыми длинными за десять лет - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBTThDNG9ROTRBVlpmYWhCczhHWVNoM3pvY2dNN2NSemI1YWFHdHdTdkZSbUxpQndqcnpwUU1WS21VeWl5YUl4RTlIMUhmdmFiV09DV0pHTk5LTTlZ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBTThDNG9ROTRBVlpmYWhCczhHWVNoM3pvY2dNN2NSemI1YWFHdHdTdkZSbUxpQndqcnpwUU1WS21VeWl5YUl4RTlIMUhmdmFiV09DV0pHTk5LTTlZ?oc=5\" target=\"_blank\">Осенние каникулы в этом учебном году будут самыми длинными за десять лет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 06 Oct 2026 17:09:00 GMT"
-    },
-    {
-      "title": "Назван стартовый состав сборной России по футболу на матче с Нигерией - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yZ2lCcG85NXFFZHEwT3c2ZXFvZFJ0Z1AxV25ZUmFGNG5GZjFBSkludTBxWDE2TVB0eTZpNEJkbzBwR3ItRmRoVnVxdXctU2pzUnZkYThNWW9OQzlZVHdmVmNUYw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yZ2lCcG85NXFFZHEwT3c2ZXFvZFJ0Z1AxV25ZUmFGNG5GZjFBSkludTBxWDE2TVB0eTZpNEJkbzBwR3ItRmRoVnVxdXctU2pzUnZkYThNWW9OQzlZVHdmVmNUYw?oc=5\" target=\"_blank\">Назван стартовый состав сборной России по футболу на матче с Нигерией</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 17:08:31 GMT"
+      "title": "Суд в Калмыкии дал пять лет колонии экс-главе Яшалтинского района за взятки - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Z0R6bFdGR2F0WWpkWlgtY3ByT1I2UVJXR3dsZ21JX3k5bEF4aXdLZFpCQ0ptMGc0QVByZnlLY2pzcTRSNGkxOVJBMmM1NndTLVN2cE5aSnoyYUN6QXJjN1VadUVvVHZwbGUtVU4xeGZkNlIzMkswY9IBfkFVX3lxTE5pRnMxWU1rV3hpa0ozNWhubmQwYTFod0tPRFF2cllDckdZT1ZfQ0ltV0hmbV95TWNVSlVqV2lKcHZWaWxLWTQwdkY4NzdaNG1KUGN1NFBUR3BUTmdCZnhaRmhfSUJDSHdiZ2Q3anFYS0M4T1JRNXlnMTR3VUVJZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Z0R6bFdGR2F0WWpkWlgtY3ByT1I2UVJXR3dsZ21JX3k5bEF4aXdLZFpCQ0ptMGc0QVByZnlLY2pzcTRSNGkxOVJBMmM1NndTLVN2cE5aSnoyYUN6QXJjN1VadUVvVHZwbGUtVU4xeGZkNlIzMkswY9IBfkFVX3lxTE5pRnMxWU1rV3hpa0ozNWhubmQwYTFod0tPRFF2cllDckdZT1ZfQ0ltV0hmbV95TWNVSlVqV2lKcHZWaWxLWTQwdkY4NzdaNG1KUGN1NFBUR3BUTmdCZnhaRmhfSUJDSHdiZ2Q3anFYS0M4T1JRNXlnMTR3VUVJZw?oc=5\" target=\"_blank\">Суд в Калмыкии дал пять лет колонии экс-главе Яшалтинского района за взятки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Tue, 06 Oct 2026 17:09:16 GMT"
     },
     {
       "title": "Хуситы заявили, что отразили попытки подойти к Баб-эль-Мандебскому проливу - РИА Новости",
@@ -190,97 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HT25Tc1RCVWpFN3lTVVRhTXdiSU0xTXBBLTg4SmZlNk0tQm9zNk9BbXBqTTJITzNwamJnRzNXZUhxVy14cmVNRmc0R2Zlak5vX2Vmdm1Kcw?oc=5\" target=\"_blank\">В Черном море у берегов Сочи загорелся танкер. Пляжи Сириуса закрывают</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
       "pub": "Tue, 06 Oct 2026 16:49:00 GMT"
-    },
-    {
-      "title": "Кем вы были в прошлой жизни: пройдите тест и узнайте свою судьбу в османском дворце - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vZXVxMlBReXhNYURrZjQ1MVJmeHc1TXlJcDFNc1oxZThvSjJQMnZKTTJwc05SYVdtRVo0RTVTZkw2ZFl5Njc5QnNFX203U0hURE91SWFnNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vZXVxMlBReXhNYURrZjQ1MVJmeHc1TXlJcDFNc1oxZThvSjJQMnZKTTJwc05SYVdtRVo0RTVTZkw2ZFl5Njc5QnNFX203U0hURE91SWFnNA?oc=5\" target=\"_blank\">Кем вы были в прошлой жизни: пройдите тест и узнайте свою судьбу в османском дворце</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 16:49:00 GMT"
-    },
-    {
-      "title": "\"Аэрофлот рассказал о правилах перевозки домашних животных - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zejNBcG13NlN1bnpwWWVJclB3SnQyVTY1N3hHZjBFdzFNSEw3Q1hDdTlucks0dXBXYk84YmVYTEJxUU44NmhzWW0wZ2ppYnZWNFBlTHhKNXlaOHMz?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zejNBcG13NlN1bnpwWWVJclB3SnQyVTY1N3hHZjBFdzFNSEw3Q1hDdTlucks0dXBXYk84YmVYTEJxUU44NmhzWW0wZ2ppYnZWNFBlTHhKNXlaOHMz?oc=5\" target=\"_blank\">\"Аэрофлот рассказал о правилах перевозки домашних животных</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 06 Oct 2026 16:49:00 GMT"
-    },
-    {
-      "title": "МИД: Россия готова рассмотреть все вопросы по базе в Гюмри с Арменией - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82N1JjSkNkdkZ1bW0yNlJ2MVpQRGRXZmQzVWhWaWZ3cXQzRzFUT1ZPWHVGemJhNjB0eUxnWUxfU3FhUkdpcWo2V3RxM1RtcTEyOEpEX29mM2lkZ3UyeUtSUEdvMVpLTXVYeTNoOGgtcULSAXZBVV95cUxPLWtnOGE2eU53c3BFdkswSkRCSU84cmpnRURjMXZGTkl0QUJpR2JKam91MGRySExuNE5oQkZDWXp6NUVpQWt2U3BtaklVZTM2em9UNFkwcEFjUnlYbmlmbWdEeXZfWTBjV0VqM2Z5alhRQWdIR0x3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE82N1JjSkNkdkZ1bW0yNlJ2MVpQRGRXZmQzVWhWaWZ3cXQzRzFUT1ZPWHVGemJhNjB0eUxnWUxfU3FhUkdpcWo2V3RxM1RtcTEyOEpEX29mM2lkZ3UyeUtSUEdvMVpLTXVYeTNoOGgtcULSAXZBVV95cUxPLWtnOGE2eU53c3BFdkswSkRCSU84cmpnRURjMXZGTkl0QUJpR2JKam91MGRySExuNE5oQkZDWXp6NUVpQWt2U3BtaklVZTM2em9UNFkwcEFjUnlYbmlmbWdEeXZfWTBjV0VqM2Z5alhRQWdIR0x3?oc=5\" target=\"_blank\">МИД: Россия готова рассмотреть все вопросы по базе в Гюмри с Арменией</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Tue, 06 Oct 2026 16:45:28 GMT"
-    },
-    {
-      "title": "Бывший депутат Госдумы Романов отправился в зону боевых действий - РБК",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRZ1p0VHZjY1pQNGY4ZFlyMVZJNHNDTnJkV1VwMEdXQ2hXNm1vMEFvRG5nejNuNVZBdkFuQi13eDIzMUhKdmdhMU8zcGZrMjZXQWNNMDNEc1BBQ1FOdTBBMmRvS2J5UQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRZ1p0VHZjY1pQNGY4ZFlyMVZJNHNDTnJkV1VwMEdXQ2hXNm1vMEFvRG5nejNuNVZBdkFuQi13eDIzMUhKdmdhMU8zcGZrMjZXQWNNMDNEc1BBQ1FOdTBBMmRvS2J5UQ?oc=5\" target=\"_blank\">Бывший депутат Госдумы Романов отправился в зону боевых действий</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Tue, 06 Oct 2026 16:45:02 GMT"
-    },
-    {
-      "title": "России нужен Кавказ как зона стабильности и прочного мира, заявили в МИД - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pSm10YmNzWjQ4VXJQTG1xYlc4T3ZfaHVDcmRiU3hvUlpmakRVb0lkUGVoRy02SGprMTJrZlBMMmpfWDdyZmlUb3c3UUpGak9nNHR5NDNFUFJBdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pSm10YmNzWjQ4VXJQTG1xYlc4T3ZfaHVDcmRiU3hvUlpmakRVb0lkUGVoRy02SGprMTJrZlBMMmpfWDdyZmlUb3c3UUpGak9nNHR5NDNFUFJBdw?oc=5\" target=\"_blank\">России нужен Кавказ как зона стабильности и прочного мира, заявили в МИД</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 06 Oct 2026 16:43:00 GMT"
-    },
-    {
-      "title": "Солнце раскрасило осенний Петербург, но ненадолго - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvdV9xNjlZQ1JZQmsybV9lSERYQW9jZ3dyQkJqSXRVbjVmcnJPUDhwSkxsWDVBWVh6b0xJWHdIYWVlQjJlV0FuYlMwc3gxLXlMam5tZW9xWQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvdV9xNjlZQ1JZQmsybV9lSERYQW9jZ3dyQkJqSXRVbjVmcnJPUDhwSkxsWDVBWVh6b0xJWHdIYWVlQjJlV0FuYlMwc3gxLXlMam5tZW9xWQ?oc=5\" target=\"_blank\">Солнце раскрасило осенний Петербург, но ненадолго</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 16:36:00 GMT"
-    },
-    {
-      "title": "В Туркмении Путин может провести неофициальные встречи с лидерами стран СНГ - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRUg3dmhVWHdfSGRHOUhZNnFRQ0tPNkpBM21jX01qRWVwOVNOeFFjbGVRVUVKdTE4ZHdndkx4dXJUNTlBYmJBQkVEQjIwMVlocl9CMnJQR28?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRUg3dmhVWHdfSGRHOUhZNnFRQ0tPNkpBM21jX01qRWVwOVNOeFFjbGVRVUVKdTE4ZHdndkx4dXJUNTlBYmJBQkVEQjIwMVlocl9CMnJQR28?oc=5\" target=\"_blank\">В Туркмении Путин может провести неофициальные встречи с лидерами стран СНГ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 06 Oct 2026 16:34:00 GMT"
-    },
-    {
-      "title": "Ушаков рассказал о товарообороте России со странами СНГ в 2025 году - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04NHVOX0NqZjY0empqX1Q3MFVhdzQxT05PYVJoVkxGOU5CTG9WYS1PMmFab2hXbTFLeVR6Sm93aFdoazhnR1c3S1oxZGNKeVpjamFOdXp4Z0hoeWlYbVA5R1Rn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE04NHVOX0NqZjY0empqX1Q3MFVhdzQxT05PYVJoVkxGOU5CTG9WYS1PMmFab2hXbTFLeVR6Sm93aFdoazhnR1c3S1oxZGNKeVpjamFOdXp4Z0hoeWlYbVA5R1Rn?oc=5\" target=\"_blank\">Ушаков рассказал о товарообороте России со странами СНГ в 2025 году</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Tue, 06 Oct 2026 16:30:00 GMT"
-    },
-    {
-      "title": "В Петербурге втрое сокращают выплаты за контракт на СВО. Не всем - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcGpRTWcxVnBRNGZ3S3h4V0s4SElYV1lwbXhuZnkxWnlucUNVSVY4ajZMQ3B4bkp5TGlEdFppZkl5U3B5VjZhZzNSWGdfelNFVVhzU3d3NA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcGpRTWcxVnBRNGZ3S3h4V0s4SElYV1lwbXhuZnkxWnlucUNVSVY4ajZMQ3B4bkp5TGlEdFppZkl5U3B5VjZhZzNSWGdfelNFVVhzU3d3NA?oc=5\" target=\"_blank\">В Петербурге втрое сокращают выплаты за контракт на СВО. Не всем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 16:27:17 GMT"
-    },
-    {
-      "title": "В петербургских судах назвали количество исков от фанатов Канье Уэста - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HeUpxMXktOHlSTGJTREEyOEtkcHBYQzQweUc0VlE0Y1c4ZHdNQXhuZ08zeVVfS0NvTzdwZzdLQVBfUzhlNGJMSGRIUVRYMnRFdm1jV3ROVnFmQVIxV2w0TjA4cw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HeUpxMXktOHlSTGJTREEyOEtkcHBYQzQweUc0VlE0Y1c4ZHdNQXhuZ08zeVVfS0NvTzdwZzdLQVBfUzhlNGJMSGRIUVRYMnRFdm1jV3ROVnFmQVIxV2w0TjA4cw?oc=5\" target=\"_blank\">В петербургских судах назвали количество исков от фанатов Канье Уэста</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 16:09:00 GMT"
-    },
-    {
-      "title": "В петербургских судах подсчитали количество исков от фанатов Канье Уэста - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJc21FQ2Vid3NmWm9zQlE3LURpblFhTnMwbzdKa05nMG16VjVaQkdCS29uM1IxWTR6X0ZZN2hPeVZoQkJVOC1Na21SandtMkNzQVVqWkxsMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJc21FQ2Vid3NmWm9zQlE3LURpblFhTnMwbzdKa05nMG16VjVaQkdCS29uM1IxWTR6X0ZZN2hPeVZoQkJVOC1Na21SandtMkNzQVVqWkxsMA?oc=5\" target=\"_blank\">В петербургских судах подсчитали количество исков от фанатов Канье Уэста</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 16:09:00 GMT"
-    },
-    {
-      "title": "Работы советских художников ушли с молотка за миллион евро - РБК",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9md2dSS3FEaW9ZVW81WnFrR0dXejVzOS1NSEM2LTRZYzFndjFsMnBKZWZQelJsWklwQ0NGTWFrRE9ZUllaa3F4Z0VoRFlROF9Dc3h4NVdBT0lhZTdRa0s1OEdYd0ZIRm9YM1h2S0w2b1MyeGJPOTRWVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9md2dSS3FEaW9ZVW81WnFrR0dXejVzOS1NSEM2LTRZYzFndjFsMnBKZWZQelJsWklwQ0NGTWFrRE9ZUllaa3F4Z0VoRFlROF9Dc3h4NVdBT0lhZTdRa0s1OEdYd0ZIRm9YM1h2S0w2b1MyeGJPOTRWVQ?oc=5\" target=\"_blank\">Работы советских художников ушли с молотка за миллион евро</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Tue, 06 Oct 2026 16:08:10 GMT"
-    },
-    {
-      "title": "С основательницы фонда «Дом с маяком» снимут запрет определенных действий - РБК",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RUFR4a0tFRWZrUGNRS2dOalItN1J6NmUxcDlHSFNHQ3UzbHI3RlZ4SXFIQ0NDZGlfNEpsM0V6dnVaMGpRNjRrdjFFa3RwMTQ5N1prZWpxcWVmcmJKdVl4eVZSSE85Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RUFR4a0tFRWZrUGNRS2dOalItN1J6NmUxcDlHSFNHQ3UzbHI3RlZ4SXFIQ0NDZGlfNEpsM0V6dnVaMGpRNjRrdjFFa3RwMTQ5N1prZWpxcWVmcmJKdVl4eVZSSE85Zw?oc=5\" target=\"_blank\">С основательницы фонда «Дом с маяком» снимут запрет определенных действий</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Tue, 06 Oct 2026 16:05:15 GMT"
     }
   ]
 }
