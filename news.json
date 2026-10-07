@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:06:38.165180+00:00",
+  "updated": "2026-10-07T03:41:50.230069+00:00",
   "count": 40,
   "news": [
     {
@@ -45,6 +45,13 @@
       "pub": "Wed, 07 Oct 2026 01:50:23 GMT"
     },
     {
+      "title": "Посол Степанов предупредил об ответе России на покушение на её активы в Канаде - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USTdWdk1wd1hzYk05QUV3MnVpX0VqYW95VVc4dFhVY21YaXZ1ekF3ekNkT1kwLTdEZTAwNllkZHVYd1ozX0ZJSmNYaThNcjVIeTRCODlueExMc1BfaGJiVmJfVDJ0NlRXMko1c3pOMS3SAXZBVV95cUxQTFVYTjU1dF9LSXUxMlVZTHNvQjZnWWJRVHBJZTVHM1FTb09FQnBiLTB0ZzZQNjlvMWp4VFB2eU1iY05CTWNpdzdBUjcwcXJOTTRYM2VmdS1Yb2hvNkUyZzBZaFdVem81OUtxTDJvUXJjOHZoaS1B?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5USTdWdk1wd1hzYk05QUV3MnVpX0VqYW95VVc4dFhVY21YaXZ1ekF3ekNkT1kwLTdEZTAwNllkZHVYd1ozX0ZJSmNYaThNcjVIeTRCODlueExMc1BfaGJiVmJfVDJ0NlRXMko1c3pOMS3SAXZBVV95cUxQTFVYTjU1dF9LSXUxMlVZTHNvQjZnWWJRVHBJZTVHM1FTb09FQnBiLTB0ZzZQNjlvMWp4VFB2eU1iY05CTWNpdzdBUjcwcXJOTTRYM2VmdS1Yb2hvNkUyZzBZaFdVem81OUtxTDJvUXJjOHZoaS1B?oc=5\" target=\"_blank\">Посол Степанов предупредил об ответе России на покушение на её активы в Канаде</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 01:32:44 GMT"
+    },
+    {
       "title": "Каждый второй россиянин перезванивал незнакомцам, показал опрос - РИА Новости",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15bzRYU0xKbXVtN0JXaDh2YVdxT19mUFNfUzlTU1QtZnB2OEZGYW9pM3BWMGZzYkJ0U19ibUFvdnhSaXN1NzR4c2pSZ2lZZUdaUV9CaTVMeTY?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE15bzRYU0xKbXVtN0JXaDh2YVdxT19mUFNfUzlTU1QtZnB2OEZGYW9pM3BWMGZzYkJ0U19ibUFvdnhSaXN1NzR4c2pSZ2lZZUdaUV9CaTVMeTY?oc=5\" target=\"_blank\">Каждый второй россиянин перезванивал незнакомцам, показал опрос</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
@@ -59,18 +66,25 @@
       "pub": "Wed, 07 Oct 2026 01:00:36 GMT"
     },
     {
+      "title": "В Хабаровском крае построят 10 заводов для воспроизводства лососевых - РБК",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TbmJzSm1SRnkzMXhHTVhPRE5tRm1XeDd2MTR6NzNTQkg5TDBERFlKY3hQR19SVFJJdkRDWTdiZFctLTJVazlCaVRGSlZzSW1HVTc1cWlxU011UDIzRWFXaUxjNEdpZkh4SjF2YWRTOUgzOWNhYklWME95d1VHZmM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1TbmJzSm1SRnkzMXhHTVhPRE5tRm1XeDd2MTR6NzNTQkg5TDBERFlKY3hQR19SVFJJdkRDWTdiZFctLTJVazlCaVRGSlZzSW1HVTc1cWlxU011UDIzRWFXaUxjNEdpZkh4SjF2YWRTOUgzOWNhYklWME95d1VHZmM?oc=5\" target=\"_blank\">В Хабаровском крае построят 10 заводов для воспроизводства лососевых</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Wed, 07 Oct 2026 00:52:36 GMT"
+    },
+    {
+      "title": "Росстат: Россия по итогам 2025 года полностью обеспечила себя картофелем - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyUXlIVzN2QzdWblhaMjRyOEVJWk01UVJTRlp2aFJmZEJ3VHkxYkdJbG0tdmFobkp3RnQ2TndxTWRTVDZKQWJNbUFyaEdnZDZFb1VJcGpWcS02a3ZXWVh6SENzZUhWZ2tqMS1CLXVCZEM3TEVRVlHSAXtBVV95cUxNdUJwYl9JZllmSGU3Y3RSanMybTJwUDZUNzh1V1g0aXZHRG1PeHRPWXFkYmxHX3JEN0VuZUVVNGFxek40QUI1TzVIdk5FVHMtM2RZeFlHbWFsX1RUNkFfUHBiUEtmRGgwYkswY3V5V3dLdHVmQTBkWXBhbGc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyUXlIVzN2QzdWblhaMjRyOEVJWk01UVJTRlp2aFJmZEJ3VHkxYkdJbG0tdmFobkp3RnQ2TndxTWRTVDZKQWJNbUFyaEdnZDZFb1VJcGpWcS02a3ZXWVh6SENzZUhWZ2tqMS1CLXVCZEM3TEVRVlHSAXtBVV95cUxNdUJwYl9JZllmSGU3Y3RSanMybTJwUDZUNzh1V1g0aXZHRG1PeHRPWXFkYmxHX3JEN0VuZUVVNGFxek40QUI1TzVIdk5FVHMtM2RZeFlHbWFsX1RUNkFfUHBiUEtmRGgwYkswY3V5V3dLdHVmQTBkWXBhbGc?oc=5\" target=\"_blank\">Росстат: Россия по итогам 2025 года полностью обеспечила себя картофелем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 00:51:32 GMT"
+    },
+    {
       "title": "Топор из фильма «Сияние» продадут на аукционе минимум за $40 тыс. - РБК",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pak9IbTZuZG9ZWWJDMXFiNW5UM05Dam1JMU5Qak56Y1RONHc0U3JwZXE5ZWJxS1FmTkp3cXBmN2RqU3FSa2szaTRSSFVDRnVueFBnZDZ3NlVJVWhydy04N2VGY1V6Zw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pak9IbTZuZG9ZWWJDMXFiNW5UM05Dam1JMU5Qak56Y1RONHc0U3JwZXE5ZWJxS1FmTkp3cXBmN2RqU3FSa2szaTRSSFVDRnVueFBnZDZ3NlVJVWhydy04N2VGY1V6Zw?oc=5\" target=\"_blank\">Топор из фильма «Сияние» продадут на аукционе минимум за $40 тыс.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
       "source": "РБК",
       "pub": "Wed, 07 Oct 2026 00:38:54 GMT"
-    },
-    {
-      "title": "В Киеве прогремели взрывы - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ncGNsUFBOc1hlY1BlbzRnYk5CczcyN2Q2emVCRXFfWnhnR1hfTE1mYmlLX2tRZ2VpSWZRc2l4VG9tUW1WUkVPVTZFQ0Z2WDJQcjg4R1RQWQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ncGNsUFBOc1hlY1BlbzRnYk5CczcyN2Q2emVCRXFfWnhnR1hfTE1mYmlLX2tRZ2VpSWZRc2l4VG9tUW1WUkVPVTZFQ0Z2WDJQcjg4R1RQWQ?oc=5\" target=\"_blank\">В Киеве прогремели взрывы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 00:22:00 GMT"
     },
     {
       "title": "В России изменятся условия сдачи экзамена на права в 2027 году - RT на русском",
@@ -157,20 +171,6 @@
       "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
     },
     {
-      "title": "В России появился индекс «Сельди под шубой» — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnAxTlBTMDJqYnJ2Qzl2bXNXdVkxX2lWc21McHowTElVVXNCdzJKX3ZwQmpTem85N3pIM0Y3cWRibE5PMzhLVHBFeHhrSi1fVk9IQWYxV28ydXZHcVoxRzh6cE0ydnFhby00UEM1S1kzQk5lZ0dRY3kxT3RkSHIzOW1BeEt5b1Z5OXprSlhaaEdfbkVzaVZaX01PN0E1WHVV?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnAxTlBTMDJqYnJ2Qzl2bXNXdVkxX2lWc21McHowTElVVXNCdzJKX3ZwQmpTem85N3pIM0Y3cWRibE5PMzhLVHBFeHhrSi1fVk9IQWYxV28ydXZHcVoxRzh6cE0ydnFhby00UEM1S1kzQk5lZ0dRY3kxT3RkSHIzOW1BeEt5b1Z5OXprSlhaaEdfbkVzaVZaX01PN0E1WHVV?oc=5\" target=\"_blank\">В России появился индекс «Сельди под шубой» — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
-    },
-    {
-      "title": "В Туле пройдет праздник «Осенины» с мастер-классами и лотереей — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzdxWHdGYzZTbm5IQjdMWTdwSDFuSTliX0EydjJycDVOeEpZUUZ4STdiS011MWpDV2NiQ3gwMXZzRmVPRXNfeTl0U2pFNDNpcFJKNTVyRzdTR3Rob0FYZ3hQc3NjbjFzd1ptZjJtMlp2Q0tFa0M5NGNuT1F5Q2dtQWloR2dJbFRxcFJ4YmJWbExsQUVZWjBRekR2cWZ0VzJfaHdtQ005amQ3TzdZRWdhQmV4eEx0Mmc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzdxWHdGYzZTbm5IQjdMWTdwSDFuSTliX0EydjJycDVOeEpZUUZ4STdiS011MWpDV2NiQ3gwMXZzRmVPRXNfeTl0U2pFNDNpcFJKNTVyRzdTR3Rob0FYZ3hQc3NjbjFzd1ptZjJtMlp2Q0tFa0M5NGNuT1F5Q2dtQWloR2dJbFRxcFJ4YmJWbExsQUVZWjBRekR2cWZ0VzJfaHdtQ005amQ3TzdZRWdhQmV4eEx0Mmc?oc=5\" target=\"_blank\">В Туле пройдет праздник «Осенины» с мастер-классами и лотереей — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
-    },
-    {
       "title": "Сахалинские фехтовальщики впервые в истории взяли медаль чемпионата ДФО — читать подробности - ТАСС",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWI0dlhCZDVGNE9wOTBEaWEtWlBXcmdaR3VPUHI0NTAzVkN1TVdwaFRDd1ozbzdpSDdrNW5HYnhUWV94SGFIVllFXzBFVXZJVGxVRmhXNW5GMkp5YkJaZFU5bmRtSVpqbjZwVm5wdVlqZTcyelFjdjVOMktqMHZZQzUzd3lETEhicnMzR0Z0UEd2bUpVdjRIUlZpcXpfTnM5SjJsdm5UclBkZ0JOcml4TzNqS3lsX3JjMFFVMUlRb29WOW8wcnhxbXdVZzdBT00?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWI0dlhCZDVGNE9wOTBEaWEtWlBXcmdaR3VPUHI0NTAzVkN1TVdwaFRDd1ozbzdpSDdrNW5HYnhUWV94SGFIVllFXzBFVXZJVGxVRmhXNW5GMkp5YkJaZFU5bmRtSVpqbjZwVm5wdVlqZTcyelFjdjVOMktqMHZZQzUzd3lETEhicnMzR0Z0UEd2bUpVdjRIUlZpcXpfTnM5SjJsdm5UclBkZ0JOcml4TzNqS3lsX3JjMFFVMUlRb29WOW8wcnhxbXdVZzdBT00?oc=5\" target=\"_blank\">Сахалинские фехтовальщики впервые в истории взяли медаль чемпионата ДФО — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
@@ -202,6 +202,13 @@
       "title": "Трамп заявил, что у него запланирован разговор с Путиным на ближайшее время — читать подробности - ТАСС",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1FuRi1SU3RmWWctV2JKUVlrd0FWSTVxVVhoSkl6T0VKamtVcGl6LUlEMmVON0l1dDlVRGkyVU5NSmFsSTMxYVo4VTNkNTRia2Y3UHlYUWhVQ0VfNjd2ZHZfbXdVSnJsbkJ1OWgwRWxrWjdQaFp1VnZ0d0lrSDNOOXA0NG5hVUZqLWtST0dXWDRDYmdxYmdWU1BJTHBWcFVrWk1BQ3lrWXhQS3Z4NFNxUTFtYXZxRXctNHVHZzc2LWhaS1FudVJiRklnakZ2NWJTSVB5Unc0MmJoOG0zNWhXLVFCbTV1WjR4OTk3ZDR6My0zV0Zv?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1FuRi1SU3RmWWctV2JKUVlrd0FWSTVxVVhoSkl6T0VKamtVcGl6LUlEMmVON0l1dDlVRGkyVU5NSmFsSTMxYVo4VTNkNTRia2Y3UHlYUWhVQ0VfNjd2ZHZfbXdVSnJsbkJ1OWgwRWxrWjdQaFp1VnZ0d0lrSDNOOXA0NG5hVUZqLWtST0dXWDRDYmdxYmdWU1BJTHBWcFVrWk1BQ3lrWXhQS3Z4NFNxUTFtYXZxRXctNHVHZzc2LWhaS1FudVJiRklnakZ2NWJTSVB5Unc0MmJoOG0zNWhXLVFCbTV1WjR4OTk3ZDR6My0zV0Zv?oc=5\" target=\"_blank\">Трамп заявил, что у него запланирован разговор с Путиным на ближайшее время — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
+    },
+    {
+      "title": "Валентина Матвиенко уверена, что Бразилия останется в БРИКС — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWJXcmVSYWc1SUlfQ0RaWFpHdmFEMW1hZGV0R3hVbUVGZmpIZ0tRcDJzQlh5VVlfWDhEUE41bENwQ1NzVEthT3Yyd2RsRTNpbG5sd2RXUnZsWUhPQkhOUmozRmdKOGxIWm1vSVhLTWVmMDF6M251MzZPdS1wLWw1SXpvSzhKMDVWYVlIanZUa2tkRHhGZlNhVE5JRDd6aW04NlF4U1Z4U3BEWU8tX2lmWUttekdldlI5eVFqeUpETDU4LWgxME42QzFRS0hqcWNGUU1FMk9yVTgxU3JU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWJXcmVSYWc1SUlfQ0RaWFpHdmFEMW1hZGV0R3hVbUVGZmpIZ0tRcDJzQlh5VVlfWDhEUE41bENwQ1NzVEthT3Yyd2RsRTNpbG5sd2RXUnZsWUhPQkhOUmozRmdKOGxIWm1vSVhLTWVmMDF6M251MzZPdS1wLWw1SXpvSzhKMDVWYVlIanZUa2tkRHhGZlNhVE5JRDd6aW04NlF4U1Z4U3BEWU8tX2lmWUttekdldlI5eVFqeUpETDU4LWgxME42QzFRS0hqcWNGUU1FMk9yVTgxU3JU?oc=5\" target=\"_blank\">Валентина Матвиенко уверена, что Бразилия останется в БРИКС — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
       "source": "ТАСС",
       "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
     },
@@ -274,13 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE81dEhBWElYcjBaaGpNVVg5Qnc0WnE4M1pIcUxzNzJlVUhmLUQ0ak9EMEx5ZDhDc3NKS0tSLUpuOGZicFhoWXNzVTlwVGFzWXNsVnA5Ykk5eEMtQjRJV0I2SmJHM1VZZjBjUEtWN1dweC1wcWVRSUE?oc=5\" target=\"_blank\">Выжившая после попытки смертной казни в Теннесси пришла в сознание</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
       "source": "РБК",
       "pub": "Tue, 06 Oct 2026 23:05:18 GMT"
-    },
-    {
-      "title": "Президент США Трамп: мир на Украине все ближе, хотя это так не выглядит — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzVPQ0pWdUhIbXIzQ1diMmhHVEZFdkFSeDJmRDhjQjZNSnNDRzB3cWxhMlF2UE9ObXVCbndNRXE5QlI4MWQ1RlMwX3QwX21ScEl0eHhXSVNqeHZDbklMQmtMWC0zZGd2Wm13ZTlOVWZBNkNhY1RXNlhHeFkwa3Nfb0lNcGRvSHlINzdsWGJtU3ZSMUV1eklZNFR3Ukh0RGNxeWx6elJwWEpELU9qTVpHNkZUelg5ZjJrbmNJdVZEYUU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzVPQ0pWdUhIbXIzQ1diMmhHVEZFdkFSeDJmRDhjQjZNSnNDRzB3cWxhMlF2UE9ObXVCbndNRXE5QlI4MWQ1RlMwX3QwX21ScEl0eHhXSVNqeHZDbklMQmtMWC0zZGd2Wm13ZTlOVWZBNkNhY1RXNlhHeFkwa3Nfb0lNcGRvSHlINzdsWGJtU3ZSMUV1eklZNFR3Ukh0RGNxeWx6elJwWEpELU9qTVpHNkZUelg5ZjJrbmNJdVZEYUU?oc=5\" target=\"_blank\">Президент США Трамп: мир на Украине все ближе, хотя это так не выглядит — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 06 Oct 2026 22:56:32 GMT"
     }
   ]
 }
