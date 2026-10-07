@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T02:06:42.295737+00:00",
+  "updated": "2026-10-07T02:41:01.719713+00:00",
   "count": 40,
   "news": [
+    {
+      "title": "В Киеве опять прогремели взрывы - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43QmYyakFra1o4SzlkaFh5M1doZDMxRXVfTW5IbklMSlgycTdfTHpmS3EyMkNyS2VITGJwdlFpVFNabDdQMmpKM2dycFRkbDVwNGFyY3RIVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE43QmYyakFra1o4SzlkaFh5M1doZDMxRXVfTW5IbklMSlgycTdfTHpmS3EyMkNyS2VITGJwdlFpVFNabDdQMmpKM2dycFRkbDVwNGFyY3RIVQ?oc=5\" target=\"_blank\">В Киеве опять прогремели взрывы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 07 Oct 2026 02:16:00 GMT"
+    },
+    {
+      "title": "Аналитики подсчитали, сколько зубов можно вылечить на среднюю зарплату - РБК",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YTjd2cEhhX1BBX2V2OXhwS1VER1pJSzcwdnUxOTdMSEhJMmxlLURRT2xlaXdWcjN0b3dZWm9WbVlnSWxrOVQ3UEFrUXE0aU9NdE4tSThmYkg0V191OWJwLTFuclBaUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YTjd2cEhhX1BBX2V2OXhwS1VER1pJSzcwdnUxOTdMSEhJMmxlLURRT2xlaXdWcjN0b3dZWm9WbVlnSWxrOVQ3UEFrUXE0aU9NdE4tSThmYkg0V191OWJwLTFuclBaUQ?oc=5\" target=\"_blank\">Аналитики подсчитали, сколько зубов можно вылечить на среднюю зарплату</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Wed, 07 Oct 2026 01:50:23 GMT"
+    },
     {
       "title": "Каждый второй россиянин перезванивал незнакомцам, показал опрос - РИА Новости",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15bzRYU0xKbXVtN0JXaDh2YVdxT19mUFNfUzlTU1QtZnB2OEZGYW9pM3BWMGZzYkJ0U19ibUFvdnhSaXN1NzR4c2pSZ2lZZUdaUV9CaTVMeTY?oc=5",
@@ -87,6 +101,13 @@
       "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
     },
     {
+      "title": "В России начнут развивать биорегионы — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbU8tWUIxVnRXa0tqalBlUng2dmc0b09uTWs4M002QlhKbEpjZDQ3OE9HVHVKTzZIVFZULTNkSWVsV182WlRaZWNIV3ZkVzZacWJoX3ZTeWZmNnVuQkhReTNaRzdvSzZiaElUYjJwX2NiZnRhWUZyQmdTLVpMR2pFZ3VKenllM3VLZGtKc3cwczZNdzZKLXp1bGMyMnh2VlpKdkF4Q2gtUXZEam1ndmhkNlZURzFvR0NJVnRJ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbU8tWUIxVnRXa0tqalBlUng2dmc0b09uTWs4M002QlhKbEpjZDQ3OE9HVHVKTzZIVFZULTNkSWVsV182WlRaZWNIV3ZkVzZacWJoX3ZTeWZmNnVuQkhReTNaRzdvSzZiaElUYjJwX2NiZnRhWUZyQmdTLVpMR2pFZ3VKenllM3VLZGtKc3cwczZNdzZKLXp1bGMyMnh2VlpKdkF4Q2gtUXZEam1ndmhkNlZURzFvR0NJVnRJ?oc=5\" target=\"_blank\">В России начнут развивать биорегионы — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
+    },
+    {
       "title": "Тульская легкоатлетка взяла серебро на Кубке России — читать подробности - ТАСС",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbC1vMnZSb2IxbkI3NE8tUHpFU2FuNkxwRDBwVGdSZ1BFcmhZWXdxVnl2RW5QcU5wTGd2RUduWk8wekM1MVhMY05QcGJuMF9hbTdMQ04wRG9rZlhUTnY1dGZVS3IyZURvN3k0T3U2SXdudnlyaDZ1b2NfcmRHNjFTYUxybVE2azVMT0RhblpJSm80Wl84a0pXYnZWRmxxd2hjOTZUaWFqem1fOXc0?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbC1vMnZSb2IxbkI3NE8tUHpFU2FuNkxwRDBwVGdSZ1BFcmhZWXdxVnl2RW5QcU5wTGd2RUduWk8wekM1MVhMY05QcGJuMF9hbTdMQ04wRG9rZlhUTnY1dGZVS3IyZURvN3k0T3U2SXdudnlyaDZ1b2NfcmRHNjFTYUxybVE2azVMT0RhblpJSm80Wl84a0pXYnZWRmxxd2hjOTZUaWFqem1fOXc0?oc=5\" target=\"_blank\">Тульская легкоатлетка взяла серебро на Кубке России — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
@@ -108,6 +129,20 @@
       "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
     },
     {
+      "title": "В России появился индекс «Сельди под шубой» — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnAxTlBTMDJqYnJ2Qzl2bXNXdVkxX2lWc21McHowTElVVXNCdzJKX3ZwQmpTem85N3pIM0Y3cWRibE5PMzhLVHBFeHhrSi1fVk9IQWYxV28ydXZHcVoxRzh6cE0ydnFhby00UEM1S1kzQk5lZ0dRY3kxT3RkSHIzOW1BeEt5b1Z5OXprSlhaaEdfbkVzaVZaX01PN0E1WHVV?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnAxTlBTMDJqYnJ2Qzl2bXNXdVkxX2lWc21McHowTElVVXNCdzJKX3ZwQmpTem85N3pIM0Y3cWRibE5PMzhLVHBFeHhrSi1fVk9IQWYxV28ydXZHcVoxRzh6cE0ydnFhby00UEM1S1kzQk5lZ0dRY3kxT3RkSHIzOW1BeEt5b1Z5OXprSlhaaEdfbkVzaVZaX01PN0E1WHVV?oc=5\" target=\"_blank\">В России появился индекс «Сельди под шубой» — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
+    },
+    {
+      "title": "В Туле пройдет праздник «Осенины» с мастер-классами и лотереей — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzdxWHdGYzZTbm5IQjdMWTdwSDFuSTliX0EydjJycDVOeEpZUUZ4STdiS011MWpDV2NiQ3gwMXZzRmVPRXNfeTl0U2pFNDNpcFJKNTVyRzdTR3Rob0FYZ3hQc3NjbjFzd1ptZjJtMlp2Q0tFa0M5NGNuT1F5Q2dtQWloR2dJbFRxcFJ4YmJWbExsQUVZWjBRekR2cWZ0VzJfaHdtQ005amQ3TzdZRWdhQmV4eEx0Mmc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzdxWHdGYzZTbm5IQjdMWTdwSDFuSTliX0EydjJycDVOeEpZUUZ4STdiS011MWpDV2NiQ3gwMXZzRmVPRXNfeTl0U2pFNDNpcFJKNTVyRzdTR3Rob0FYZ3hQc3NjbjFzd1ptZjJtMlp2Q0tFa0M5NGNuT1F5Q2dtQWloR2dJbFRxcFJ4YmJWbExsQUVZWjBRekR2cWZ0VzJfaHdtQ005amQ3TzdZRWdhQmV4eEx0Mmc?oc=5\" target=\"_blank\">В Туле пройдет праздник «Осенины» с мастер-классами и лотереей — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
+    },
+    {
       "title": "Сахалинские фехтовальщики впервые в истории взяли медаль чемпионата ДФО — читать подробности - ТАСС",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWI0dlhCZDVGNE9wOTBEaWEtWlBXcmdaR3VPUHI0NTAzVkN1TVdwaFRDd1ozbzdpSDdrNW5HYnhUWV94SGFIVllFXzBFVXZJVGxVRmhXNW5GMkp5YkJaZFU5bmRtSVpqbjZwVm5wdVlqZTcyelFjdjVOMktqMHZZQzUzd3lETEhicnMzR0Z0UEd2bUpVdjRIUlZpcXpfTnM5SjJsdm5UclBkZ0JOcml4TzNqS3lsX3JjMFFVMUlRb29WOW8wcnhxbXdVZzdBT00?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWI0dlhCZDVGNE9wOTBEaWEtWlBXcmdaR3VPUHI0NTAzVkN1TVdwaFRDd1ozbzdpSDdrNW5HYnhUWV94SGFIVllFXzBFVXZJVGxVRmhXNW5GMkp5YkJaZFU5bmRtSVpqbjZwVm5wdVlqZTcyelFjdjVOMktqMHZZQzUzd3lETEhicnMzR0Z0UEd2bUpVdjRIUlZpcXpfTnM5SjJsdm5UclBkZ0JOcml4TzNqS3lsX3JjMFFVMUlRb29WOW8wcnhxbXdVZzdBT00?oc=5\" target=\"_blank\">Сахалинские фехтовальщики впервые в истории взяли медаль чемпионата ДФО — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
@@ -122,6 +157,13 @@
       "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
     },
     {
+      "title": "Организаторы отменили выступления Канье Уэста в России — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkdKdzhiMlBZcjZrNzVOSVdhQ2QyZEExMFN5djRBTURLUU41TWswS2hVMGQzRFgyMk1HRFlnRjQ2c1VtS1pSWWNYVWlqUndwblNGemNKMFl3M1UxajVWS3JPWnlxYWtDWTlMaXUyV2lkZmRKZmdBdVo1eHdOOGpQYlZaWGtxSmpyTkRoOEpmSC10VnhUM1AzWkJlNEZsSU9EdTNWd0thVkVENWVOWVEwZTRn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkdKdzhiMlBZcjZrNzVOSVdhQ2QyZEExMFN5djRBTURLUU41TWswS2hVMGQzRFgyMk1HRFlnRjQ2c1VtS1pSWWNYVWlqUndwblNGemNKMFl3M1UxajVWS3JPWnlxYWtDWTlMaXUyV2lkZmRKZmdBdVo1eHdOOGpQYlZaWGtxSmpyTkRoOEpmSC10VnhUM1AzWkJlNEZsSU9EdTNWd0thVkVENWVOWVEwZTRn?oc=5\" target=\"_blank\">Организаторы отменили выступления Канье Уэста в России — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
+    },
+    {
       "title": "Дальневосточные рыбаки выловили почти 3 тыс тонн рыбы — читать подробности - ТАСС",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0xxT0dpLVVJVzUtUTAxZlRrMXY1d3d4aW9iOUpFdzByaDZTTUJialVfSU0xRHRwVVU5RlZkN01iYlVoYjhVOWZGMGlLWGNSSTdlczVZaUZYejVsQWk0emVXZEVfWTYtYmZTUlRZV2RQLVE3SjRJRFdCSlpVR2pEbzEzV2tqeTlmeGN6bWdINFdlNnJqYnZselhBcmpzUlIyeGlKZEtiYk5UMzRXMWh4bTc1ZG5RZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0xxT0dpLVVJVzUtUTAxZlRrMXY1d3d4aW9iOUpFdzByaDZTTUJialVfSU0xRHRwVVU5RlZkN01iYlVoYjhVOWZGMGlLWGNSSTdlczVZaUZYejVsQWk0emVXZEVfWTYtYmZTUlRZV2RQLVE3SjRJRFdCSlpVR2pEbzEzV2tqeTlmeGN6bWdINFdlNnJqYnZselhBcmpzUlIyeGlKZEtiYk5UMzRXMWh4bTc1ZG5RZw?oc=5\" target=\"_blank\">Дальневосточные рыбаки выловили почти 3 тыс тонн рыбы — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
@@ -132,20 +174,6 @@
       "title": "Трамп заявил, что у него запланирован разговор с Путиным на ближайшее время — читать подробности - ТАСС",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1FuRi1SU3RmWWctV2JKUVlrd0FWSTVxVVhoSkl6T0VKamtVcGl6LUlEMmVON0l1dDlVRGkyVU5NSmFsSTMxYVo4VTNkNTRia2Y3UHlYUWhVQ0VfNjd2ZHZfbXdVSnJsbkJ1OWgwRWxrWjdQaFp1VnZ0d0lrSDNOOXA0NG5hVUZqLWtST0dXWDRDYmdxYmdWU1BJTHBWcFVrWk1BQ3lrWXhQS3Z4NFNxUTFtYXZxRXctNHVHZzc2LWhaS1FudVJiRklnakZ2NWJTSVB5Unc0MmJoOG0zNWhXLVFCbTV1WjR4OTk3ZDR6My0zV0Zv?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1FuRi1SU3RmWWctV2JKUVlrd0FWSTVxVVhoSkl6T0VKamtVcGl6LUlEMmVON0l1dDlVRGkyVU5NSmFsSTMxYVo4VTNkNTRia2Y3UHlYUWhVQ0VfNjd2ZHZfbXdVSnJsbkJ1OWgwRWxrWjdQaFp1VnZ0d0lrSDNOOXA0NG5hVUZqLWtST0dXWDRDYmdxYmdWU1BJTHBWcFVrWk1BQ3lrWXhQS3Z4NFNxUTFtYXZxRXctNHVHZzc2LWhaS1FudVJiRklnakZ2NWJTSVB5Unc0MmJoOG0zNWhXLVFCbTV1WjR4OTk3ZDR6My0zV0Zv?oc=5\" target=\"_blank\">Трамп заявил, что у него запланирован разговор с Путиным на ближайшее время — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
-    },
-    {
-      "title": "Валентина Матвиенко уверена, что Бразилия останется в БРИКС — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWJXcmVSYWc1SUlfQ0RaWFpHdmFEMW1hZGV0R3hVbUVGZmpIZ0tRcDJzQlh5VVlfWDhEUE41bENwQ1NzVEthT3Yyd2RsRTNpbG5sd2RXUnZsWUhPQkhOUmozRmdKOGxIWm1vSVhLTWVmMDF6M251MzZPdS1wLWw1SXpvSzhKMDVWYVlIanZUa2tkRHhGZlNhVE5JRDd6aW04NlF4U1Z4U3BEWU8tX2lmWUttekdldlI5eVFqeUpETDU4LWgxME42QzFRS0hqcWNGUU1FMk9yVTgxU3JU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWJXcmVSYWc1SUlfQ0RaWFpHdmFEMW1hZGV0R3hVbUVGZmpIZ0tRcDJzQlh5VVlfWDhEUE41bENwQ1NzVEthT3Yyd2RsRTNpbG5sd2RXUnZsWUhPQkhOUmozRmdKOGxIWm1vSVhLTWVmMDF6M251MzZPdS1wLWw1SXpvSzhKMDVWYVlIanZUa2tkRHhGZlNhVE5JRDd6aW04NlF4U1Z4U3BEWU8tX2lmWUttekdldlI5eVFqeUpETDU4LWgxME42QzFRS0hqcWNGUU1FMk9yVTgxU3JU?oc=5\" target=\"_blank\">Валентина Матвиенко уверена, что Бразилия останется в БРИКС — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
-    },
-    {
-      "title": "ВЦИОМ: 25% россиян мечтают жить в обществе без денег — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXdUakdUZFJqWmxwdlBoZEIwV0VSa0FLc1VDLVpZZDE0b0xta3Rac0JlS3BSdU0xMDRla3JZTWo0SG9GbW9fTWx3QlNBbkdKT1FKd3pJWE5CTnpSR2lkMjNFVmo5SEg4aUs0eGVLVGhPMWhPanlDRWhEam5QOFVBYjlRemYzdzQxaC0xbTVjWnF5Mng0cUsxTUI1WkZHMmMyVHNuNHg4d19vZ3FzMGVwcXBnZUtUQkFF?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXdUakdUZFJqWmxwdlBoZEIwV0VSa0FLc1VDLVpZZDE0b0xta3Rac0JlS3BSdU0xMDRla3JZTWo0SG9GbW9fTWx3QlNBbkdKT1FKd3pJWE5CTnpSR2lkMjNFVmo5SEg4aUs0eGVLVGhPMWhPanlDRWhEam5QOFVBYjlRemYzdzQxaC0xbTVjWnF5Mng0cUsxTUI1WkZHMmMyVHNuNHg4d19vZ3FzMGVwcXBnZUtUQkFF?oc=5\" target=\"_blank\">ВЦИОМ: 25% россиян мечтают жить в обществе без денег — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
       "source": "ТАСС",
       "pub": "Tue, 06 Oct 2026 23:06:48 GMT"
     },
@@ -220,13 +248,6 @@
       "pub": "Tue, 06 Oct 2026 23:05:18 GMT"
     },
     {
-      "title": "Минпромторг сообщил о стабильных поставках «Атаракса» в России - РБК",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRktyUDIzYVNfbHlrOTg2RlkzZ0lBT3pjU0luYUNOUnFvV0Frc2dSTG0xNXhYSk5peWwxMjI1bzlCNUg4WGhGb0NCblE4Ti1KdC03TWFQa2ZXTTVLUjRESlZuRS1OZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRktyUDIzYVNfbHlrOTg2RlkzZ0lBT3pjU0luYUNOUnFvV0Frc2dSTG0xNXhYSk5peWwxMjI1bzlCNUg4WGhGb0NCblE4Ti1KdC03TWFQa2ZXTTVLUjRESlZuRS1OZw?oc=5\" target=\"_blank\">Минпромторг сообщил о стабильных поставках «Атаракса» в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Tue, 06 Oct 2026 23:05:18 GMT"
-    },
-    {
       "title": "Президент США Трамп: мир на Украине все ближе, хотя это так не выглядит — читать подробности - ТАСС",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzVPQ0pWdUhIbXIzQ1diMmhHVEZFdkFSeDJmRDhjQjZNSnNDRzB3cWxhMlF2UE9ObXVCbndNRXE5QlI4MWQ1RlMwX3QwX21ScEl0eHhXSVNqeHZDbklMQmtMWC0zZGd2Wm13ZTlOVWZBNkNhY1RXNlhHeFkwa3Nfb0lNcGRvSHlINzdsWGJtU3ZSMUV1eklZNFR3Ukh0RGNxeWx6elJwWEpELU9qTVpHNkZUelg5ZjJrbmNJdVZEYUU?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzVPQ0pWdUhIbXIzQ1diMmhHVEZFdkFSeDJmRDhjQjZNSnNDRzB3cWxhMlF2UE9ObXVCbndNRXE5QlI4MWQ1RlMwX3QwX21ScEl0eHhXSVNqeHZDbklMQmtMWC0zZGd2Wm13ZTlOVWZBNkNhY1RXNlhHeFkwa3Nfb0lNcGRvSHlINzdsWGJtU3ZSMUV1eklZNFR3Ukh0RGNxeWx6elJwWEpELU9qTVpHNkZUelg5ZjJrbmNJdVZEYUU?oc=5\" target=\"_blank\">Президент США Трамп: мир на Украине все ближе, хотя это так не выглядит — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
@@ -260,27 +281,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB3VEdvaEpUeF9TSTJOUVNMRWMwampTTmlpMzNRSWZoZUxfZHdnOEt4OHpzZlJrcU93RkpTYUZvVVpHUDk3ODVBNExJSzhXQTlibzdRNGZ2YTFuVGxxeWp0ZGc5MTM4ZnJBenJJR3lzNEtWQdIBd0FVX3lxTE8yN1NsZExKTF9Hc3RYSmxzMGI3SURicHVWdHRHejNiQ0Z5UElsRWV6MVpPN0dXcGNXa2hCTU5lMUZGMjNCZVE0MGE1UUd0VFo3QmxidlhyamMxdVRrVlRWYnBrVVQ3eElwRk5WRlhtTE1HbnZYQW9V?oc=5\" target=\"_blank\">Ким Чен Ын заверил Путина в неизменной поддержке России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
       "source": "RT",
       "pub": "Tue, 06 Oct 2026 21:47:06 GMT"
-    },
-    {
-      "title": "АдГ обсудила отказ от требований по выходу Германии из ЕС - РБК",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vNEtWOG93UXY2QUxPa28xNlFUNmpxOUJNdDgxOHNfcUhaVl8wQ1drTF9FVTVmZG5pd21FSUFLWTFxMHN4V1JGZERMbnFYcVNOcmhyZUJ2cFBxUVcxYXhpU3ZWLUlJbVpxVkpqaWJxVmI?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5vNEtWOG93UXY2QUxPa28xNlFUNmpxOUJNdDgxOHNfcUhaVl8wQ1drTF9FVTVmZG5pd21FSUFLWTFxMHN4V1JGZERMbnFYcVNOcmhyZUJ2cFBxUVcxYXhpU3ZWLUlJbVpxVkpqaWJxVmI?oc=5\" target=\"_blank\">АдГ обсудила отказ от требований по выходу Германии из ЕС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Tue, 06 Oct 2026 21:29:15 GMT"
-    },
-    {
-      "title": "Под Петербургом металлическая панель рухнула с ЖК на тротуар, где были люди. На кадрах — чудо - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93MlpERlhreXZXRVBuSmxFLXc0NnJrSUU0aHdnMzB0cTVTZ3JEdWhFcFd0REFYWERfSE5KMmswcWV6X0pUVlVrZ1g3MnhXa3lyZEQyd2tvOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE93MlpERlhreXZXRVBuSmxFLXc0NnJrSUU0aHdnMzB0cTVTZ3JEdWhFcFd0REFYWERfSE5KMmswcWV6X0pUVlVrZ1g3MnhXa3lyZEQyd2tvOA?oc=5\" target=\"_blank\">Под Петербургом металлическая панель рухнула с ЖК на тротуар, где были люди. На кадрах — чудо</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Tue, 06 Oct 2026 21:15:00 GMT"
-    },
-    {
-      "title": "Сборная России по футболу прибыла в Нижний Новгород - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE03WDY0TUZTanpwamFZcG83ZXpRenZhLTVQS21kZ3FiZmpKdkh2TW5yNkhJTFk0YXJtRzJCUHR2bG9jbVBX?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE03WDY0TUZTanpwamFZcG83ZXpRenZhLTVQS21kZ3FiZmpKdkh2TW5yNkhJTFk0YXJtRzJCUHR2bG9jbVBX?oc=5\" target=\"_blank\">Сборная России по футболу прибыла в Нижний Новгород</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Tue, 06 Oct 2026 20:56:03 GMT"
     }
   ]
 }
