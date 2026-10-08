@@ -1,7 +1,189 @@
 {
-  "updated": "2026-10-07T21:06:26.666872+00:00",
+  "updated": "2026-10-08T01:08:35.827460+00:00",
   "count": 40,
   "news": [
+    {
+      "title": "Ленинградский зоопарк отметил день рождения самца Октября - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82blRWRDg4aWVhZTg3bzZpczZKNkdObDZvQmpfRnhhZkhDbzdMZFZwRFFmVnlhNEtvcUJicFMtV3Y5ajZ2aFBMM3c5OTF3TlZGLUROTm54YjBRa0N2UWFlakR1aw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE82blRWRDg4aWVhZTg3bzZpczZKNkdObDZvQmpfRnhhZkhDbzdMZFZwRFFmVnlhNEtvcUJicFMtV3Y5ajZ2aFBMM3c5OTF3TlZGLUROTm54YjBRa0N2UWFlakR1aw?oc=5\" target=\"_blank\">Ленинградский зоопарк отметил день рождения самца Октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 07 Oct 2026 23:58:19 GMT"
+    },
+    {
+      "title": "Самообеспеченность мясом в России четвертый год превышает сто процентов - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SdzRNMnlVM21iMndoM21HYkR2OTVkeldSS2xBUU9IMnZyMXFGYnFMeGdiWk4xX3IwbjAyWG1JOW04dTh4MHR2SklBYXQxZHFpSDZqSk1vY1ZubUU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SdzRNMnlVM21iMndoM21HYkR2OTVkeldSS2xBUU9IMnZyMXFGYnFMeGdiWk4xX3IwbjAyWG1JOW04dTh4MHR2SklBYXQxZHFpSDZqSk1vY1ZubUU?oc=5\" target=\"_blank\">Самообеспеченность мясом в России четвертый год превышает сто процентов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 07 Oct 2026 23:43:00 GMT"
+    },
+    {
+      "title": "Наличные стали популярнее банковских счетов у россиян - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzhKWms0N0x2ODMzaTFwMDJSMU5wM0NndUhmMFFPcWZMWWs4c3hGY0U2S1h0WDJncXNFQ0NHT3c0THd4dXVDRG9PR3BUMUdaVjZWbVVGUzdhRVIxaWdSdzJjRDN0Wms4dzRrMWt2YTd0X0kwNnh6Uy12bHFhNFY2RdIBhgFBVV95cUxQa0d3ZUdUSVY0UUJVX09IblAwb3JYZm14eGNLd3VEcWV0dVhoR01EWHpRV2RncElkNFU1YTFkMjg0LWhhR1JhMDZqY0lfRlZwSzBGeEJyWGpkcDdVbHhPcGNzZXJVZkUxcGNtU3lRMTZ6b1ZuTnRiUW5zUWFVMjZlOTlTTHdMdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzhKWms0N0x2ODMzaTFwMDJSMU5wM0NndUhmMFFPcWZMWWs4c3hGY0U2S1h0WDJncXNFQ0NHT3c0THd4dXVDRG9PR3BUMUdaVjZWbVVGUzdhRVIxaWdSdzJjRDN0Wms4dzRrMWt2YTd0X0kwNnh6Uy12bHFhNFY2RdIBhgFBVV95cUxQa0d3ZUdUSVY0UUJVX09IblAwb3JYZm14eGNLd3VEcWV0dVhoR01EWHpRV2RncElkNFU1YTFkMjg0LWhhR1JhMDZqY0lfRlZwSzBGeEJyWGpkcDdVbHhPcGNzZXJVZkUxcGNtU3lRMTZ6b1ZuTnRiUW5zUWFVMjZlOTlTTHdMdw?oc=5\" target=\"_blank\">Наличные стали популярнее банковских счетов у россиян</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 23:38:16 GMT"
+    },
+    {
+      "title": "На Землю обрушится магнитная буря 9 октября — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFQtbFpvd0QtWjlEdVktZ2FOQTM4alJyQlBTQml3NV9QNDYzQmFpUTRnTDBBaTdrblQ0V3NVVUNWSlBfTGhORG80bG1FMDY2U3BXekFtNXE5T1FZVkFIZEdOVTZqNFpQNThTQUZSV3hVSk91Q3E1Nm5UWjN3a0kyWWwtR29LaUc3dmFWRFNoV01FMXFpTzl6aERVdTNfUkROaTRiS2RZTDJFZHBBLV9aXw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFQtbFpvd0QtWjlEdVktZ2FOQTM4alJyQlBTQml3NV9QNDYzQmFpUTRnTDBBaTdrblQ0V3NVVUNWSlBfTGhORG80bG1FMDY2U3BXekFtNXE5T1FZVkFIZEdOVTZqNFpQNThTQUZSV3hVSk91Q3E1Nm5UWjN3a0kyWWwtR29LaUc3dmFWRFNoV01FMXFpTzl6aERVdTNfUkROaTRiS2RZTDJFZHBBLV9aXw?oc=5\" target=\"_blank\">На Землю обрушится магнитная буря 9 октября — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:34 GMT"
+    },
+    {
+      "title": "В Госдуме предложили разрешить тратить маткапитал на покупку отечественной машины - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZnNEWldiVU9OdC1FN21jSk1kU1BmdXdtY2pwSThSLWNYT3ptUXFGRTQzYUZoNVBuTE1hWWFUbmdrNDNvNXQza1dnQXpENUdEUVNEOHFKODQxdk9DYXBOVkFad3JFR1JaQTNjX0RxTWNTRzVlU0FOMzVHcE9VQVUzV283a0g0M3hqVUd3UVlqQVNtNmcyanpkaURWMUlHUFM4YW9YWGwtLWw1VzFyM0VpdzZkT2p5clBubDRQUlZJSmcwNGlLdG55Qk0wMm5pcUxGVFYxdzRodndZWjZ5?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZnNEWldiVU9OdC1FN21jSk1kU1BmdXdtY2pwSThSLWNYT3ptUXFGRTQzYUZoNVBuTE1hWWFUbmdrNDNvNXQza1dnQXpENUdEUVNEOHFKODQxdk9DYXBOVkFad3JFR1JaQTNjX0RxTWNTRzVlU0FOMzVHcE9VQVUzV283a0g0M3hqVUd3UVlqQVNtNmcyanpkaURWMUlHUFM4YW9YWGwtLWw1VzFyM0VpdzZkT2p5clBubDRQUlZJSmcwNGlLdG55Qk0wMm5pcUxGVFYxdzRodndZWjZ5?oc=5\" target=\"_blank\">В Госдуме предложили разрешить тратить маткапитал на покупку отечественной машины</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:34 GMT"
+    },
+    {
+      "title": "Рамзан Кадыров стал почетным архитектором РФ — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmhaQnRfTUVCaWlhcFR5dS1zUXZlcDZMSmNEaXhhTThnZHpVQ2MzWlc5OU85a1RidzhfaUlIay1QeXZWWnp2bHBpS1ZfRFhXRFM3R0c5UmdMSXBDSUJ1ZUNlRDJWU3RiMVRMckt3RjI0Q0JYSEQ4bVYzQVFoNWkwVHEySkRiMWlyaDVzakxwVEpZS01EVTNNWUNIQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONmhaQnRfTUVCaWlhcFR5dS1zUXZlcDZMSmNEaXhhTThnZHpVQ2MzWlc5OU85a1RidzhfaUlIay1QeXZWWnp2bHBpS1ZfRFhXRFM3R0c5UmdMSXBDSUJ1ZUNlRDJWU3RiMVRMckt3RjI0Q0JYSEQ4bVYzQVFoNWkwVHEySkRiMWlyaDVzakxwVEpZS01EVTNNWUNIQQ?oc=5\" target=\"_blank\">Рамзан Кадыров стал почетным архитектором РФ — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:34 GMT"
+    },
+    {
+      "title": "Путин начнет визит в Туркменистан, где примет участие в саммите СНГ — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOTN0WkJyb3JRM0ZxY19WVUVTeE12SUotTVZnVVo4UndCN200eUhrajM5bHlMbm85dVA0UEtFdzBJVUo2V2t4SWxheWtSZmw5eXUzNXlUNnZTT3Q3YmxsSWNiU3M3YnVmWURaUDhWWWRfSm1fLURfYjlKN2RCNWNzSVhIYVVsVWc1ZXc0ZWxWMGlHclludGhTR01zSUFIOHZPcnVNV0xNal9VY1BvNEplY2p0TDRtRVR3QjdSblMweEZxNkRmeUh2dDd5TFpmZ3k1S0laaXVEc0RnREpwNmZtTlFBM0todw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOTN0WkJyb3JRM0ZxY19WVUVTeE12SUotTVZnVVo4UndCN200eUhrajM5bHlMbm85dVA0UEtFdzBJVUo2V2t4SWxheWtSZmw5eXUzNXlUNnZTT3Q3YmxsSWNiU3M3YnVmWURaUDhWWWRfSm1fLURfYjlKN2RCNWNzSVhIYVVsVWc1ZXc0ZWxWMGlHclludGhTR01zSUFIOHZPcnVNV0xNal9VY1BvNEplY2p0TDRtRVR3QjdSblMweEZxNkRmeUh2dDd5TFpmZ3k1S0laaXVEc0RnREpwNmZtTlFBM0todw?oc=5\" target=\"_blank\">Путин начнет визит в Туркменистан, где примет участие в саммите СНГ — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:34 GMT"
+    },
+    {
+      "title": "Этот отрывок из прямого эфира программы Соловьёва обсуждается в социальных сетях - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWVZLZFU1MHNiVm05VFByTW1nWEVxbXd2c0ZPdUpteHBOSXBiNTg4elFycDFrbDY5SHhoMjl4MjFnRGZMVkNjXzNBUkdfZUdKdjVOWmFtXzBfRHRTWFpNeVZteTl3TnVORHk5TFlKTmpFeGg1UG01V3NkNmFrem5GMlB6aG9xS3pZWVluR2ZiRFBEN1YxZ0x2RWVBWlJ3Nk1IQ1Z2dWtSakxWem9OdmFYZ0FPdGdXZ211M21mMUpZelVBS25JYXpNcDhPWE1LWGZZdUx0TlNMX2RiUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWVZLZFU1MHNiVm05VFByTW1nWEVxbXd2c0ZPdUpteHBOSXBiNTg4elFycDFrbDY5SHhoMjl4MjFnRGZMVkNjXzNBUkdfZUdKdjVOWmFtXzBfRHRTWFpNeVZteTl3TnVORHk5TFlKTmpFeGg1UG01V3NkNmFrem5GMlB6aG9xS3pZWVluR2ZiRFBEN1YxZ0x2RWVBWlJ3Nk1IQ1Z2dWtSakxWem9OdmFYZ0FPdGdXZ211M21mMUpZelVBS25JYXpNcDhPWE1LWGZZdUx0TlNMX2RiUQ?oc=5\" target=\"_blank\">Этот отрывок из прямого эфира программы Соловьёва обсуждается в социальных сетях</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:34 GMT"
+    },
+    {
+      "title": "В аэропорту Сочи ввели временные ограничения — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmRHY3kyTHVrV3FDV0VoLUczRklPS1hGNFpfYnBIblFHRVpSb3VLSTVFa1lLSGdWUVMyUWZrZl9PekJCZkxsaVVoclVJZWdObDdsOElUVFZTX184bzdIMUY1U3hjZ1hlMFpCM2p6VnhzRGNJU0NxdXRZa0U4bHo1aU1BOWFXQ3Q3Tkt4ejBlbjhueGU2RjE4R3RvNTRzYmppNGZYdXlsUWhZQ1oyUWdQT0w3OVVTX3hKZU84M25laE1sSHh5Y09yWlZ3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmRHY3kyTHVrV3FDV0VoLUczRklPS1hGNFpfYnBIblFHRVpSb3VLSTVFa1lLSGdWUVMyUWZrZl9PekJCZkxsaVVoclVJZWdObDdsOElUVFZTX184bzdIMUY1U3hjZ1hlMFpCM2p6VnhzRGNJU0NxdXRZa0U4bHo1aU1BOWFXQ3Q3Tkt4ejBlbjhueGU2RjE4R3RvNTRzYmppNGZYdXlsUWhZQ1oyUWdQT0w3OVVTX3hKZU84M25laE1sSHh5Y09yWlZ3?oc=5\" target=\"_blank\">В аэропорту Сочи ввели временные ограничения — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:33 GMT"
+    },
+    {
+      "title": "Правительство РФ учредило именные стипендии для студентов — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSW9PQkdzOGJ5MXIxM3BQNEpyMGVtSGZmbnpwT205aG92UEhlTUtfa2hYQVVyMTlJY0Vpd0xHRzRHUXd5T0M0cERLSV9yd3o4MWJUbXdPN2RnUEQ1R3NOYS1GVGprTXM0Ri1xR3NMNnQ0dkx0Q1hIN3dCZUpwZ0c4OVc4Rm5yQ3JXM0stNnFMRHZZRDM2N1hrZk1aYVIwVmYwdGhCS0VRMHhheUJ4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQSW9PQkdzOGJ5MXIxM3BQNEpyMGVtSGZmbnpwT205aG92UEhlTUtfa2hYQVVyMTlJY0Vpd0xHRzRHUXd5T0M0cERLSV9yd3o4MWJUbXdPN2RnUEQ1R3NOYS1GVGprTXM0Ri1xR3NMNnQ0dkx0Q1hIN3dCZUpwZ0c4OVc4Rm5yQ3JXM0stNnFMRHZZRDM2N1hrZk1aYVIwVmYwdGhCS0VRMHhheUJ4?oc=5\" target=\"_blank\">Правительство РФ учредило именные стипендии для студентов — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:33 GMT"
+    },
+    {
+      "title": "Молодым сахалинцам объяснили, как не выгореть на работе и дойти до цели — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDNfbE5ZSFd0X2hIT3AyUkdlU2ZBOEtic01wdk1HQlE3UTVXVzZlX2NGVjZrT1JnamI1QVpudDN0NFlfZmNsWkVwYlA4a3NxSFAwM3hQcmNKYlNfdFYxUTQ1cEJwMkgzanpSVko5R2xRVS1lNmJKUHNNdGdMUHFHUTU1cExqNm12OHdMbFBCQk1RcHFMRHk0ejRGVTRQeU1MY3NJLTQwQkMxTGxxNEdhNFRKOFR4dzRtalVfX0VHRjZLSEhVZTFCLXNB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDNfbE5ZSFd0X2hIT3AyUkdlU2ZBOEtic01wdk1HQlE3UTVXVzZlX2NGVjZrT1JnamI1QVpudDN0NFlfZmNsWkVwYlA4a3NxSFAwM3hQcmNKYlNfdFYxUTQ1cEJwMkgzanpSVko5R2xRVS1lNmJKUHNNdGdMUHFHUTU1cExqNm12OHdMbFBCQk1RcHFMRHk0ejRGVTRQeU1MY3NJLTQwQkMxTGxxNEdhNFRKOFR4dzRtalVfX0VHRjZLSEhVZTFCLXNB?oc=5\" target=\"_blank\">Молодым сахалинцам объяснили, как не выгореть на работе и дойти до цели — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:33 GMT"
+    },
+    {
+      "title": "Сахалинцам рассказали, что проверить перед арендой жилья: 10 важных пунктов — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNG5sMDVLSkR1MGYzX3l1R252dTFyMVBfejBCcHdIWk5yUG1LV05sNXRISE8zNmp5ZFQzZlpUV2RYYUtLUFdxVDdVMUZCZGxnTF9HZFA0dFVjSDVZTU9TTlRBQXBlWXU1ZDluZHZZXzRzTnE0VVVXTHBneUI1VklMc25KSEFwQ2VWZEdfZWtKb2hUeGNySjhVcndOQXoxVHEtWUdINVJ2a29qLUZ0UHktLXhWMzN2c1F1dmt1dFdvV0EtdGtOa1BvR3VXOVRUT3I3T0E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNG5sMDVLSkR1MGYzX3l1R252dTFyMVBfejBCcHdIWk5yUG1LV05sNXRISE8zNmp5ZFQzZlpUV2RYYUtLUFdxVDdVMUZCZGxnTF9HZFA0dFVjSDVZTU9TTlRBQXBlWXU1ZDluZHZZXzRzTnE0VVVXTHBneUI1VklMc25KSEFwQ2VWZEdfZWtKb2hUeGNySjhVcndOQXoxVHEtWUdINVJ2a29qLUZ0UHktLXhWMzN2c1F1dmt1dFdvV0EtdGtOa1BvR3VXOVRUT3I3T0E?oc=5\" target=\"_blank\">Сахалинцам рассказали, что проверить перед арендой жилья: 10 важных пунктов — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:33 GMT"
+    },
+    {
+      "title": "Московские суды оштрафовали Zoom, Google и TikTok — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVpwME91Y2xSTGxrMUdWQ01VODdnSTdMY3JjM2JJdllIS1hIS1NUOGlZN1hzX3hDZ0h3dDhpRjFtYW5jby1RNGp4amt2OGVSaERhVEZxazh1cF9tNm5kX21ITEx6QkRSUEdReWhLV05KMjZZdklUQUtoNmNJY3ZHd05OWkZMRUtBYlc4TjJPcTM2Mzh5Uk42TTI0cW1hZFA4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVpwME91Y2xSTGxrMUdWQ01VODdnSTdMY3JjM2JJdllIS1hIS1NUOGlZN1hzX3hDZ0h3dDhpRjFtYW5jby1RNGp4amt2OGVSaERhVEZxazh1cF9tNm5kX21ITEx6QkRSUEdReWhLV05KMjZZdklUQUtoNmNJY3ZHd05OWkZMRUtBYlc4TjJPcTM2Mzh5Uk42TTI0cW1hZFA4?oc=5\" target=\"_blank\">Московские суды оштрафовали Zoom, Google и TikTok — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:33 GMT"
+    },
+    {
+      "title": "Из-за непогоды на севере Сахалина отменили занятия в школах — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1AwakhfdjdPNHJBQ3RjQWFmTlpUeW9VTDZUUHF3R1J2TGVWYWY3aTNwMVhqdGRTNzMtRjFBdGI4Z3FkVzhWcEl2LVNMZkNESW44d1lMdnJOQmR5a05Mc0RDMkpSa3E2VmdsX3pES251WG05b1dIbDBtUmlmTjd1S19fa1haNU5ZalVHZ1RXWXo2eE1BMm1Ed1JrVGV3RzRDZzBKZG9ubURka1JpY2RyVVk2UnA4a240Vmo5T2RlNGo?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1AwakhfdjdPNHJBQ3RjQWFmTlpUeW9VTDZUUHF3R1J2TGVWYWY3aTNwMVhqdGRTNzMtRjFBdGI4Z3FkVzhWcEl2LVNMZkNESW44d1lMdnJOQmR5a05Mc0RDMkpSa3E2VmdsX3pES251WG05b1dIbDBtUmlmTjd1S19fa1haNU5ZalVHZ1RXWXo2eE1BMm1Ed1JrVGV3RzRDZzBKZG9ubURka1JpY2RyVVk2UnA4a240Vmo5T2RlNGo?oc=5\" target=\"_blank\">Из-за непогоды на севере Сахалина отменили занятия в школах — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 23:10:33 GMT"
+    },
+    {
+      "title": "Аэропорт Сочи возобновил приём и выпуск воздушных судов - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ3NIeUFFcUxwU0lxNV93aEhiQl93Uzk1eHVwVFpIUnhlYUhlaGtUa3pjUXhmaTgyc0I0eFFKVVdTUVgyejFRc3ppSWF1OWNIRko2MGtrRkxVcGNrelgxNk1UMmdkTFAtUUhZVnhZck8wZFFoNGVBc9IBfkFVX3lxTE4zTHlEenpOZ1ZWRHRXYVBUQ1V2LU1hc0FOaW52ZjBKS2xrM1dHYTl3SXc0NUQ2eXNJek12ejNHUk9KX1dWVURVZ0tXcTNYVWlWcG1JWnJVOEVHRklGcU04WUxPMjJ1R1RmOEpiQ0x6WHAzQ25ZSXpGblo5UWFsZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ3NIeUFFcUxwU0lxNV93aEhiQl93Uzk1eHVwVFpIUnhlYUhlaGtUa3pjUXhmaTgyc0I0eFFKVVdTUVgyejFRc3ppSWF1OWNIRko2MGtrRkxVcGNrelgxNk1UMmdkTFAtUUhZVnhZck8wZFFoNGVBc9IBfkFVX3lxTE4zTHlEenpOZ1ZWRHRXYVBUQ1V2LU1hc0FOaW52ZjBKS2xrM1dHYTl3SXc0NUQ2eXNJek12ejNHUk9KX1dWVURVZ0tXcTNYVWlWcG1JWnJVOEVHRklGcU04WUxPMjJ1R1RmOEpiQ0x6WHAzQ25ZSXpGblo5UWFsZw?oc=5\" target=\"_blank\">Аэропорт Сочи возобновил приём и выпуск воздушных судов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 22:52:54 GMT"
+    },
+    {
+      "title": "Россиянам назвали лучшее время для наблюдения за звездопадом Дракониды - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lX29fcnFCQXlYSEM2dlBDN3EtM1ROM3UyTHVJRUlrN1VrYzJFWEpQWGo4V1VJNlQzWDRhWGI3b2ZwTWVkamZmS3FjRkRKdWh6eEJPcmlrYlMtSnlPZHc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lX29fcnFCQXlYSEM2dlBDN3EtM1ROM3UyTHVJRUlrN1VrYzJFWEpQWGo4V1VJNlQzWDRhWGI3b2ZwTWVkamZmS3FjRkRKdWh6eEJPcmlrYlMtSnlPZHc?oc=5\" target=\"_blank\">Россиянам назвали лучшее время для наблюдения за звездопадом Дракониды</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 07 Oct 2026 22:45:00 GMT"
+    },
+    {
+      "title": "Женщина и четверо детей погибли при пожаре в Комсомольске-на-Амуре - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JV0dPMHVWZ2dJWWtESUlFazFNc0c1b1hRQy1NWHlkc25oTUxDb2JHUUlhVllTMHcwUGJsNU41X3h4d0lxZ0l6X2NObGpPTWhmRFBrYU1LVUg3RmJhaVZ6aDFxMDhxTHJaOURpdU5sdndLMG9EM2w1N9IBfkFVX3lxTE5KZUxLb3dFcTFacUI2RlhmRkE4MS1pSEFpYmVtVEFuYk1UV2tlMDZWQVpSZHN6cXFkV3oyaHlHT1FxaWNYY0VSdDlabHZ5dVBZV1VGRWlCNWNwYUlFMWhGQkI0OTNJSk5BQTljYktkX2k3SlQzckxRbjR5THgxZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9JV0dPMHVWZ2dJWWtESUlFazFNc0c1b1hRQy1NWHlkc25oTUxDb2JHUUlhVllTMHcwUGJsNU41X3h4d0lxZ0l6X2NObGpPTWhmRFBrYU1LVUg3RmJhaVZ6aDFxMDhxTHJaOURpdU5sdndLMG9EM2w1N9IBfkFVX3lxTE5KZUxLb3dFcTFacUI2RlhmRkE4MS1pSEFpYmVtVEFuYk1UV2tlMDZWQVpSZHN6cXFkV3oyaHlHT1FxaWNYY0VSdDlabHZ5dVBZV1VGRWlCNWNwYUlFMWhGQkI0OTNJSk5BQTljYktkX2k3SlQzckxRbjR5THgxZw?oc=5\" target=\"_blank\">Женщина и четверо детей погибли при пожаре в Комсомольске-на-Амуре</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 22:38:41 GMT"
+    },
+    {
+      "title": "Следующий полет Cargo Dragon к МКС запланирован не ранее 13 октября - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnRmencxQ09lMVlnVnNNN2Q2azlSVVIzUlFEeXFyeEh3bm54djBVd3ZpNms3ZU0yblZEdllYSnY5dmUwc1ZGVTFEMlF6VTN5OUJ2M3lhUWJkUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnRmencxQ09lMVlnVnNNN2Q2azlSVVIzUlFEeXFyeEh3bm54djBVd3ZpNms3ZU0yblZEdllYSnY5dmUwc1ZGVTFEMlF6VTN5OUJ2M3lhUWJkUQ?oc=5\" target=\"_blank\">Следующий полет Cargo Dragon к МКС запланирован не ранее 13 октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 07 Oct 2026 22:17:00 GMT"
+    },
+    {
+      "title": "Минприроды ожидает открытия новых месторождений рубинов - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xLURRaUpEZUUxQnB1Y0JuZi10VzVoV2l2MC00aEc0Q25YU1FfTE11dE94aWdoOWRhZFFMZnZqcHZoVHlHT2RmbHF3Um5nNV96RzBySkZVbXZOUUdvQjA1S2lQdzhaVFZzdG1UT1M0VUtKQTFmZ1VkdEg0TExwQdIBgwFBVV95cUxQNGJJcC10WmZEdEdZRXNGZWU0ZGNtQnR0ZnF1OXpkLXRzM21yUGxqdlBUX1dmcWZkVm5KT3RPaGFTcDFYZUZPcndBT1pXME53S3RINDYzOUp0QjF6enFiTl90M1FGZnM3Vk5UQndjUGlBZFFVNHBCY0g2VktQLTZYbDRuMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5xLURRaUpEZUUxQnB1Y0JuZi10VzVoV2l2MC00aEc0Q25YU1FfTE11dE94aWdoOWRhZFFMZnZqcHZoVHlHT2RmbHF3Um5nNV96RzBySkZVbXZOUUdvQjA1S2lQdzhaVFZzdG1UT1M0VUtKQTFmZ1VkdEg0TExwQdIBgwFBVV95cUxQNGJJcC10WmZEdEdZRXNGZWU0ZGNtQnR0ZnF1OXpkLXRzM21yUGxqdlBUX1dmcWZkVm5KT3RPaGFTcDFYZUZPcndBT1pXME53S3RINDYzOUp0QjF6enFiTl90M1FGZnM3Vk5UQndjUGlBZFFVNHBCY0g2VktQLTZYbDRuMA?oc=5\" target=\"_blank\">Минприроды ожидает открытия новых месторождений рубинов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 22:07:35 GMT"
+    },
+    {
+      "title": "Росавиация ограничила полёты в аэропорту Сочи - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TVlRWcVI3bE9qbjlTbnNUZnBVbUphMi0wclRxaVJmLUpzRTRCUkpCekZLZm9KclFwYkNIYUNBd0s4SUd3SEhaQ1Y0ek83dkpnZFRwMTJFZjJCdjdfcndOcUthdVVYQ0hnSTBDZjFNR3BrS1NBc3ZWbS1sVdIBgAFBVV95cUxPMGFORnY1bW1sRWlPbVBXcERhMkpNOGdHaHpHeHRUUmozS0FqaUlKUG1rTWV6dkIyTE5LUi1uUl9XOHEzX3pxYVpUMDhLLXNmUzBTcF9lNUkxU2NZSmN1dWY3b3E4ZnV5MGNGbXNweXRpR19MRkRVSHRaRDRrOXpPSA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5TVlRWcVI3bE9qbjlTbnNUZnBVbUphMi0wclRxaVJmLUpzRTRCUkpCekZLZm9KclFwYkNIYUNBd0s4SUd3SEhaQ1Y0ek83dkpnZFRwMTJFZjJCdjdfcndOcUthdVVYQ0hnSTBDZjFNR3BrS1NBc3ZWbS1sVdIBgAFBVV95cUxPMGFORnY1bW1sRWlPbVBXcERhMkpNOGdHaHpHeHRUUmozS0FqaUlKUG1rTWV6dkIyTE5LUi1uUl9XOHEzX3pxYVpUMDhLLXNmUzBTcF9lNUkxU2NZSmN1dWY3b3E4ZnV5MGNGbXNweXRpR19MRkRVSHRaRDRrOXpPSA?oc=5\" target=\"_blank\">Росавиация ограничила полёты в аэропорту Сочи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 21:53:36 GMT"
+    },
+    {
+      "title": "Мактоминей вернулся к тренировкам в общей группе после операции на сердце - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIZ0dDTU9fd21LczBGMUUzeXlnblBLeFoxbHVHTl9oRHVndUhkT0tkdm5QSnJNbXFXSkd3RHljUm1BaVl4XzVUS0YwVEwxbkpubWVmMEs5U3AzSVdZb1E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIZ0dDTU9fd21LczBGMUUzeXlnblBLeFoxbHVHTl9oRHVndUhkT0tkdm5QSnJNbXFXSkd3RHljUm1BaVl4XzVUS0YwVEwxbkpubWVmMEs5U3AzSVdZb1E?oc=5\" target=\"_blank\">Мактоминей вернулся к тренировкам в общей группе после операции на сердце</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 07 Oct 2026 21:52:00 GMT"
+    },
+    {
+      "title": "Правительство поддержало сокращение обязательной информации в рекламе - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRSOXF0WlVPVUZJUk1VX3V6Z0toMFYxT1VJajU1YXNTeUJZaTFvQ25qVXdnU1BnSmNaS3A0cGFxRmYyWk9ZYl9Oc3Q3Q0xUakhKalkycDhWRlNKWlJWWEZxQ1ZPc0RNVHlpX29zU3VJc1NwX1NuR1F1Y3NmUk1BcNIBhgFBVV95cUxNdkhwRlpWTXJGT3RLWlRuMDlETFJhT1lqcXYtVUhPeDdvdmoycV9UTXl3aHhHbG9SS0N2bDlrZWtNeUYwbFJrdzRNNzc2OTB4Q1JuZnNsclBPU2xaTlVTTmstMnBxeG9YRVBfcTJ4RUplTHFGRlF3SDN6MVhGVDZUbVNaaFdjZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRSOXF0WlVPVUZJUk1VX3V6Z0toMFYxT1VJajU1YXNTeUJZaTFvQ25qVXdnU1BnSmNaS3A0cGFxRmYyWk9ZYl9Oc3Q3Q0xUakhKalkycDhWRlNKWlJWWEZxQ1ZPc0RNVHlpX29zU3VJc1NwX1NuR1F1Y3NmUk1BcNIBhgFBVV95cUxNdkhwRlpWTXJGT3RLWlRuMDlETFJhT1lqcXYtVUhPeDdvdmoycV9UTXl3aHhHbG9SS0N2bDlrZWtNeUYwbFJrdzRNNzc2OTB4Q1JuZnNsclBPU2xaTlVTTmstMnBxeG9YRVBfcTJ4RUplTHFGRlF3SDN6MVhGVDZUbVNaaFdjZw?oc=5\" target=\"_blank\">Правительство поддержало сокращение обязательной информации в рекламе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 21:38:20 GMT"
+    },
+    {
+      "title": "В России хотят сократить объем обязательной информации в рекламе, пишут СМИ - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTlpic2dpckZWX2s0N2ZYWHpSV1VXYTE5aEpHVTNEeFBpZlJfUFZGSHRXVXAtRDdDVG5rZkViYldBR3dmOHVzNzJmaXJqT29jVzBxLWl3dnBfZm8?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTlpic2dpckZWX2s0N2ZYWHpSV1VXYTE5aEpHVTNEeFBpZlJfUFZGSHRXVXAtRDdDVG5rZkViYldBR3dmOHVzNzJmaXJqT29jVzBxLWl3dnBfZm8?oc=5\" target=\"_blank\">В России хотят сократить объем обязательной информации в рекламе, пишут СМИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Wed, 07 Oct 2026 21:37:00 GMT"
+    },
+    {
+      "title": "Максим Решетников: G20 продвинулась в понимании проблем с реформой ВТО и текущей торговлей - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kUDEyUk1GQjYxS2o4WG5sbDRtSF9IcGZQUlBhTWJzTi1Vdm5QZmNsWlY3Z01hRmtoSVVjaVpPZHlQMkVIcEZBNDh3MA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kUDEyUk1GQjYxS2o4WG5sbDRtSF9IcGZQUlBhTWJzTi1Vdm5QZmNsWlY3Z01hRmtoSVVjaVpPZHlQMkVIcEZBNDh3MA?oc=5\" target=\"_blank\">Максим Решетников: G20 продвинулась в понимании проблем с реформой ВТО и текущей торговлей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 21:34:39 GMT"
+    },
+    {
+      "title": "Октябрю — 5 лет. Смотрите, что ему подарили - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tQ2xjZnFDWFNnWnpZd1B4QkNzY3ZOcldPS2FCSDNKbkZjVkl5SzNsRHRIaXIwNU5POU9pX3ZiS1doemFaQWtMLWRSSlFTWFVTbWdQVzlJMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tQ2xjZnFDWFNnWnpZd1B4QkNzY3ZOcldPS2FCSDNKbkZjVkl5SzNsRHRIaXIwNU5POU9pX3ZiS1doemFaQWtMLWRSSlFTWFVTbWdQVzlJMA?oc=5\" target=\"_blank\">Октябрю — 5 лет. Смотрите, что ему подарили</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 07 Oct 2026 21:15:00 GMT"
+    },
+    {
+      "title": "Власти выделили еще почти ₽11 млрд на поддержку закрытых аэропортов - РБК",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94RGJva3ltaC1YWEVweU9qWENDNnRmTGJPQWYxbUQ3NjFLRkpkYlFneWtJb29USlh1VnIzZ2FBZ1FacGZPOE1Jd1U4MjV3eWNvT3dDM3hpUFpDTENfS05fUUMtTl9RQVZzTFdzZ2VFNW1rYjRDbGk5MA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94RGJva3ltaC1YWEVweU9qWENDNnRmTGJPQWYxbUQ3NjFLRkpkYlFneWtJb29USlh1VnIzZ2FBZ1FacGZPOE1Jd1U4MjV3eWNvT3dDM3hpUFpDTENfS05fUUMtTl9RQVZzTFdzZ2VFNW1rYjRDbGk5MA?oc=5\" target=\"_blank\">Власти выделили еще почти ₽11 млрд на поддержку закрытых аэропортов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Wed, 07 Oct 2026 21:12:43 GMT"
+    },
     {
       "title": "На Садовой, Бухарестской и Маршала Казакова водителей ждут новые ограничения - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1POVJURGN6SU1XZU1HTWlmb3BhakhuaXlha28zYlMxN3FRYkFhakF6U3VCQ0FxZExmSEpUelZ2WTNGTTY4ZERFM2s0UUxudml2WHhLSmNKVQ?oc=5",
@@ -17,27 +199,6 @@
       "pub": "Wed, 07 Oct 2026 20:41:00 GMT"
     },
     {
-      "title": "NASA опубликовало более 800 гигабайт научных данных лунной миссии «Артемида II» - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSlQ5bFpqN0VGM0Y1VzZpLTk0VF9LRkFHTXpnR1VsNDliamYzM3FWWlMzc3lEVGJ2SGx4WEZFM1dyb1B4ai0ybEczMUlBUmVJN1R1VGh3anlEb0NubHltSGRqNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSlQ5bFpqN0VGM0Y1VzZpLTk0VF9LRkFHTXpnR1VsNDliamYzM3FWWlMzc3lEVGJ2SGx4WEZFM1dyb1B4ai0ybEczMUlBUmVJN1R1VGh3anlEb0NubHltSGRqNA?oc=5\" target=\"_blank\">NASA опубликовало более 800 гигабайт научных данных лунной миссии «Артемида II»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 20:33:05 GMT"
-    },
-    {
-      "title": "Лебеди останавливаются в Ленобласти по пути к местам зимовки - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZMFJpOTVNM0hKUVRWY3N5Yng2UzJuemw0a3FSaHZEUlN2X09UZ3lDRjJGMzRSU0dyLTB1T3oxY0hselBYMjJXSEpPMkR4Mk9ySFZJeDhSYmNZZVNOWU1pb0JJVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZMFJpOTVNM0hKUVRWY3N5Yng2UzJuemw0a3FSaHZEUlN2X09UZ3lDRjJGMzRSU0dyLTB1T3oxY0hselBYMjJXSEpPMkR4Mk9ySFZJeDhSYmNZZVNOWU1pb0JJVQ?oc=5\" target=\"_blank\">Лебеди останавливаются в Ленобласти по пути к местам зимовки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 20:29:02 GMT"
-    },
-    {
-      "title": "Горелкин заявил, что в Госдуме не обсуждают запрет соцсетей для детей - РБК",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GQ0tCUzNVX3F5UHpBM0ZQaDdUWWU5SGt4MGUyZlYta0YzUXNZY1RuLVhNU0g1SkZpNS1kSTVhUHhUbTZSVGw4elhYRVMzUnJ3SHdCdnpzSk5za1p0YVo4ZktmWEJOdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GQ0tCUzNVX3F5UHpBM0ZQaDdUWWU5SGt4MGUyZlYta0YzUXNZY1RuLVhNU0g1SkZpNS1kSTVhUHhUbTZSVGw4elhYRVMzUnJ3SHdCdnpzSk5za1p0YVo4ZktmWEJOdw?oc=5\" target=\"_blank\">Горелкин заявил, что в Госдуме не обсуждают запрет соцсетей для детей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Wed, 07 Oct 2026 20:21:16 GMT"
-    },
-    {
       "title": "На развязке КАД с Волхонским шоссе перекроют дублер, полосу и съезды - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5blBkUXVCRTZDby0yX3ZZZ250X3JORlRsc1BibGxFMHpGWTRZc29jRHJ4ZGpnNW51amdWMDhSY1UtWTI2d0tqa1cxNTM4X0FzdDVGVWFVQQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5blBkUXVCRTZDby0yX3ZZZ250X3JORlRsc1BibGxFMHpGWTRZc29jRHJ4ZGpnNW51amdWMDhSY1UtWTI2d0tqa1cxNTM4X0FzdDVGVWFVQQ?oc=5\" target=\"_blank\">На развязке КАД с Волхонским шоссе перекроют дублер, полосу и съезды</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
@@ -45,11 +206,11 @@
       "pub": "Wed, 07 Oct 2026 20:21:00 GMT"
     },
     {
-      "title": "Адвокаты рассказали о состоянии пережившей неудачную казнь американки - РБК",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVY3QxQUdfZUVXYVVOQWc0WnlrUzlkX3l6cThVTkdWVV84c3ZOdFdFWDYxZFlxM0RlT2Z1SExSWmtlbC12UzZVQUx3TzFnRFRiMmdNSURPODh6dUdZTDlDekNCT3k4dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVY3QxQUdfZUVXYVVOQWc0WnlrUzlkX3l6cThVTkdWVV84c3ZOdFdFWDYxZFlxM0RlT2Z1SExSWmtlbC12UzZVQUx3TzFnRFRiMmdNSURPODh6dUdZTDlDekNCT3k4dw?oc=5\" target=\"_blank\">Адвокаты рассказали о состоянии пережившей неудачную казнь американки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Wed, 07 Oct 2026 20:12:31 GMT"
+      "title": "Инфляция в России с 29 сентября по 5 октября составила 0,96% - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lZWw2TzVWeFZ3M3pneXRSejM4NUV2dUlMTE9BVGR1QlNzTldSOUJPS3U1UnlnNHNKaWFoengtY0ZoRll5cE1LNXhOSkwxeS13QkxUOUk0Z2dDYXR4VUJLUmxvb1F0NlZVc0VfZy14SGZFbTFqVHJKTHh1Sk1EZ9IBgwFBVV95cUxOTDIyb0pHOUZNTWNQSkNSSnV0bzhYNWV0RzNsZWFpSHVSVTN6ajVfM0Q2bXVHSy03VTNxT0p5dFpNQ1hkSWNYc25laUlNSmFSdnM2dWVKU0o4ODhiamc3TFpXQ0JZcC1jN0VzRkZ4NzNsSGdVem9kNVRYWmJVb1ZTR1FIVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9lZWw2TzVWeFZ3M3pneXRSejM4NUV2dUlMTE9BVGR1QlNzTldSOUJPS3U1UnlnNHNKaWFoengtY0ZoRll5cE1LNXhOSkwxeS13QkxUOUk0Z2dDYXR4VUJLUmxvb1F0NlZVc0VfZy14SGZFbTFqVHJKTHh1Sk1EZ9IBgwFBVV95cUxOTDIyb0pHOUZNTWNQSkNSSnV0bzhYNWV0RzNsZWFpSHVSVTN6ajVfM0Q2bXVHSy03VTNxT0p5dFpNQ1hkSWNYc25laUlNSmFSdnM2dWVKU0o4ODhiamc3TFpXQ0JZcC1jN0VzRkZ4NzNsSGdVem9kNVRYWmJVb1ZTR1FIVQ?oc=5\" target=\"_blank\">Инфляция в России с 29 сентября по 5 октября составила 0,96%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Wed, 07 Oct 2026 20:14:16 GMT"
     },
     {
       "title": "Умер гитарист Андрей Градович, игравший в группах «Колибри» и «Югендштиль» - ФОНТАНКА.ру",
@@ -66,9 +227,37 @@
       "pub": "Wed, 07 Oct 2026 20:05:00 GMT"
     },
     {
-      "title": "В небе над Ростовской областью уничтожили БПЛА — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWV9IWEp3SWJfejZWX2theXRiZEhVVUdYN2V4YnNDeVJ4R1VRLWpybHkycE5MVXpqTlJBeHFLalAtUFd2cXpGZGxrOE9JUkpIWVFHVmhoR1lySTFKR0oxa2FPd0szVWZ1VHd3ajJHRkNFTzVRcGdRV1NySFZiOVBzWDdNWTlTbU9sUGN6bHVRb1d6RHJQVm43QXVaRnVRU3NvdTgzS2FreTU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWV9IWEp3SWJfejZWX2theXRiZEhVVUdYN2V4YnNDeVJ4R1VRLWpybHkycE5MVXpqTlJBeHFLalAtUFd2cXpGZGxrOE9JUkpIWVFHVmhoR1lySTFKR0oxa2FPd0szVWZ1VHd3ajJHRkNFTzVRcGdRV1NySFZiOVBzWDdNWTlTbU9sUGN6bHVRb1d6RHJQVm43QXVaRnVRU3NvdTgzS2FreTU?oc=5\" target=\"_blank\">В небе над Ростовской областью уничтожили БПЛА — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "title": "В воронежском селе Бутырки ввели карантин по бешенству животных — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzFDUklkcms0Zkp5V19hRlk4a2tCQzVKSVd0V2JtZjdMQVQ1Q3dISnh6cllnWGpJSU9OU3dIb240dEhSVkpBZlRtazNjN2lRTUFKTGprU3hhQmtrS3M0VkxDNXRGN0FrOUFxRy04bkNUbGt2c3VNTHFMOXlJSDk3MlJiWlZkZ0V6b2pxUXd1am1TNXA5OEszV2pNNzVuSlBuOHVwUHlpY04tZGs4Qlg3MmxENm9JSk03MUUzVWRqd2pNbE0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzFDUklkcms0Zkp5V19hRlk4a2tCQzVKSVd0V2JtZjdMQVQ1Q3dISnh6cllnWGpJSU9OU3dIb240dEhSVkpBZlRtazNjN2lRTUFKTGprU3hhQmtrS3M0VkxDNXRGN0FrOUFxRy04bkNUbGt2c3VNTHFMOXlJSDk3MlJiWlZkZ0V6b2pxUXd1am1TNXA5OEszV2pNNzVuSlBuOHVwUHlpY04tZGs4Qlg3MmxENm9JSk03MUUzVWRqd2pNbE0?oc=5\" target=\"_blank\">В воронежском селе Бутырки ввели карантин по бешенству животных — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
+    },
+    {
+      "title": "Тамбовчан приглашают на выставку-ярмарку местных мастеров — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGY5X0VKLTRFRzJVQUZkMk15Qk5kQmZrV1RTVXM4YUM1ZUdjX21zM2ZOZVdQRkkxVDBNSmZvZXdhSU5UUGFySWwyQm9hSzkyb0dkMGwwMW1DanJVc25oOHpReW5vY1o4dlVkSzR6MTU0VFBybGh2a1hISHVveVYzVE9tV2lDT2N3NFMwZ1k1LXlPaW5hRUlJUzdDTDhidzF3U19GLUx2bEtRRkg4RzFlTDF4R0tPeG9oMXFlSlM1WGJrMVU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGY5X0VKLTRFRzJVQUZkMk15Qk5kQmZrV1RTVXM4YUM1ZUdjX21zM2ZOZVdQRkkxVDBNSmZvZXdhSU5UUGFySWwyQm9hSzkyb0dkMGwwMW1DanJVc25oOHpReW5vY1o4dlVkSzR6MTU0VFBybGh2a1hISHVveVYzVE9tV2lDT2N3NFMwZ1k1LXlPaW5hRUlJUzdDTDhidzF3U19GLUx2bEtRRkg4RzFlTDF4R0tPeG9oMXFlSlM1WGJrMVU?oc=5\" target=\"_blank\">Тамбовчан приглашают на выставку-ярмарку местных мастеров — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
+    },
+    {
+      "title": "Путин в день рождения провел совещание с членами Совбеза — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzFlTG5fYzRnOU1mRGMyQ0ZVb0NCby1qUjR4eHppcTF2cTVSSHREWXFiVXBpaVNVRjBScTJDbmlvZ0NYSGItNnoxTVRSVThmUG9TQlQ0OFFmbHBKNUZaTWJaVFhPbF9ZOWpUMUxrSVRMc3F6SXFtQ1RyQUgtcGw5bF9MWXFqSC1DVmFwbzhLNFJJWEJ2cFUwak1PWlF5LUFCNF9LOHdad25ZNHhHdS1r?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzFlTG5fYzRnOU1mRGMyQ0ZVb0NCby1qUjR4eHppcTF2cTVSSHREWXFiVXBpaVNVRjBScTJDbmlvZ0NYSGItNnoxTVRSVThmUG9TQlQ0OFFmbHBKNUZaTWJaVFhPbF9ZOWpUMUxrSVRMc3F6SXFtQ1RyQUgtcGw5bF9MWXFqSC1DVmFwbzhLNFJJWEJ2cFUwak1PWlF5LUFCNF9LOHdad25ZNHhHdS1r?oc=5\" target=\"_blank\">Путин в день рождения провел совещание с членами Совбеза — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
+    },
+    {
+      "title": "«Зенит» обыграл «Парму» со счетом 99:85 — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUt4YkJhb1JGdFVRM25tY1ZzVkZOSWMxbWdWNjgwSl9YWkk5OUdidGNfZ0hjamlWUHlaU2RQRENxWlFaWmUyN1FFUTU4cUNlYkRfeEg4bm5GSEVMMjU2YUxUYjJUZUdCXzFNVEZJZmg4aGZkR2I4UHlUTlJRaE9fQi1IbklUWW91TWo4ZE1oeDRDUmhpUGt4QldjVWlfNzFYcWpUWnM3dUVLWE9TMEd2ekY4bkxnRDd0MDJB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUt4YkJhb1JGdFVRM25tY1ZzVkZOSWMxbWdWNjgwSl9YWkk5OUdidGNfZ0hjamlWUHlaU2RQRENxWlFaWmUyN1FFUTU4cUNlYkRfeEg4bm5GSEVMMjU2YUxUYjJUZUdCXzFNVEZJZmg4aGZkR2I4UHlUTlJRaE9fQi1IbklUWW91TWo4ZE1oeDRDUmhpUGt4QldjVWlfNzFYcWpUWnM3dUVLWE9TMEd2ekY4bkxnRDd0MDJB?oc=5\" target=\"_blank\">«Зенит» обыграл «Парму» со счетом 99:85 — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
+    },
+    {
+      "title": "Названы самые оплачиваемые профессии в России с начала 2026 года — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXp2a1M5ZjBTYTNVc3FJb2hZc2NiN0NJX0FWZzJpZjNEbVBzbHFDYjQzNW1mVldUeUd3ZGIzclItYVdCRFdhT3dqRE5UcWEtQk9JWWN5dmN2UWtKRFpQZEh5emRHbHoxQmdYQmszTTF4dGUtallJbnFTTl9ob0VuTnQ0WnhYRnJTSGxqVnpxU3dKbkF6SmRyXzhCVDJDRnNsZ3hmN1JqOTJOMjlyMlZsbndrakRCMkdZbGZqcWtPM0JwaHBrNGcxVmJWaElJN1RWQ2RZWXVoSnZnaGhwWVRfS3Y3NA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXp2a1M5ZjBTYTNVc3FJb2hZc2NiN0NJX0FWZzJpZjNEbVBzbHFDYjQzNW1mVldUeUd3ZGIzclItYVdCRFdhT3dqRE5UcWEtQk9JWWN5dmN2UWtKRFpQZEh5emRHbHoxQmdYQmszTTF4dGUtallJbnFTTl9ob0VuTnQ0WnhYRnJTSGxqVnpxU3dKbkF6SmRyXzhCVDJDRnNsZ3hmN1JqOTJOMjlyMlZsbndrakRCMkdZbGZqcWtPM0JwaHBrNGcxVmJWaElJN1RWQ2RZWXVoSnZnaGhwWVRfS3Y3NA?oc=5\" target=\"_blank\">Названы самые оплачиваемые профессии в России с начала 2026 года — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
       "source": "ТАСС",
       "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
     },
@@ -80,207 +269,18 @@
       "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
     },
     {
-      "title": "В «Брянском лесу» прошёл семинар для учителей Суземского района — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnBEUnUzYnhzVEN6U1dpSlhxODdTTmxwTWtjODg0cHB3UWN6X3R1X3pYTERFU3MxQTNmM01qc3oxSjQ5ZVV3Nm5OSDZpRmtPWmZFNmI1RG1wcTNhcWFoZ2dzU0VRaDRfR3ZFYWozYXBBY1g1Vnh3VmIzUTQ0TDB2NmwxSS1SYTE5Vk9pUTVudGRWalJUSEdKcjFjUU1WN0R1THlKcmFzMGx3NjdobHcycjFsTEo5QkhnUHlUNnlUbEtxY2M?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnBEUnUzYnhzVEN6U1dpSlhxODdTTmxwTWtjODg0cHB3UWN6X3R1X3pYTERFU3MxQTNmM01qc3oxSjQ5ZVV3Nm5OSDZpRmtPWmZFNmI1RG1wcTNhcWFoZ2dzU0VRaDRfR3ZFYWozYXBBY1g1Vnh3VmIzUTQ0TDB2NmwxSS1SYTE5Vk9pUTVudGRWalJUSEdKcjFjUU1WN0R1THlKcmFzMGx3NjdobHcycjFsTEo5QkhnUHlUNnlUbEtxY2M?oc=5\" target=\"_blank\">В «Брянском лесу» прошёл семинар для учителей Суземского района — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "title": "Российские средства ПВО за 12 часов уничтожили 59 БПЛА ВСУ — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTJCQjZ5Wm5rVEFvYjl6dmF5emdIaXBzTlVSZkhDLWNrWHAyX1VQOUJRaU03Y05kcmIzSWtHLTE1MlFsOGRPbUVxZGsxYjZ4Q1o3WXMwSWJZUlJFOVcyVmNxc2JxakpoN0NkWnRXTlYyaDJWR2lzMHR1d3lpUkMweTlIN2pyamNFVkJuZ1F6WUE3U3NRTHRKVnI0ZUVRVmxlazkybFNKeHhVbFRGQldZcFpTWG1zUnVjMEdJ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTJCQjZ5Wm5rVEFvYjl6dmF5emdIaXBzTlVSZkhDLWNrWHAyX1VQOUJRaU03Y05kcmIzSWtHLTE1MlFsOGRPbUVxZGsxYjZ4Q1o3WXMwSWJZUlJFOVcyVmNxc2JxakpoN0NkWnRXTlYyaDJWR2lzMHR1d3lpUkMweTlIN2pyamNFVkJuZ1F6WUE3U3NRTHRKVnI0ZUVRVmxlazkybFNKeHhVbFRGQldZcFpTWG1zUnVjMEdJ?oc=5\" target=\"_blank\">Российские средства ПВО за 12 часов уничтожили 59 БПЛА ВСУ — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
       "source": "ТАСС",
       "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
     },
     {
-      "title": "С 8 октября в Саранске изменится схема движения трех автобусов — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVV3X3dPVG1DOE1pc1VUblNScEIxWEdLeHZBTkkwUUdBUE8yN0dtUkI1MUVLZmRMNlVHM1RXMVdrekwxQ2VtNlVGVDNnZXpjOTdKVUdsZURVMkJwMFZMMDdjWUVSdVFwak5TV0FXRlF1MmUta0ZBSkNIeFVxY0d2WDhsamJWYmpKMzRfRjlTbFRic2pwX2VVYzVoVVNlanlWSTZuNVRkV1NDU2YyLXNNSGxzUTNWRmRLV0VmcUhNZExiQTJQaWc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVV3X3dPVG1DOE1pc1VUblNScEIxWEdLeHZBTkkwUUdBUE8yN0dtUkI1MUVLZmRMNlVHM1RXMVdrekwxQ2VtNlVGVDNnZXpjOTdKVUdsZURVMkJwMFZMMDdjWUVSdVFwak5TV0FXRlF1MmUta0ZBSkNIeFVxY0d2WDhsamJWYmpKMzRfRjlTbFRic2pwX2VVYzVoVVNlanlWSTZuNVRkV1NDU2YyLXNNSGxzUTNWRmRLV0VmcUhNZExiQTJQaWc?oc=5\" target=\"_blank\">С 8 октября в Саранске изменится схема движения трех автобусов — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "title": "Виктор Козлов – о победе над «Сибирью», игре Ремпала и потенциале Вязового — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlNfN3hHenJuMkg4MW9OckdqRUhJcUpELUJ5LWU2V0dBRlZmZV9tMWc2NjJnWkVJM2U0VDFsbHNrX1JPOTliV3dpWGs1TUx5MWpIT2ZZQ04xMkRfZWhuN0pEZ2RBZ21xRjJrVEttRjU4TUtOWUxyWmxlNnJicUQ3TXJDLTlZOEFwcWNsd3NvcGN6TWdrYkZBM05VajBVd2pjNW9MUDlWUFRseE0xZU9YYXZMQkpHcy1aU2RHVzVoUzNENFFxVGlnYmRlWXVpaFNE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlNfN3hHenJuMkg4MW9OckdqRUhJcUpELUJ5LWU2V0dBRlZmZV9tMWc2NjJnWkVJM2U0VDFsbHNrX1JPOTliV3dpWGs1TUx5MWpIT2ZZQ04xMkRfZWhuN0pEZ2RBZ21xRjJrVEttRjU4TUtOWUxyWmxlNnJicUQ3TXJDLTlZOEFwcWNsd3NvcGN6TWdrYkZBM05VajBVd2pjNW9MUDlWUFRseE0xZU9YYXZMQkpHcy1aU2RHVzVoUzNENFFxVGlnYmRlWXVpaFNE?oc=5\" target=\"_blank\">Виктор Козлов – о победе над «Сибирью», игре Ремпала и потенциале Вязового — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
       "source": "ТАСС",
       "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
-    },
-    {
-      "title": "Минсельхоз Подмосковья: регион занял третье место в России по экспорту АПК — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTGNHQWxzYS1qQldoZnp1ZS1tMjNHeUR3Y24zQVI5eHlIcEtmcXhIYV9NWktrSEpqME9DTlhCT0ZjQ0dPeXBXY3hwN3RlcHZ4U1VUMnJ4dTE5Nk4wT3N1ZU12aFJRQTItdUdtUmk2OTFNWmVvaTJrdndfdmNJN1NNa2RtSk1ReXNXbUs4YXV5X1oydTZ4U1ZrZGtCazRsTDBEUWhVQnVwYkE3cjhQWjNPRHRoY3RpZjBqZEhuZ011RE5nMXlXaEFSZWl4SQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQTGNHQWxzYS1qQldoZnp1ZS1tMjNHeUR3Y24zQVI5eHlIcEtmcXhIYV9NWktrSEpqME9DTlhCT0ZjQ0dPeXBXY3hwN3RlcHZ4U1VUMnJ4dTE5Nk4wT3N1ZU12aFJRQTItdUdtUmk2OTFNWmVvaTJrdndfdmNJN1NNa2RtSk1ReXNXbUs4YXV5X1oydTZ4U1ZrZGtCazRsTDBEUWhVQnVwYkE3cjhQWjNPRHRoY3RpZjBqZEhuZ011RE5nMXlXaEFSZWl4SQ?oc=5\" target=\"_blank\">Минсельхоз Подмосковья: регион занял третье место в России по экспорту АПК — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
-    },
-    {
-      "title": "Представители КСК «АХМАТ» успешно выступили на скачках на Приз Президента РФ — читать подробности - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU9GaldkZkFkdnQxdXR1Q1RZU0lVX0NfdC14SXpSZTRhSnE5enNDTF91a0FMcXZsSVlCemV3Yy05N0FXcjA3ek9sbFNTOUlyOG02Vk1kRXF3WThrMFlzSVd3VnhUV2NJQkpqUzMtak5Ud2lwQUxqd0c2RktHUWF3SVR5OVV3MmhWNko2UTlra0VSbkppU0k3eVhYTnhMRnBmeFdpc0x5dUN5Q1JQUU9qQVFucWFGaGtwUHhJTVVYNWU3b2hsVTVMWFJ0V0ptOXhoQzgw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU9GaldkZkFkdnQxdXR1Q1RZU0lVX0NfdC14SXpSZTRhSnE5enNDTF91a0FMcXZsSVlCemV3Yy05N0FXcjA3ek9sbFNTOUlyOG02Vk1kRXF3WThrMFlzSVd3VnhUV2NJQkpqUzMtak5Ud2lwQUxqd0c2RktHUWF3SVR5OVV3MmhWNko2UTlra0VSbkppU0k3eVhYTnhMRnBmeFdpc0x5dUN5Q1JQUU9qQVFucWFGaGtwUHhJTVVYNWU3b2hsVTVMWFJ0V0ptOXhoQzgw?oc=5\" target=\"_blank\">Представители КСК «АХМАТ» успешно выступили на скачках на Приз Президента РФ — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Wed, 07 Oct 2026 20:01:33 GMT"
-    },
-    {
-      "title": "Никто в ЕС не верит в скорое вступление Украины в сообщество, сообщили СМИ - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PTVZobkthR0otYTBQTjZDN0Rfb2NtdlBpY3dUSUpmTS1yLV9IaGpPaWFnd2dENzhuWHhaUmV6M3E1a1JOMmI5cXlUVmlUVGtReXZJNQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PTVZobkthR0otYTBQTjZDN0Rfb2NtdlBpY3dUSUpmTS1yLV9IaGpPaWFnd2dENzhuWHhaUmV6M3E1a1JOMmI5cXlUVmlUVGtReXZJNQ?oc=5\" target=\"_blank\">Никто в ЕС не верит в скорое вступление Украины в сообщество, сообщили СМИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 19:57:00 GMT"
-    },
-    {
-      "title": "Гендиректор парка «Патриот» Игорь Васильев отправлен под домашний арест - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51ZGtJZGJfbEhmMXNDSFR2YTNUT2JDSWJ5THZvNEJ1TkpaUGhhaXQtdVdQQm5fR2wtRFhNTTdYU0h1LWdRUUFKZ2NtdHRzTDhYM1NyNlhjY0dIckJVLUlIdExOSQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE51ZGtJZGJfbEhmMXNDSFR2YTNUT2JDSWJ5THZvNEJ1TkpaUGhhaXQtdVdQQm5fR2wtRFhNTTdYU0h1LWdRUUFKZ2NtdHRzTDhYM1NyNlhjY0dIckJVLUlIdExOSQ?oc=5\" target=\"_blank\">Гендиректор парка «Патриот» Игорь Васильев отправлен под домашний арест</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 19:56:37 GMT"
-    },
-    {
-      "title": "Отставка отменяется. Группа Aerosmith анонсировала новые концерты - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zZE04dFBmaFZpaUZpQ2YtejAzeXYtRFFwUzZiS2pmc1llRUFyRThMbFlGajEwT0VRUmRNVlRrWUlkY3RMdllCU1lxYWlfTWVkdHduODI3QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zZE04dFBmaFZpaUZpQ2YtejAzeXYtRFFwUzZiS2pmc1llRUFyRThMbFlGajEwT0VRUmRNVlRrWUlkY3RMdllCU1lxYWlfTWVkdHduODI3QQ?oc=5\" target=\"_blank\">Отставка отменяется. Группа Aerosmith анонсировала новые концерты</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 19:55:00 GMT"
-    },
-    {
-      "title": "Смольный показал сохранившийся декор горевшего особняка Миллера - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BclNfMTBoYjVTQ081OGpBV0lDd2o0X1ZBM1VnNW9qbnhVQVZuejVsUkM1N0Y1cFhRdkpnX3NaNnlpZUZGSEUyZVY3Q0dCeEZaRERJYzFYck5MSThIUXJPTzBmRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BclNfMTBoYjVTQ081OGpBV0lDd2o0X1ZBM1VnNW9qbnhVQVZuejVsUkM1N0Y1cFhRdkpnX3NaNnlpZUZGSEUyZVY3Q0dCeEZaRERJYzFYck5MSThIUXJPTzBmRQ?oc=5\" target=\"_blank\">Смольный показал сохранившийся декор горевшего особняка Миллера</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 19:46:55 GMT"
-    },
-    {
-      "title": "На развязке КАД с Таллинским шоссе перекроют два съезда - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LQjVNTnNDVThQMkdTNnNBa2ptY3VTdXZoYm1EQjVzeHhjVlEwMUJ3ZWs1WWdpbjF6MThueWpNVDd4WHoyVUhCQ2JySWZWUVR2TU5mNzEtRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LQjVNTnNDVThQMkdTNnNBa2ptY3VTdXZoYm1EQjVzeHhjVlEwMUJ3ZWs1WWdpbjF6MThueWpNVDd4WHoyVUhCQ2JySWZWUVR2TU5mNzEtRQ?oc=5\" target=\"_blank\">На развязке КАД с Таллинским шоссе перекроют два съезда</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 19:46:00 GMT"
-    },
-    {
-      "title": "Кашпировский владел элитной недвижимостью на Украине, рассказал племянник - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uM3dLemR6b2Z5SFR6TUpHUWE1Zmk2OHZWdGk1ZmpPaENDb2Z6Y0pNVzB6TE5fMjBoNVFfQUFtVEo5ZW9YSzZ0dE9BcWE4ZzFJM21DUDkyR2QwSEh6enpVN1hhZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uM3dLemR6b2Z5SFR6TUpHUWE1Zmk2OHZWdGk1ZmpPaENDb2Z6Y0pNVzB6TE5fMjBoNVFfQUFtVEo5ZW9YSzZ0dE9BcWE4ZzFJM21DUDkyR2QwSEh6enpVN1hhZw?oc=5\" target=\"_blank\">Кашпировский владел элитной недвижимостью на Украине, рассказал племянник</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 19:40:00 GMT"
-    },
-    {
-      "title": "Писательница Ачала Моулик: господство Запада осталось в прошлом - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SakVBYjVGbndTXzBsUlp1X19QVXBySGN1OVBMdnJaNWhJVGxST2VSYk9xR215ems5U2R3amdDOGtCU0FjcDlkWk5kUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SakVBYjVGbndTXzBsUlp1X19QVXBySGN1OVBMdnJaNWhJVGxST2VSYk9xR215ems5U2R3amdDOGtCU0FjcDlkWk5kUQ?oc=5\" target=\"_blank\">Писательница Ачала Моулик: господство Запада осталось в прошлом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
-      "source": "ТАСС",
-      "pub": "Wed, 07 Oct 2026 19:37:45 GMT"
-    },
-    {
-      "title": "«Зенит» пришел в себя после разгрома в Казани - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fMGRnRHdQMnVkcDNNTWtHVDQ3eFRtY0ZaUkxCakcxQW5PQTh4bnlyWWM2d3dtSS1DWGNJMkVGS0g2UldSQmhCcnpIdkxSQndVenAxX3hCbw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fMGRnRHdQMnVkcDNNTWtHVDQ3eFRtY0ZaUkxCakcxQW5PQTh4bnlyWWM2d3dtSS1DWGNJMkVGS0g2UldSQmhCcnpIdkxSQndVenAxX3hCbw?oc=5\" target=\"_blank\">«Зенит» пришел в себя после разгрома в Казани</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 19:35:00 GMT"
-    },
-    {
-      "title": "Первые очки Гусева за \"Сочи\" не спасли команду от поражения от \"Спартака\" - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMTXFwRDZwODB5TlVEck1FUkxsZ2dIc2NXRXg2V3hoSnYxd1d4NFgyS2VBVjNXR1FxYTNXTGpOLTU1WV84OGNKdUg5Q2QxR0p2eFJMSE5tT1FJY3M?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMTXFwRDZwODB5TlVEck1FUkxsZ2dIc2NXRXg2V3hoSnYxd1d4NFgyS2VBVjNXR1FxYTNXTGpOLTU1WV84OGNKdUg5Q2QxR0p2eFJMSE5tT1FJY3M?oc=5\" target=\"_blank\">Первые очки Гусева за \"Сочи\" не спасли команду от поражения от \"Спартака\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 19:22:00 GMT"
-    },
-    {
-      "title": "Над Ленобластью кличут лебеди. Они здесь транзитом - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GbXlYVlZwY2ZaR3VGeHhoZjcyeFRJVHZHVTh4dnlEQnIwUU9TWnJ4WWh6NHVRYV9XenNRa1QyNm5wZ3ZvRkdLOHFoeWNjYVU0eGh3TkMxUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GbXlYVlZwY2ZaR3VGeHhoZjcyeFRJVHZHVTh4dnlEQnIwUU9TWnJ4WWh6NHVRYV9XenNRa1QyNm5wZ3ZvRkdLOHFoeWNjYVU0eGh3TkMxUQ?oc=5\" target=\"_blank\">Над Ленобластью кличут лебеди. Они здесь транзитом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 19:15:00 GMT"
-    },
-    {
-      "title": "Пятеро иностранцев в Москве похитили соотечественника - РБК",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1majdLall3NXBMQnVUSUJMM0NFaTBJYmc0VXY5Tndsb242VEotV3dVYmV5bExzRzM2eTZYeGpvWm1pUkZISmkyeWlRbDhOYUFTc3RMdlptX00wcEx5Q2xwUDJ2Q2MzQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1majdLall3NXBMQnVUSUJMM0NFaTBJYmc0VXY5Tndsb242VEotV3dVYmV5bExzRzM2eTZYeGpvWm1pUkZISmkyeWlRbDhOYUFTc3RMdlptX00wcEx5Q2xwUDJ2Q2MzQQ?oc=5\" target=\"_blank\">Пятеро иностранцев в Москве похитили соотечественника</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Wed, 07 Oct 2026 19:08:44 GMT"
-    },
-    {
-      "title": "Вопрос об отставке главы ЕК вряд ли решат голосованием, считает депутат - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SdVRac3BSSnF0M192NGNXMl94TGtVbjlOczNjay1UM1lDckMxMlNvWGtXSV80OFR5TVZ2UzdZMlBva2pNWXhMaDJzaGtqSDVyRmhuNXZMMURMel93?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SdVRac3BSSnF0M192NGNXMl94TGtVbjlOczNjay1UM1lDckMxMlNvWGtXSV80OFR5TVZ2UzdZMlBva2pNWXhMaDJzaGtqSDVyRmhuNXZMMURMel93?oc=5\" target=\"_blank\">Вопрос об отставке главы ЕК вряд ли решат голосованием, считает депутат</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 19:05:00 GMT"
-    },
-    {
-      "title": "Рамзана Кадырова наградили знаком «Почетный архитектор России» - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5id001bkxXNDAyZDVvV21RYjRmMGlMVEx1Snc2aVNmcGJzT21PMTFTb2pUbUxwN3FYcGVPdTVhaTN6TlA0QTNrOEQ4Yi1OQW9ucjRyQlBhQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5id001bkxXNDAyZDVvV21RYjRmMGlMVEx1Snc2aVNmcGJzT21PMTFTb2pUbUxwN3FYcGVPdTVhaTN6TlA0QTNrOEQ4Yi1OQW9ucjRyQlBhQQ?oc=5\" target=\"_blank\">Рамзана Кадырова наградили знаком «Почетный архитектор России»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 19:04:00 GMT"
-    },
-    {
-      "title": "Кадыров получил звание почётного архитектора России - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zZzVubTBCcHl0UEpBMnYyYzg0UEdGTjl0ckJFYjQ2ak1kX3dYblRlTE1VWmZKbGc2dWhTczVabTJCbTV0UFhLTHNWQzN2bGtLejZVbWJGRlNwWkxwTjhGbWp5WlRKUHd5QlJfRGs4MnJlSnVlcDljY24wUVgxQdIBfkFVX3lxTE0zZzVubTBCcHl0UEpBMnYyYzg0UEdGTjl0ckJFYjQ2ak1kX3dYblRlTE1VWmZKbGc2dWhTczVabTJCbTV0UFhLTHNWQzN2bGtLejZVbWJGRlNwWkxwTjhGbWp5WlRKUHd5QlJfRGs4MnJlSnVlcDljY24wUVgxQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0zZzVubTBCcHl0UEpBMnYyYzg0UEdGTjl0ckJFYjQ2ak1kX3dYblRlTE1VWmZKbGc2dWhTczVabTJCbTV0UFhLTHNWQzN2bGtLejZVbWJGRlNwWkxwTjhGbWp5WlRKUHd5QlJfRGs4MnJlSnVlcDljY24wUVgxQdIBfkFVX3lxTE0zZzVubTBCcHl0UEpBMnYyYzg0UEdGTjl0ckJFYjQ2ak1kX3dYblRlTE1VWmZKbGc2dWhTczVabTJCbTV0UFhLTHNWQzN2bGtLejZVbWJGRlNwWkxwTjhGbWp5WlRKUHd5QlJfRGs4MnJlSnVlcDljY24wUVgxQQ?oc=5\" target=\"_blank\">Кадыров получил звание почётного архитектора России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Wed, 07 Oct 2026 19:02:23 GMT"
-    },
-    {
-      "title": "ВС России поразили сухогруз, доставлявший в порт Одесса грузы для ВСУ - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpT3RBY1R1TnZrdDFRYXBKcEphbnJSZWRZSzVYWXBHXzNDdjIyY0pXTHZrZEtaaUFOcXhZUUNiMExwRzZ3YmFwRkY0eHEwdmp6U09FOXdWYWlrVDFnemZraGNneHlHS3NPczJ4cjFBSTRERnZwd2stM9IBfkFVX3lxTE50NVMxdWQ4c0lNSXlnTjZ5M1NXZTVtM1l5UHo0RlFwRkFGY0FBR01mYzJOb1hKbk84OFpMMy1sZTRrVkhhYjNlU0dKNjFWVjhTbXdlTnc2Z0pZcDI5Ym0tV2U1TWFzNlFsQjdSekI3bmpoZDRGVUJxNG1yZ0I5dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBpT3RBY1R1TnZrdDFRYXBKcEphbnJSZWRZSzVYWXBHXzNDdjIyY0pXTHZrZEtaaUFOcXhZUUNiMExwRzZ3YmFwRkY0eHEwdmp6U09FOXdWYWlrVDFnemZraGNneHlHS3NPczJ4cjFBSTRERnZwd2stM9IBfkFVX3lxTE50NVMxdWQ4c0lNSXlnTjZ5M1NXZTVtM1l5UHo0RlFwRkFGY0FBR01mYzJOb1hKbk84OFpMMy1sZTRrVkhhYjNlU0dKNjFWVjhTbXdlTnc2Z0pZcDI5Ym0tV2U1TWFzNlFsQjdSekI3bmpoZDRGVUJxNG1yZ0I5dw?oc=5\" target=\"_blank\">ВС России поразили сухогруз, доставлявший в порт Одесса грузы для ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Wed, 07 Oct 2026 19:00:20 GMT"
-    },
-    {
-      "title": "«Мы скоро выясним»: Трамп — о том, является ли инфекция в Иркутской области биооружием России - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sa2NNUm5oM1doR0lFcWVzdXg1bFlmSWZ3OW4zckdVZ1M4RWVwaE1zRURLR3lmV2ZnUmJhNlI4RTdYNS1XN1VHdGZ2OTV6Q3hhT21Ldmk2WQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sa2NNUm5oM1doR0lFcWVzdXg1bFlmSWZ3OW4zckdVZ1M4RWVwaE1zRURLR3lmV2ZnUmJhNlI4RTdYNS1XN1VHdGZ2OTV6Q3hhT21Ldmk2WQ?oc=5\" target=\"_blank\">«Мы скоро выясним»: Трамп — о том, является ли инфекция в Иркутской области биооружием России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 18:42:00 GMT"
-    },
-    {
-      "title": "Аналитик: рефинансирование выгодно при снижении ставки на 2—3 процентных пункта - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11Y2RjRW12Nk1VUkhWUWRLWkJBTGNQTVJ1UXpNeXNyb0JUTUo1dVhzSWJDTGdiZlVEMzZwanlfRy1ncERBbU5QM25vVjdfTjcwZUxpZVdTUk1ySmt6QkJuUzN1TXBOaWdjek1FSjUwWVRNbE5VVnZpU09fbGUyZ9IBgwFBVV95cUxQRnczOEV5MGg1TFBtdTZPek5JSDRFdFdJZUFqRTNIMERhXzlCZ0g4TDVMd1RvY2NhZ29CUFhaN2xPYUZhMldGbElRYXlxYUQ4NkN5Qy1CMmJoYnVQT29JNHZqQl9JcEdFejVKMjJWRkZ6NVNqaTNfb1ZRZXh6ZU9wUUVYTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE11Y2RjRW12Nk1VUkhWUWRLWkJBTGNQTVJ1UXpNeXNyb0JUTUo1dVhzSWJDTGdiZlVEMzZwanlfRy1ncERBbU5QM25vVjdfTjcwZUxpZVdTUk1ySmt6QkJuUzN1TXBOaWdjek1FSjUwWVRNbE5VVnZpU09fbGUyZ9IBgwFBVV95cUxQRnczOEV5MGg1TFBtdTZPek5JSDRFdFdJZUFqRTNIMERhXzlCZ0g4TDVMd1RvY2NhZ29CUFhaN2xPYUZhMldGbElRYXlxYUQ4NkN5Qy1CMmJoYnVQT29JNHZqQl9JcEdFejVKMjJWRkZ6NVNqaTNfb1ZRZXh6ZU9wUUVYTQ?oc=5\" target=\"_blank\">Аналитик: рефинансирование выгодно при снижении ставки на 2—3 процентных пункта</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Wed, 07 Oct 2026 18:40:14 GMT"
-    },
-    {
-      "title": "Тело пришлось вырезать. Встреча двух легковых и фуры в Ленобласти закончилась трагедией - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yWkc0MTBuQzVSbWg3TENXem40M0VHNTlhcXo5MkpFY2JFUkdzSTdMbVQxbHRhdFRsaTNsakt3UGd3Uk4weDdDNkpMSTVsVmtnUWpSMTBlOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yWkc0MTBuQzVSbWg3TENXem40M0VHNTlhcXo5MkpFY2JFUkdzSTdMbVQxbHRhdFRsaTNsakt3UGd3Uk4weDdDNkpMSTVsVmtnUWpSMTBlOA?oc=5\" target=\"_blank\">Тело пришлось вырезать. Встреча двух легковых и фуры в Ленобласти закончилась трагедией</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Wed, 07 Oct 2026 18:31:00 GMT"
-    },
-    {
-      "title": "Юрист Минаев: при шуме от посуточных жильцов стоит вызывать полицию - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzQ2VCUW81Zmk4UHl6bXZzam94UW9ENmtiSTlUUUQydWZfejJCXy1BYUpobjZmaWdXZ29QcFNPbHBTdlZscGlLN1pjVHBkRnVPUG1nUXRJbWJEa3ExMjdRdzRIMGpkUFNINU530gFwQVVfeXFMTTh3WUt0c2Q4ZkJfdm1PVkhUTTh3aVpGY0tWWXNVeWJualhpVV9BZUFUX3BXZ2N4eXFXdXoxelljZHhMRDN6aVZxbnNSVmNoMzIzbURrYWF4UTktRXBSTUEtYWF0UTVfTmZFNTEyel9Xbw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAzQ2VCUW81Zmk4UHl6bXZzam94UW9ENmtiSTlUUUQydWZfejJCXy1BYUpobjZmaWdXZ29QcFNPbHBTdlZscGlLN1pjVHBkRnVPUG1nUXRJbWJEa3ExMjdRdzRIMGpkUFNINU530gFwQVVfeXFMTTh3WUt0c2Q4ZkJfdm1PVkhUTTh3aVpGY0tWWXNVeWJualhpVV9BZUFUX3BXZ2N4eXFXdXoxelljZHhMRDN6aVZxbnNSVmNoMzIzbURrYWF4UTktRXBSTUEtYWF0UTVfTmZFNTEyel9Xbw?oc=5\" target=\"_blank\">Юрист Минаев: при шуме от посуточных жильцов стоит вызывать полицию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Wed, 07 Oct 2026 18:25:39 GMT"
-    },
-    {
-      "title": "Кличко высказался после удара ВС России - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12cTVBMWVndHVCUkpOVkhwWmZfQXJwZUdGVTFNdkZDbngyV2U2SUNaZjNMVmZMc3hvSzRtZjBpeXJDNDZuUm96WVY2a2R2b3JvTU1nbzlkLTJVQTA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE12cTVBMWVndHVCUkpOVkhwWmZfQXJwZUdGVTFNdkZDbngyV2U2SUNaZjNMVmZMc3hvSzRtZjBpeXJDNDZuUm96WVY2a2R2b3JvTU1nbzlkLTJVQTA?oc=5\" target=\"_blank\">Кличко высказался после удара ВС России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 18:25:00 GMT"
-    },
-    {
-      "title": "HR-эксперт Варакин: понимание своей ценности для компании поможет карьерному росту - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16dUVtM09EZzB2clpUYUhPdm5VcGxNX2ZtUGRZS2NuTWc1MVFWdkZIS0NyZzhMc2JRY3hmRFBPSkdnZWRCOEZCa3Fiblc1cTFROVV5aDBFRFRMTEN3OS1mUjhxbjVZR24zb2E3bNIBckFVX3lxTE1LUjIwWXBmWktqSmlBRU9DdVJqMkF5b0tKNktkODl1dmhZZ3loRktzYjItQWVSRFI0S3A0RVZseVhueWlfNGFHT0dpNWt5akwxQkVnTWJqTUpGczBVQU1Kdi1xSG1TcEM2a1dJZWxPZTRxUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE16dUVtM09EZzB2clpUYUhPdm5VcGxNX2ZtUGRZS2NuTWc1MVFWdkZIS0NyZzhMc2JRY3hmRFBPSkdnZWRCOEZCa3Fiblc1cTFROVV5aDBFRFRMTEN3OS1mUjhxbjVZR24zb2E3bNIBckFVX3lxTE1LUjIwWXBmWktqSmlBRU9DdVJqMkF5b0tKNktkODl1dmhZZ3loRktzYjItQWVSRFI0S3A0RVZseVhueWlfNGFHT0dpNWt5akwxQkVnTWJqTUpGczBVQU1Kdi1xSG1TcEM2a1dJZWxPZTRxUQ?oc=5\" target=\"_blank\">HR-эксперт Варакин: понимание своей ценности для компании поможет карьерному росту</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Wed, 07 Oct 2026 18:23:26 GMT"
-    },
-    {
-      "title": "Месси прокомментировал завершение своей карьеры в сборной - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kczFGajJNVGhaRzhOcGRKNklUSE41ZjVpZnl4ZUJZb0plaktpVFlnenJ4VHRGNEk3aG9JRWtxUnB0RUlVODJSaFg1alN1QkdmSHJocWprdEk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kczFGajJNVGhaRzhOcGRKNklUSE41ZjVpZnl4ZUJZb0plaktpVFlnenJ4VHRGNEk3aG9JRWtxUnB0RUlVODJSaFg1alN1QkdmSHJocWprdEk?oc=5\" target=\"_blank\">Месси прокомментировал завершение своей карьеры в сборной</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 18:18:00 GMT"
-    },
-    {
-      "title": "Трамп готов превратить часть гольф-клуба в место отдыха для президентов США - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EcVZaSV8wMWZBVmVjZS1aUEdVUUt6Y0ZHWURTOWVwR3o3bmt5eVJaTlJYQmJaUUxfbTBWQUk1bjM3VTlGS2tvTmNYY21ZMUtXbno3Rm5xbWY?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EcVZaSV8wMWZBVmVjZS1aUEdVUUt6Y0ZHWURTOWVwR3o3bmt5eVJaTlJYQmJaUUxfbTBWQUk1bjM3VTlGS2tvTmNYY21ZMUtXbno3Rm5xbWY?oc=5\" target=\"_blank\">Трамп готов превратить часть гольф-клуба в место отдыха для президентов США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
-      "source": "РИА Новости",
-      "pub": "Wed, 07 Oct 2026 18:14:00 GMT"
-    },
-    {
-      "title": "Доцент Щербаченко: для защиты аккаунтов пароль стоит регулярно менять - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tOUlmZW9uTTNNZzR2S1pubkUwQW1XdGQ3dllCaml0QVBZNy1ldmJXTDl3MkFoYllDUW94YzZXQzhfU2dIZk11SUE5STJZbVFhbEQ1aUN2MlZ2WHJ3TzFjanpweTJsdk94bC1kTmJheE5TbVhiRWlKYtIBfkFVX3lxTE1UY0NUQzQ2OTZQekdKV0ZCbVZhV2hBU0hxM3R6S0xnNFFzdU1Gdjl6TlBVdDRMS0pJOHhvSXpucDhZdjVEM3JaaTJzbkMzSXQzMGV1TTlIMEZpUnpVOHNUR3B3ZFROOFQ1cTBLUGpydU5XWU1WcjF0VDN3ZmpjQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4tOUlmZW9uTTNNZzR2S1pubkUwQW1XdGQ3dllCaml0QVBZNy1ldmJXTDl3MkFoYllDUW94YzZXQzhfU2dIZk11SUE5STJZbVFhbEQ1aUN2MlZ2WHJ3TzFjanpweTJsdk94bC1kTmJheE5TbVhiRWlKYtIBfkFVX3lxTE1UY0NUQzQ2OTZQekdKV0ZCbVZhV2hBU0hxM3R6S0xnNFFzdU1Gdjl6TlBVdDRMS0pJOHhvSXpucDhZdjVEM3JaaTJzbkMzSXQzMGV1TTlIMEZpUnpVOHNUR3B3ZFROOFQ1cTBLUGpydU5XWU1WcjF0VDN3ZmpjQQ?oc=5\" target=\"_blank\">Доцент Щербаченко: для защиты аккаунтов пароль стоит регулярно менять</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Wed, 07 Oct 2026 18:10:47 GMT"
-    },
-    {
-      "title": "В Екатеринбурге суд рассмотрит дело о двух убийствах 1993 года - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQmFySzJJbENPekk5c3JGQWc5blFaQ2ZvTWs5RlZnb3gwWnZPWGJ3Qk81aDNXTm9ZV1FPSzFmSTV5d3NYUm83X1hWNlRiOWpyT2NOYWpCdk82TV8wcEFSUzBqZDJsQkRoal9ZdmNZONIBdEFVX3lxTE5ZRGxWWldnREU5Z2k0eDNDaDlKalNKMWJ3blZQaTZIZ3FvY2JGclV1TlVHRml0aU85MHBvZm9SaWRXd2x1V2ZjTk5hVVFobi12M0RueTA3enhPd29TU3A5ZUJxa0h1dWRjMFc4MmNjT1pURTFx?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQmFySzJJbENPekk5c3JGQWc5blFaQ2ZvTWs5RlZnb3gwWnZPWGJ3Qk81aDNXTm9ZV1FPSzFmSTV5d3NYUm83X1hWNlRiOWpyT2NOYWpCdk82TV8wcEFSUzBqZDJsQkRoal9ZdmNZONIBdEFVX3lxTE5ZRGxWWldnREU5Z2k0eDNDaDlKalNKMWJ3blZQaTZIZ3FvY2JGclV1TlVHRml0aU85MHBvZm9SaWRXd2x1V2ZjTk5hVVFobi12M0RueTA3enhPd29TU3A5ZUJxa0h1dWRjMFc4MmNjT1pURTFx?oc=5\" target=\"_blank\">В Екатеринбурге суд рассмотрит дело о двух убийствах 1993 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Wed, 07 Oct 2026 18:08:34 GMT"
     }
   ]
 }
