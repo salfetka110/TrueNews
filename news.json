@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-10T23:06:56.895530+00:00",
+  "updated": "2026-10-11T02:01:41.200211+00:00",
   "count": 40,
   "news": [
+    {
+      "title": "ООО «ПМБК» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhU3hpd3ZYaVo3bEJUa0hDbXdrSWd4Nm9mNFgycDZ1LXN3cEZFSklwdHU3aGptRDZQYWlBZk1vQ21PM1l5SkpmeHB1MFA3MVh0UGNKZGlFN2tidEREcmhHWlI2WlU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhU3hpd3ZYaVo3bEJUa0hDbXdrSWd4Nm9mNFgycDZ1LXN3cEZFSklwdHU3aGptRDZQYWlBZk1vQ21PM1l5SkpmeHB1MFA3MVh0UGNKZGlFN2tidEREcmhHWlI2WlU?oc=5\" target=\"_blank\">ООО «ПМБК»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "source": "РБК",
+      "pub": "Wed, 19 Jul 2023 10:34:01 GMT"
+    },
+    {
+      "title": "ООО «Регент Голд» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zNk1EbkhZNXQtMzZnLXFqbHVDWHgtNkxIdUxvUktkQUVZbzVnWXhoZmJSbllSNGFaMEhVZmExdzlnSDAxalVBTWxvUThYUkNCMUN6TFZveFFrVThjQktaQzg4dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zNk1EbkhZNXQtMzZnLXFqbHVDWHgtNkxIdUxvUktkQUVZbzVnWXhoZmJSbllSNGFaMEhVZmExdzlnSDAxalVBTWxvUThYUkNCMUN6TFZveFFrVThjQktaQzg4dw?oc=5\" target=\"_blank\">ООО «Регент Голд»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "source": "РБК",
+      "pub": "Wed, 19 Jul 2023 08:55:52 GMT"
+    },
     {
       "title": "ООО «ГРИН» - РБК Компании",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4d3ZhODhLdFI3dEdFWTN6Y0Q4OC1WZVJ5NUxWdGEyM1dHSFRNNmxia21ncFBCTXRqbmJBZzFjRmFVRDFZTGxvSWJyUTJ1RHl5Y3ppT3R1RVhSOUwx?oc=5",
@@ -17,18 +31,11 @@
       "pub": "Wed, 15 Sep 2021 22:49:55 GMT"
     },
     {
-      "title": "ООО «Управляющая компания НКС» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMFJBdGdJVmhvNEhIQ0hDMi1lTVhUQzFLcW5UdkdXa1FuNGkwTFhVWmN6QmZoLVp3Y3pnSXhLMThmb0VPODhERWY1SklfNFFnX1lROEtrc0IyRkhJZWl4U2l3NjZiSWxJUUFoUUFaRXdadHVrcmcxUmRqRm5uYU5OczRfbG9XcG9aeFlhZkRVQ0dJeDFyVlZnMzJDRGlxYS03RF9YSmM4U3pndXRTT2VfSUc3S0hRcnA5ZGhNWFk3ZGpFWHExNk92WWI1OV9SX1IzZnNwVDhRbkhkNXFpUEpDUU1OSXpRa2huQ0E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMFJBdGdJVmhvNEhIQ0hDMi1lTVhUQzFLcW5UdkdXa1FuNGkwTFhVWmN6QmZoLVp3Y3pnSXhLMThmb0VPODhERWY1SklfNFFnX1lROEtrc0IyRkhJZWl4U2l3NjZiSWxJUUFoUUFaRXdadHVrcmcxUmRqRm5uYU5OczRfbG9XcG9aeFlhZkRVQ0dJeDFyVlZnMzJDRGlxYS03RF9YSmM4U3pndXRTT2VfSUc3S0hRcnA5ZGhNWFk3ZGpFWHExNk92WWI1OV9SX1IzZnNwVDhRbkhkNXFpUEpDUU1OSXpRa2huQ0E?oc=5\" target=\"_blank\">ООО «Управляющая компания НКС»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "title": "ППК «ВСК» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDNHYXZLMVBtREoyTGFXdzJRS3I3YkpGOThXS3VHUEczTzhFRkUtaElLSmlNY3p4dFNJQktvajBhRGw3dUFwc1ZwbjJvV1hJNzE4eHBEaDRSYkhITjg2VldDOE1qTHdWeEFoTkR2REdSNnZNNlNIYm96WnZ0bWxLLTlfeWJ0YXZBZkhNZUs5Q1duWTRTVG9WWEZrUVlZc1lMVGdXbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDNHYXZLMVBtREoyTGFXdzJRS3I3YkpGOThXS3VHUEczTzhFRkUtaElLSmlNY3p4dFNJQktvajBhRGw3dUFwc1ZwbjJvV1hJNzE4eHBEaDRSYkhITjg2VldDOE1qTHdWeEFoTkR2REdSNnZNNlNIYm96WnZ0bWxLLTlfeWJ0YXZBZkhNZUs5Q1duWTRTVG9WWEZrUVlZc1lMVGdXbw?oc=5\" target=\"_blank\">ППК «ВСК»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Wed, 15 Sep 2021 10:34:34 GMT"
-    },
-    {
-      "title": "ООО «Ленкино» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IR2pYYlF0OXc0b1FzZWw1Ukw3a2hMQ192RlBPVTI1M045Wl9XbXR6a0RhWnZQTkx3RTFYd3ctdHVwVUFjaWp4eEdqSm9WWTlndzdkakpWSjhQcEdNaWJlcGtoVXA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IR2pYYlF0OXc0b1FzZWw1Ukw3a2hMQ192RlBPVTI1M045Wl9XbXR6a0RhWnZQTkx3RTFYd3ctdHVwVUFjaWp4eEdqSm9WWTlndzdkakpWSjhQcEdNaWJlcGtoVXA?oc=5\" target=\"_blank\">ООО «Ленкино»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Wed, 15 Sep 2021 10:13:54 GMT"
+      "pub": "Wed, 15 Sep 2021 10:06:41 GMT"
     },
     {
       "title": "ООО «КАПИТАЛ» - РБК Компании",
@@ -38,11 +45,11 @@
       "pub": "Wed, 15 Dec 2021 15:11:13 GMT"
     },
     {
-      "title": "АО «ВИСМУТ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVm43OHlZTmxPb0NPUGVYdlNMZEU3SHpGQS1fQWZXUFR3WTVDU3VZbXpZcXdKZ21CY19qb3FNVjd6Nmc3MDRkdFk4WnZ6bFRHZ09QVTJZYXh4ck1xNXNaanh3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVm43OHlZTmxPb0NPUGVYdlNMZEU3SHpGQS1fQWZXUFR3WTVDU3VZbXpZcXdKZ21CY19qb3FNVjd6Nmc3MDRkdFk4WnZ6bFRHZ09QVTJZYXh4ck1xNXNaanh3?oc=5\" target=\"_blank\">АО «ВИСМУТ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Wed, 10 Nov 2021 20:50:11 GMT"
+      "title": "Страница 9 - superapteka.ru: скидки, купоны, акции, промокоды на октябрь 2026 - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZeW82Q19GaG54MFRNYkxoRk5oeHAzTUdLTUFKakJxblVlVlowbks2X2xpSVZMOXBnSUZiSTRhQWtHSjM5QkdkOXFCdGlGRHNWTDVFcnFXVXdVMTJvenFLMDRCQUw3dms0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZeW82Q19GaG54MFRNYkxoRk5oeHAzTUdLTUFKakJxblVlVlowbks2X2xpSVZMOXBnSUZiSTRhQWtHSjM5QkdkOXFCdGlGRHNWTDVFcnFXVXdVMTJvenFLMDRCQUw3dms0?oc=5\" target=\"_blank\">Страница 9 - superapteka.ru: скидки, купоны, акции, промокоды на октябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Wed, 07 Oct 2026 23:30:54 GMT"
     },
     {
       "title": "COMITAS - РБК Компании",
@@ -52,32 +59,18 @@
       "pub": "Wed, 07 May 2025 16:18:10 GMT"
     },
     {
-      "title": "ООО «Хайпер ПК» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUU80VHh5Q3VoMDNNYkMzbnRkZVNRSzRoa3FiUTZGWmhqRmVqUmFCZnFmQmVLQmVtRUdTRmpQbEd5V1pERDREcGxTV1JuRTRjY3NBRDQ3c29aRloxRVU3VXZSS2pQSHc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUU80VHh5Q3VoMDNNYkMzbnRkZVNRSzRoa3FiUTZGWmhqRmVqUmFCZnFmQmVLQmVtRUdTRmpQbEd5V1pERDREcGxTV1JuRTRjY3NBRDQ3c29aRloxRVU3VXZSS2pQSHc?oc=5\" target=\"_blank\">ООО «Хайпер ПК»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "title": "ООО «УК КОРВЕТ» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94a2FKRVZfTzZ3dHRXdndEVUctT1hDRTVtSkIwMU16amYtMmJwRUdKaFVHdlhjWThsODVNcU5hZ3cySUR4ZE5MZ1o2clFsamZ4bGpHTGtCQnQ0eEs3bk1HR1QtOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94a2FKRVZfTzZ3dHRXdndEVUctT1hDRTVtSkIwMU16amYtMmJwRUdKaFVHdlhjWThsODVNcU5hZ3cySUR4ZE5MZ1o2clFsamZ4bGpHTGtCQnQ0eEs3bk1HR1QtOA?oc=5\" target=\"_blank\">ООО «УК КОРВЕТ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Tue, 28 Sep 2021 21:43:58 GMT"
+      "pub": "Tue, 29 Nov 2022 18:42:11 GMT"
     },
     {
-      "title": "ООО «Ультрамар» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MaDFNTm1RbEFzWlFwQVMtblpPN1phQ3ppU0ZrVHdjSG5HNmx2SlpUdENRUHEyejZsV1k1aFFwM1V6Y0xlN1NtT0J3Y3h4UFRJWHBDcjNqLVZNN3pQbnNXbGhDa25Pdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MaDFNTm1RbEFzWlFwQVMtblpPN1phQ3ppU0ZrVHdjSG5HNmx2SlpUdENRUHEyejZsV1k1aFFwM1V6Y0xlN1NtT0J3Y3h4UFRJWHBDcjNqLVZNN3pQbnNXbGhDa25Pdw?oc=5\" target=\"_blank\">ООО «Ультрамар»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "title": "ООО «БРОНИРОВАНИЕ ГОСТИНИЦ» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92THpXVmdScExnb1ZZN0xuZl90a2kyX05FT3I5QllFNEpDUElNaGl0ZngwSEpJZXMtWTFYZHpQRzJOMVNLUkdUdWNGOGhlQmdyMDFjYlprSC1kZFNkVE1iZ3RGZGJDY0RUQl9wcTJvT0pvM01TNXp0MQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE92THpXVmdScExnb1ZZN0xuZl90a2kyX05FT3I5QllFNEpDUElNaGl0ZngwSEpJZXMtWTFYZHpQRzJOMVNLUkdUdWNGOGhlQmdyMDFjYlprSC1kZFNkVE1iZ3RGZGJDY0RUQl9wcTJvT0pvM01TNXp0MQ?oc=5\" target=\"_blank\">ООО «БРОНИРОВАНИЕ ГОСТИНИЦ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Tue, 17 Aug 2021 13:58:50 GMT"
-    },
-    {
-      "title": "ООО «ТРИО» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kd2NMeHNEVXN2OUlQYUZ5MFBBT1ozNERwbnNBUjJEZ3Z6NGh3b1VvZE1LeXpRZWlTS2c1WmlOSFBjRWl6a2lCbUk1Y0VlUk9wdzk5cEdsRmpBZW5BZTFubw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kd2NMeHNEVXN2OUlQYUZ5MFBBT1ozNERwbnNBUjJEZ3Z6NGh3b1VvZE1LeXpRZWlTS2c1WmlOSFBjRWl6a2lCbUk1Y0VlUk9wdzk5cEdsRmpBZW5BZTFubw?oc=5\" target=\"_blank\">ООО «ТРИО»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Tue, 14 Sep 2021 23:44:12 GMT"
-    },
-    {
-      "title": "ФГУП «ОХРАНА» РОСГВАРДИИ - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSndrMndWZ0NqOTNIQzJneE1ydkFhSlI1WGZXeFZTWXdwQl8tdnh4MGxzY0xPeUhaY3diR3V2Xzl6RzhwaFBtSEI4RUk1MnVRaXY3QXdiR0VHSFFRS3JrUnVWTC1hU1JTbmNVMzZ2YWpHaEpZaXJIb0tPVElXS3VzRjIzb3E5UXNYNG11bmdpMnFqeVBUc0FETVJIWXJ1c3VlVVdFakhyYmhWWnJZVUk1Vm03WXhxUnZ2cXczT1g3VEJBa3g3V1NOemhRdjNGS0NqS01ZSEF2ZFdqbEdGdlVQak9zeXJzTWo2YnZVRFZTX0NqelNCYlgzM2gweGQyVXVyc2lr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOSndrMndWZ0NqOTNIQzJneE1ydkFhSlI1WGZXeFZTWXdwQl8tdnh4MGxzY0xPeUhaY3diR3V2Xzl6RzhwaFBtSEI4RUk1MnVRaXY3QXdiR0VHSFFRS3JrUnVWTC1hU1JTbmNVMzZ2YWpHaEpZaXJIb0tPVElXS3VzRjIzb3E5UXNYNG11bmdpMnFqeVBUc0FETVJIWXJ1c3VlVVdFakhyYmhWWnJZVUk1Vm03WXhxUnZ2cXczT1g3VEJBa3g3V1NOemhRdjNGS0NqS01ZSEF2ZFdqbEdGdlVQak9zeXJzTWo2YnZVRFZTX0NqelNCYlgzM2gweGQyVXVyc2lr?oc=5\" target=\"_blank\">ФГУП «ОХРАНА» РОСГВАРДИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Tue, 14 Sep 2021 10:19:36 GMT"
+      "pub": "Tue, 16 Nov 2021 19:38:49 GMT"
     },
     {
       "title": "ООО «ГПП ИМЕНИ Д.С. КОСЬЯНА» - РБК Компании",
@@ -87,25 +80,32 @@
       "pub": "Tue, 14 Sep 2021 06:45:09 GMT"
     },
     {
-      "title": "ООО «ННК-САХАЛИНМОРНЕФТЕГАЗ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWcyVTdRLVE3SUhHaV9heDgxY05GNUR5RGdGLVpVZDFaXzg2eGNLTTE1cklEOGJIbzRHTEtaNEJEdmdjSXBZNUJrNFN4eHFMWHFWLUd1cUFFWUdmX2szME1VMHl4Z1c5Qjd1OXRlbmRnZC1sT0hiR2Rnc3A3ckphX19IcFBTVm5ZOWY4bV9CSndDVXZjb1ZZekhKVVUxVWRwaGRsWE04TjBhZ2dEb19PbEtR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWcyVTdRLVE3SUhHaV9heDgxY05GNUR5RGdGLVpVZDFaXzg2eGNLTTE1cklEOGJIbzRHTEtaNEJEdmdjSXBZNUJrNFN4eHFMWHFWLUd1cUFFWUdmX2szME1VMHl4Z1c5Qjd1OXRlbmRnZC1sT0hiR2Rnc3A3ckphX19IcFBTVm5ZOWY4bV9CSndDVXZjb1ZZekhKVVUxVWRwaGRsWE04TjBhZ2dEb19PbEtR?oc=5\" target=\"_blank\">ООО «ННК-САХАЛИНМОРНЕФТЕГАЗ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "title": "ООО «БИБЛИО-ГЛОБУС ТУРОПЕРАТОР» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FbW9ZNDVlWW1oVEVjNjA4SDRCcVFmV0dIckhndzhVVHQ0bm5rZFdLYnEtMTc2Q0g5R245NjNzTjZYZjZfN241bnRIbWFKUlJRaGw5Y0RHTGV2Z0hjTkNBQWRZUXY1VjhmVTd4TVhn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5FbW9ZNDVlWW1oVEVjNjA4SDRCcVFmV0dIckhndzhVVHQ0bm5rZFdLYnEtMTc2Q0g5R245NjNzTjZYZjZfN241bnRIbWFKUlJRaGw5Y0RHTGV2Z0hjTkNBQWRZUXY1VjhmVTd4TVhn?oc=5\" target=\"_blank\">ООО «БИБЛИО-ГЛОБУС ТУРОПЕРАТОР»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Tue, 14 Sep 2021 03:51:16 GMT"
+      "pub": "Tue, 09 Nov 2021 02:23:15 GMT"
     },
     {
-      "title": "ООО «АРТПОБЕДА» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenZuTjExR1pEaTNPTVdSN1Y3cks3YXN1Q3U4dndvUHNJdm5WN2FuNHNNNGZnLTFfMjZhbWh6N2c2YndDT1pmT0VoWnktZF9XRk9kMTJFOEczSlVjVEZKdmRYZU9LdURLNFd1OVZvQ1ZkeWMwdWdEdjZrVGs5b1Q1ZTJ2QUNsQXZpWmg1NHB1MkJpVjQ5TUtIVk9RRGI?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPenZuTjExR1pEaTNPTVdSN1Y3cks3YXN1Q3U4dndvUHNJdm5WN2FuNHNNNGZnLTFfMjZhbWh6N2c2YndDT1pmT0VoWnktZF9XRk9kMTJFOEczSlVjVEZKdmRYZU9LdURLNFd1OVZvQ1ZkeWMwdWdEdjZrVGs5b1Q1ZTJ2QUNsQXZpWmg1NHB1MkJpVjQ5TUtIVk9RRGI?oc=5\" target=\"_blank\">ООО «АРТПОБЕДА»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "title": "ООО НПФ «ЭлеПС» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUNscHFKcDA0a3BJRDlMNFU2cU9VZXRTRG9WWXRwUjZqVmJiMFZXV3A0TEtablIxRDdodmRJQTZRTjkwSnVnQnFQMFZZVzM2NHlLUXE2ZW9Vd2JBMjVXc2lfWTAzS2FsUlFRQ3I0NjdqRjdqZDV0cnRTcWtXRmFhZjFnLU83ak02RWktNQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUNscHFKcDA0a3BJRDlMNFU2cU9VZXRTRG9WWXRwUjZqVmJiMFZXV3A0TEtablIxRDdodmRJQTZRTjkwSnVnQnFQMFZZVzM2NHlLUXE2ZW9Vd2JBMjVXc2lfWTAzS2FsUlFRQ3I0NjdqRjdqZDV0cnRTcWtXRmFhZjFnLU83ak02RWktNQ?oc=5\" target=\"_blank\">ООО НПФ «ЭлеПС»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Thu, 25 Nov 2021 16:18:32 GMT"
+      "pub": "Thu, 16 Sep 2021 18:21:19 GMT"
     },
     {
-      "title": "КПК «КРЕДИТНЫЙ КЛУБ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWnZjZ0t2X3dScVR0azFBbEk0YUdIeThRRDJZc01oQzR4amJwbE1yVXI0V1BSWHZnem5SZ3RmZ0dscmdFeUhKVFczMzE0cHozTThWeFVhazhUQTlWb04xZldJdV9UakwxUS1CVDUySE1taTJjcHpPMmdqbWFaNjFzb0hrQ3RJV0VTNm5feHA5RzBIUFRSZHhMNGt5VWZmOU1aX3QwN1gtb2NZUnN1TXg2NVhhckRTd1lwa2xDdlBRRzlvUGFJanY0cG5kdWs?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQWnZjZ0t2X3dScVR0azFBbEk0YUdIeThRRDJZc01oQzR4amJwbE1yVXI0V1BSWHZnem5SZ3RmZ0dscmdFeUhKVFczMzE0cHozTThWeFVhazhUQTlWb04xZldJdV9UakwxUS1CVDUySE1taTJjcHpPMmdqbWFaNjFzb0hrQ3RJV0VTNm5feHA5RzBIUFRSZHhMNGt5VWZmOU1aX3QwN1gtb2NZUnN1TXg2NVhhckRTd1lwa2xDdlBRRzlvUGFJanY0cG5kdWs?oc=5\" target=\"_blank\">КПК «КРЕДИТНЫЙ КЛУБ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "title": "АО «КАМА» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sWnZvMkFXN3AtSldkeC1aX3NEUDdrN21HMWxxTEh2U3JIcXI5VWlBekJhTko3U2NFVU1GQnVLa0VFQklsTDhPVVk3ZmtYbHVYOFJtQWxlTEtmSTEtSVd1ak5CQ3MxUm1qMmotRF9yX0pxc1h3LUlkUGJVMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1sWnZvMkFXN3AtSldkeC1aX3NEUDdrN21HMWxxTEh2U3JIcXI5VWlBekJhTko3U2NFVU1GQnVLa0VFQklsTDhPVVk3ZmtYbHVYOFJtQWxlTEtmSTEtSVd1ak5CQ3MxUm1qMmotRF9yX0pxc1h3LUlkUGJVMA?oc=5\" target=\"_blank\">АО «КАМА»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Thu, 16 Sep 2021 13:23:02 GMT"
+      "pub": "Thu, 16 Sep 2021 16:08:58 GMT"
+    },
+    {
+      "title": "ООО «МЕТРОНОМ ШИППИНГ» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqbjhMbU4wWEN3dkRWRUlnR2dDZUlqZ0lUajlkdWFwZ1ZQWF9SRnltRTk4Z3BUZFMxN0NtZjZGeld6RVd1TEozVHZ2OXdvVnVPeGpjN3JFc3JqNzBXNHBkVGxmN0xFc2Z3b2t6VlhnSVhjdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBqbjhMbU4wWEN3dkRWRUlnR2dDZUlqZ0lUajlkdWFwZ1ZQWF9SRnltRTk4Z3BUZFMxN0NtZjZGeld6RVd1TEozVHZ2OXdvVnVPeGpjN3JFc3JqNzBXNHBkVGxmN0xFc2Z3b2t6VlhnSVhjdw?oc=5\" target=\"_blank\">ООО «МЕТРОНОМ ШИППИНГ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "source": "РБК",
+      "pub": "Thu, 16 Oct 2025 20:53:53 GMT"
     },
     {
       "title": "Б1 - РБК Компании",
@@ -115,172 +115,172 @@
       "pub": "Thu, 16 Nov 2023 23:34:15 GMT"
     },
     {
-      "title": "ООО «ПРАВДА.РУ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kejBhTkF6d3BERGxSc2JnZzRWUGdSb3VoLVpqU3VMQXVxX1RmaE5kejh2bHVHcGo1aFc2eUZ4VHJmUEJwdmYwMjJLZW5XUlJ6cUQ4Ym9hNE90YnViTFB5dENJWGJuQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kejBhTkF6d3BERGxSc2JnZzRWUGdSb3VoLVpqU3VMQXVxX1RmaE5kejh2bHVHcGo1aFc2eUZ4VHJmUEJwdmYwMjJLZW5XUlJ6cUQ4Ym9hNE90YnViTFB5dENJWGJuQQ?oc=5\" target=\"_blank\">ООО «ПРАВДА.РУ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "title": "ООО НПП «АЗПОМ НГК» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUl4UWZhY1U4LXhEWkhVRlZSR3hhVDFRRDZxWHVUdHpKMUlDd2Z5NWhQN05UczVkVE83dEtBWXhnaDZ0aFBTc0hLTFZjVlpnOGJLMHI3bEtfRUQtV3Azd1lkT3ZqbWhSQVlaX3I4UHhQM2JHQnBWMDNELTl1ZnA4X3lPNVZZcU5QdGFUS3NuNXlxUFRMMUJaM2lkYzFRSTZCc1pubDRSVFRyUjFiQkZCcG10c3ZNWmNzUGJRSmdmNlNkdjBOSFVHT1FxTDd3dG5CLTJ0V3dvYm1LODdwc25LOFpQYi01c19WZkxLZDBVN1J6REI4VnB2c0QyaXVkRUJUT2V5MUk0OXF1Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUl4UWZhY1U4LXhEWkhVRlZSR3hhVDFRRDZxWHVUdHpKMUlDd2Z5NWhQN05UczVkVE83dEtBWXhnaDZ0aFBTc0hLTFZjVlpnOGJLMHI3bEtfRUQtV3Azd1lkT3ZqbWhSQVlaX3I4UHhQM2JHQnBWMDNELTl1ZnA4X3lPNVZZcU5QdGFUS3NuNXlxUFRMMUJaM2lkYzFRSTZCc1pubDRSVFRyUjFiQkZCcG10c3ZNWmNzUGJRSmdmNlNkdjBOSFVHT1FxTDd3dG5CLTJ0V3dvYm1LODdwc25LOFpQYi01c19WZkxLZDBVN1J6REI4VnB2c0QyaXVkRUJUT2V5MUk0OXF1Zw?oc=5\" target=\"_blank\">ООО НПП «АЗПОМ НГК»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Thu, 11 Nov 2021 06:31:39 GMT"
+      "pub": "Thu, 02 Dec 2021 05:05:17 GMT"
     },
     {
-      "title": "ООО «АНТ ЯПЫ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNGNuR0RkY0dZZ1piR2xIdFgzdFJ6akNveWRRbUUxLXM1RU1tbW1kNHdjUy1Qb2ZFdWNTamVpVzZ3QjFWYl94RWhJM3g1UnM3a2c1Y0lFLWl5V2x2RGpKa3dEMm4zYTA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNGNuR0RkY0dZZ1piR2xIdFgzdFJ6akNveWRRbUUxLXM1RU1tbW1kNHdjUy1Qb2ZFdWNTamVpVzZ3QjFWYl94RWhJM3g1UnM3a2c1Y0lFLWl5V2x2RGpKa3dEMm4zYTA?oc=5\" target=\"_blank\">ООО «АНТ ЯПЫ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Thu, 09 Sep 2021 21:01:41 GMT"
-    },
-    {
-      "title": "ООО «ТЕГОС» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG5ZMUNDRG1tZzF1dm9IUGRsT19iNnhwUm00aEdKVGE2WnAwWkZxem5oRmZpZ2NISERKVVRick4ybFlvbS1tTXRtdHVDeGYyRTRkVnR2NGhjZmRoaWg3djFyNkhRbm9UbDVfS3E1RXlIajNneWZvb3RJTkRPRmJNbU9QaWtwQl9UdUptcGIxZWdJTjFLelg4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG5ZMUNDRG1tZzF1dm9IUGRsT19iNnhwUm00aEdKVGE2WnAwWkZxem5oRmZpZ2NISERKVVRick4ybFlvbS1tTXRtdHVDeGYyRTRkVnR2NGhjZmRoaWg3djFyNkhRbm9UbDVfS3E1RXlIajNneWZvb3RJTkRPRmJNbU9QaWtwQl9UdUptcGIxZWdJTjFLelg4?oc=5\" target=\"_blank\">ООО «ТЕГОС»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Thu, 09 Sep 2021 18:08:57 GMT"
-    },
-    {
-      "title": "АО «ПО «СЕВЕР» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHI5dVA5Q2Y4c0hzWVlFVVVVZkV6QXowMVZtTjk5WGxDOGVuY0ptQ2JlTkxyN0dnSXJQNFplWkMxa2xBV3VyNnlWWXpXdWdiM0dzcEZxcnk5d1RPYUx2M1NOS01mdHhtWGR5R0ZoX0FjWHhwa2htYUVjZHZpeEp6ZFhxSDBHQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHI5dVA5Q2Y4c0hzWVlFVVVVZkV6QXowMVZtTjk5WGxDOGVuY0ptQ2JlTkxyN0dnSXJQNFplWkMxa2xBV3VyNnlWWXpXdWdiM0dzcEZxcnk5d1RPYUx2M1NOS01mdHhtWGR5R0ZoX0FjWHhwa2htYUVjZHZpeEp6ZFhxSDBHQQ?oc=5\" target=\"_blank\">АО «ПО «СЕВЕР»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Thu, 09 Sep 2021 16:00:02 GMT"
-    },
-    {
-      "title": "ПАО «ТАТНЕФТЬ» ИМ. В.Д. ШАШИНА - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Nc1V1QzBCYVloMGw5MWVtM0xIRDZtNVdEcWZrVEk5OENpMWVpYXJQWnJWVEU4c05zZHZHOERuS1AxX3hEWTZWVXJ2WDJZMXU2NWZFTjlRLTdpdDBQR2hHVGwzSmJacW1WWVBxd2J5em5VMjkzVVQ4VHdjYkE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5Nc1V1QzBCYVloMGw5MWVtM0xIRDZtNVdEcWZrVEk5OENpMWVpYXJQWnJWVEU4c05zZHZHOERuS1AxX3hEWTZWVXJ2WDJZMXU2NWZFTjlRLTdpdDBQR2hHVGwzSmJacW1WWVBxd2J5em5VMjkzVVQ4VHdjYkE?oc=5\" target=\"_blank\">ПАО «ТАТНЕФТЬ» ИМ. В.Д. ШАШИНА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Thu, 09 Sep 2021 15:55:41 GMT"
-    },
-    {
-      "title": "АО «КОРПОРАЦИЯ ТУРИЗМ.РФ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2p0T0VLOVRIYzV2NDZqbTFFRTRsb3VhLWx6aFY4S0xLdDBWZ2ZkNVFZUXMydmdKWTdZTzBZNU1OWUJCV2t5OW43NGN3cnFtRHB6ZmZWTUU1MXVLNVY0Si1JMVdNcTFKcktqWE9uYV90blFDNTI4ME5keC1lUU1yM19WSzhvMHhQOXU4OFhLNnc5UQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2p0T0VLOVRIYzV2NDZqbTFFRTRsb3VhLWx6aFY4S0xLdDBWZ2ZkNVFZUXMydmdKWTdZTzBZNU1OWUJCV2t5OW43NGN3cnFtRHB6ZmZWTUU1MXVLNVY0Si1JMVdNcTFKcktqWE9uYV90blFDNTI4ME5keC1lUU1yM19WSzhvMHhQOXU4OFhLNnc5UQ?oc=5\" target=\"_blank\">АО «КОРПОРАЦИЯ ТУРИЗМ.РФ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Thu, 02 Sep 2021 06:52:52 GMT"
-    },
-    {
-      "title": "ООО «ГЭС-СТРОЙ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VOUxySE5vTzAxZVc5aFVPcmhsRlp0OVBYNnV3TUxBMGlpR2VWYmFmRjQ3dW54SGd4VzBPNzkxcnZBTVhDTDRjSEJNcE9LejVfbmtsVGExSm1oMGVzNGJaNFBjNTJVQTNHcWVRc1NB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5VOUxySE5vTzAxZVc5aFVPcmhsRlp0OVBYNnV3TUxBMGlpR2VWYmFmRjQ3dW54SGd4VzBPNzkxcnZBTVhDTDRjSEJNcE9LejVfbmtsVGExSm1oMGVzNGJaNFBjNTJVQTNHcWVRc1NB?oc=5\" target=\"_blank\">ООО «ГЭС-СТРОЙ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Sun, 26 Sep 2021 13:24:46 GMT"
-    },
-    {
-      "title": "ООО «САХАЛИНСКАЯ ЭНЕРГИЯ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNndCZFJkblhsSk50LVpGWmhJR2ZLYjlrY09WVzRlQ3Y0RVBQVnlMaTdETUZuaXBuUndUZU8wa3g2c3B4cUZrNVU0RFJqWXR3eHNjYi1MSjZPNERIelo2MFQ0OUY3ODhYdEdvSWRuV2VRNWhZTXctRG8zZHFjbVRUWHF1Ty03RzBNcFQwZHFtemV3aFhuRGhfQXdZbG1OWm1lNFBYWXprd1JwNWFo?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNNndCZFJkblhsSk50LVpGWmhJR2ZLYjlrY09WVzRlQ3Y0RVBQVnlMaTdETUZuaXBuUndUZU8wa3g2c3B4cUZrNVU0RFJqWXR3eHNjYi1MSjZPNERIelo2MFQ0OUY3ODhYdEdvSWRuV2VRNWhZTXctRG8zZHFjbVRUWHF1Ty03RzBNcFQwZHFtemV3aFhuRGhfQXdZbG1OWm1lNFBYWXprd1JwNWFo?oc=5\" target=\"_blank\">ООО «САХАЛИНСКАЯ ЭНЕРГИЯ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Sun, 18 Sep 2022 22:41:17 GMT"
-    },
-    {
-      "title": "ООО «ФЕС ПРОДУКТ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5QXhYcHpnT0gtRVZqdzdfUEpNSG9vb1RmY2k2QTNCNXoyMFNIdk05dDZSUXdFMUliLTA4MDRHbWYxQW9BdVgxS0xLWW9zbml3OGJxeFBRbFNrOVRPcTRZVUtwaTd4RHRUWFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA5QXhYcHpnT0gtRVZqdzdfUEpNSG9vb1RmY2k2QTNCNXoyMFNIdk05dDZSUXdFMUliLTA4MDRHbWYxQW9BdVgxS0xLWW9zbml3OGJxeFBRbFNrOVRPcTRZVUtwaTd4RHRUWFE?oc=5\" target=\"_blank\">ООО «ФЕС ПРОДУКТ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Sun, 12 Sep 2021 13:43:12 GMT"
-    },
-    {
-      "title": "ООО «МЛП» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXc3R25oUERURG54RWJjVU1xdjFZbUN3N1FvMDFxWDVlalh1SUR1M2FVWkM4QVRFSnJuTWNjMGV5OHpiLXduWXpqSVlRYUwtSEhHX2JHLW53ZEd5TnY0TlprZkZZeEpOZk1sTGtwQ2pwbUU3S2k4c0hmSXJrVnh3OTRuSEY2aldDaHI0c2VRVlh3QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXc3R25oUERURG54RWJjVU1xdjFZbUN3N1FvMDFxWDVlalh1SUR1M2FVWkM4QVRFSnJuTWNjMGV5OHpiLXduWXpqSVlRYUwtSEhHX2JHLW53ZEd5TnY0TlprZkZZeEpOZk1sTGtwQ2pwbUU3S2k4c0hmSXJrVnh3OTRuSEY2aldDaHI0c2VRVlh3QQ?oc=5\" target=\"_blank\">ООО «МЛП»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Sat, 28 Aug 2021 14:11:03 GMT"
-    },
-    {
-      "title": "ООО «АКЦЕНТ ПРОМ» - РБК Компании",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yT3Vla3ZFd1lxZDhqcFE1ZXRlUlliZXhSaEN3VEN2SVhLdTJiaWlMUWRoN3E3bmpoSFgwbnhscWt0UzEwcU55eDJ5ak9uZzRzZmNvekhLRjJ2Ym0ybkR3cHRONjNVd0kwZXZF?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4yT3Vla3ZFd1lxZDhqcFE1ZXRlUlliZXhSaEN3VEN2SVhLdTJiaWlMUWRoN3E3bmpoSFgwbnhscWt0UzEwcU55eDJ5ak9uZzRzZmNvekhLRjJ2Ym0ybkR3cHRONjNVd0kwZXZF?oc=5\" target=\"_blank\">ООО «АКЦЕНТ ПРОМ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
-      "source": "РБК",
-      "pub": "Sat, 18 Sep 2021 04:11:12 GMT"
-    },
-    {
-      "title": "Танкер в Ормузском проливе подвергся обстрелу - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HMHZyQ1VZdEVwbXFHNWd6MDJaSC1hM1hDU1pqdWJ3R2xDODh5TzFWVlBMWXJwYkIyU2FzV28wY2pMdFJYU21UYmloVzdNN2ZVUkRSNU5veWN1NUk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HMHZyQ1VZdEVwbXFHNWd6MDJaSC1hM1hDU1pqdWJ3R2xDODh5TzFWVlBMWXJwYkIyU2FzV28wY2pMdFJYU21UYmloVzdNN2ZVUkRSNU5veWN1NUk?oc=5\" target=\"_blank\">Танкер в Ормузском проливе подвергся обстрелу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "title": "Назван регион, в котором меньше всего курят - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSWszbmpoaUp5MFVQLUVySkJjUm42UWtObjYzTXR1WDN6bDRTSHB0WGxfZ2RYUzBCY3ZpVXpLNHZia21kY05WTXRBUllraWJMQzhzTHZRZkFzbFU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSWszbmpoaUp5MFVQLUVySkJjUm42UWtObjYzTXR1WDN6bDRTSHB0WGxfZ2RYUzBCY3ZpVXpLNHZia21kY05WTXRBUllraWJMQzhzTHZRZkFzbFU?oc=5\" target=\"_blank\">Назван регион, в котором меньше всего курят</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
       "source": "РИА Новости",
-      "pub": "Sat, 10 Oct 2026 22:56:00 GMT"
+      "pub": "Sun, 11 Oct 2026 01:44:00 GMT"
+    },
+    {
+      "title": "ИИ угрожает более 20% всех биткоинов. Главное о криптовалютах на утро - РБК",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UDhOczJTMm4zOGktYkY3dUFXa09JcllSNmRhUHZqUDBRbzR0a2tQRFVMcHl3LXI1ZWppUko4S1Y2bjZvNzFmRTlJU1puRjZxdXZ0TkNfeS1PeXZ1TlFhby1zWTl6dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UDhOczJTMm4zOGktYkY3dUFXa09JcllSNmRhUHZqUDBRbzR0a2tQRFVMcHl3LXI1ZWppUko4S1Y2bjZvNzFmRTlJU1puRjZxdXZ0TkNfeS1PeXZ1TlFhby1zWTl6dw?oc=5\" target=\"_blank\">ИИ угрожает более 20% всех биткоинов. Главное о криптовалютах на утро</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sun, 11 Oct 2026 01:42:00 GMT"
+    },
+    {
+      "title": "Дмитриев прокомментировал призыв Трампа к Зеленскому - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sZzk1VWdWVHZNeEIzM0lsYjFMa0x5YWR6QXBrbzJPdHYxUU5RT1VPcW1qMmR6T1ZwTW04Y1BNYS04VmRFTzNXTmxRdHpmRU96YmExZVJDNnR6V0o4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sZzk1VWdWVHZNeEIzM0lsYjFMa0x5YWR6QXBrbzJPdHYxUU5RT1VPcW1qMmR6T1ZwTW04Y1BNYS04VmRFTzNXTmxRdHpmRU96YmExZVJDNnR6V0o4?oc=5\" target=\"_blank\">Дмитриев прокомментировал призыв Трампа к Зеленскому</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 11 Oct 2026 01:39:00 GMT"
     },
     {
       "title": "Двух рабочих засыпало песком на КАД, выжил только один - ФОНТАНКА.ру",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oWUpJb1dCVlY1ZEVibTc2el9CT0YtZTc5WHRfaEx1SHh1MG5vMEx4QzZEVXF0WldvaHh0d1oyS0FHVHJEOE9XTnFPLVpzRDZxY3F6Tkg4Q1VmTmtjVE9IWGdsdw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oWUpJb1dCVlY1ZEVibTc2el9CT0YtZTc5WHRfaEx1SHh1MG5vMEx4QzZEVXF0WldvaHh0d1oyS0FHVHJEOE9XTnFPLVpzRDZxY3F6Tkg4Q1VmTmtjVE9IWGdsdw?oc=5\" target=\"_blank\">Двух рабочих засыпало песком на КАД, выжил только один</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
       "source": "Фонтанка",
-      "pub": "Sat, 10 Oct 2026 22:53:39 GMT"
+      "pub": "Sun, 11 Oct 2026 01:29:06 GMT"
     },
     {
-      "title": "Максим Решетников: G20 продвинулась в понимании проблем с реформой ВТО и текущей торговлей - ТАСС",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kUDEyUk1GQjYxS2o4WG5sbDRtSF9IcGZQUlBhTWJzTi1Vdm5QZmNsWlY3Z01hRmtoSVVjaVpPZHlQMkVIcEZBNDh3MA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kUDEyUk1GQjYxS2o4WG5sbDRtSF9IcGZQUlBhTWJzTi1Vdm5QZmNsWlY3Z01hRmtoSVVjaVpPZHlQMkVIcEZBNDh3MA?oc=5\" target=\"_blank\">Максим Решетников: G20 продвинулась в понимании проблем с реформой ВТО и текущей торговлей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "title": "В Японии запланировали открыть центр разработки нового истребителя GCAP - РБК",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GYmFWTlFlRm01cy1tVUZ6UFNZSzhRdTkyajV0bzB3Wk1VUEZRcmpiYVpMQ3VvSzBPUG9MYkI1TGhTeXg1MjJwTkZtMWRNQXJGaTUyZDk5dGNVSVFXcXN0ZFJmNmJxUUNkRkthZUlhaThicFBGVEtiZ2RJMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9GYmFWTlFlRm01cy1tVUZ6UFNZSzhRdTkyajV0bzB3Wk1VUEZRcmpiYVpMQ3VvSzBPUG9MYkI1TGhTeXg1MjJwTkZtMWRNQXJGaTUyZDk5dGNVSVFXcXN0ZFJmNmJxUUNkRkthZUlhaThicFBGVEtiZ2RJMA?oc=5\" target=\"_blank\">В Японии запланировали открыть центр разработки нового истребителя GCAP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sun, 11 Oct 2026 01:23:35 GMT"
+    },
+    {
+      "title": "Трамп заявил о желании Москвы добиться сделки в отличие от Киева - РБК",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oYVV5QXJvUTFWNUFZLU83aFQtMkluVDJlSkNjWmY4NVlneXdyb1FaWFY2ZnZJTThsTWVMendKTlR0SXRvUm16U0xpdnYzdXhkYl9Lc1hXbWhrLXRQYkxhWmpIWTJtT0w5NER1blktQ28?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9oYVV5QXJvUTFWNUFZLU83aFQtMkluVDJlSkNjWmY4NVlneXdyb1FaWFY2ZnZJTThsTWVMendKTlR0SXRvUm16U0xpdnYzdXhkYl9Lc1hXbWhrLXRQYkxhWmpIWTJtT0w5NER1blktQ28?oc=5\" target=\"_blank\">Трамп заявил о желании Москвы добиться сделки в отличие от Киева</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sun, 11 Oct 2026 01:04:53 GMT"
+    },
+    {
+      "title": "В ГД назвали дату появления государственного рейтинга автошкол - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PaHJqSkNwT0ZtNmh3UWJMWHpjSXRhOXBLODVFUjBreHExUlpqY0VIdm1HSXV0THJCYlltUHhUNm5sdGxOMGR0Q2NNUXBublJscDVDeHNGaXJCbmM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PaHJqSkNwT0ZtNmh3UWJMWHpjSXRhOXBLODVFUjBreHExUlpqY0VIdm1HSXV0THJCYlltUHhUNm5sdGxOMGR0Q2NNUXBublJscDVDeHNGaXJCbmM?oc=5\" target=\"_blank\">В ГД назвали дату появления государственного рейтинга автошкол</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 11 Oct 2026 00:53:00 GMT"
+    },
+    {
+      "title": "МРОТ в 2027 году составит 28 935 рублей - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sREFod1VIbW1uVW5SckpobGtXOVlnUF9scU9VUHRwMmtOTWVSaDRMODhzZ3g0XzBTMHJkeWt2TDc5cGkxTkpDUkVqZ3d4WF9ZaUF4RkdXQkJLYmhIN3kteTY5WWFDU05PMVc3WTBn0gFzQVVfeXFMTW9SajRBRXBWNExTcE85V2hMcnBEbjlMMkZtZ1hZLUJpQjFzREk5eXRmVEY3NUpwT0ItT3hwTnVRY3BUSmJ1cGtsLWVqMUpVcWM0SGtqZmhUbWpPcG9hVi10RjdFcVA5Qkk5a0l3TGtocmhydw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9sREFod1VIbW1uVW5SckpobGtXOVlnUF9scU9VUHRwMmtOTWVSaDRMODhzZ3g0XzBTMHJkeWt2TDc5cGkxTkpDUkVqZ3d4WF9ZaUF4RkdXQkJLYmhIN3kteTY5WWFDU05PMVc3WTBn0gFzQVVfeXFMTW9SajRBRXBWNExTcE85V2hMcnBEbjlMMkZtZ1hZLUJpQjFzREk5eXRmVEY3NUpwT0ItT3hwTnVRY3BUSmJ1cGtsLWVqMUpVcWM0SGtqZmhUbWpPcG9hVi10RjdFcVA5Qkk5a0l3TGtocmhydw?oc=5\" target=\"_blank\">МРОТ в 2027 году составит 28 935 рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Sun, 11 Oct 2026 00:46:20 GMT"
+    },
+    {
+      "title": "Аэропорт Саратова возобновил прием и выпуск самолетов - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NbnhIRVJKTjZIWDNVU2pGci11X2N3X3pJTFJOckZ5WnpiVTVFTF92NXRidWhHZzQ4ckpPRktJUWZLanNIQnNMZDVn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NbnhIRVJKTjZIWDNVU2pGci11X2N3X3pJTFJOckZ5WnpiVTVFTF92NXRidWhHZzQ4ckpPRktJUWZLanNIQnNMZDVn?oc=5\" target=\"_blank\">Аэропорт Саратова возобновил прием и выпуск самолетов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
       "source": "ТАСС",
-      "pub": "Sat, 10 Oct 2026 22:35:33 GMT"
+      "pub": "Sun, 11 Oct 2026 00:36:10 GMT"
     },
     {
-      "title": "В результате ракетного удара по аэропорту Эр-Рияда погибли 12 человек. Раненых больше 300 - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TQWFhaE9HaHlaRHJSOGlzSE52b1Z2eE1sMVl0VElXREE5SEI2a2NiR0tMc1lwNzRCUmlsWm9nU21FTjRPeTNMaWtTYTVpZm50S1dYTkhZZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TQWFhaE9HaHlaRHJSOGlzSE52b1Z2eE1sMVl0VElXREE5SEI2a2NiR0tMc1lwNzRCUmlsWm9nU21FTjRPeTNMaWtTYTVpZm50S1dYTkhZZw?oc=5\" target=\"_blank\">В результате ракетного удара по аэропорту Эр-Рияда погибли 12 человек. Раненых больше 300</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 10 Oct 2026 22:33:00 GMT"
-    },
-    {
-      "title": "Винисиус извинился за удаление в матче с \"Вильярреалом\" - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Ym9tZjRMWXVUX1pzNzFhZlFicG9YN0lGWHV1Q25CSHhFbWtKQzRVQmJxelhjMzhuMV9YckJPanJMVjdZTnowS1A5VENNd3J1SnlpXy1aX01EQVlH?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Ym9tZjRMWXVUX1pzNzFhZlFicG9YN0lGWHV1Q25CSHhFbWtKQzRVQmJxelhjMzhuMV9YckJPanJMVjdZTnowS1A5VENNd3J1SnlpXy1aX01EQVlH?oc=5\" target=\"_blank\">Винисиус извинился за удаление в матче с \"Вильярреалом\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "title": "\"Атол\": россияне в 2027 году стали чаще покупать отпугиватели медведей - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IZ3JIUGV4akR0VEhkLV9ONVp0MzJhUC1pV2pIUS0wbHhBYWc3Vl92MzV3X3VkX1hlNWZrX2pwa3dxZXBRcTlzbDhpNFQtVnFNZklfcTNLaGYzZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IZ3JIUGV4akR0VEhkLV9ONVp0MzJhUC1pV2pIUS0wbHhBYWc3Vl92MzV3X3VkX1hlNWZrX2pwa3dxZXBRcTlzbDhpNFQtVnFNZklfcTNLaGYzZw?oc=5\" target=\"_blank\">\"Атол\": россияне в 2027 году стали чаще покупать отпугиватели медведей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
       "source": "РИА Новости",
-      "pub": "Sat, 10 Oct 2026 22:32:00 GMT"
+      "pub": "Sun, 11 Oct 2026 00:34:00 GMT"
     },
     {
-      "title": "Маск заявил, что Зеленский «зашел слишком далеко» - РБК",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94eXNOaTdsWnUxZFUzcDlQaW44Tmh4MXBreWhJdkVENjQ4ZTVCTThSY2Z4QXRRZlM1MDJHN0UzVUZRRXFPU1NiUkJhQ0JyOGRZVWNhRE5ZeEFURFdTRWRTXzlWNE5tZlo1RzZjQVBOeW4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE94eXNOaTdsWnUxZFUzcDlQaW44Tmh4MXBreWhJdkVENjQ4ZTVCTThSY2Z4QXRRZlM1MDJHN0UzVUZRRXFPU1NiUkJhQ0JyOGRZVWNhRE5ZeEFURFdTRWRTXzlWNE5tZlo1RzZjQVBOeW4?oc=5\" target=\"_blank\">Маск заявил, что Зеленский «зашел слишком далеко»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Sat, 10 Oct 2026 22:12:37 GMT"
-    },
-    {
-      "title": "Глава Тюрингии призвал к «содержательной перезагрузке» курса партии Мерца - РБК",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnRtM1NMVXhWZHk0Y3dUSk9HUDAzMjVwSC1OOFhpNS1sR3BMNTRxNnJ0WVZKMTRKLXpRV1lSb0lvbzJNMGhycVJGZUQ0cFhXVFFwUzZxbE1BUmpqN0VkakpuVTQwcXpHUHZtSlRWXzJQSmVYem8tcHdJbEJWYlZjTmMwUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnRtM1NMVXhWZHk0Y3dUSk9HUDAzMjVwSC1OOFhpNS1sR3BMNTRxNnJ0WVZKMTRKLXpRV1lSb0lvbzJNMGhycVJGZUQ0cFhXVFFwUzZxbE1BUmpqN0VkakpuVTQwcXpHUHZtSlRWXzJQSmVYem8tcHdJbEJWYlZjTmMwUQ?oc=5\" target=\"_blank\">Глава Тюрингии призвал к «содержательной перезагрузке» курса партии Мерца</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Sat, 10 Oct 2026 22:11:18 GMT"
-    },
-    {
-      "title": "Путин пообещал аграриям государственную поддержку - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTFY0ZHNUaHdVR0poSm9ycTVFa3lmMzV0V0gzTEg2Z1oxRXRyMEhfWmV3RmVqUHBqbGYzZ2FuM2NxdUQ1YlVOTGZoNmtIb3dUVDJQOFE3NmttOFpZV0VHRC15UWREalBnOGh3YTd0NklXekx2VUHSAXtBVV95cUxQUnhjMzRGemhrS0NPbkxVcG5ZdEZFSnU2TmRkbXVTWUpfczE1U0NfVWlyVUNEYXdrckVLcndWS2dsMC13LVJUMmRYRWhnQWk4elpYRXJ1YzJVTG1FQ0YwSTV0RnJ4SldKbWo5UDhmQ1ZGNFBoTlVFbnpiSmM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTFY0ZHNUaHdVR0poSm9ycTVFa3lmMzV0V0gzTEg2Z1oxRXRyMEhfWmV3RmVqUHBqbGYzZ2FuM2NxdUQ1YlVOTGZoNmtIb3dUVDJQOFE3NmttOFpZV0VHRC15UWREalBnOGh3YTd0NklXekx2VUHSAXtBVV95cUxQUnhjMzRGemhrS0NPbkxVcG5ZdEZFSnU2TmRkbXVTWUpfczE1U0NfVWlyVUNEYXdrckVLcndWS2dsMC13LVJUMmRYRWhnQWk4elpYRXJ1YzJVTG1FQ0YwSTV0RnJ4SldKbWo5UDhmQ1ZGNFBoTlVFbnpiSmM?oc=5\" target=\"_blank\">Путин пообещал аграриям государственную поддержку</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
-      "source": "RT",
-      "pub": "Sat, 10 Oct 2026 22:01:39 GMT"
-    },
-    {
-      "title": "СМИ: Трамп нанес удар по Зеленскому в самый неподходящий момент - РИА Новости",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLN2ZuZjBjQzBOcE05V2V5dVRwQVBnTGVtLU8yZ09uUkN4SDZsZzRZbFZEOEdCcV82OWVxa1hyMjV3eU5fb3BMOXpheWhYaF8wOGNrNmk2ZWRKcUk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLN2ZuZjBjQzBOcE05V2V5dVRwQVBnTGVtLU8yZ09uUkN4SDZsZzRZbFZEOEdCcV82OWVxa1hyMjV3eU5fb3BMOXpheWhYaF8wOGNrNmk2ZWRKcUk?oc=5\" target=\"_blank\">СМИ: Трамп нанес удар по Зеленскому в самый неподходящий момент</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "title": "Основатель \"Рыбаря\" опроверг слухи о попытках экстрадиции команды в США - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zWG12RV9xLUYtSk1fUWpGUlp0aFlmZUk4MlZLTmJsSXI0Sl9HdkhKYmI2eGM4RDBkcFlBRGcxNi00bzlUc1ZEcnBjS1czNE04bkRYWElkM3E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zWG12RV9xLUYtSk1fUWpGUlp0aFlmZUk4MlZLTmJsSXI0Sl9HdkhKYmI2eGM4RDBkcFlBRGcxNi00bzlUc1ZEcnBjS1czNE04bkRYWElkM3E?oc=5\" target=\"_blank\">Основатель \"Рыбаря\" опроверг слухи о попытках экстрадиции команды в США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
       "source": "РИА Новости",
-      "pub": "Sat, 10 Oct 2026 21:53:00 GMT"
+      "pub": "Sun, 11 Oct 2026 00:32:00 GMT"
     },
     {
-      "title": "Путин заявил, что урожай зерновых в России превысит планку в 100 млн тонн - РБК",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OR29iV2lBTzFicUVLUXZoN05POFc1YkJmV0REOVh0S1FIN3Jra2xyc3QxUzFMWDZxVHFzZThWNEtEOGg5Z1pzXzUtUW5BZ3ZWMWdoOWx3U0RZX2pKZVF6NTJ4VWxpaXhZYWRFWkdMVnFLbWE3a3A3WQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5OR29iV2lBTzFicUVLUXZoN05POFc1YkJmV0REOVh0S1FIN3Jra2xyc3QxUzFMWDZxVHFzZThWNEtEOGg5Z1pzXzUtUW5BZ3ZWMWdoOWx3U0RZX2pKZVF6NTJ4VWxpaXhZYWRFWkdMVnFLbWE3a3A3WQ?oc=5\" target=\"_blank\">Путин заявил, что урожай зерновых в России превысит планку в 100 млн тонн</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
-      "source": "РБК",
-      "pub": "Sat, 10 Oct 2026 21:48:22 GMT"
+      "title": "Названы регионы-лидеры России по качеству дорог - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WX3lrNlBEa0wtVUp4ajdlejB4a0JVc0QtTnV3NWNvSlVva0R4ZlYtRS1CNHRrM1VwWUhaT1lNVjNUQ3EtMUx1Z1N0a0FXWHdxcnpnVzcwNllPQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WX3lrNlBEa0wtVUp4ajdlejB4a0JVc0QtTnV3NWNvSlVva0R4ZlYtRS1CNHRrM1VwWUhaT1lNVjNUQ3EtMUx1Z1N0a0FXWHdxcnpnVzcwNllPQQ?oc=5\" target=\"_blank\">Названы регионы-лидеры России по качеству дорог</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sun, 11 Oct 2026 00:17:00 GMT"
     },
     {
-      "title": "Грибники завершают сезон в Ленинградской области - ФОНТАНКА.ру",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15dEFxbEY2MXlJemwwSDZrNVVXb05MSzM2ZDlsb25maF9JdG4tSmVJcnNWN3EwZG1XcWhTZDdCOXI1UlByTG53VG5JUlJpbmxiSmNYMU5zTzV0VkJXTEFLbUxQMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE15dEFxbEY2MXlJemwwSDZrNVVXb05MSzM2ZDlsb25maF9JdG4tSmVJcnNWN3EwZG1XcWhTZDdCOXI1UlByTG53VG5JUlJpbmxiSmNYMU5zTzV0VkJXTEFLbUxQMA?oc=5\" target=\"_blank\">Грибники завершают сезон в Ленинградской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
-      "source": "Фонтанка",
-      "pub": "Sat, 10 Oct 2026 21:42:46 GMT"
-    },
-    {
-      "title": "Путин поздравил аграриев с профессиональным праздником - RT на русском",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcUxEVGZsLXR5SG93MnEyMDdHVkRUblA2VWdsZ2F2YmgzNjlWa2QwSjdvUEotSjhHZWI5QlpGZWlpNHRka29HcFlIQ3IwZUJCNEphQnBSZTJNbXI4TzUzMDRFV0dIRUZkeU91ZUFNVmpOSzBPT1NOWmRQaGVrQdIBfkFVX3lxTE1QcUxEVGZsLXR5SG93MnEyMDdHVkRUblA2VWdsZ2F2YmgzNjlWa2QwSjdvUEotSjhHZWI5QlpGZWlpNHRka29HcFlIQ3IwZUJCNEphQnBSZTJNbXI4TzUzMDRFV0dIRUZkeU91ZUFNVmpOSzBPT1NOWmRQaGVrQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcUxEVGZsLXR5SG93MnEyMDdHVkRUblA2VWdsZ2F2YmgzNjlWa2QwSjdvUEotSjhHZWI5QlpGZWlpNHRka29HcFlIQ3IwZUJCNEphQnBSZTJNbXI4TzUzMDRFV0dIRUZkeU91ZUFNVmpOSzBPT1NOWmRQaGVrQdIBfkFVX3lxTE1QcUxEVGZsLXR5SG93MnEyMDdHVkRUblA2VWdsZ2F2YmgzNjlWa2QwSjdvUEotSjhHZWI5QlpGZWlpNHRka29HcFlIQ3IwZUJCNEphQnBSZTJNbXI4TzUzMDRFV0dIRUZkeU91ZUFNVmpOSzBPT1NOWmRQaGVrQQ?oc=5\" target=\"_blank\">Путин поздравил аграриев с профессиональным праздником</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "title": "Фальков назвал сроки обучения в вузах по новой модели - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ya0RSR0FPa0RBWm9rZ01HWGNRV3BCY2JVLUcyN183dC1ETHEyQjNUckJvRFM2N0xObXJicEdnSmZYUkFYUkwzX3VSR0VUc2JYbTc5X08tX3ZOOGRXMVFkMGZHemZ4TzVtcDdmOFo1VTZSRTZ60gF6QVVfeXFMUEh4cF9FN1ppRVIwdV9pTk15dnZvcVpsN3c3YTh3ZzhDRDctdTI2dWlOdmNndHZoVGJNbEtISnZBdk4teEVRZFBJeEpnQ1JXT1dTSlppcXllX1REWldBQWVKaTZqWXEyakVjLUZBRnBxaXhvTUIxVV9ncEE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4ya0RSR0FPa0RBWm9rZ01HWGNRV3BCY2JVLUcyN183dC1ETHEyQjNUckJvRFM2N0xObXJicEdnSmZYUkFYUkwzX3VSR0VUc2JYbTc5X08tX3ZOOGRXMVFkMGZHemZ4TzVtcDdmOFo1VTZSRTZ60gF6QVVfeXFMUEh4cF9FN1ppRVIwdV9pTk15dnZvcVpsN3c3YTh3ZzhDRDctdTI2dWlOdmNndHZoVGJNbEtISnZBdk4teEVRZFBJeEpnQ1JXT1dTSlppcXllX1REWldBQWVKaTZqWXEyakVjLUZBRnBxaXhvTUIxVV9ncEE?oc=5\" target=\"_blank\">Фальков назвал сроки обучения в вузах по новой модели</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
       "source": "RT",
-      "pub": "Sat, 10 Oct 2026 21:29:26 GMT"
+      "pub": "Sun, 11 Oct 2026 00:01:06 GMT"
     },
     {
-      "title": "Крупнейший металлургический завод Украины переведут в «холодный останов» - РБК",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNcTZMcWR5MDNKTUpxU0JpV3B2UmdNUkc2YnRSdXlBTE9XTW5rOXJDYjNCaFVGMTVXQzRPS2VCX1l6NzBzV2lPVFFPOWw3dVlzOVJYdjVuSFpBc3FTTmRJZjNyM1VHSGZicmVWWkxoTnE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBNcTZMcWR5MDNKTUpxU0JpV3B2UmdNUkc2YnRSdXlBTE9XTW5rOXJDYjNCaFVGMTVXQzRPS2VCX1l6NzBzV2lPVFFPOWw3dVlzOVJYdjVuSFpBc3FTTmRJZjNyM1VHSGZicmVWWkxoTnE?oc=5\" target=\"_blank\">Крупнейший металлургический завод Украины переведут в «холодный останов»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "title": "АО «АВТОВАЗ» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mcHo2aW04Skl5TExSM0ozM3JXMWR1YngyY1ROWDM0TF9MOEtFM21XOFF5TzZfVUdScXR1SWFPVTZ0R0JrTlRjUHJtWEt3UDd3UDZ1RHBaUURNNTY2RUdpdUVQOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mcHo2aW04Skl5TExSM0ozM3JXMWR1YngyY1ROWDM0TF9MOEtFM21XOFF5TzZfVUdScXR1SWFPVTZ0R0JrTlRjUHJtWEt3UDd3UDZ1RHBaUURNNTY2RUdpdUVQOA?oc=5\" target=\"_blank\">АО «АВТОВАЗ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
       "source": "РБК",
-      "pub": "Sat, 10 Oct 2026 21:27:18 GMT"
+      "pub": "Sun, 05 Sep 2021 09:10:40 GMT"
+    },
+    {
+      "title": "АО «ТД «ЭЛЕКТРОТЕХМОНТАЖ» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0TW50cTBrV04wVXhMd2NxUDFBNU1rZUJ4TXkyX0M5dzJoSlNIa25iVE53dVM1YzVjVlZKNDczQzM5dGlJOW5WSDd1Z2tZX2ZpRkJ6MS1kbFhBNGVBdWdzTkd6ZWtOVVFpdUF2eXM1bzFkVEtz?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB0TW50cTBrV04wVXhMd2NxUDFBNU1rZUJ4TXkyX0M5dzJoSlNIa25iVE53dVM1YzVjVlZKNDczQzM5dGlJOW5WSDd1Z2tZX2ZpRkJ6MS1kbFhBNGVBdWdzTkd6ZWtOVVFpdUF2eXM1bzFkVEtz?oc=5\" target=\"_blank\">АО «ТД «ЭЛЕКТРОТЕХМОНТАЖ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "source": "РБК",
+      "pub": "Sat, 22 Feb 2025 04:50:37 GMT"
+    },
+    {
+      "title": "ООО «ТСВ» - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmw0T2FidnFHVjhVWElFR3RfTVM2cnd4YTIwRERnSmxROUtocjhGZnhMaG80bUxHSkNQMUR2bGZEbUpJc1pYbUNHTHA5bTRmMTZmWmZfU1A1ZnlBSTRJV09iUktrV2hNQXFHYmpMZ2NmUlZ6bXBtbERnNi1lSEh2aXVqN3JOdW9fclZmeWZhWlE2c1N2?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmw0T2FidnFHVjhVWElFR3RfTVM2cnd4YTIwRERnSmxROUtocjhGZnhMaG80bUxHSkNQMUR2bGZEbUpJc1pYbUNHTHA5bTRmMTZmWmZfU1A1ZnlBSTRJV09iUktrV2hNQXFHYmpMZ2NmUlZ6bXBtbERnNi1lSEh2aXVqN3JOdW9fclZmeWZhWlE2c1N2?oc=5\" target=\"_blank\">ООО «ТСВ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "source": "РБК",
+      "pub": "Sat, 18 Sep 2021 19:11:57 GMT"
+    },
+    {
+      "title": "Магнитная буря на Земле стала самой сильной за последние три месяца - РБК",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PbEZtZ3VfU3pIS3FUY1lnYk9ucnBYZ3dHd0FkV3NRUVVudXRfR2FYYm5tTktnRVBnc1VnTWZ3U3ZTR2lxQjRJVkRFRzhqbGNzNWZYTHZTNk15M0F4ejk4RkdQTDNVQ2dLaUtaQWFBRW5Zc1dReDUybA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1PbEZtZ3VfU3pIS3FUY1lnYk9ucnBYZ3dHd0FkV3NRUVVudXRfR2FYYm5tTktnRVBnc1VnTWZ3U3ZTR2lxQjRJVkRFRzhqbGNzNWZYTHZTNk15M0F4ejk4RkdQTDNVQ2dLaUtaQWFBRW5Zc1dReDUybA?oc=5\" target=\"_blank\">Магнитная буря на Земле стала самой сильной за последние три месяца</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 10 Oct 2026 23:48:52 GMT"
+    },
+    {
+      "title": "ИИ помогает в борьбе с вражескими беспилотниками, рассказал глава РАН - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYVhIYjRZUXdHZUVXX01CWGlNTEo0cXdFMEE0Y05HdVFFODdocDRKVnVyTDlfaHFrMnp4STZnM08wQXJodEhUSzhQSEQzVmNwLUw2MQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYVhIYjRZUXdHZUVXX01CWGlNTEo0cXdFMEE0Y05HdVFFODdocDRKVnVyTDlfaHFrMnp4STZnM08wQXJodEhUSzhQSEQzVmNwLUw2MQ?oc=5\" target=\"_blank\">ИИ помогает в борьбе с вражескими беспилотниками, рассказал глава РАН</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 10 Oct 2026 23:41:00 GMT"
+    },
+    {
+      "title": "Хуситам пообещали «решительный ответ» на удар по аэропорту в Эр-Рияде - РБК",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMlRjMVkxS0s4QmlSdXJ3eDBBeFM5VTVqZ3RWSnR3d1Bya2s4eENnUVZmd184cGFHdHFsYlZlMDgxZi1VOUVYUnpLQjlGbmxFeEZ0bzBOUHpGeVV2N1U1MVJIQVloSHZ5RDM3QnFrNEo?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMlRjMVkxS0s4QmlSdXJ3eDBBeFM5VTVqZ3RWSnR3d1Bya2s4eENnUVZmd184cGFHdHFsYlZlMDgxZi1VOUVYUnpLQjlGbmxFeEZ0bzBOUHpGeVV2N1U1MVJIQVloSHZ5RDM3QnFrNEo?oc=5\" target=\"_blank\">Хуситам пообещали «решительный ответ» на удар по аэропорту в Эр-Рияде</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 10 Oct 2026 23:33:38 GMT"
+    },
+    {
+      "title": "Сбербанк предотвратил хищение четырёх миллионов рублей у клиентки - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00U2VuWHBEa0ZLbDdWbEM2bVFnRV9HbTRpTTZCeTBVMUJ6ZDZ4NkhRbEFFeHA3YXJabzR0MkRNU21ydnVQVkdhYUJWVl81MTk3OGY1SGtrUGliZVJyVGJPUnA0MkpjY1lkdlpjOS00OXEwLWQyd19uYVdIMNIBgAFBVV95cUxPNUFsa2Vna3NzOHBhZlZVY0hqNVVuY24yTmZycXRuOGFTOF9TUWxfYnp3VzdldjJjMTM0MFlxSGthXzVKSEQzZjlqQjN0SDltY2hlc1BFNzA3alJuX3I5ZWZnb0hSS1JNLU5XanNWUmstOXBVN1lRbkVkam01V1dSdQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE00U2VuWHBEa0ZLbDdWbEM2bVFnRV9HbTRpTTZCeTBVMUJ6ZDZ4NkhRbEFFeHA3YXJabzR0MkRNU21ydnVQVkdhYUJWVl81MTk3OGY1SGtrUGliZVJyVGJPUnA0MkpjY1lkdlpjOS00OXEwLWQyd19uYVdIMNIBgAFBVV95cUxPNUFsa2Vna3NzOHBhZlZVY0hqNVVuY24yTmZycXRuOGFTOF9TUWxfYnp3VzdldjJjMTM0MFlxSGthXzVKSEQzZjlqQjN0SDltY2hlc1BFNzA3alJuX3I5ZWZnb0hSS1JNLU5XanNWUmstOXBVN1lRbkVkam01V1dSdQ?oc=5\" target=\"_blank\">Сбербанк предотвратил хищение четырёх миллионов рублей у клиентки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Sat, 10 Oct 2026 23:30:55 GMT"
+    },
+    {
+      "title": "Правый придел храма в честь Рождества Пресвятой Богородицы освящен в Балахне — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGlNMzZQRlB3WWJtYWNDMnUyVkFRU3NLVjQ0RG56dWFOMUcwV2JSYmo1bTJXTTF6SEZKdlpib1Fsd1FMSG4yUTVLQ3Q4U1J2Y2J0dmlSaE1EcTlISFlCMmQ5YnpxaHFNeHpCTE5NUC1TQWRaU1BNY0Ytd0lHRkdLd1Y5NzVBZVJUZWVIVXlPSHVFSFdKUUtxV0FrWlhMdFVmSW1sU0NEb0kxN3hlNWdVbnF5VzU1ejVYbllqdmZBNTc5ZGFFc3g2eXhKcFhHV1RERjZhMG1oWk1kcDQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGlNMzZQRlB3WWJtYWNDMnUyVkFRU3NLVjQ0RG56dWFOMUcwV2JSYmo1bTJXTTF6SEZKdlpib1Fsd1FMSG4yUTVLQ3Q4U1J2Y2J0dmlSaE1EcTlISFlCMmQ5YnpxaHFNeHpCTE5NUC1TQWRaU1BNY0Ytd0lHRkdLd1Y5NzVBZVJUZWVIVXlPSHVFSFdKUUtxV0FrWlhMdFVmSW1sU0NEb0kxN3hlNWdVbnF5VzU1ejVYbllqdmZBNTc5ZGFFc3g2eXhKcFhHV1RERjZhMG1oWk1kcDQ?oc=5\" target=\"_blank\">Правый придел храма в честь Рождества Пресвятой Богородицы освящен в Балахне — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 10 Oct 2026 23:23:23 GMT"
+    },
+    {
+      "title": "Новак: ослабление запрета на экспорт дизеля не затронет интересы граждан — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDVmZjgzNXRiUkVpQ29OR0pWMHVQb1piajdoaTVDVHRJeHdRWFR4VWlEY3VDS3dxY19IdEJOcUdoNTFfT2E0RXc0Qk84c1RaSEVEd2V2X1U5aUlCdTJEUmZ6alZLREJVYi1fRUJZQWFqN3I3OFpkb2M3M1N0dHJWRE5HTmZoZ3NNSHlFUGZQYjF2UkM1MmRGWUxpLW95SkNyeDZzc2pvb0ZkeGhCdnQyeV9PVGtlZ2hmNzZaeU1aU1U?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDVmZjgzNXRiUkVpQ29OR0pWMHVQb1piajdoaTVDVHRJeHdRWFR4VWlEY3VDS3dxY19IdEJOcUdoNTFfT2E0RXc0Qk84c1RaSEVEd2V2X1U5aUlCdTJEUmZ6alZLREJVYi1fRUJZQWFqN3I3OFpkb2M3M1N0dHJWRE5HTmZoZ3NNSHlFUGZQYjF2UkM1MmRGWUxpLW95SkNyeDZzc2pvb0ZkeGhCdnQyeV9PVGtlZ2hmNzZaeU1aU1U?oc=5\" target=\"_blank\">Новак: ослабление запрета на экспорт дизеля не затронет интересы граждан — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 10 Oct 2026 23:23:23 GMT"
+    },
+    {
+      "title": "Благодарю всех, кто работает на земле, развивает хозяйства, внедряет новые технологии и обеспечивает колымчан свежими продуктами, - Анатолий Широков — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQTFdOQjMwZE9fYjJjd3l3aWNkLVhKWkR2QlZuNXZJdkEwc3hMNVN5dXlfZTdEVEZ6cGdwZTVScEFCZlBVNU1YWl9INDVSX3EweVlnMXFFNmx0YXhObjdEY2JISlBXS3FNbFdXenFpdVdaMnZtbFM2N0FEc1MyOG1lSmtjUnhlSEs1dURqTEh5bGZRNWtxZDd6ZDJ4N0gtZklsTGM5dHVPazNBbzItQ0czb29URkZOcHFueERjZXh1Mnl5Ukt2NVRwLUg2bGVQZndXa1ljdUFJaFpWUUM0N2tFdlA2N2RnSmNYcU0zWW9CZzlfZnFDN3FUMGlBNkFBOU9UY0FDYzhNZU5VTUxzNmg2ajFXNFY2bVJBYVpvdExwUkNJeGFCQzRTLU43RkVIUklaLVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxQTFdOQjMwZE9fYjJjd3l3aWNkLVhKWkR2QlZuNXZJdkEwc3hMNVN5dXlfZTdEVEZ6cGdwZTVScEFCZlBVNU1YWl9INDVSX3EweVlnMXFFNmx0YXhObjdEY2JISlBXS3FNbFdXenFpdVdaMnZtbFM2N0FEc1MyOG1lSmtjUnhlSEs1dURqTEh5bGZRNWtxZDd6ZDJ4N0gtZklsTGM5dHVPazNBbzItQ0czb29URkZOcHFueERjZXh1Mnl5Ukt2NVRwLUg2bGVQZndXa1ljdUFJaFpWUUM0N2tFdlA2N2RnSmNYcU0zWW9CZzlfZnFDN3FUMGlBNkFBOU9UY0FDYzhNZU5VTUxzNmg2ajFXNFY2bVJBYVpvdExwUkNJeGFCQzRTLU43RkVIUklaLVE?oc=5\" target=\"_blank\">Благодарю всех, кто работает на земле, развивает хозяйства, внедряет новые технологии и обеспечивает колымчан свежими продуктами, - Анатолий Широков — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 10 Oct 2026 23:23:23 GMT"
     }
   ]
 }
