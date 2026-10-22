@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TrueNews</title>
+<style>
+:root{--text:#f5f7ff;--muted:rgba(245,247,255,.7);--line:rgba(255,255,255,.24);--r:26px}
+*{box-sizing:border-box;margin:0}
+html{color-scheme:dark;background:#070912}
+body{min-height:100vh;font:16px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Display",Inter,"Segoe UI",system-ui,sans-serif;color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+.bg{position:fixed;inset:0;z-index:-1;overflow:hidden}
+.bg i{position:absolute;border-radius:50%;filter:blur(60px);opacity:.7;animation:drift 24s ease-in-out infinite alternate}
+.bg i:nth-child(1){width:60vmax;height:60vmax;background:#4a5cff;top:-22vmax;left:-18vmax}
+.bg i:nth-child(2){width:55vmax;height:55vmax;background:#ff5c8a;bottom:-24vmax;right:-16vmax;animation-delay:-9s}
+.bg i:nth-child(3){width:36vmax;height:36vmax;background:#2fe0d0;top:38%;left:40%;opacity:.45;animation-delay:-15s}
+@keyframes drift{to{transform:translate(14vmax,9vmax) scale(1.18)}}
+
+.glass{position:relative;background:linear-gradient(135deg,rgba(255,255,255,.15),rgba(255,255,255,.04));-webkit-backdrop-filter:blur(22px) saturate(180%);backdrop-filter:blur(22px) saturate(180%);border:1px solid var(--line);border-radius:var(--r);box-shadow:inset 0 1px 0 rgba(255,255,255,.5),inset 0 -1px 0 rgba(255,255,255,.08),0 12px 40px rgba(0,0,0,.35)}
+.glass::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;background:radial-gradient(260px circle at var(--mx,50%) var(--my,0%),rgba(255,255,255,.24),transparent 62%);opacity:0;transition:opacity .3s}
+.glass:hover::after{opacity:1}
+
+.wrap{max-width:1032px;margin:0 auto;padding:calc(10px + env(safe-area-inset-top,0px)) 16px calc(120px + env(safe-area-inset-bottom,0px))}
+header.glass{position:sticky;top:calc(10px + env(safe-area-inset-top,0px));z-index:5;display:flex;align-items:center;gap:12px;padding:10px 12px 10px 20px;border-radius:99px;margin-bottom:20px}
+.logo{flex:1;display:flex;align-items:center;gap:9px;font-size:19px;font-weight:750;letter-spacing:-.02em}
+.dot{width:9px;height:9px;border-radius:50%;background:#46f0a0;animation:pulse 2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(70,240,160,.7)}70%,100%{box-shadow:0 0 0 9px rgba(70,240,160,0)}}
+#clock{font-size:14px;color:var(--muted);font-variant-numeric:tabular-nums}
+#re{width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:rgba(255,255,255,.12);color:var(--text);font-size:18px;cursor:pointer}
+#re.spin{animation:spin .7s cubic-bezier(.3,1.3,.4,1)}
+@keyframes spin{to{transform:rotate(360deg)}}
+#st{font-size:13px;color:var(--muted);margin:0 8px 14px}
+#st:empty{display:none}
+
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;transition:opacity .2s,transform .2s}
+#grid.out{opacity:0;transform:scale(.98)}
+.card{display:flex;flex-direction:column;gap:12px;padding:16px;color:inherit;text-decoration:none;transition:transform .25s cubic-bezier(.3,1.4,.4,1)}
+.card:active{transform:scale(.985)}
+.card img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px}
+.tx{display:flex;flex-direction:column;gap:10px}
+.meta{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted)}
+.chip{padding:3px 11px;border-radius:99px;background:rgba(255,255,255,.16);border:1px solid var(--line);font-weight:650;color:var(--text)}
+.card h3{font-size:17px;line-height:1.28;font-weight:680;letter-spacing:-.01em}
+.card p{font-size:14px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.hero{grid-column:1/-1}
+.hero h3{font-size:clamp(23px,4.2vw,34px);line-height:1.15;letter-spacing:-.025em}
+.hero p{font-size:15px}
+@media(min-width:720px){.hero{flex-direction:row;align-items:center;gap:24px;padding:20px}.hero img{width:46%;flex:none}.hero .tx{gap:14px}}
+.enter{animation:in .55s cubic-bezier(.2,.9,.3,1) both;animation-delay:calc(var(--i)*55ms)}
+@keyframes in{from{opacity:0;transform:translateY(22px) scale(.97)}}
+.sk{height:190px;overflow:hidden}
+.sk::before{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 30%,rgba(255,255,255,.14) 50%,transparent 70%);transform:translateX(-100%);animation:sh 1.3s infinite}
+@keyframes sh{to{transform:translateX(100%)}}
+
+nav.glass{position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);display:flex;gap:2px;padding:6px;max-width:calc(100% - 24px);overflow-x:auto;scrollbar-width:none;border-radius:99px;z-index:6}
+nav::-webkit-scrollbar{display:none}
+nav button{position:relative;z-index:1;background:none;border:0;color:var(--muted);font:inherit;font-size:14.5px;font-weight:620;padding:10px 17px;border-radius:99px;cursor:pointer;white-space:nowrap;transition:color .3s}
+nav button.on{color:#fff}
+.pill{position:absolute;top:6px;bottom:6px;left:0;width:0;border-radius:99px;background:rgba(255,255,255,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.65),0 4px 18px rgba(0,0,0,.3);transition:transform .55s cubic-bezier(.3,1.45,.4,1),width .55s cubic-bezier(.3,1.45,.4,1)}
+a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
+@media(prefers-reduced-motion:reduce){*,::before,::after{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="bg"><i></i><i></i><i></i></div>
+<div class="wrap">
+  <header class="glass">
+    <div class="logo"><span class="dot"></span>TrueNews</div>
+    <span id="clock"></span>
+    <button id="re" aria-label="Обновить ленту">↻</button>
+  </header>
+  <p id="st"></p>
+  <main id="grid"></main>
+</div>
+<nav id="tabs" class="glass" aria-label="Источники"><span class="pill"></span></nav>
+
+<script>
+// Вставь свой ключ rss2json и ссылки на ленты из прежней версии сайта
+const KEY="";
+const SOURCES=[
+ {id:"all",name:"Все"},
+ {id:"rbc",name:"РБК",url:"https://rssexport.rbc.ru/rbcnews/news/30/full.rss"},
+ {id:"fon",name:"Фонтанка",url:"https://www.fontanka.ru/fontanka.rss"},
+ {id:"rt",name:"RT",url:"https://russian.rt.com/rss"},
+ {id:"dzen",name:"Дзен",url:"https://dzen.ru/news/rss"},
+ {id:"cnn",name:"CNN",url:"http://rss.cnn.com/rss/edition.rss"}
+];
+const $=s=>document.querySelector(s),g=$("#grid"),tabs=$("#tabs"),pill=tabs.querySelector(".pill");
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe=u=>/^https?:\/\//.test(u)?u:"#";
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+const ago=d=>{const m=Math.round((Date.now()-d)/6e4);if(isNaN(m))return"";if(m<1)return"только что";if(m<60)return m+" мин назад";const h=Math.round(m/60);return h<24?h+" ч назад":Math.round(h/24)+" дн назад"};
+const cache={};let cur="all",tok=0;
+
+async function loadOne(s){
+ if(cache[s.id])return cache[s.id];
+ const r=await fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(s.url)+(KEY?"&api_key="+KEY:""));
+ const j=await r.json();
+ if(j.status!=="ok")throw new Error(j.message||"rss");
+ return cache[s.id]=j.items.slice(0,20).map(it=>({src:s.name,title:it.title,link:it.link,
+  text:(it.description||"").replace(/<[^>]*>/g," ").replace(/\s+/g," ").trim(),
+  img:it.thumbnail||(it.enclosure&&/image/.test(it.enclosure.type||"")?it.enclosure.link:""),
+  t:new Date((it.pubDate||"").replace(" ","T")+"Z")}));
+}
+const sample=n=>Array.from({length:6},(_,i)=>({src:n,title:"Здесь появится заголовок новости из ленты «"+n+"»",text:"Так выглядит краткое описание. Настоящие карточки подтянутся из RSS.",img:"",t:new Date(Date.now()-i*47*6e4),link:"#"}));
+
+async function get(id){
+ if(id!=="all"){const s=SOURCES.find(x=>x.id===id);try{return[await loadOne(s),false]}catch(e){return[sample(s.name),true]}}
+ const rs=await Promise.allSettled(SOURCES.slice(1).map(loadOne));
+ const ok=rs.filter(r=>r.status==="fulfilled").flatMap(r=>r.value);
+ return ok.length?[ok.sort((a,b)=>b.t-a.t).slice(0,30),false]:[SOURCES.slice(1,4).flatMap(s=>sample(s.name).slice(0,3)),true];
+}
+const card=(n,i)=>`<a class="card glass enter${i?"":" hero"}" style="--i:${i}" href="${esc(safe(n.link))}" target="_blank" rel="noopener">${n.img?`<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">`:""}<div class="tx"><div class="meta"><span class="chip">${esc(n.src)}</span><span>${ago(n.t)}</span></div><h3>${esc(n.title)}</h3>${n.text?`<p>${esc(n.text)}</p>`:""}</div></a>`;
+
+function mark(){
+ tabs.querySelectorAll("button").forEach(b=>{
+  const on=b.dataset.id===cur;b.classList.toggle("on",on);
+  if(on){pill.style.width=b.offsetWidth+"px";pill.style.transform="translateX("+b.offsetLeft+"px)";tabs.scrollTo({left:b.offsetLeft-tabs.clientWidth/2+b.offsetWidth/2,behavior:"smooth"})}
+ });
+}
+async function show(id){
+ cur=id;const my=++tok;mark();
+ let res=null;const p=get(id).then(x=>res=x);
+ g.classList.add("out");await wait(200);
+ if(my!==tok)return;
+ if(!res){g.innerHTML=Array.from({length:6},()=>'<div class="card glass sk"></div>').join("");g.classList.remove("out");await p;if(my!==tok)return}
+ $("#st").textContent=res[1]?"Не удалось загрузить ленту. Показаны демо-карточки: проверь ключ rss2json и ссылки на RSS.":"";
+ g.innerHTML=res[0].map(card).join("");
+ g.classList.remove("out");
+}
+SOURCES.forEach(s=>{const b=document.createElement("button");b.textContent=s.name;b.dataset.id=s.id;b.onclick=()=>{if(s.id!==cur)show(s.id)};tabs.append(b)});
+
+document.addEventListener("pointermove",e=>{const c=e.target.closest&&e.target.closest(".glass");if(!c)return;const r=c.getBoundingClientRect();c.style.setProperty("--mx",e.clientX-r.left+"px");c.style.setProperty("--my",e.clientY-r.top+"px")});
+const tick=()=>{$("#clock").textContent=new Date().toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"})};tick();setInterval(tick,3e4);
+$("#re").onclick=function(){for(const k in cache)delete cache[k];this.classList.add("spin");show(cur)};
+$("#re").addEventListener("animationend",e=>e.target.classList.remove("spin"));
+addEventListener("resize",mark);
+show("all");
+</script>
+</body>
+</html>
