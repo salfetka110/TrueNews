@@ -1,94 +1,141 @@
-<!doctype html>
+!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>TrueNews — Новости без лишнего</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TrueNews</title>
 <style>
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-height:100vh;color:#f5f5f7;background:#0d1015;font-family:Georgia,'Times New Roman',serif;overflow-x:hidden}body:before{content:"";position:fixed;inset:-35px;z-index:-2;background:radial-gradient(circle at 15% 5%,#4a535e,transparent 28%),radial-gradient(circle at 95% 35%,#51463d,transparent 30%),url('https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1800&q=85') center/cover;filter:blur(30px) brightness(.35)}body:after{content:"";position:fixed;inset:0;z-index:-1;background:linear-gradient(#0b0e1380,#0b0e13c9)}
-header{position:sticky;top:0;z-index:20;padding:10px 14px 0}.glass{max-width:1100px;margin:auto;background:#242a33b8;border:1px solid #ffffff28;border-radius:28px;overflow:hidden;backdrop-filter:blur(28px) saturate(150%);-webkit-backdrop-filter:blur(28px) saturate(150%);box-shadow:0 16px 50px #0006}.topline{height:92px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:0 26px}.logo{font-size:39px;font-weight:800;letter-spacing:-2px;white-space:nowrap}.icon{border:0;background:none;color:#fff;font-size:35px;cursor:pointer}.left{justify-self:start}.right{justify-self:end}nav{display:flex;gap:8px;overflow-x:auto;border-top:1px solid #ffffff1c;padding:0 12px;scrollbar-width:none}nav::-webkit-scrollbar{display:none}nav button{position:relative;flex:1;min-width:max-content;padding:22px 18px 24px;background:none;border:0;color:#c7cbd2;font:700 21px Georgia,serif;cursor:pointer;transition:color .3s}nav button:after{content:"";position:absolute;left:20%;right:20%;bottom:0;height:3px;border-radius:8px;background:#b7e2ff;transform:scaleX(0);transition:transform .3s}nav button.active{color:#fff}nav button.active:after{transform:scaleX(1)}
-main{max-width:920px;margin:26px auto;padding:0 20px 50px}.status{display:flex;align-items:center;gap:9px;color:#d1d5dc;font:14px Arial,sans-serif;margin:0 0 17px 5px}.status i{width:9px;height:9px;border-radius:50%;background:#5fe18a;box-shadow:0 0 0 5px #5fe18a20}.status button{margin-left:auto;border:1px solid #ffffff2d;border-radius:999px;padding:9px 14px;background:#ffffff12;color:#fff;cursor:pointer;font:14px Arial,sans-serif}.status button:disabled{opacity:.5}.feed{display:flex;flex-direction:column;gap:22px}.card{position:relative;min-height:310px;overflow:hidden;border-radius:27px;border:1px solid #ffffff28;isolation:isolate;cursor:pointer;box-shadow:0 14px 38px #0006;transition:transform .3s,box-shadow .3s}.card:hover{transform:translateY(-3px);box-shadow:0 20px 48px #0009}.card:before{content:"";position:absolute;inset:0;z-index:-2;background:var(--image) center/cover;filter:brightness(.62);transition:transform .5s,filter .5s}.card:hover:before{transform:scale(1.04);filter:brightness(.72)}.card:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,#00000005 5%,#05080d28 35%,#05080df2 100%)}.card-inner{min-height:310px;padding:90px 40px 30px;display:flex;flex-direction:column;justify-content:flex-end}.category{color:#ff5360;font-size:17px;font-weight:700;text-transform:uppercase;letter-spacing:.2px;margin-bottom:12px}.card h2{margin:0 0 20px;font-size:32px;line-height:1.12;text-shadow:0 2px 14px #0009}.meta{display:flex;gap:18px;color:#c4c9d1;font:16px Arial,sans-serif}.empty,.loader{padding:45px;text-align:center;border:1px solid #ffffff25;border-radius:24px;background:#202631b8}.more{display:flex;justify-content:center;padding:25px}.more button{padding:13px 24px;border:1px solid #ffffff2d;border-radius:999px;background:#ffffff12;color:white;cursor:pointer}.modal{position:fixed;inset:0;z-index:50;display:none;align-items:center;justify-content:center;padding:16px;background:#000b;backdrop-filter:blur(10px)}.modal.open{display:flex}.article{position:relative;width:min(850px,100%);max-height:90vh;overflow:auto;padding:34px;border:1px solid #ffffff2b;border-radius:26px;background:linear-gradient(145deg,#292f39,#11151c);box-shadow:0 25px 80px #000c}.close{position:absolute;right:17px;top:14px;width:42px;height:42px;border-radius:50%;border:1px solid #ffffff2b;background:#ffffff12;color:#fff;font-size:28px;cursor:pointer}.article h1{font-size:38px;line-height:1.12;margin:12px 45px 18px 0}.article-body{font-size:19px;line-height:1.65;color:#e1e5eb}.article-body p{margin:0 0 18px}.article-note{margin-top:25px;padding-top:15px;border-top:1px solid #ffffff22;color:#949daa;font:13px Arial,sans-serif}footer{text-align:center;color:#8e96a3;font:14px Arial,sans-serif;padding:30px 20px 55px}
-@media(max-width:650px){header{padding:7px 8px 0}.glass{border-radius:22px}.topline{height:82px;padding:0 17px}.logo{font-size:31px;letter-spacing:-1.7px}.icon{font-size:29px}nav button{font-size:18px;padding:18px 14px 20px}main{padding:0 10px 35px;margin-top:20px}.feed{gap:17px}.card{min-height:300px;border-radius:23px}.card-inner{min-height:300px;padding:80px 25px 24px}.category{font-size:15px}.card h2{font-size:27px}.meta{font-size:14px}.article{padding:26px 22px;border-radius:22px}.article h1{font-size:29px}.article-body{font-size:17px}}
-</style></head>
-<body>
-<header><div class="glass"><div class="topline"><button class="icon left" aria-label="Меню">☰</button><div class="logo">TrueNews</div><button class="icon right" aria-label="Поиск">⌕</button></div><nav><button class="active" data-cat="main">Главное</button><button data-cat="politics">Политика</button><button data-cat="sport">Спорт</button><button data-cat="petersburg">Санкт-Петербург</button></nav></div></header>
-<main><div class="status"><i></i><span id="status">Последние события</span><button id="refresh" type="button">↻ Обновить</button></div><section id="feed" class="feed"><div class="loader">Загружаем новости…</div></section><div id="more" class="more"></div></main><footer>TrueNews — новости без лишнего</footer>
-<div id="modal" class="modal"><article class="article"><button class="close" onclick="closeArticle()">×</button><div class="category">TrueNews</div><img id="article-image" alt="" style="width:100%;max-height:360px;object-fit:cover;border-radius:18px;margin:10px 0 22px"><h1 id="title"></h1><div class="meta" id="meta"></div><div class="article-body" id="body"></div><div class="article-note">Материал подготовлен редакцией TrueNews. Информация может уточняться по мере поступления новых данных.</div></article></div>
-<script>
-const imageSets={
-  politics:['https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=85'],
-  sport:['https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1579952363873-27f3bede9f55?auto=format&fit=crop&w=1400&q=85'],
-  technology:['https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=85'],
-  business:['https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1400&q=85'],
-  general:['https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1400&q=85','https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1400&q=85']
-};
-function hashText(s){let h=0;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return h}
-function imageFor(n){
-  if(n.image) return n.image;
-  const t=(n.title+' '+clean(n.description)).toLowerCase();
-  let group='general';
-  if(/футбол|хоккей|спорт|матч|турнир|чемпион|олимп|теннис|бой/.test(t))group='sport';
-  else if(/технолог|ии|искусственн|смартфон|компьютер|робот|науч|космос/.test(t))group='technology';
-  else if(/деньг|эконом|бизнес|банк|рынок|акци|инвест|цена|доллар|евро/.test(t))group='business';
-  else if(/президент|правитель|министр|парламент|политик|закон|выбор|премьер|переговор/.test(t))group='politics';
-  const set=imageSets[group];
-  return set[hashText(n.title||'')%set.length];
-}
-const keys={politics:['политик','президент','правитель','государ','мид','министр','парламент','дума','закон','выбор','премьер'],sport:['спорт','футбол','хоккей','теннис','матч','турнир','чемпион','олимп','гол','бой','nba','ufc'],petersburg:['санкт-петербург','санкт петербург','петербург','ленинградск','фонтанка','мойка78','78.ru','петербурж']};
-let news=[],cat='main',shown=0,step=8;
-const $=id=>document.getElementById(id);const clean=s=>{const d=document.createElement('div');d.innerHTML=s||'';return(d.textContent||'').replace(/\s+/g,' ').trim()};const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function match(n,c){if(c==='main')return true;let t=(n.title+' '+clean(n.description)+' '+(n.source||'')).toLowerCase();return keys[c].some(k=>t.includes(k))}
-function list(){return news.filter(n=>match(n,cat))}function categoryName(){return{main:'Главное',politics:'Политика',sport:'Спорт',petersburg:'Санкт-Петербург'}[cat]}
-let searchQuery='';
-function applySearch(list){
-  const q=searchQuery.trim().toLocaleLowerCase('ru-RU');
-  if(!q) return list;
-  return list.filter(n=>[n.title,n.description,n.ai_article,n.source,n.category].filter(Boolean).join(' ').toLocaleLowerCase('ru-RU').includes(q));
-}
-function setupSearch(){
-  const input=document.querySelector('input[type="search"], #search, .search input');
-  if(!input || input.dataset.truenewsSearchBound) return;
-  input.dataset.truenewsSearchBound='1';
-  input.addEventListener('input',()=>{searchQuery=input.value||''; if(typeof render==='function') render();});
-}
-function render(){
-  let a=applySearch(list()),f=$('feed');
-  if(shown===0)f.innerHTML='';
-  if(!a.length){f.innerHTML='<div class="empty"><div class="category">'+categoryName()+'</div><h2>В этой категории пока нет новостей</h2><p>Попробуйте выбрать другую вкладку.</p></div>';return}
-  let end=Math.min(shown+step,a.length);
-  for(let i=shown;i<end;i++){
-    let n=a[i],d=n.pub?new Date(n.pub):new Date(),card=document.createElement('article');
-    card.className='card';card.style.setProperty('--image',`url("${imageFor(n)}")`);
-    card.innerHTML=`<div class="card-inner"><div class="category">${esc(n.source||categoryName())}</div><h2>${esc(n.title||'Без заголовка')}</h2><div class="meta"><span>◷ ${isNaN(d)?'':d.toLocaleDateString('ru-RU',{day:'2-digit',month:'2-digit'})} ${isNaN(d)?'':d.toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'})}</span><span>◉ TrueNews</span></div></div>`;
-    card.onclick=()=>openArticle(n);f.appendChild(card)
-  }
-  shown=end;
-  $('more').innerHTML='';
-  if(shown<a.length){$('more').innerHTML='<div class="loader">Прокрутите ниже, чтобы загрузить ещё новости…</div>'}
-  else if(a.length){$('more').innerHTML='<div class="loader">Вы просмотрели все доступные новости. Нажмите «Обновить» для новых публикаций.</div>'}
-}
-function loadMore(){
-  const before=shown;render();
-  if(shown===before && applySearch(list()).length) load();
-}
-async function load(){try{let r=await fetch('news.json?ts='+Date.now(),{cache:'no-store'});let d=await r.json();news=Array.isArray(d.news)?d.news:[];$('status').textContent='Последние события · '+news.length+' материалов';shown=0;render()}catch(e){$('feed').innerHTML='<div class="empty"><h2>Не удалось загрузить новости</h2><p>Проверьте наличие файла news.json.</p></div>'}}
-$('refresh').onclick=async()=>{const b=$('refresh');b.disabled=true;b.textContent='↻ Обновляем…';await load();b.disabled=false;b.textContent='↻ Обновить'};
-const sentinel=new IntersectionObserver(entries=>{if(entries[0].isIntersecting && shown<applySearch(list()).length)render()},{rootMargin:'500px'});sentinel.observe($('more'));
-document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{cat=b.dataset.cat;shown=0;$('refresh').onclick=async()=>{const b=$('refresh');b.disabled=true;b.textContent='↻ Обновляем…';await load();b.disabled=false;b.textContent='↻ Обновить'};
-const sentinel=new IntersectionObserver(entries=>{if(entries[0].isIntersecting && shown<applySearch(list()).length)render()},{rootMargin:'500px'});sentinel.observe($('more'));
-document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('active',x===b));render();scrollTo({top:0,behavior:'smooth'})});
-function openArticle(n){
-  $('title').textContent=n.title||'Новость TrueNews';
-  $('article-image').src=imageFor(n);
-  let d=n.pub?new Date(n.pub):new Date();
-  $('meta').textContent=(isNaN(d)?'':d.toLocaleString('ru-RU'))+' · '+(n.source||'редакция TrueNews');
-  let article=n.ai_article&&String(n.ai_article).trim()
-    ? String(n.ai_article).trim()
-    : '<p>'+esc(clean(n.description)||'Для этой новости пока нет расширенного материала.')+'</p><p class="article-note">ИИ-статья ещё не подготовлена. Попробуйте открыть материал после обновления.</p>';
-  article=article.replace(/```html|```/g,'');
-  $('body').innerHTML=article;
-  $('modal').classList.add('open');
-  document.body.style.overflow='hidden';
-}function closeArticle(){$('modal').classList.remove('open');document.body.style.overflow=''}$('modal').onclick=e=>{if(e.target===$('modal'))closeArticle()};document.onkeydown=e=>{if(e.key==='Escape')closeArticle()};load();setInterval(load,1800000);
-</script></body></html>
+:root{--text:#f5f7ff;--muted:rgba(245,247,255,.7);--line:rgba(255,255,255,.24);--r:26px}
+*{box-sizing:border-box;margin:0}
+html{color-scheme:dark;background:#070912}
+body{min-height:100vh;font:16px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Display",Inter,"Segoe UI",system-ui,sans-serif;color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+.bg{position:fixed;inset:0;z-index:-1;overflow:hidden}
+.bg i{position:absolute;border-radius:50%;filter:blur(60px);opacity:.7;animation:drift 24s ease-in-out infinite alternate}
+.bg i:nth-child(1){width:60vmax;height:60vmax;background:#4a5cff;top:-22vmax;left:-18vmax}
+.bg i:nth-child(2){width:55vmax;height:55vmax;background:#ff5c8a;bottom:-24vmax;right:-16vmax;animation-delay:-9s}
+.bg i:nth-child(3){width:36vmax;height:36vmax;background:#2fe0d0;top:38%;left:40%;opacity:.45;animation-delay:-15s}
+@keyframes drift{to{transform:translate(14vmax,9vmax) scale(1.18)}}
 
-window.addEventListener('DOMContentLoaded',setupSearch);
+.glass{position:relative;background:linear-gradient(135deg,rgba(255,255,255,.15),rgba(255,255,255,.04));-webkit-backdrop-filter:blur(22px) saturate(180%);backdrop-filter:blur(22px) saturate(180%);border:1px solid var(--line);border-radius:var(--r);box-shadow:inset 0 1px 0 rgba(255,255,255,.5),inset 0 -1px 0 rgba(255,255,255,.08),0 12px 40px rgba(0,0,0,.35)}
+.glass::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;background:radial-gradient(260px circle at var(--mx,50%) var(--my,0%),rgba(255,255,255,.24),transparent 62%);opacity:0;transition:opacity .3s}
+.glass:hover::after{opacity:1}
+
+.wrap{max-width:1032px;margin:0 auto;padding:calc(10px + env(safe-area-inset-top,0px)) 16px calc(120px + env(safe-area-inset-bottom,0px))}
+header.glass{position:sticky;top:calc(10px + env(safe-area-inset-top,0px));z-index:5;display:flex;align-items:center;gap:12px;padding:10px 12px 10px 20px;border-radius:99px;margin-bottom:20px}
+.logo{flex:1;display:flex;align-items:center;gap:9px;font-size:19px;font-weight:750;letter-spacing:-.02em}
+.dot{width:9px;height:9px;border-radius:50%;background:#46f0a0;animation:pulse 2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(70,240,160,.7)}70%,100%{box-shadow:0 0 0 9px rgba(70,240,160,0)}}
+#clock{font-size:14px;color:var(--muted);font-variant-numeric:tabular-nums}
+#re{width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:rgba(255,255,255,.12);color:var(--text);font-size:18px;cursor:pointer}
+#re.spin{animation:spin .7s cubic-bezier(.3,1.3,.4,1)}
+@keyframes spin{to{transform:rotate(360deg)}}
+#st{font-size:13px;color:var(--muted);margin:0 8px 14px}
+#st:empty{display:none}
+
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;transition:opacity .2s,transform .2s}
+#grid.out{opacity:0;transform:scale(.98)}
+.card{display:flex;flex-direction:column;gap:12px;padding:16px;color:inherit;text-decoration:none;transition:transform .25s cubic-bezier(.3,1.4,.4,1)}
+.card:active{transform:scale(.985)}
+.card img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px}
+.tx{display:flex;flex-direction:column;gap:10px}
+.meta{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted)}
+.chip{padding:3px 11px;border-radius:99px;background:rgba(255,255,255,.16);border:1px solid var(--line);font-weight:650;color:var(--text)}
+.card h3{font-size:17px;line-height:1.28;font-weight:680;letter-spacing:-.01em}
+.card p{font-size:14px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.hero{grid-column:1/-1}
+.hero h3{font-size:clamp(23px,4.2vw,34px);line-height:1.15;letter-spacing:-.025em}
+.hero p{font-size:15px}
+@media(min-width:720px){.hero{flex-direction:row;align-items:center;gap:24px;padding:20px}.hero img{width:46%;flex:none}.hero .tx{gap:14px}}
+.enter{animation:in .55s cubic-bezier(.2,.9,.3,1) both;animation-delay:calc(var(--i)*55ms)}
+@keyframes in{from{opacity:0;transform:translateY(22px) scale(.97)}}
+.sk{height:190px;overflow:hidden}
+.sk::before{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 30%,rgba(255,255,255,.14) 50%,transparent 70%);transform:translateX(-100%);animation:sh 1.3s infinite}
+@keyframes sh{to{transform:translateX(100%)}}
+
+nav.glass{position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);display:flex;gap:2px;padding:6px;max-width:calc(100% - 24px);overflow-x:auto;scrollbar-width:none;border-radius:99px;z-index:6}
+nav::-webkit-scrollbar{display:none}
+nav button{position:relative;z-index:1;background:none;border:0;color:var(--muted);font:inherit;font-size:14.5px;font-weight:620;padding:10px 17px;border-radius:99px;cursor:pointer;white-space:nowrap;transition:color .3s}
+nav button.on{color:#fff}
+.pill{position:absolute;top:6px;bottom:6px;left:0;width:0;border-radius:99px;background:rgba(255,255,255,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.65),0 4px 18px rgba(0,0,0,.3);transition:transform .55s cubic-bezier(.3,1.45,.4,1),width .55s cubic-bezier(.3,1.45,.4,1)}
+a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
+@media(prefers-reduced-motion:reduce){*,::before,::after{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="bg"><i></i><i></i><i></i></div>
+<div class="wrap">
+  <header class="glass">
+    <div class="logo"><span class="dot"></span>TrueNews</div>
+    <span id="clock"></span>
+    <button id="re" aria-label="Обновить ленту">↻</button>
+  </header>
+  <p id="st"></p>
+  <main id="grid"></main>
+</div>
+<nav id="tabs" class="glass" aria-label="Источники"><span class="pill"></span></nav>
+
+<script>
+// Вставь свой ключ rss2json и ссылки на ленты из прежней версии сайта
+const KEY="";
+const SOURCES=[
+ {id:"all",name:"Все"},
+ {id:"rbc",name:"РБК",url:"https://rssexport.rbc.ru/rbcnews/news/30/full.rss"},
+ {id:"fon",name:"Фонтанка",url:"https://www.fontanka.ru/fontanka.rss"},
+ {id:"rt",name:"RT",url:"https://russian.rt.com/rss"},
+ {id:"dzen",name:"Дзен",url:"https://dzen.ru/news/rss"},
+ {id:"cnn",name:"CNN",url:"http://rss.cnn.com/rss/edition.rss"}
+];
+const $=s=>document.querySelector(s),g=$("#grid"),tabs=$("#tabs"),pill=tabs.querySelector(".pill");
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe=u=>/^https?:\/\//.test(u)?u:"#";
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+const ago=d=>{const m=Math.round((Date.now()-d)/6e4);if(isNaN(m))return"";if(m<1)return"только что";if(m<60)return m+" мин назад";const h=Math.round(m/60);return h<24?h+" ч назад":Math.round(h/24)+" дн назад"};
+const cache={};let cur="all",tok=0;
+
+async function loadOne(s){
+ if(cache[s.id])return cache[s.id];
+ const r=await fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(s.url)+(KEY?"&api_key="+KEY:""));
+ const j=await r.json();
+ if(j.status!=="ok")throw new Error(j.message||"rss");
+ return cache[s.id]=j.items.slice(0,20).map(it=>({src:s.name,title:it.title,link:it.link,
+  text:(it.description||"").replace(/<[^>]*>/g," ").replace(/\s+/g," ").trim(),
+  img:it.thumbnail||(it.enclosure&&/image/.test(it.enclosure.type||"")?it.enclosure.link:""),
+  t:new Date((it.pubDate||"").replace(" ","T")+"Z")}));
+}
+const sample=n=>Array.from({length:6},(_,i)=>({src:n,title:"Здесь появится заголовок новости из ленты «"+n+"»",text:"Так выглядит краткое описание. Настоящие карточки подтянутся из RSS.",img:"",t:new Date(Date.now()-i*47*6e4),link:"#"}));
+
+async function get(id){
+ if(id!=="all"){const s=SOURCES.find(x=>x.id===id);try{return[await loadOne(s),false]}catch(e){return[sample(s.name),true]}}
+ const rs=await Promise.allSettled(SOURCES.slice(1).map(loadOne));
+ const ok=rs.filter(r=>r.status==="fulfilled").flatMap(r=>r.value);
+ return ok.length?[ok.sort((a,b)=>b.t-a.t).slice(0,30),false]:[SOURCES.slice(1,4).flatMap(s=>sample(s.name).slice(0,3)),true];
+}
+const card=(n,i)=>`<a class="card glass enter${i?"":" hero"}" style="--i:${i}" href="${esc(safe(n.link))}" target="_blank" rel="noopener">${n.img?`<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">`:""}<div class="tx"><div class="meta"><span class="chip">${esc(n.src)}</span><span>${ago(n.t)}</span></div><h3>${esc(n.title)}</h3>${n.text?`<p>${esc(n.text)}</p>`:""}</div></a>`;
+
+function mark(){
+ tabs.querySelectorAll("button").forEach(b=>{
+  const on=b.dataset.id===cur;b.classList.toggle("on",on);
+  if(on){pill.style.width=b.offsetWidth+"px";pill.style.transform="translateX("+b.offsetLeft+"px)";tabs.scrollTo({left:b.offsetLeft-tabs.clientWidth/2+b.offsetWidth/2,behavior:"smooth"})}
+ });
+}
+async function show(id){
+ cur=id;const my=++tok;mark();
+ let res=null;const p=get(id).then(x=>res=x);
+ g.classList.add("out");await wait(200);
+ if(my!==tok)return;
+ if(!res){g.innerHTML=Array.from({length:6},()=>'<div class="card glass sk"></div>').join("");g.classList.remove("out");await p;if(my!==tok)return}
+ $("#st").textContent=res[1]?"Не удалось загрузить ленту. Показаны демо-карточки: проверь ключ rss2json и ссылки на RSS.":"";
+ g.innerHTML=res[0].map(card).join("");
+ g.classList.remove("out");
+}
+SOURCES.forEach(s=>{const b=document.createElement("button");b.textContent=s.name;b.dataset.id=s.id;b.onclick=()=>{if(s.id!==cur)show(s.id)};tabs.append(b)});
+
+document.addEventListener("pointermove",e=>{const c=e.target.closest&&e.target.closest(".glass");if(!c)return;const r=c.getBoundingClientRect();c.style.setProperty("--mx",e.clientX-r.left+"px");c.style.setProperty("--my",e.clientY-r.top+"px")});
+const tick=()=>{$("#clock").textContent=new Date().toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"})};tick();setInterval(tick,3e4);
+$("#re").onclick=function(){for(const k in cache)delete cache[k];this.classList.add("spin");show(cur)};
+$("#re").addEventListener("animationend",e=>e.target.classList.remove("spin"));
+addEventListener("resize",mark);
+show("all");
+</script>
+</body>
+</html>
