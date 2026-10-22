@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="utf-8">
@@ -75,40 +75,42 @@ a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
 <nav id="tabs" class="glass" aria-label="Источники"><span class="pill"></span></nav>
 
 <script>
-// Вставь свой ключ rss2json и ссылки на ленты из прежней версии сайта
-const KEY="";
+// Новости берутся из news.json, который обновляет GitHub Actions
+const DATA="news.json";
 const SOURCES=[
  {id:"all",name:"Все"},
- {id:"rbc",name:"РБК",url:"https://rssexport.rbc.ru/rbcnews/news/30/full.rss"},
- {id:"fon",name:"Фонтанка",url:"https://www.fontanka.ru/fontanka.rss"},
- {id:"rt",name:"RT",url:"https://russian.rt.com/rss"},
- {id:"dzen",name:"Дзен",url:"https://dzen.ru/news/rss"},
- {id:"cnn",name:"CNN",url:"http://rss.cnn.com/rss/edition.rss"}
+ {id:"rbc",name:"РБК"},
+ {id:"fon",name:"Фонтанка"},
+ {id:"rt",name:"RT"},
+ {id:"dzen",name:"Дзен"},
+ {id:"cnn",name:"CNN"}
 ];
 const $=s=>document.querySelector(s),g=$("#grid"),tabs=$("#tabs"),pill=tabs.querySelector(".pill");
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const safe=u=>/^https?:\/\//.test(u)?u:"#";
 const wait=ms=>new Promise(r=>setTimeout(r,ms));
 const ago=d=>{const m=Math.round((Date.now()-d)/6e4);if(isNaN(m))return"";if(m<1)return"только что";if(m<60)return m+" мин назад";const h=Math.round(m/60);return h<24?h+" ч назад":Math.round(h/24)+" дн назад"};
-const cache={};let cur="all",tok=0;
+let cur="all",tok=0;
 
-async function loadOne(s){
- if(cache[s.id])return cache[s.id];
- const r=await fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(s.url)+(KEY?"&api_key="+KEY:""));
+let DB=null;
+async function loadDB(){
+ if(DB)return DB;
+ const r=await fetch(DATA+"?v="+Date.now(),{cache:"no-store"});
+ if(!r.ok)throw new Error("news.json "+r.status);
  const j=await r.json();
- if(j.status!=="ok")throw new Error(j.message||"rss");
- return cache[s.id]=j.items.slice(0,20).map(it=>({src:s.name,title:it.title,link:it.link,
-  text:(it.description||"").replace(/<[^>]*>/g," ").replace(/\s+/g," ").trim(),
-  img:it.thumbnail||(it.enclosure&&/image/.test(it.enclosure.type||"")?it.enclosure.link:""),
-  t:new Date((it.pubDate||"").replace(" ","T")+"Z")}));
+ return DB=(j.items||[]).map(x=>({...x,t:new Date(x.t)}));
 }
 const sample=n=>Array.from({length:6},(_,i)=>({src:n,title:"Здесь появится заголовок новости из ленты «"+n+"»",text:"Так выглядит краткое описание. Настоящие карточки подтянутся из RSS.",img:"",t:new Date(Date.now()-i*47*6e4),link:"#"}));
 
 async function get(id){
- if(id!=="all"){const s=SOURCES.find(x=>x.id===id);try{return[await loadOne(s),false]}catch(e){return[sample(s.name),true]}}
- const rs=await Promise.allSettled(SOURCES.slice(1).map(loadOne));
- const ok=rs.filter(r=>r.status==="fulfilled").flatMap(r=>r.value);
- return ok.length?[ok.sort((a,b)=>b.t-a.t).slice(0,30),false]:[SOURCES.slice(1,4).flatMap(s=>sample(s.name).slice(0,3)),true];
+ try{
+  const all=await loadDB();
+  const list=(id==="all"?all:all.filter(x=>x.id===id)).slice().sort((a,b)=>b.t-a.t).slice(0,30);
+  if(!list.length)throw new Error("empty");
+  return[list,false];
+ }catch(e){
+  return[id==="all"?SOURCES.slice(1,4).flatMap(s=>sample(s.name).slice(0,3)):sample(SOURCES.find(x=>x.id===id).name),true];
+ }
 }
 const card=(n,i)=>`<a class="card glass enter${i?"":" hero"}" style="--i:${i}" href="${esc(safe(n.link))}" target="_blank" rel="noopener">${n.img?`<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">`:""}<div class="tx"><div class="meta"><span class="chip">${esc(n.src)}</span><span>${ago(n.t)}</span></div><h3>${esc(n.title)}</h3>${n.text?`<p>${esc(n.text)}</p>`:""}</div></a>`;
 
@@ -124,7 +126,7 @@ async function show(id){
  g.classList.add("out");await wait(200);
  if(my!==tok)return;
  if(!res){g.innerHTML=Array.from({length:6},()=>'<div class="card glass sk"></div>').join("");g.classList.remove("out");await p;if(my!==tok)return}
- $("#st").textContent=res[1]?"Не удалось загрузить ленту. Показаны демо-карточки: проверь ключ rss2json и ссылки на RSS.":"";
+ $("#st").textContent=res[1]?"Не удалось загрузить ленту. Показаны демо-карточки: news.json пока не найден или пуст. Запусти workflow в Actions.":"";
  g.innerHTML=res[0].map(card).join("");
  g.classList.remove("out");
 }
@@ -132,11 +134,10 @@ SOURCES.forEach(s=>{const b=document.createElement("button");b.textContent=s.nam
 
 document.addEventListener("pointermove",e=>{const c=e.target.closest&&e.target.closest(".glass");if(!c)return;const r=c.getBoundingClientRect();c.style.setProperty("--mx",e.clientX-r.left+"px");c.style.setProperty("--my",e.clientY-r.top+"px")});
 const tick=()=>{$("#clock").textContent=new Date().toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"})};tick();setInterval(tick,3e4);
-$("#re").onclick=function(){for(const k in cache)delete cache[k];this.classList.add("spin");show(cur)};
+$("#re").onclick=function(){DB=null;this.classList.add("spin");show(cur)};
 $("#re").addEventListener("animationend",e=>e.target.classList.remove("spin"));
 addEventListener("resize",mark);
 show("all");
 </script>
 </body>
 </html>
- 
