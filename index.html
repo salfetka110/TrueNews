@@ -77,14 +77,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
 <script>
 // Новости берутся из news.json, который обновляет GitHub Actions
 const DATA="news.json";
-const SOURCES=[
- {id:"all",name:"Все"},
- {id:"rbc",name:"РБК"},
- {id:"fon",name:"Фонтанка"},
- {id:"rt",name:"RT"},
- {id:"dzen",name:"Дзен"},
- {id:"cnn",name:"CNN"}
-];
+const SOURCES=[{id:"all",name:"Все"}];
 const $=s=>document.querySelector(s),g=$("#grid"),tabs=$("#tabs"),pill=tabs.querySelector(".pill");
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const safe=u=>/^https?:\/\//.test(u)?u:"#";
@@ -93,12 +86,19 @@ const ago=d=>{const m=Math.round((Date.now()-d)/6e4);if(isNaN(m))return"";if(m<1
 let cur="all",tok=0;
 
 let DB=null;
+const strip=t=>String(t||"").replace(/<[^>]*>/g," ").replace(/&nbsp;/g," ").replace(/\s+/g," ").trim();
 async function loadDB(){
  if(DB)return DB;
  const r=await fetch(DATA+"?v="+Date.now(),{cache:"no-store"});
  if(!r.ok)throw new Error("news.json "+r.status);
  const j=await r.json();
- return DB=(j.items||[]).map(x=>({...x,t:new Date(x.t)}));
+ DB=(j.news||j.items||[]).map(x=>{
+  const src=x.source||x.src||"";let title=strip(x.title);
+  if(src&&title.endsWith(" - "+src))title=title.slice(0,-(src.length+3));
+  return{id:src,src,title,link:x.link,text:"",img:x.img||"",t:new Date(x.pub||x.t)};
+ });
+ buildTabs(DB);
+ return DB;
 }
 const sample=n=>Array.from({length:6},(_,i)=>({src:n,title:"Здесь появится заголовок новости из ленты «"+n+"»",text:"Так выглядит краткое описание. Настоящие карточки подтянутся из RSS.",img:"",t:new Date(Date.now()-i*47*6e4),link:"#"}));
 
@@ -109,7 +109,7 @@ async function get(id){
   if(!list.length)throw new Error("empty");
   return[list,false];
  }catch(e){
-  return[id==="all"?SOURCES.slice(1,4).flatMap(s=>sample(s.name).slice(0,3)):sample(SOURCES.find(x=>x.id===id).name),true];
+  return[sample(id==="all"?"Новости":id),true];
  }
 }
 const card=(n,i)=>`<a class="card glass enter${i?"":" hero"}" style="--i:${i}" href="${esc(safe(n.link))}" target="_blank" rel="noopener">${n.img?`<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">`:""}<div class="tx"><div class="meta"><span class="chip">${esc(n.src)}</span><span>${ago(n.t)}</span></div><h3>${esc(n.title)}</h3>${n.text?`<p>${esc(n.text)}</p>`:""}</div></a>`;
@@ -126,11 +126,14 @@ async function show(id){
  g.classList.add("out");await wait(200);
  if(my!==tok)return;
  if(!res){g.innerHTML=Array.from({length:6},()=>'<div class="card glass sk"></div>').join("");g.classList.remove("out");await p;if(my!==tok)return}
- $("#st").textContent=res[1]?"Не удалось загрузить ленту. Показаны демо-карточки: news.json пока не найден или пуст. Запусти workflow в Actions.":"";
+ $("#st").textContent=res[1]?"Не удалось загрузить ленту. Показаны демо-карточки: не удалось прочитать news.json.":"";
  g.innerHTML=res[0].map(card).join("");
  g.classList.remove("out");
 }
-SOURCES.forEach(s=>{const b=document.createElement("button");b.textContent=s.name;b.dataset.id=s.id;b.onclick=()=>{if(s.id!==cur)show(s.id)};tabs.append(b)});
+function addTab(s){const b=document.createElement("button");b.textContent=s.name;b.dataset.id=s.id;b.onclick=()=>{if(s.id!==cur)show(s.id)};tabs.append(b)}
+addTab(SOURCES[0]);
+let built=false;
+function buildTabs(db){if(built)return;built=true;const c={};db.forEach(x=>c[x.src]=(c[x.src]||0)+1);Object.entries(c).sort((a,b)=>b[1]-a[1]).slice(0,7).forEach(([n])=>{const s={id:n,name:n};SOURCES.push(s);addTab(s)});mark()}
 
 document.addEventListener("pointermove",e=>{const c=e.target.closest&&e.target.closest(".glass");if(!c)return;const r=c.getBoundingClientRect();c.style.setProperty("--mx",e.clientX-r.left+"px");c.style.setProperty("--my",e.clientY-r.top+"px")});
 const tick=()=>{$("#clock").textContent=new Date().toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"})};tick();setInterval(tick,3e4);
