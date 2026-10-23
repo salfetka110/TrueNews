@@ -112,7 +112,7 @@ async function get(id){
   return[sample(id==="all"?"Новости":id),true];
  }
 }
-const card=(n,i)=>`<a class="card glass enter${i?"":" hero"}" style="--i:${i}" href="${esc(safe(n.link))}" target="_blank" rel="noopener">${n.img?`<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">`:""}<div class="tx"><div class="meta"><span class="chip">${esc(n.src)}</span><span>${ago(n.t)}</span></div><h3>${esc(n.title)}</h3>${n.text?`<p>${esc(n.text)}</p>`:""}</div></a>`;
+const card=(n,i)=>`<a class="card glass enter${i?"":" hero"}" style="--i:${i}" href="article.html?u=${encodeURIComponent(n.link)}" target="_blank" rel="noopener">${n.img?`<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">`:""}<div class="tx"><div class="meta"><span class="chip">${esc(n.src)}</span><span>${ago(n.t)}</span></div><h3>${esc(n.title)}</h3>${n.text?`<p>${esc(n.text)}</p>`:""}</div></a>`;
 
 function mark(){
  tabs.querySelectorAll("button").forEach(b=>{
