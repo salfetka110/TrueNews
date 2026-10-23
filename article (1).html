@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TrueNews — новость</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg1:#0d1322; --bg2:#1a2a49; --ink:#eef2fb; --mute:#a9b5cf;
+  --glass:rgba(255,255,255,.09); --line:rgba(255,255,255,.2); --acc:#86b9ff;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{
+  font-family:"Onest",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  color:var(--ink); min-height:100vh; line-height:1.65;
+  background:linear-gradient(160deg,var(--bg1),var(--bg2)) fixed;
+  padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0);
+}
+body::before,body::after{
+  content:""; position:fixed; z-index:-1; border-radius:50%; filter:blur(70px); opacity:.55;
+}
+body::before{width:46vmax;height:46vmax;left:-12vmax;top:-10vmax;background:#3d6bff}
+body::after{width:38vmax;height:38vmax;right:-10vmax;bottom:-10vmax;background:#19c3a6}
+.wrap{max-width:760px;margin:0 auto;padding:18px 16px 56px}
+.glass{
+  background:var(--glass); border:1px solid var(--line); border-radius:26px;
+  backdrop-filter:blur(26px) saturate(170%); -webkit-backdrop-filter:blur(26px) saturate(170%);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.28),0 18px 50px rgba(0,0,0,.28);
+}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px}
+.pill{
+  display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:999px;
+  color:var(--ink);text-decoration:none;font-weight:500;font-size:15px;cursor:pointer;border:1px solid var(--line);
+  background:var(--glass);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);font-family:inherit;
+  transition:transform .15s,background .15s;
+}
+.pill:hover{background:rgba(255,255,255,.16)}
+.pill:active{transform:scale(.97)}
+.brand{font-weight:800;letter-spacing:-.01em}
+article{padding:26px 22px 28px}
+.meta{display:flex;flex-wrap:wrap;gap:10px;align-items:center;color:var(--mute);font-size:14px;margin-bottom:14px}
+.src{padding:4px 12px;border-radius:999px;background:rgba(134,185,255,.18);color:var(--acc);font-weight:500}
+h1{font-size:clamp(26px,5.5vw,38px);line-height:1.18;letter-spacing:-.02em;margin:0 0 20px;font-weight:800;text-wrap:balance}
+.cover{width:100%;max-height:380px;object-fit:cover;border-radius:18px;margin:0 0 20px;display:block}
+.body p{margin:0 0 1em;font-size:17px;max-width:68ch}
+.note{margin:6px 0 22px;padding:12px 14px;border-radius:14px;background:rgba(255,255,255,.07);color:var(--mute);font-size:14.5px}
+.go{
+  display:inline-block;padding:14px 22px;border-radius:16px;font-weight:700;text-decoration:none;color:#08142b;
+  background:linear-gradient(135deg,#a9d0ff,#7fe3cf);box-shadow:0 8px 24px rgba(80,170,255,.35);
+  transition:transform .15s;
+}
+.go:active{transform:scale(.98)}
+.more{margin-top:22px;padding:20px 18px}
+.more h2{font-size:18px;margin:0 0 10px}
+.more a{display:block;padding:12px 0;color:var(--ink);text-decoration:none;border-top:1px solid var(--line);font-weight:500}
+.more a:first-of-type{border-top:0}
+.more a small{display:block;color:var(--mute);font-weight:400;margin-top:2px}
+.more a:hover{color:var(--acc)}
+.empty{padding:34px 22px;text-align:center}
+.pill:focus-visible,.go:focus-visible,.more a:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.rise{animation:rise .5s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.rise{animation:none}.pill,.go{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="bar">
+    <a class="pill" id="back" href="index.html">← Все новости</a>
+    <span class="brand">TrueNews</span>
+  </div>
+  <main id="app"></main>
+</div>
+
+<script>
+const app = document.getElementById('app');
+const params = new URLSearchParams(location.search);
+const wanted = params.get('u') || '';
+
+// ---- helpers ----
+function clean(html){
+  const d = new DOMParser().parseFromString(html || '', 'text/html');
+  return (d.body.textContent || '').replace(/\u00a0/g, ' ').replace(/[ \t]+/g, ' ').trim();
+}
+function flat(x, out = []){
+  if (Array.isArray(x)) x.forEach(i => flat(i, out));
+  else if (x && typeof x === 'object'){
+    if (x.title && (x.link || x.url)) out.push(x);
+    else Object.values(x).forEach(v => flat(v, out));
+  }
+  return out;
+}
+function norm(r){
+  const s = r.source;
+  return {
+    title: clean(r.title),
+    link: r.link || r.url || '',
+    body: clean(r.content || r.content_html || r.description || r.summary || ''),
+    date: r.pubDate || r.date || r.published || r.isoDate || '',
+    source: (s && typeof s === 'object') ? (s.name || s.title || '') : (s || r.feed || r.site || r.sourceName || ''),
+    image: r.thumbnail || r.image || (r.enclosure && (r.enclosure.link || r.enclosure.url)) || ''
+  };
+}
+function fmtDate(v){
+  if (!v) return '';
+  const d = new Date(String(v).replace(' ', 'T'));
+  return isNaN(d) ? '' : d.toLocaleString('ru-RU', {day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'});
+}
+function paragraphs(text){
+  if (text.includes('\n')) return text.split(/\n+/).filter(Boolean);
+  const s = text.split(/(?<=[.!?…])\s+/), out = [];
+  for (let i = 0; i < s.length; i += 3) out.push(s.slice(i, i + 3).join(' '));
+  return out;
+}
+function safeUrl(u){ return /^https?:\/\//i.test(u) ? u : ''; }
+function el(tag, props = {}, ...kids){
+  const e = document.createElement(tag);
+  Object.entries(props).forEach(([k, v]) => k === 'class' ? e.className = v : e.setAttribute(k, v));
+  kids.forEach(k => e.append(k));
+  return e;
+}
+function articleHref(link){ return 'article.html?u=' + encodeURIComponent(link); }
+
+// ---- render ----
+function render(item){
+  document.title = item.title + ' — TrueNews';
+  const date = fmtDate(item.date);
+  const meta = el('div', {class: 'meta'});
+  if (item.source) meta.append(el('span', {class: 'src'}, item.source));
+  if (date) meta.append(el('span', {}, date));
+
+  const card = el('article', {class: 'glass rise'}, meta, el('h1', {}, item.title));
+
+  const img = safeUrl(item.image);
+  if (img){
+    const im = el('img', {class: 'cover', src: img, alt: '', referrerpolicy: 'no-referrer'});
+    im.onerror = () => im.remove();
+    card.append(im);
+  }
+
+  const body = el('div', {class: 'body'});
+  const text = item.body && item.body !== item.title ? item.body : '';
+  if (text) paragraphs(text).forEach(p => body.append(el('p', {}, p)));
+  card.append(body);
+
+  if (!text || text.length < 200){
+    card.append(el('div', {class: 'note'}, 'Источник отдаёт в ленте только краткое описание. Полный текст — на сайте источника.'));
+  }
+
+  const link = safeUrl(item.link);
+  if (link) card.append(el('a', {class: 'go', href: link, target: '_blank', rel: 'noopener noreferrer'}, 'Читать полностью у источника'));
+
+  app.replaceChildren(card);
+}
+
+function renderMore(item, all){
+  const same = all.filter(n => n.link && n.link !== item.link && (!item.source || n.source === item.source)).slice(0, 5);
+  if (!same.length) return;
+  const box = el('section', {class: 'glass more rise'}, el('h2', {}, item.source ? 'Ещё из ' + item.source : 'Другие новости'));
+  same.forEach(n => {
+    const a = el('a', {href: articleHref(n.link)}, n.title);
+    const d = fmtDate(n.date);
+    if (d) a.append(el('small', {}, d));
+    a.addEventListener('click', () => {
+      try { localStorage.setItem('truenews:item:' + n.link, JSON.stringify(n)); } catch (e) {}
+    });
+    box.append(a);
+  });
+  app.append(box);
+}
+
+function notFound(){
+  app.replaceChildren(el('div', {class: 'glass empty rise'},
+    el('h1', {}, 'Новость не найдена'),
+    el('p', {}, 'Возможно, она уже пропала из ленты. Вернитесь на главную и откройте другую.'),
+    el('a', {class: 'pill', href: 'index.html'}, '← На главную')));
+}
+
+// ---- load ----
+(async function(){
+  if (!wanted){ notFound(); return; }
+
+  let item = null;
+  try {
+    const raw = localStorage.getItem('truenews:item:' + wanted);
+    if (raw) item = norm(JSON.parse(raw));
+  } catch (e) {}
+  if (item) render(item);
+
+  try {
+    const res = await fetch('news.json', {cache: 'no-store'});
+    const all = flat(await res.json()).map(norm);
+    if (!item){
+      const found = all.find(n => n.link === wanted);
+      if (found){ item = found; render(item); }
+    }
+    if (item) renderMore(item, all);
+  } catch (e) {}
+
+  if (!item) notFound();
+})();
+
+// "Back": close this tab if it was opened from the main page, otherwise go to index
+document.getElementById('back').addEventListener('click', e => {
+  if (window.opener){ e.preventDefault(); window.close(); }
+});
+</script>
+</body>
+</html>
