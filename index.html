@@ -61,6 +61,8 @@ header.searching #q{display:block}
 .hero h3{font-size:clamp(23px,4.2vw,34px);line-height:1.15;letter-spacing:-.025em}
 .hero p{font-size:15px}
 @media(min-width:720px){.hero{flex-direction:row;align-items:center;gap:24px;padding:20px}.hero img{width:46%;flex:none}.hero .tx{gap:14px}}
+#more{display:block;margin:22px auto 0;padding:13px 30px;border-radius:99px;color:var(--text);font:inherit;font-weight:650;cursor:pointer;border-width:1px}
+#more[hidden]{display:none}
 .enter{animation:in .55s cubic-bezier(.2,.9,.3,1) both;animation-delay:calc(var(--i)*55ms)}
 @keyframes in{from{opacity:0;transform:translateY(22px) scale(.97)}}
 .sk{height:190px;overflow:hidden}
@@ -88,6 +90,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
   </header>
   <p id="st"></p>
   <main id="grid"></main>
+  <button id="more" class="glass" hidden>Показать ещё</button>
 </div>
 <nav id="tabs" class="glass" aria-label="Категории"><span class="pill"></span></nav>
 
@@ -103,7 +106,7 @@ const RULES={
  culture:P(["театр","кино(?![а-я])","кинотеатр","фильм","музе[йяеюи]","выставк","концерт","музык","артист","актёр","актер","актрис","режисс","премьер(?!-министр)","книг","писател","фестивал","искусств","певец","певиц","сериал","балет","опер(?!атив|ац)","эрмитаж","картин","литератур","культур","галере","оскар","шоу(?![а-я])"]),
  sport:P(["футбол","хоккей","матч","чемпионат","турнир","олимпи","спортсмен","спорт(?![а-я])","теннис","баскетбол","зенит","спартак","цска","динамо","сборн","гонк","формул","биатлон","фигурист","кубок","тренер","волейбол","бокс","ufc","мма(?![а-я])","шайб","нхл","кхл","рпл","лига","чемпион"])
 };
-const SPB_SRC=["Фонтанка","78.ru","Мойка78","Петербургский дневник"];
+const SPB_SRC=["Фонтанка","78.ru","Мойка78","Петербургский дневник","Росбалт","Neva.Today"];
 function classify(x){
  const t=(x.title+" "+x.raw+" "+x.tags).toLowerCase(),c=[];
  for(const k in RULES)if(RULES[k].test(t))c.push(k);
@@ -144,7 +147,7 @@ async function get(id){
   let list;
   if(q){const ws=norm(q).split(/\s+/).filter(Boolean);list=all.filter(x=>ws.every(w=>x.hay.includes(w)))}
   else list=id==="all"?all:all.filter(x=>x.cats.includes(id));
-  list=list.slice().sort((a,b)=>b.t-a.t).slice(0,q?60:30);
+  list=list.slice().sort((a,b)=>b.t-a.t).slice(0,1000);
   return[list,list.length?false:(q?"none":"empty")];
  }catch(e){
   return[sample("Новости"),"err"];
@@ -165,9 +168,16 @@ async function show(id){
  if(my!==tok)return;
  if(!res){g.innerHTML=Array.from({length:6},()=>'<div class="card glass sk"></div>').join("");g.classList.remove("out");await p;if(my!==tok)return}
  $("#st").textContent=res[1]==="err"?"Не удалось загрузить ленту. Показаны демо-карточки: не удалось прочитать news.json.":res[1]==="empty"?"В этой категории пока нет свежих новостей.":res[1]==="none"?"Ничего не найдено по запросу «"+q+"»":q?"Найдено: "+res[0].length:"";
- g.innerHTML=res[0].map(card).join("");
+ LIST=res[0];SHOWN=0;g.innerHTML="";addCards(true);
  g.classList.remove("out");
 }
+const PAGE=36;let LIST=[],SHOWN=0;
+function addCards(first){
+ const part=LIST.slice(SHOWN,SHOWN+PAGE);
+ g.insertAdjacentHTML("beforeend",part.map((n,i)=>card(n,first&&i===0?0:(i%12)+1)).join(""));
+ SHOWN+=part.length;$("#more").hidden=SHOWN>=LIST.length;
+}
+$("#more").onclick=()=>addCards(false);
 function addTab(s){const b=document.createElement("button");b.textContent=s.name;b.dataset.id=s.id;b.onclick=()=>{const was=q;if(hd.classList.contains("searching")){hd.classList.remove("searching");q="";qi.value=""}if(s.id!==cur||was)show(s.id)};tabs.append(b)}
 CATS.forEach(addTab);mark();
 
