@@ -72,12 +72,26 @@ a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
   <p id="st"></p>
   <main id="grid"></main>
 </div>
-<nav id="tabs" class="glass" aria-label="Источники"><span class="pill"></span></nav>
+<nav id="tabs" class="glass" aria-label="Категории"><span class="pill"></span></nav>
 
 <script>
 // Новости берутся из news.json, который обновляет GitHub Actions
 const DATA="news.json";
-const SOURCES=[{id:"all",name:"Все"}];
+const CATS=[{id:"all",name:"Все"},{id:"politics",name:"Политика"},{id:"incidents",name:"Происшествия"},{id:"spb",name:"СПБ"},{id:"culture",name:"Культура"},{id:"sport",name:"Спорт"}];
+const P=w=>new RegExp("(?<![а-яёa-z0-9])(?:"+w.join("|")+")","i");
+const RULES={
+ politics:P(["путин","президент","правительств","госдум","совфед","совет федерации","министр","кремл","выбор","депутат","санкци","переговор","лавров","песков","зеленск","трамп","байден","нато","политик","губернатор","указ","законопроект","мид(?![а-я])","сво(?![а-я])","всу(?![а-я])","спецоперац","украин","евросоюз","партия","партии","мэр(?![а-я])"]),
+ incidents:P(["пожар","взрыв","дтп","авари","погиб","убит","убийств","ранен","задержа","арест","полици","мвд","следственн","обыск","мошенник","мошеннич","огра[бв]","краж","преступ","нападен","стрельб","пострадав","спасател","мчс","трагеди","обрушен","утонул","теракт","уголовн","приговор","осужд","чп(?![а-я])","сгорел","погибш"]),
+ spb:P(["санкт-петербург","петербург","питер(?![а-я])","спб(?![а-я])","ленинградск","кронштадт","пулково","смольн","невск","петербурж"]),
+ culture:P(["театр","кино(?![а-я])","кинотеатр","фильм","музе[йяеюи]","выставк","концерт","музык","артист","актёр","актер","актрис","режисс","премьер(?!-министр)","книг","писател","фестивал","искусств","певец","певиц","сериал","балет","опер(?!атив|ац)","эрмитаж","картин","литератур","культур","галере","оскар","шоу(?![а-я])"]),
+ sport:P(["футбол","хоккей","матч","чемпионат","турнир","олимпи","спортсмен","спорт(?![а-я])","теннис","баскетбол","зенит","спартак","цска","динамо","сборн","гонк","формул","биатлон","фигурист","кубок","тренер","волейбол","бокс","ufc","мма(?![а-я])","шайб","нхл","кхл","рпл","лига","чемпион"])
+};
+function classify(x){
+ const t=(x.title+" "+x.raw+" "+x.tags).toLowerCase(),c=[];
+ for(const k in RULES)if(RULES[k].test(t))c.push(k);
+ if(x.src==="Фонтанка"&&!c.includes("spb"))c.push("spb");
+ return c;
+}
 const $=s=>document.querySelector(s),g=$("#grid"),tabs=$("#tabs"),pill=tabs.querySelector(".pill");
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const safe=u=>/^https?:\/\//.test(u)?u:"#";
@@ -95,9 +109,10 @@ async function loadDB(){
  DB=(j.news||j.items||[]).map(x=>{
   const src=x.source||x.src||"";let title=strip(x.title);
   if(src&&title.endsWith(" - "+src))title=title.slice(0,-(src.length+3));
-  return{id:src,src,title,link:x.link,text:"",img:x.img||"",t:new Date(x.pub||x.t)};
+  const it={id:src,src,title,link:x.link,text:"",img:x.img||"",t:new Date(x.pub||x.t),raw:strip(x.text||x.description),tags:(x.tags||[]).join(" ")};
+  it.cats=classify(it);
+  return it;
  });
- buildTabs(DB);
  return DB;
 }
 const sample=n=>Array.from({length:6},(_,i)=>({src:n,title:"Здесь появится заголовок новости из ленты «"+n+"»",text:"Так выглядит краткое описание. Настоящие карточки подтянутся из RSS.",img:"",t:new Date(Date.now()-i*47*6e4),link:"#"}));
@@ -105,11 +120,11 @@ const sample=n=>Array.from({length:6},(_,i)=>({src:n,title:"Здесь появ�
 async function get(id){
  try{
   const all=await loadDB();
-  const list=(id==="all"?all:all.filter(x=>x.id===id)).slice().sort((a,b)=>b.t-a.t).slice(0,30);
-  if(!list.length)throw new Error("empty");
-  return[list,false];
+  if(!all.length)throw new Error("empty");
+  const list=(id==="all"?all:all.filter(x=>x.cats.includes(id))).slice().sort((a,b)=>b.t-a.t).slice(0,30);
+  return[list,list.length?false:"empty"];
  }catch(e){
-  return[sample(id==="all"?"Новости":id),true];
+  return[sample("Новости"),"err"];
  }
 }
 const card=(n,i)=>`<a class="card glass enter${i?"":" hero"}" style="--i:${i}" href="article.html?u=${encodeURIComponent(n.link)}" target="_blank" rel="noopener">${n.img?`<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">`:""}<div class="tx"><div class="meta"><span class="chip">${esc(n.src)}</span><span>${ago(n.t)}</span></div><h3>${esc(n.title)}</h3>${n.text?`<p>${esc(n.text)}</p>`:""}</div></a>`;
@@ -126,14 +141,12 @@ async function show(id){
  g.classList.add("out");await wait(200);
  if(my!==tok)return;
  if(!res){g.innerHTML=Array.from({length:6},()=>'<div class="card glass sk"></div>').join("");g.classList.remove("out");await p;if(my!==tok)return}
- $("#st").textContent=res[1]?"Не удалось загрузить ленту. Показаны демо-карточки: не удалось прочитать news.json.":"";
+ $("#st").textContent=res[1]==="err"?"Не удалось загрузить ленту. Показаны демо-карточки: не удалось прочитать news.json.":res[1]==="empty"?"В этой категории пока нет свежих новостей.":"";
  g.innerHTML=res[0].map(card).join("");
  g.classList.remove("out");
 }
 function addTab(s){const b=document.createElement("button");b.textContent=s.name;b.dataset.id=s.id;b.onclick=()=>{if(s.id!==cur)show(s.id)};tabs.append(b)}
-addTab(SOURCES[0]);
-let built=false;
-function buildTabs(db){if(built)return;built=true;const c={};db.forEach(x=>c[x.src]=(c[x.src]||0)+1);Object.entries(c).sort((a,b)=>b[1]-a[1]).slice(0,7).forEach(([n])=>{const s={id:n,name:n};SOURCES.push(s);addTab(s)});mark()}
+CATS.forEach(addTab);mark();
 
 document.addEventListener("pointermove",e=>{const c=e.target.closest&&e.target.closest(".glass");if(!c)return;const r=c.getBoundingClientRect();c.style.setProperty("--mx",e.clientX-r.left+"px");c.style.setProperty("--my",e.clientY-r.top+"px")});
 const tick=()=>{$("#clock").textContent=new Date().toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"})};tick();setInterval(tick,3e4);
