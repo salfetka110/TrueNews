@@ -18,9 +18,9 @@ jobs:
           python-version: "3.12"
       - name: Fetch feeds
         run: python fetch_news.py
-      - name: Commit news.json
+      - name: Commit news.json and rates.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
+          git add news.json rates.json
           git diff --staged --quiet || (git commit -m "Update news" && git push)
