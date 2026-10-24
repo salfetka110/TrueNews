@@ -195,13 +195,22 @@ function notFound(){
   if (item) render(item);
 
   try {
-    const res = await fetch('news.json', {cache: 'no-store'});
+    const [res, full] = await Promise.all([
+      fetch('news.json', {cache: 'no-store'}),
+      fetch('full.json', {cache: 'no-store'}).then(r => r.ok ? r.json() : {}).catch(() => ({}))
+    ]);
     const all = flat(await res.json()).map(norm);
+    let fresh = false;
     if (!item){
       const found = all.find(n => n.link === wanted);
-      if (found){ item = found; render(item); }
+      if (found){ item = found; fresh = true; }
     }
-    if (item) renderMore(item, all);
+    if (item){
+      const f = full[item.link] || full[wanted];
+      if (f && f !== item.body){ item.body = f; fresh = true; }
+      if (fresh) render(item);
+      renderMore(item, all);
+    }
   } catch (e) {}
 
   if (!item) notFound();
