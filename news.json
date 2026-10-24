@@ -1,365 +1,286 @@
 {
- "updated": "2026-10-24T11:22:47.140036+00:00",
- "items": [
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "В Софии застрелили вице-президента Олимпийского комитета Болгарии Бинева",
-   "link": "https://russian.rt.com/sport/news/1699086-bolgariya-nok-binev-ubiistvo?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Вице-президент Олимпийского комитета Болгарии и глава национальной федерации тхэквондо Слави Бинев убит в Софии. Читать далее",
-   "img": "",
-   "t": "2026-10-24T11:17:48+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Клебо ответил на вопрос о допуске российских лыжников на турниры",
-   "link": "https://www.rbc.ru/sport/24/10/2026/6adc9122174c59ff2a39896e",
-   "text": "Одиннадцатиметровый олимпийский чемпион заявил, что по-прежнему против допуска российских лыжников на турниры, но никак на это повлиять не может",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/437928400144754.jpeg",
-   "t": "2026-10-24T11:14:29+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "В большей части Севастополя электричество планируют вернуть к вечеру 24 октября",
-   "link": "https://russian.rt.com/russia/news/1699085-sevastopol-elektrosnabzhenie-vosstanovlenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "В большей части Севастополя электроснабжение планируют восстановить к вечеру 24 октября, ориентировочно после 19:00. Об этом сообщил губернатор города Михаил Развожаев. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc92e902e8bd45f60d3d4d.png",
-   "t": "2026-10-24T11:13:44+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "В ЕС заявили о стремлении вступить в переговоры России и США по Украине",
-   "link": "https://www.rbc.ru/politics/24/10/2026/6adc8b70678a187a77afd6e3",
-   "text": "Ожидается, что на переговорах будет присутствовать совместная делегация ЕК и Совета ЕС, заявили в Брюсселе. Кремль отметил, что обсуждать архитектуру безопасности без Европы невозможно, но начало будет в трехстороннем формате",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/4/43/067928405072434.jpeg",
-   "t": "2026-10-24T11:10:10+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Путин внёс в Госдуму договор с Никарагуа о выдаче преступников",
-   "link": "https://russian.rt.com/world/news/1699082-putin-nikaragua-vydacha-prestupnikov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Президент России Владимир Путин направил в Государственную думу на ратификацию договор с Никарагуа о взаимной выдаче лиц, обвиняемых или осуждённых за преступления. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc929e02e8bd1ab15116c5.jpg",
-   "t": "2026-10-24T11:08:45+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "МО России опубликовало кадры совместной работы расчётов центра «Рубикон» и ВКС",
-   "link": "https://russian.rt.com/ussr/news/1699072-rubikon-porazhenie-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Минобороны России опубликовало кадры совместной боевой работы расчётов центра «Рубикон» и экипажей самолётов ВКС. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8bf802e8bd75f31e11a9.png",
-   "t": "2026-10-24T11:05:26+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "В Омской области объявили беспилотную опасность",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc8f1c54a954269492241e",
-   "text": "В Омской области ввели беспилотную опасность. Об этом 24 октября сообщил губернатор Виталий Хоценко в телеграм-канале.",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/8/64/617928401666648.jpeg",
-   "t": "2026-10-24T11:02:25+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Боец Ураган: ВСУ маскируют взрывные устройства под бытовые предметы",
-   "link": "https://russian.rt.com/ussr/news/1699080-vsu-vzryvnye-ustroistva-minirovanie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Украинские военные маскируют самодельные взрывные устройства под обычные предметы, которые могут показаться мирным жителям безопасными. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc92cdae5ac95aa97a6b29.png",
-   "t": "2026-10-24T11:01:19+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Россия подтвердила солидарность с Иорданией в борьбе с терроризмом",
-   "link": "https://russian.rt.com/world/news/1699077-rossiya-iordaniya-borba-terrorizm?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Россия сохраняет солидарность с Иорданией в вопросах борьбы с терроризмом и экстремизмом и подтверждает неизменность своей позиции. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc90c6ae5ac954c250fedb.jpg",
-   "t": "2026-10-24T10:59:19+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Дегтярёв назвал Путина и Сафонова самыми популярными людьми во Франции",
-   "link": "https://russian.rt.com/sport/news/1699081-degtyaryov-franciya-putin-safonov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Министр спорта России Михаил Дегтярёв заявил, что президент РФ Владимир Путин и российский вратарь французского «Пари Сен-Жермен» Матвей Сафонов пользуются наибольшей популярностью во Франции. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc91aaae5ac935c40f2ac5.png",
-   "t": "2026-10-24T10:58:53+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Reuters узнал о плане Ирана атаковать интернет-кабели в Ормузском проливе",
-   "link": "https://www.rbc.ru/politics/24/10/2026/6adc7fbcd0b772f581137e33",
-   "text": "Такой ответ Тегеран разработал на случай возобновления атак США и Израиля, пишет Reuters. Через Ормузский пролив проходит менее 1% международного интернет-трафика. До этого Иран предупреждал о возможных ударах по кабелям",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/3/09/067928397083093.jpeg",
-   "t": "2026-10-24T10:58:02+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Семьям погибших и пострадавших при ракетном ударе по заводу в Орле окажут помощь",
-   "link": "https://russian.rt.com/ussr/news/1699078-pomosch-pogibshie-raketa-oryol-zavod?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Губернатор Орловской области Андрей Клычков сообщил, что семьям погибших и пострадавших при ракетном ударе по заводу в Орле окажут помощь. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc903a02e8bd46057190f7.png",
-   "t": "2026-10-24T10:54:01+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Болельщики ПСЖ — о переносе матча с «Лионом»: давайте бойкотировать игру",
-   "link": "https://russian.rt.com/sport/news/1699079-pszh-lion-perenos-fanaty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Болельщики французского «Пари Сен-Жермен» раскритиковали перенос домашнего матча чемпионата страны с «Лионом» на 26 октября — вечер вручения «Золотого мяча». Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc9174ae5ac976a60e3cfb.jpg",
-   "t": "2026-10-24T10:52:32+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Yonhap сообщило о первом визите Ким Чен Ына в Китай за год",
-   "link": "https://www.rbc.ru/politics/24/10/2026/6adc810054a954269492241c",
-   "text": "Ким Чен Ын приехал в китайский город Даньдун по недавно открытому мосту, соединяющему Китай и КНДР, сообщает Yonhap. Ранее на этой неделе появились слухи о проблемах со здоровьем у Кима",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/7/75/837928391899757.jpeg",
-   "t": "2026-10-24T10:51:13+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "В Запорожской области беспилотник ВСУ ударил по машине дорожной службы",
-   "link": "https://russian.rt.com/ussr/news/1699076-zaporozhskaya-oblast-vsu-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "В Запорожской области беспилотник ВСУ атаковал дорожную технику во время проведения ремонтных работ. Об этом сообщил губернатор региона Евгений Балицкий. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8f93ae5ac935c54424d9.png",
-   "t": "2026-10-24T10:50:47+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Россия осудила теракт в церкви в Иордании",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc8b77174c59ff2a398968",
-   "text": "Министерство иностранных дел России осудило теракт на западе Иордана.",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/3/96/837928390990963.jpeg",
-   "t": "2026-10-24T10:46:20+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "МИД России решительно осудил теракт в Иордании",
-   "link": "https://russian.rt.com/world/news/1699074-mid-rossii-terakt-iordaniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Россия выступила с решительным осуждением террористического нападения в Иордании, которое, по оценке Москвы, было направлено на разрушение межрелигиозного мира в стране. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8f0402e8bd460117bb43.jpg",
-   "t": "2026-10-24T10:45:22+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Ракетными войсками и беспилотниками: ВС РФ поразили объекты транспортной и энергетической инфраструктуры ВСУ",
-   "link": "https://russian.rt.com/ussr/article/1699061-udar-energeticheskaya-transportnaya-infrastruktura-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Российские войска нанесли удары по объектам энергетической и транспортной инфраструктуры, которые используют ВСУ, а также по местам хранения и запуска БПЛА дальнего действия, сообщили в Минобороны. В свою очередь, российские средства ПВО за сутки сбили 1297 БПЛА самолётного типа, четыре крылатые рак",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8162ae5ac9552d41b758.jpg",
-   "t": "2026-10-24T10:44:14+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Алимов: Саудовская Аравия подтверждает готовность принять второе Интервидение",
-   "link": "https://russian.rt.com/nopolitics/news/1699073-intervidenie-saudovskaya-araviya-daty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Саудовская Аравия подтвердила готовность принять второй международный музыкальный конкурс «Интервидение». Об этом сообщил заместитель министра иностранных дел России Александр Алимов. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8d6aae5ac95955478fe1.png",
-   "t": "2026-10-24T10:42:18+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Президент Ирана Масуд Пезешкиан приедет в Россию",
-   "link": "https://www.rbc.ru/politics/24/10/2026/6adc821a327b4539ab2e0d59",
-   "text": "Пезешкиан посетит Москву для участия в саммите Форума стран — экспортеров газа, который запланирован на 27 октября. В прошлый раз иранский лидер приезжал в Россию в январе прошлого года",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/0/34/617928386192340.jpeg",
-   "t": "2026-10-24T10:41:41+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "В МИД России выразили соболезнования Иордании в связи с терактом",
-   "link": "https://russian.rt.com/world/news/1699075-mid-rossiya-soboleznovaniya-iordaniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Министерство иностранных дел России выразило соболезнования Иордании в связи с терактом. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8ddc02e8bd75f31e11ad.png",
-   "t": "2026-10-24T10:39:51+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "В «Баварии» рассказали о состоянии потерявшего сознание главного тренера",
-   "link": "https://www.rbc.ru/sport/24/10/2026/6ad4731b9a79473a3937566e",
-   "text": "Бельгиец потерял сознание на тренировочной базе клуба и был доставлен в больницу на вертолете. Спортивный директор «Баварии» Макс Эберль сообщил, что Компани проведет в больнице как минимум несколько дней",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/177928378364135.jpeg",
-   "t": "2026-10-24T10:39:23+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Хабаровск заволокло дымом из Китая. Видео",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc818c174c59ff2a398960",
-   "text": "Южные районы Хабаровского края заволокло дымом, пришедшим из Китая, сообщило ГУ МЧС по региону.",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/8/65/067928378530658.jpeg",
-   "t": "2026-10-24T10:38:43+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Экс-вице-президент ACA предрёк Яну ещё более уверенную победу над Двалишвили",
-   "link": "https://russian.rt.com/sport/news/1699070-badaev-yan-dvalishvili-prognoz?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Бывший вице-президент лиги смешанных единоборств ACA Асланбек Бадаев считает, что россиянин Пётр Ян победит грузина Мераба Двалишвили в третьем очном поединке ещё убедительнее, чем во втором. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8d2c02e8bd77526b33f9.png",
-   "t": "2026-10-24T10:29:52+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "FT: резиденцию премьера Британии предложили превратить в музей или квартиры",
-   "link": "https://russian.rt.com/world/news/1699068-britaniya-dauning-strit-muzei?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Резиденцию премьер-министра Великобритании на Даунинг-стрит, 10, в Лондоне, предложили превратить в музей или жилые помещения, а офис главы правительства перенести в другое место. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8a1f02e8bd1ab15116bc.jpg",
-   "t": "2026-10-24T10:27:55+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "В Орле врачи вышли из отпусков и с больничных ради помощи пострадавшим при ударе",
-   "link": "https://russian.rt.com/ussr/news/1699071-orel-vrachi-pomoshch-postradavshim?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Сотрудники Орловской областной клинической больницы 23 октября добровольно прибыли на работу, чтобы оказать помощь пострадавшим в результате ракетного удара. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8af2ae5ac935c54424cf.png",
-   "t": "2026-10-24T10:26:51+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Российская теннисистка вышла в финал юниорского итогового турнира",
-   "link": "https://www.rbc.ru/sport/24/10/2026/6adc85ef7605bd8275d320ba",
-   "text": "В полуфинале турнира в Чэнду Анна Пушкарева обыграла соотечественницу Марию Макарову",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/067928371346538.jpeg",
-   "t": "2026-10-24T10:25:08+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Иванова — о серебре Рощиной на ЧМ по гимнастике: не помню, когда я в последний раз так нервничала",
-   "link": "https://russian.rt.com/sport/news/1699069-ivanova-roschina-medal-reakciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Двукратная олимпийская чемпионка Лидия Иванова высоко оценила выступление российской гимнастки Людмилы Рощиной, завоевавшей серебро в личном многоборье на чемпионате мира в Роттердаме. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc8a87ae5ac93c9e1cbe78.png",
-   "t": "2026-10-24T10:24:43+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Экс-глава Минфина США предупредил о риске экономических потрясений",
-   "link": "https://www.rbc.ru/economics/24/10/2026/6adc525eb5c584671670e2f0",
-   "text": "Любые попытки подорвать избирательный процесс со стороны администрации Трампа выльются в долгосрочные экономические последствия, поскольку верховенство права до сих пор обеспечивает американское процветание, предупредил Рубин",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/837928376684630.jpeg",
-   "t": "2026-10-24T10:24:32+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "Судебные приставы объявили в розыск жену Лёвы Би-2 из-за долгов по налогам",
-   "link": "https://russian.rt.com/russia/news/1699064-zhena-levy-bi2-rozysk-nalogi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Судебные приставы объявили в розыск Асю Бортник (Штрайхер), супругу музыканта-иноагента Егора Бортника*, известного как Лёва Би-2, из-за задолженности по налогам. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc86df02e8bd46057190ec.png",
-   "t": "2026-10-24T10:18:57+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Царукян и Чимаев одержали досрочные победы на турнире лиги Халка Хогана",
-   "link": "https://www.rbc.ru/sport/24/10/2026/6adc82237605bd8275d320b4",
-   "text": "Царукян победил Диллона Дэниса, Чимаев — Робби Лоулера. Кроме того, Александр Шлеменко проиграл Брендану Аллену",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/7/49/047928362365497.jpeg",
-   "t": "2026-10-24T10:13:23+00:00"
-  },
-  {
-   "id": "rt",
-   "src": "RT",
-   "title": "ТАСС: ВСУ массово бросили позиции в Сергеевке в ДНР после ударов с воздуха",
-   "link": "https://russian.rt.com/ussr/news/1699067-vsu-brosili-pozicii-dnr?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-   "text": "Командир взвода 15-й отдельной гвардейской мотострелковой бригады группировки войск «Центр» Вячеслав Козак рассказал ТАСС, что украинские оккупанты массово бросили позиции в Сергеевке в ДНР после ударов с воздуха. Читать далее",
-   "img": "https://mf.b37mrtl.ru/russian/images/2026.10/thumbnail/6adc863fae5ac96b263d6a7c.png",
-   "t": "2026-10-24T10:12:58+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Под Тверью нашли останки 19 убитых нацистами пациентов психбольниц",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc7d00de96d91f6538ff84",
-   "text": "В Тверской области, в селе Бурашево, криминалисты СК совместно с поисковыми отрядами провели раскопки на месте массового убийства пациентов психиатрической больницы им.",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/9/82/437928368254829.jpeg",
-   "t": "2026-10-24T10:11:00+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Глава Севастополя назвал сроки восстановления электроснабжения",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc8295514b1a2457c9c22b",
-   "text": "Электроснабжение в большей части Севастополя восстановят к вечеру субботы, заявил губернатор Михаил Развожаев.",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/9/05/477928364906059.jpeg",
-   "t": "2026-10-24T10:06:23+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "В СК сообщили, что школьник предотвратил нападение на учеников в Липецке",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc7cde729ebb0d4b70551b",
-   "text": "В Липецке школьник сообщил матери и классному руководителю, что его друг собирается напасть на учеников, и помог предотвратить преступление, сообщил «Московский комсомолец» (МК) со ссылкой на региональное управление Следственного комитета (СК).",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/5/99/097928364158995.jpeg",
-   "t": "2026-10-24T10:03:16+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Reuters узнал о просьбах властей США по работе Starlink в разных странах",
-   "link": "https://www.rbc.ru/politics/24/10/2026/6adc610627496c299ce07bb4",
-   "text": "При Байдене Маска просили ограничить доступ к спутниковой системе для хуситов и «Хезболлы». При Трампе обсуждалось включение Starlink в Иране для поддержания антиправительственных протестов, пишет Reuters",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/797928359910936.jpeg",
-   "t": "2026-10-24T09:56:32+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "NASA подтвердило планы высадить астронавтов на Луну в 2028 году",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc7b7ec79c544603b8a271",
-   "text": "Руководство NASA подтвердило планы по высадке астронавтов на Луну в 2028 году, сообщает американское космическое агентство.",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/837928349827067.jpeg",
-   "t": "2026-10-24T09:49:09+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Краснов назвал условие для внедрения ИИ в судах",
-   "link": "https://www.rbc.ru/society/24/10/2026/6adc7081174c59ff2a398952",
-   "text": "Возможность проверки применения ИИ является основным условием для внедрения технологии в судах, заявил Краснов. Сейчас внедрение ИИ в судах тестируют в более чем 20 регионах России, рассказал он",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/677928348481499.jpeg",
-   "t": "2026-10-24T09:35:39+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Четыре пилота ВВС Филиппин погибли во время тренировочного полета",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc7563275194a1faea673a",
-   "text": "Четыре пилота ВВС Филиппин погибли во время крушения двух самолетов SF-260 при выполнении тренировочного полета на авиабазе к югу от столицы Манила, сообщило военное ведомство в Facebook (принадлежит Meta, признанной экстремистской и запрещенной в России).",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/837928347339388.jpeg",
-   "t": "2026-10-24T09:31:48+00:00"
-  },
-  {
-   "id": "rbc",
-   "src": "РБК",
-   "title": "Пять человек пострадали при ракетной атаке по Орлу",
-   "link": "https://www.rbc.ru/rbcfreenews/6adc70cd275194a1faea6736",
-   "text": "В результате ракетной атаки по Орлу 23 октября пострадали пять человек, сообщил региональный департамент здравоохранения, передает ТАСС.",
-   "img": "https://s0.rbk.ru/v6_top_pics/media/img/9/83/497928335885839.jpeg",
-   "t": "2026-10-24T09:15:59+00:00"
-  }
- ]
+  "updated": "2026-10-24T13:45:28.746732+00:00",
+  "count": 40,
+  "news": [
+    {
+      "title": "COMITAS - РБК Компании",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HYXZxbUxYQmgzM2tyc185LVpxR3JpbVAydjduT3FmV1o5LWYwVWlHcWFQa3BsNkEzYUEyUnd3SWExek9uS19QLUNwUFdpRG5MN0pMZnBkT3R1LThkckJN?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HYXZxbUxYQmgzM2tyc185LVpxR3JpbVAydjduT3FmV1o5LWYwVWlHcWFQa3BsNkEzYUEyUnd3SWExek9uS19QLUNwUFdpRG5MN0pMZnBkT3R1LThkckJN?oc=5\" target=\"_blank\">COMITAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК Компании</font>",
+      "source": "РБК",
+      "pub": "Wed, 07 May 2025 16:18:10 GMT"
+    },
+    {
+      "title": "Страница 2 - mi-shop: скидки, купоны, акции, промокоды на октябрь 2026 - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uVTYtQl9VanRzdGMzeDV1WHE4cE9BMXYyZkJBeklJQndXSnFEcktxS0lqWHBhUUgxOTZvQ0oyR3owVWc2MmlMU0VGNjJvYi1rU3Q1RURlUkNRUnhyRkZV?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uVTYtQl9VanRzdGMzeDV1WHE4cE9BMXYyZkJBeklJQndXSnFEcktxS0lqWHBhUUgxOTZvQ0oyR3owVWc2MmlMU0VGNjJvYi1rU3Q1RURlUkNRUnhyRkZV?oc=5\" target=\"_blank\">Страница 2 - mi-shop: скидки, купоны, акции, промокоды на октябрь 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Thu, 22 Oct 2026 07:34:40 GMT"
+    },
+    {
+      "title": "Трое белолобых остановились в Петербурге по пути в Западную Европу - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkS0sxQmFRMTdISVA3U0ozaTdVU3lOOWpDQkZjaXlGZUltRGo5QVV1QXVoQ1ZLcGg0emFZbVRyY0tjSkdQenZ2ZldsVER1QUtIWENyeGxRaw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkS0sxQmFRMTdISVA3U0ozaTdVU3lOOWpDQkZjaXlGZUltRGo5QVV1QXVoQ1ZLcGg0emFZbVRyY0tjSkdQenZ2ZldsVER1QUtIWENyeGxRaw?oc=5\" target=\"_blank\">Трое белолобых остановились в Петербурге по пути в Западную Европу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 13:39:46 GMT"
+    },
+    {
+      "title": "\"Манчестер Сити\" проиграл \"Астон Вилле\" и впервые потерял очки в текущем сезоне - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FTjVKaUUzTlNNLVBwWUFxNk9pX0ZQOEJIc09taGt6T0RzWFFEMUJ3em53VG5YRzJpd3R2ZDJUU1d5M1JnT3VhR2ZKYmxjYkptS0ZiWkJMbFd2QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FTjVKaUUzTlNNLVBwWUFxNk9pX0ZQOEJIc09taGt6T0RzWFFEMUJ3em53VG5YRzJpd3R2ZDJUU1d5M1JnT3VhR2ZKYmxjYkptS0ZiWkJMbFd2QQ?oc=5\" target=\"_blank\">\"Манчестер Сити\" проиграл \"Астон Вилле\" и впервые потерял очки в текущем сезоне</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 24 Oct 2026 13:30:00 GMT"
+    },
+    {
+      "title": "«Если нет ипотеки, можно дышать спокойно». Гуменник вырвался вперёд на Гран-при России - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83RWo0dWFWWmcyUEV1MDAzT1RFeEJ5QkM1SXlBbjJDMzRxUHcyYzZIaGpjNW1PSUlxOVpHdlg2RHlzaDQ3eDVaejlmNTJRSzZRNy1OcjdQRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE83RWo0dWFWWmcyUEV1MDAzT1RFeEJ5QkM1SXlBbjJDMzRxUHcyYzZIaGpjNW1PSUlxOVpHdlg2RHlzaDQ3eDVaejlmNTJRSzZRNy1OcjdQRQ?oc=5\" target=\"_blank\">«Если нет ипотеки, можно дышать спокойно». Гуменник вырвался вперёд на Гран-при России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 13:24:13 GMT"
+    },
+    {
+      "title": "В полиции раскрыли, кто подрезал троллейбус на проспекте Славы - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54NzdZeGNsSkNhT1J5TnpnNkVXXzBFcVBIdXp5dElOYU1NZHQ3RUxzS0dnTmhqaUQwU3ZXQnpQVVZfQmF1Mm1JanFRSVk5cmVqX0xSSVdhOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE54NzdZeGNsSkNhT1J5TnpnNkVXXzBFcVBIdXp5dElOYU1NZHQ3RUxzS0dnTmhqaUQwU3ZXQnpQVVZfQmF1Mm1JanFRSVk5cmVqX0xSSVdhOA?oc=5\" target=\"_blank\">В полиции раскрыли, кто подрезал троллейбус на проспекте Славы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 13:12:36 GMT"
+    },
+    {
+      "title": "В полиции раскрыли подробности ДТП с троллейбусом на проспекте Славы - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83Y2o2MVR5QWFURFJoX1BMMUZubHJTMk1wWWw1NnNoZGJrR2h0a1hPU0NkX0JJQUNBTHpSazY1ckMzaERHQzhOQm1paGpnc2p0VUlOSDh5S1hCMFZaenYyZEVxbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE83Y2o2MVR5QWFURFJoX1BMMUZubHJTMk1wWWw1NnNoZGJrR2h0a1hPU0NkX0JJQUNBTHpSazY1ckMzaERHQzhOQm1paGpnc2p0VUlOSDh5S1hCMFZaenYyZEVxbw?oc=5\" target=\"_blank\">В полиции раскрыли подробности ДТП с троллейбусом на проспекте Славы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 13:12:36 GMT"
+    },
+    {
+      "title": "Le Monde выяснил, что стрелявший по прохожим во Франции мстил за погромы - РБК",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ranJGYlBYWV83UkhOWWh0ak5uYVUzSjNIbUdOY1N6c1JSY3F5VXZlU0hqZ3lPN0h1SzRaVnVlaTdCMzRSNWFWenl5WEVYMjJCSXhpa2RaWm1UeUxkUEM3c0xDTGV6QQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ranJGYlBYWV83UkhOWWh0ak5uYVUzSjNIbUdOY1N6c1JSY3F5VXZlU0hqZ3lPN0h1SzRaVnVlaTdCMzRSNWFWenl5WEVYMjJCSXhpa2RaWm1UeUxkUEM3c0xDTGV6QQ?oc=5\" target=\"_blank\">Le Monde выяснил, что стрелявший по прохожим во Франции мстил за погромы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 13:09:35 GMT"
+    },
+    {
+      "title": "«Фонтанка» раскрыла имя создателя мема «Зазеркалье» в TikTok - 24 октября 2026 - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tS2xsWXVhT0VIUHJZZHV2THd4Nk1JdmxVYU05ek5BWTJsaFlJM1RPWlVrQ3lBYWxkSUdQSlBCWjg0SlFQdXpRZzZTVjlJUHlBR0c1dC1xVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tS2xsWXVhT0VIUHJZZHV2THd4Nk1JdmxVYU05ek5BWTJsaFlJM1RPWlVrQ3lBYWxkSUdQSlBCWjg0SlFQdXpRZzZTVjlJUHlBR0c1dC1xVQ?oc=5\" target=\"_blank\">«Фонтанка» раскрыла имя создателя мема «Зазеркалье» в TikTok - 24 октября 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 13:08:08 GMT"
+    },
+    {
+      "title": "В Кызыле прошла первая Спартакиада проектных офисов Тувы — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSm02Y2pET1Zrb2x1eUVuNGI1VTFaRWlvSUVFNzM1dmtjRldOZGpVN0pZRWdYOHY2LVJnejdnN09vMmdKdFNQa3BGSUFUS2huLVlvN1E5MS1lbEJCVXZXY2plSmc0am1FelY1NlFPYi1jeG5GNTB2bzJaZGtSdGNCaW9YaVNicXd4d0hGWGlvSURtR3NLcHdfQjFrb3VTNml5aWhZcHhSRjdIRXZxSmZQaGs4Z1c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSm02Y2pET1Zrb2x1eUVuNGI1VTFaRWlvSUVFNzM1dmtjRldOZGpVN0pZRWdYOHY2LVJnejdnN09vMmdKdFNQa3BGSUFUS2huLVlvN1E5MS1lbEJCVXZXY2plSmc0am1FelY1NlFPYi1jeG5GNTB2bzJaZGtSdGNCaW9YaVNicXd4d0hGWGlvSURtR3NLcHdfQjFrb3VTNml5aWhZcHhSRjdIRXZxSmZQaGs4Z1c?oc=5\" target=\"_blank\">В Кызыле прошла первая Спартакиада проектных офисов Тувы — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 13:05:09 GMT"
+    },
+    {
+      "title": "Волгоградцам напомнили о досрочной выплате пенсии и ноябрьских надбавках — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWdaQkpEN09EaWt2bDlPWFFRSHhGdXphMGNPekJKLVgwTDFkNDRqaXJQY1BnTVR6TWNLRTJWems1VC1yV0dQczZ0bWp6a3JEY3c1WkJlVlIxRnNCazRoVTVIX2pwaFNzSUp3SlM2ZkwwU2V1c05xWllHaGFMbzZVMHAyUDlwM1J3ZGlDYUNPYlE4YTJRX0VyNmRvYUtMSURPZE5uVlBEOEVGUUxtZHZrV2VUemlITmtrVGZZOFN2NXhhcFZXd19OUUpUeE8?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWdaQkpEN09EaWt2bDlPWFFRSHhGdXphMGNPekJKLVgwTDFkNDRqaXJQY1BnTVR6TWNLRTJWems1VC1yV0dQczZ0bWp6a3JEY3c1WkJlVlIxRnNCazRoVTVIX2pwaFNzSUp3SlM2ZkwwU2V1c05xWllHaGFMbzZVMHAyUDlwM1J3ZGlDYUNPYlE4YTJRX0VyNmRvYUtMSURPZE5uVlBEOEVGUUxtZHZrV2VUemlITmtrVGZZOFN2NXhhcFZXd19OUUpUeE8?oc=5\" target=\"_blank\">Волгоградцам напомнили о досрочной выплате пенсии и ноябрьских надбавках — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 13:05:09 GMT"
+    },
+    {
+      "title": "Команда СИТ из Охи вышла в финал Сахалинской лиги КВН, набрав 95 баллов — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWVWWThyQW1vUnk2cXpVSWM5eDFlRkhrN2xKekNfSzN6SUwxenpRdnFQb0NyTzFCUFlVUFZ5dWxEZUNseDVHNUFaU05nVmdyM1lSb29RQS1ZVlAxSGJtX0R2VkxwaHhRR0NWX0NuSnAzSXhqdHZuTmlha1BDdTZ2NFB0clFUTldMMDNMRG5pb0ozV2dELXAwNTZSUjg1S1dQUi1SR01lbWxFanZXVTA5S1ROWWhVRWg4OTVBNHp3RW5uYWQ4d0k2SHJMeXU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWVWWThyQW1vUnk2cXpVSWM5eDFlRkhrN2xKekNfSzN6SUwxenpRdnFQb0NyTzFCUFlVUFZ5dWxEZUNseDVHNUFaU05nVmdyM1lSb29RQS1ZVlAxSGJtX0R2VkxwaHhRR0NWX0NuSnAzSXhqdHZuTmlha1BDdTZ2NFB0clFUTldMMDNMRG5pb0ozV2dELXAwNTZSUjg1S1dQUi1SR01lbWxFanZXVTA5S1ROWWhVRWg4OTVBNHp3RW5uYWQ4d0k2SHJMeXU?oc=5\" target=\"_blank\">Команда СИТ из Охи вышла в финал Сахалинской лиги КВН, набрав 95 баллов — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 13:05:08 GMT"
+    },
+    {
+      "title": "Кухня-гостиная, в которой хочется остаться: 6 идей для уютных осенних вечеров — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaGFiR2Ruekt0eWUtM255N096ZmYyQzhnaXNrencwWGt4SVlhLXI1TEJtZXMwelhnWFdjUzV4dllDTmttZnpRY1hqSFpzeFN3bktjVlVyWnE5ZlBaLVhXbENoRFdQOVN2U3JqdjNheUc2ZmxyLW5WdkIwbTlCcmNveF9XS21kQ1lBakxIaV9yeGRHQmVydXNvWkFyTV9GaWhMa0lyZ1VlWllTSDR5bHBROHJuYkFHcnRYMTkxTy1ZWk1teldqM3BOWXdwSTBFY05zY2pEcVFhZENsRE1JRnE3MFBKdjd3MDg2MnU4amh3SE00bVJrVjRF?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaGFiR2Ruekt0eWUtM255N096ZmYyQzhnaXNrencwWGt4SVlhLXI1TEJtZXMwelhnWFdjUzV4dllDTmttZnpRY1hqSFpzeFN3bktjVlVyWnE5ZlBaLVhXbENoRFdQOVN2U3JqdjNheUc2ZmxyLW5WdkIwbTlCcmNveF9XS21kQ1lBakxIaV9yeGRHQmVydXNvWkFyTV9GaWhMa0lyZ1VlWllTSDR5bHBROHJuYkFHcnRYMTkxTy1ZWk1teldqM3BOWXdwSTBFY05zY2pEcVFhZENsRE1JRnE3MFBKdjd3MDg2MnU4amh3SE00bVJrVjRF?oc=5\" target=\"_blank\">Кухня-гостиная, в которой хочется остаться: 6 идей для уютных осенних вечеров — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 13:05:08 GMT"
+    },
+    {
+      "title": "В Орле проходит Чемпионат области по перетягиванию каната — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM1FtbWNKUnM2alNVc0hPaGdraTdrR21mVXgtVzZqX254VWN0UmRvdk9tMmx6SGtoVjMwOFR5NUh4UEVmVkd3dS1iS0J5ZWtkRjM2UDhnRm9UU1RlWDVrZko2cnhtZDMyYzZXS0dld0w5ZVQyMWNjVzZha0FiNjl6OVVVWk1MVWxMWEhzMXJ1b19xbWNtRHd3MXM2ZmJyOFB3VTNLTzZYTmNOcHc5ZkpqOGJXWVppQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOM1FtbWNKUnM2alNVc0hPaGdraTdrR21mVXgtVzZqX254VWN0UmRvdk9tMmx6SGtoVjMwOFR5NUh4UEVmVkd3dS1iS0J5ZWtkRjM2UDhnRm9UU1RlWDVrZko2cnhtZDMyYzZXS0dld0w5ZVQyMWNjVzZha0FiNjl6OVVVWk1MVWxMWEhzMXJ1b19xbWNtRHd3MXM2ZmJyOFB3VTNLTzZYTmNOcHc5ZkpqOGJXWVppQQ?oc=5\" target=\"_blank\">В Орле проходит Чемпионат области по перетягиванию каната — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 13:05:07 GMT"
+    },
+    {
+      "title": "На суде раскрыли подробности убийства в Металлострое - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iT1BzR0tMTTFUd0YtN2JSbHFlTkNfSkViYVV4WEpFMzBjZ1dJQnU5ek1TSmZzcmlSd0JNU193c1pGV3N4MkxCVlRkOWlqcUE2NUh1dm9nYk1XRXYtTUFld3pFTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iT1BzR0tMTTFUd0YtN2JSbHFlTkNfSkViYVV4WEpFMzBjZ1dJQnU5ek1TSmZzcmlSd0JNU193c1pGV3N4MkxCVlRkOWlqcUE2NUh1dm9nYk1XRXYtTUFld3pFTQ?oc=5\" target=\"_blank\">На суде раскрыли подробности убийства в Металлострое</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 13:02:41 GMT"
+    },
+    {
+      "title": "В Петербурге троллейбус врезался в столб - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50OV9oczlUTjhRQVRybTdFWkdBZnlOVjlldVhNWjlOLTNGajhkX3VGZFBWUnY5RERCd1VSYzhONkkweFd6WTR0TmpmTU9idXNsU0lwTTB1dy1peHNRTFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE50OV9oczlUTjhRQVRybTdFWkdBZnlOVjlldVhNWjlOLTNGajhkX3VGZFBWUnY5RERCd1VSYzhONkkweFd6WTR0TmpmTU9idXNsU0lwTTB1dy1peHNRTFE?oc=5\" target=\"_blank\">В Петербурге троллейбус врезался в столб</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 24 Oct 2026 12:50:00 GMT"
+    },
+    {
+      "title": "«Манчестер Сити» уступил «Астон Вилле», проиграв впервые за восемь матчей в АПЛ со старта сезона - РБК",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pc1VhQkNxZlBnek1uSW1wX1A4OUtCVEhBRVJKTVZaM2lucGREY0Y5d1dYSVFnb01jMERJTDg5cmNWb1NabEtmaXFsLW5ONzlwRGJVb3hiUVpBamdBUFd5SjdnMXJJUk0xYk9TTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1pc1VhQkNxZlBnek1uSW1wX1A4OUtCVEhBRVJKTVZaM2lucGREY0Y5d1dYSVFnb01jMERJTDg5cmNWb1NabEtmaXFsLW5ONzlwRGJVb3hiUVpBamdBUFd5SjdnMXJJUk0xYk9TTQ?oc=5\" target=\"_blank\">«Манчестер Сити» уступил «Астон Вилле», проиграв впервые за восемь матчей в АПЛ со старта сезона</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 12:48:48 GMT"
+    },
+    {
+      "title": "Би-би-си рассказала о спорах из-за причин протестов во Франции - РБК",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNG1taVFnamhNYkJrRVFuOEdlS0cxdUhhVUlWYU0wS0tfYlJYNzh3dVBObVF6c0FkZE9DZUpiblhmMGlic19ybmVWM0RnVXBaYnNQRUhQV2dEaGFRYVBJeWZleHROSWNTYVp3dzNQZks?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNG1taVFnamhNYkJrRVFuOEdlS0cxdUhhVUlWYU0wS0tfYlJYNzh3dVBObVF6c0FkZE9DZUpiblhmMGlic19ybmVWM0RnVXBaYnNQRUhQV2dEaGFRYVBJeWZleHROSWNTYVp3dzNQZks?oc=5\" target=\"_blank\">Би-би-си рассказала о спорах из-за причин протестов во Франции</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 12:46:55 GMT"
+    },
+    {
+      "title": "Российский гимнаст занял шестое место в вольных упражнениях на ЧМ - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsc0JLUkdHdlNsWm1PRjVGWEpMdkR2R2lucFBDRGhtc1VHaGVFMHQ1RlZfRnRtWGVvd0pGX2dhaUUtQ1FOdzJPRW5POGE2eWNTMVVfcVB5c1o?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsc0JLUkdHdlNsWm1PRjVGWEpMdkR2R2lucFBDRGhtc1VHaGVFMHQ1RlZfRnRtWGVvd0pGX2dhaUUtQ1FOdzJPRW5POGE2eWNTMVVfcVB5c1o?oc=5\" target=\"_blank\">Российский гимнаст занял шестое место в вольных упражнениях на ЧМ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 24 Oct 2026 12:41:00 GMT"
+    },
+    {
+      "title": "Воды нет третьи сутки и не будет дальше. Ропша, потерпи - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tUElKamRhUlpfaTBQRkVtV0lCOE01YUM2ZWJNWWFYeVJMUDVxWTZiMDcxOWQwcERodFVNbkRXandVMXpZLUI5eWdmd1JHenlrY1Z3bTJLZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tUElKamRhUlpfaTBQRkVtV0lCOE01YUM2ZWJNWWFYeVJMUDVxWTZiMDcxOWQwcERodFVNbkRXandVMXpZLUI5eWdmd1JHenlrY1Z3bTJLZw?oc=5\" target=\"_blank\">Воды нет третьи сутки и не будет дальше. Ропша, потерпи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 12:36:33 GMT"
+    },
+    {
+      "title": "Шесть человек погибли при столкновении поезда и автобуса на Дальнем Востоке - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12NWJtc21RWEkwSGc0TGY0VUxQNy1EUFBrX0RXekNWZlNKVHJxSDVlTncxMEt6aGthYjFrZ2Y2TDkwRVpZMmt6QlpCYmR5OWF1NEJocGhOYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE12NWJtc21RWEkwSGc0TGY0VUxQNy1EUFBrX0RXekNWZlNKVHJxSDVlTncxMEt6aGthYjFrZ2Y2TDkwRVpZMmt6QlpCYmR5OWF1NEJocGhOYw?oc=5\" target=\"_blank\">Шесть человек погибли при столкновении поезда и автобуса на Дальнем Востоке</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 12:28:00 GMT"
+    },
+    {
+      "title": "Британия опровергла кампанию по возвращению Винни Пуха из США - РБК",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFWjBkX0RveGU0M0RIbmVzbmdBRjZjV3VZNEtxWC1zNEtOaGc3VUloNHg1NnBnbGR6UFMtdWkyWHJNX0Z4bnZUX0s3d2hvSHZUa29wWkktaVRPRlZRb1dUM3RxNW0xQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFWjBkX0RveGU0M0RIbmVzbmdBRjZjV3VZNEtxWC1zNEtOaGc3VUloNHg1NnBnbGR6UFMtdWkyWHJNX0Z4bnZUX0s3d2hvSHZUa29wWkktaVRPRlZRb1dUM3RxNW0xQQ?oc=5\" target=\"_blank\">Британия опровергла кампанию по возвращению Винни Пуха из США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 12:24:53 GMT"
+    },
+    {
+      "title": "Жители посёлка Ропша третьи сутки без воды - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFZEtwUzFQZmpSdlpQY2NXMmFpOVVwWjU5Nm9ZSjZqcGNqWGxCYzVQQ2ctRmtUOGZSYjBRcENQVWhGUTEwcWNOWk9Fd3NoQmlLR2FlX0tLeXJNSnV4V2VaLTdHYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFZEtwUzFQZmpSdlpQY2NXMmFpOVVwWjU5Nm9ZSjZqcGNqWGxCYzVQQ2ctRmtUOGZSYjBRcENQVWhGUTEwcWNOWk9Fd3NoQmlLR2FlX0tLeXJNSnV4V2VaLTdHYw?oc=5\" target=\"_blank\">Жители посёлка Ропша третьи сутки без воды</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 12:22:59 GMT"
+    },
+    {
+      "title": "Британия опровергла кампанию по возвращению Винни-Пуха из США - РБК",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nOGRQOXR2Y2RSRDA1Mzg2d1ZaLXhvOU5fdTBKYUNGV3Z5QVJwcGhsUlBtT2RPcXA2RWlITjV0NFlxT1V0OVFvQjMxRkkwRmE5SklDcHg3MXNGZzNrWHBDRmlGczN5djZYVGdWSkQ0Ulk3LWFzUTdyTg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9nOGRQOXR2Y2RSRDA1Mzg2d1ZaLXhvOU5fdTBKYUNGV3Z5QVJwcGhsUlBtT2RPcXA2RWlITjV0NFlxT1V0OVFvQjMxRkkwRmE5SklDcHg3MXNGZzNrWHBDRmlGczN5djZYVGdWSkQ0Ulk3LWFzUTdyTg?oc=5\" target=\"_blank\">Британия опровергла кампанию по возвращению Винни-Пуха из США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 12:22:06 GMT"
+    },
+    {
+      "title": "В пяти регионах России возникли перебои с электроснабжением после атак ВСУ - RT на русском",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnJtV0wwaWxrRUJLRXlGRi15MDl0aVVBOUxZV0MtS0dfUW1MUkVOd3dNRzRRcHUxZ0FHZjFqZWE2Vi1aa1dhc243aHMwUlpydnB1SUp3aEZsTUItWFZQaV8wVjB4bnB3R0ZNZGFmdlhHWFpWakp4eDR6ZWNmejJhV21ad3IyYkQ0ZDVIaDVIc3FSUDJ60gGUAUFVX3lxTE02cm1XTDBpbGtFQktFeUZGLXkwOXRpVUE5TFlXQy1LR19RbUxSRU53d01HNFFwdTFnQUdmMWplYTZWLVprV2FzbjdoczBSWnJ2cHVJSndoRmxNQi1YVlBpXzBWMHhucHdHRk1kYWZ2WEdYWlZqSnh4NHplY2Z6MmFXbVp3cjJiRDRkNUhoNUhzcVJQMno?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnJtV0wwaWxrRUJLRXlGRi15MDl0aVVBOUxZV0MtS0dfUW1MUkVOd3dNRzRRcHUxZ0FHZjFqZWE2Vi1aa1dhc243aHMwUlpydnB1SUp3aEZsTUItWFZQaV8wVjB4bnB3R0ZNZGFmdlhHWFpWakp4eDR6ZWNmejJhV21ad3IyYkQ0ZDVIaDVIc3FSUDJ60gGUAUFVX3lxTE02cm1XTDBpbGtFQktFeUZGLXkwOXRpVUE5TFlXQy1LR19RbUxSRU53d01HNFFwdTFnQUdmMWplYTZWLVprV2FzbjdoczBSWnJ2cHVJSndoRmxNQi1YVlBpXzBWMHhucHdHRk1kYWZ2WEdYWlZqSnh4NHplY2Z6MmFXbVp3cjJiRDRkNUhoNUhzcVJQMno?oc=5\" target=\"_blank\">В пяти регионах России возникли перебои с электроснабжением после атак ВСУ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RT на русском</font>",
+      "source": "RT",
+      "pub": "Sat, 24 Oct 2026 12:21:31 GMT"
+    },
+    {
+      "title": "11-летняя британка побила 38-летний рекорд Юдит Полгар в шахматах - РБК",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rZHpGYmVoQXBfb2tXZzNMSERkSFpyNElJdFpBZF9kY3BURjVfaWVfeVFCZ0NJdlViQlRXcWlxcEVXaFYtMlk5cGlUS1h6bGNXUThUOHFEM1dUcVBTLUxfalVLUHpweDRES2JiSg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5rZHpGYmVoQXBfb2tXZzNMSERkSFpyNElJdFpBZF9kY3BURjVfaWVfeVFCZ0NJdlViQlRXcWlxcEVXaFYtMlk5cGlUS1h6bGNXUThUOHFEM1dUcVBTLUxfalVLUHpweDRES2JiSg?oc=5\" target=\"_blank\">11-летняя британка побила 38-летний рекорд Юдит Полгар в шахматах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 12:21:16 GMT"
+    },
+    {
+      "title": "В Софии застрелили вице-президента Болгарского олимпийского комитета - РБК",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHQlVOaXNiN3h5RTFRMHNtdGhOSUtVZHpqcjBhaXJQS2NldkVEcXI4TU5CQnRTQldxWVo5UGdoQmZwNV9Pcm1YVnEwbWRSMFVaLXYtaU85SkVHSDdlYlpGMmhaZTJKTEp2bFh6Sw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBHQlVOaXNiN3h5RTFRMHNtdGhOSUtVZHpqcjBhaXJQS2NldkVEcXI4TU5CQnRTQldxWVo5UGdoQmZwNV9Pcm1YVnEwbWRSMFVaLXYtaU85SkVHSDdlYlpGMmhaZTJKTEp2bFh6Sw?oc=5\" target=\"_blank\">В Софии застрелили вице-президента Болгарского олимпийского комитета</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 12:18:30 GMT"
+    },
+    {
+      "title": "Пулково принял более 30 московских рейсов 23 октября во время атаки на столицу - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbmNleURNR09OVE81VWFKS2x1ci04djFGNkw0ckpibW9YcFpYRi1oT0pNZmJtQVJqbmFweDE1czVRaFVoa0ZVb2V1LXBzdHVwTTJrNm5qSVFJaGMySzFjOENUbw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbmNleURNR09OVE81VWFKS2x1ci04djFGNkw0ckpibW9YcFpYRi1oT0pNZmJtQVJqbmFweDE1czVRaFVoa0ZVb2V1LXBzdHVwTTJrNm5qSVFJaGMySzFjOENUbw?oc=5\" target=\"_blank\">Пулково принял более 30 московских рейсов 23 октября во время атаки на столицу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 12:17:10 GMT"
+    },
+    {
+      "title": "Десятки летевших в Москву самолетов повернули в Пулково - ФОНТАНКА.ру",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwRmRGSE0zdms4azB1TXlKbWVFZTFucDNSTlppZ0lRcnlZQkUweFlWeTBzNzFTMVJaeGtESmtPajFJelRya3ZOaWpUQXJmZ2VlZEI5Z0JmZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwRmRGSE0zdms4azB1TXlKbWVFZTFucDNSTlppZ0lRcnlZQkUweFlWeTBzNzFTMVJaeGtESmtPajFJelRya3ZOaWpUQXJmZ2VlZEI5Z0JmZw?oc=5\" target=\"_blank\">Десятки летевших в Москву самолетов повернули в Пулково</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ФОНТАНКА.ру</font>",
+      "source": "Фонтанка",
+      "pub": "Sat, 24 Oct 2026 12:17:10 GMT"
+    },
+    {
+      "title": "МИД пообещал «жесткий ответ» на высылку дипломата из Молдавии из-за БПЛА - РБК",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jSXdDcXNxejB5ZVVZQ2ZuUU5LREFNbndJXzZYbnFSdFFfc1VqUDc3aU9MeThSODNNQ0Y2dFBQeWV1OWdhQ0Q4RlYzcHlKUVhUclFMc2JWMVh0MU1hX1ZhZ2E1T1ZMZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jSXdDcXNxejB5ZVVZQ2ZuUU5LREFNbndJXzZYbnFSdFFfc1VqUDc3aU9MeThSODNNQ0Y2dFBQeWV1OWdhQ0Q4RlYzcHlKUVhUclFMc2JWMVh0MU1hX1ZhZ2E1T1ZMZw?oc=5\" target=\"_blank\">МИД пообещал «жесткий ответ» на высылку дипломата из Молдавии из-за БПЛА</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РБК</font>",
+      "source": "РБК",
+      "pub": "Sat, 24 Oct 2026 12:13:38 GMT"
+    },
+    {
+      "title": "Сяо Хим Фа лидирует после короткой программы на этапе Гран-при ISU во Франции - РИА Новости",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KNDVTUUthU2JPdWNTTkNFdGppRnJaemM3cTBzTGowNnZTcE5FcEpyOGZzV21tUG8xNEtkYzRCZFQ0bUpjclk2UjRkVUR4Yjl2Q1NEOHpR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KNDVTUUthU2JPdWNTTkNFdGppRnJaemM3cTBzTGowNnZTcE5FcEpyOGZzV21tUG8xNEtkYzRCZFQ0bUpjclk2UjRkVUR4Yjl2Q1NEOHpR?oc=5\" target=\"_blank\">Сяо Хим Фа лидирует после короткой программы на этапе Гран-при ISU во Франции</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РИА Новости</font>",
+      "source": "РИА Новости",
+      "pub": "Sat, 24 Oct 2026 12:09:00 GMT"
+    },
+    {
+      "title": "Роспатент продлил защиту бренда Lego в России еще на десять лет — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2ZNNVhjVGx5QXlhMmRUUWp3ZXpaX2FEMi00QXllOUhWNHhtYkZEb1BlYWFOR1lVUUxLVkJYVWhxVU5EQmtCSS12Rk44bl9Wd3lIaFQzUUllajFDR1dFTE5feEwzbGk3Tkhtdjl2TXhOOWpvTnNiVmNnOTZ5Qkl3TktIWjJWY0hoN1IxeWswVWxsRi0xYmV1WGszX3dqY0k4blNqRjR6d2JXX0J2UjlaeE13QmE0R0pZ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2ZNNVhjVGx5QXlhMmRUUWp3ZXpaX2FEMi00QXllOUhWNHhtYkZEb1BlYWFOR1lVUUxLVkJYVWhxVU5EQmtCSS12Rk44bl9Wd3lIaFQzUUllajFDR1dFTE5feEwzbGk3Tkhtdjl2TXhOOWpvTnNiVmNnOTZ5Qkl3TktIWjJWY0hoN1IxeWswVWxsRi0xYmV1WGszX3dqY0k4blNqRjR6d2JXX0J2UjlaeE13QmE0R0pZ?oc=5\" target=\"_blank\">Роспатент продлил защиту бренда Lego в России еще на десять лет — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:13 GMT"
+    },
+    {
+      "title": "Более 10 тысяч тюльпанов высадили у Московских Ворот — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDZXaFpGRmg1cFpIRm9USzUxQ2pORG9KMjFkSVAyMkYyTWpwQmU1WnVacjJORW4zejRwUW5SSmRxV2xpX3l4QkQ5U2lxaHJPYUhNWndjc2VNd1dNWVR4cDE3NUhWeHBNOC1qaE80dzU5UEdSTEcyV0kyVUFWY2tMQ3NwcDZiQkYzZkUyOVNtUXA4NldBMXlIOVVkdkphTld5bGRBS0dyOWNmSjRYWWJOcDVjX0FEaWY3UFkwX2phQURTNEhtRm5WcngxUmZYaUJROGw0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDZXaFpGRmg1cFpIRm9USzUxQ2pORG9KMjFkSVAyMkYyTWpwQmU1WnVacjJORW4zejRwUW5SSmRxV2xpX3l4QkQ5U2lxaHJPYUhNWndjc2VNd1dNWVR4cDE3NUhWeHBNOC1qaE80dzU5UEdSTEcyV0kyVUFWY2tMQ3NwcDZiQkYzZkUyOVNtUXA4NldBMXlIOVVkdkphTld5bGRBS0dyOWNmSjRYWWJOcDVjX0FEaWY3UFkwX2phQURTNEhtRm5WcngxUmZYaUJROGw0?oc=5\" target=\"_blank\">Более 10 тысяч тюльпанов высадили у Московских Ворот — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    },
+    {
+      "title": "В Воронежскую область пришли первые заморозки: фото — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzdEWWUwTzBvOWRmb0labXhrY0pvbzJka1Ata0V5clJUaUY2Vi0zYzRuOUJoS0VwZFdtMVBLcWZVbzUxQkpaY2hlakY3dE9FRjZvUlJrX1pfa3N1bklKbTJXZHZmZTI4NnFpbXpZMEY3Y184QmczTENVdjlKQlpDZ0JxU1VjYW1rYlUzTm9BaUtzeU85bWlTTS1pYjJCWDAxSEdQTmRPaEp5NFFuWDY2eg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzdEWWUwTzBvOWRmb0labXhrY0pvbzJka1Ata0V5clJUaUY2Vi0zYzRuOUJoS0VwZFdtMVBLcWZVbzUxQkpaY2hlakY3dE9FRjZvUlJrX1pfa3N1bklKbTJXZHZmZTI4NnFpbXpZMEY3Y184QmczTENVdjlKQlpDZ0JxU1VjYW1rYlUzTm9BaUtzeU85bWlTTS1pYjJCWDAxSEdQTmRPaEp5NFFuWDY2eg?oc=5\" target=\"_blank\">В Воронежскую область пришли первые заморозки: фото — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    },
+    {
+      "title": "Брянская команда выиграла Первенство России по программированию — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUS1vUDVMT2dYYlcyMG1rblRlOGh5czdaMVM1bzVLclZ5Tm8zbWpEM1BtYTdWMG43MW81XzhyNk5VOUNGWFFXd1V0Wk5kTi1SQkxPNjdKTTFHTlR6ZUVjLVZJSmJGemo4bnBxZ1gtX0VOeTNGVHhYUEx3RmZKTWRiamRxVktBXzdsOENsVmxJc1ZONFBJRHh5WXRRWFJkQ1JCY1paSUZiYVFBV1RtUnFLT0kxQk1zZ2RpTzJ2TlRqdWk5U1gy?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPUS1vUDVMT2dYYlcyMG1rblRlOGh5czdaMVM1bzVLclZ5Tm8zbWpEM1BtYTdWMG43MW81XzhyNk5VOUNGWFFXd1V0Wk5kTi1SQkxPNjdKTTFHTlR6ZUVjLVZJSmJGemo4bnBxZ1gtX0VOeTNGVHhYUEx3RmZKTWRiamRxVktBXzdsOENsVmxJc1ZONFBJRHh5WXRRWFJkQ1JCY1paSUZiYVFBV1RtUnFLT0kxQk1zZ2RpTzJ2TlRqdWk5U1gy?oc=5\" target=\"_blank\">Брянская команда выиграла Первенство России по программированию — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    },
+    {
+      "title": "Президент Ирана Пезешкиан приедет в Москву 27 октября — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWtjLWhLcWJSWHNMRVpLRUhzRTBvSTZvU1d2RGRhYkRUWTdCVm8tMWJyLTRnbzJNQ2o0TjE0bFZ5ZmFqRzJLd1ZqTy1uekRqdFJDaDBTMkgyNGpjbEg3Z0VQWnNENXJSeHJsRmJjc3lmVlB0T0RFbkFWLUt2NmZHR2FYRFJNNWNQcXlMcW5vLWx1ckMwYlA2N1QtX0J6eHdWRnhhdEkyZTBqZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWtjLWhLcWJSWHNMRVpLRUhzRTBvSTZvU1d2RGRhYkRUWTdCVm8tMWJyLTRnbzJNQ2o0TjE0bFZ5ZmFqRzJLd1ZqTy1uekRqdFJDaDBTMkgyNGpjbEg3Z0VQWnNENXJSeHJsRmJjc3lmVlB0T0RFbkFWLUt2NmZHR2FYRFJNNWNQcXlMcW5vLWx1ckMwYlA2N1QtX0J6eHdWRnhhdEkyZTBqZw?oc=5\" target=\"_blank\">Президент Ирана Пезешкиан приедет в Москву 27 октября — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    },
+    {
+      "title": "Глава регионального минобра опроверг информацию о сокращении учителей в школах Иркутской области - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUmI2NFNfWmNGd1RCZ0pZeFNqelhqZkZacF9tcy1mZHBPNFZxekh0S1FWYjJRVmMteU9zNV9UT1A0VzRWZThJV210T0tDdHVucU1ZdXFQZWJaYU5HbXRZRDBLZnBoT1p5ODBoZEZzWW9DUk5NUjFRLTMtTTdFZ1NjdjFNdl9ZOUdnSUNVNVBhVXhOM2pQZnpoN2laanBXdWdVb0pXdzVtai1vUGNvczlhWGVjeXFMQl82NUlMUlotMkI2bF85SkVnUXA3a05qcHhqaHE5TWNpbUdpZUc4Mlh1TC1PNTZSQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUmI2NFNfWmNGd1RCZ0pZeFNqelhqZkZacF9tcy1mZHBPNFZxekh0S1FWYjJRVmMteU9zNV9UT1A0VzRWZThJV210T0tDdHVucU1ZdXFQZWJaYU5HbXRZRDBLZnBoT1p5ODBoZEZzWW9DUk5NUjFRLTMtTTdFZ1NjdjFNdl9ZOUdnSUNVNVBhVXhOM2pQZnpoN2laanBXdWdVb0pXdzVtai1vUGNvczlhWGVjeXFMQl82NUlMUlotMkI2bF85SkVnUXA3a05qcHhqaHE5TWNpbUdpZUc4Mlh1TC1PNTZSQQ?oc=5\" target=\"_blank\">Глава регионального минобра опроверг информацию о сокращении учителей в школах Иркутской области</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    },
+    {
+      "title": "В Курске на четырёх площадках открылась ярмарка «Осень - 2026» — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJPRi1tVjRTZWJzMzlCTlo3WnZFTWRfVlZEVElXdTJkU0xOUHhyTUxfSEdXUFF6aFczaGI2emF2NkJ6akhkUGVHQWJVZ3doWldOOHNuZWNKcEhtWk13NDFRMHV0aG9zVlE0eWNrVTFrQURvY0J5QURJUkd0aUVlTzJxNFBoakl5cG5FWG1yOHBPenBrMVFqT3k1d1AtWnlTYlo2QktOWk9Lak5GcnEzb0pKVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJPRi1tVjRTZWJzMzlCTlo3WnZFTWRfVlZEVElXdTJkU0xOUHhyTUxfSEdXUFF6aFczaGI2emF2NkJ6akhkUGVHQWJVZ3doWldOOHNuZWNKcEhtWk13NDFRMHV0aG9zVlE0eWNrVTFrQURvY0J5QURJUkd0aUVlTzJxNFBoakl5cG5FWG1yOHBPenBrMVFqT3k1d1AtWnlTYlo2QktOWk9Lak5GcnEzb0pKVQ?oc=5\" target=\"_blank\">В Курске на четырёх площадках открылась ярмарка «Осень - 2026» — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    },
+    {
+      "title": "Полиция применила слезоточивый газ против протестующих во французском Лионе — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVTVKMldvSFMwRUxxZjdZQTBrSGx6UldKTEszSjQyUnVkSzMxUlJpcHhzbHQxdXVkNmhScno5cjdvMHJoR2lvdnlTMXQxWDVleGVKSlZOaElpQ01Lb20zcElHT0V5QldlcU54MHRycF9MVm1CMDNJWW1WUDJVSFBWcUF1ZjRLV1E4ZlZCREN1LXpqbXo1VjdFb01QTHI0RHN5Q0hyMThOMUFsOURDRUFNQzlQeFJReWg0c3Z5SW1TQ01GQVJLNXNTSTBR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVTVKMldvSFMwRUxxZjdZQTBrSGx6UldKTEszSjQyUnVkSzMxUlJpcHhzbHQxdXVkNmhScno5cjdvMHJoR2lvdnlTMXQxWDVleGVKSlZOaElpQ01Lb20zcElHT0V5QldlcU54MHRycF9MVm1CMDNJWW1WUDJVSFBWcUF1ZjRLV1E4ZlZCREN1LXpqbXo1VjdFb01QTHI0RHN5Q0hyMThOMUFsOURDRUFNQzlQeFJReWg0c3Z5SW1TQ01GQVJLNXNTSTBR?oc=5\" target=\"_blank\">Полиция применила слезоточивый газ против протестующих во французском Лионе — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    },
+    {
+      "title": "Для воронежских школ установили объем внеурочных занятий по ИИ — читать подробности - ТАСС",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTdjaHVsbThMSHo1aXF1ay1ZRGxCRnZCM2t2NGNqbFI3bFk3dENhOV9uRGxJV1ExelJ4OVRSbTktSGE2OHUxTzdlUGVObFhhUDdMTmR5ZncwaXVlQmMtTDhoR0Z3QXNKUmhwZ3dyWHdSU2JqWE53bXJ5b2ZGSXVod3NENHR3UTBvYUp1eU5seGE4a1ZSNE1neHdteGxqZFpRWUFkU2Q3LXJjWmUyZHdER19lclFsY1RSVml2dUtXNXhxVDA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTdjaHVsbThMSHo1aXF1ay1ZRGxCRnZCM2t2NGNqbFI3bFk3dENhOV9uRGxJV1ExelJ4OVRSbTktSGE2OHUxTzdlUGVObFhhUDdMTmR5ZncwaXVlQmMtTDhoR0Z3QXNKUmhwZ3dyWHdSU2JqWE53bXJ5b2ZGSXVod3NENHR3UTBvYUp1eU5seGE4a1ZSNE1neHdteGxqZFpRWUFkU2Q3LXJjWmUyZHdER19lclFsY1RSVml2dUtXNXhxVDA?oc=5\" target=\"_blank\">Для воронежских школ установили объем внеурочных занятий по ИИ — читать подробности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ТАСС</font>",
+      "source": "ТАСС",
+      "pub": "Sat, 24 Oct 2026 12:06:12 GMT"
+    }
+  ]
 }
