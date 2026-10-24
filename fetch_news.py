@@ -98,6 +98,57 @@ def fetch(src):
     raise last
 
 
+def get_json(url):
+    req = urllib.request.Request(url, headers=UA)
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def fetch_rates(old):
+    """USD/EUR (ЦБ РФ), Brent и BTC. v — текущее значение, p — предыдущее (для индикатора роста/падения)."""
+    rates = dict(old)  # если что-то не загрузилось — остаётся прошлое значение
+
+    try:
+        v = get_json("https://www.cbr-xml-daily.ru/daily_json.js")["Valute"]
+        for key, code in (("usd", "USD"), ("eur", "EUR")):
+            rates[key] = {"v": v[code]["Value"], "p": v[code]["Previous"]}
+        print("OK   курсы ЦБ")
+    except Exception as e:
+        print(f"FAIL курсы ЦБ: {e}")
+
+    try:
+        j = get_json("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true")["bitcoin"]
+        rates["btc"] = {"v": j["usd"], "p": j["usd"] / (1 + (j.get("usd_24h_change") or 0) / 100)}
+        print("OK   BTC (CoinGecko)")
+    except Exception as e:
+        print(f"     BTC CoinGecko: {e}")
+        try:
+            j = get_json("https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT")
+            rates["btc"] = {"v": float(j["lastPrice"]), "p": float(j["openPrice"])}
+            print("OK   BTC (Binance)")
+        except Exception as e2:
+            print(f"FAIL BTC: {e2}")
+
+    try:
+        j = get_json("https://query1.finance.yahoo.com/v8/finance/chart/BZ=F?range=5d&interval=1d")["chart"]["result"][0]
+        closes = [c for c in j["indicators"]["quote"][0]["close"] if c is not None]
+        v = j["meta"].get("regularMarketPrice") or closes[-1]
+        rates["brent"] = {"v": v, "p": closes[-2] if len(closes) > 1 else v}
+        print("OK   Brent (Yahoo)")
+    except Exception as e:
+        print(f"     Brent Yahoo: {e}")
+        try:
+            req = urllib.request.Request("https://stooq.com/q/l/?s=cb.f&f=sd2t2ohlcv&h&e=csv", headers=UA)
+            with urllib.request.urlopen(req, timeout=20) as r:
+                row = r.read().decode("utf-8").strip().splitlines()[1].split(",")
+            rates["brent"] = {"v": float(row[6]), "p": float(row[3])}  # закрытие и открытие дня
+            print("OK   Brent (Stooq)")
+        except Exception as e2:
+            print(f"FAIL Brent: {e2}")
+
+    return rates
+
+
 def main():
     try:
         old = json.load(open("news.json", encoding="utf-8")).get("items", [])
@@ -115,6 +166,13 @@ def main():
     items.sort(key=lambda x: x["t"], reverse=True)
     json.dump({"updated": datetime.now(timezone.utc).isoformat(), "items": items},
               open("news.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+    try:
+        old_rates = json.load(open("rates.json", encoding="utf-8")).get("rates", {})
+    except Exception:
+        old_rates = {}
+    json.dump({"updated": datetime.now(timezone.utc).isoformat(), "rates": fetch_rates(old_rates)},
+              open("rates.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
 if __name__ == "__main__":
