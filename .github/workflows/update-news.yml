@@ -2,11 +2,15 @@ name: Update TrueNews news
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -18,9 +22,9 @@ jobs:
           python-version: "3.12"
       - name: Fetch feeds
         run: python fetch_news.py
-      - name: Commit news.json and rates.json
+      - name: Commit data files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json rates.json
+          git add news.json rates.json full.json
           git diff --staged --quiet || (git commit -m "Update news" && git push)
