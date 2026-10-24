@@ -2,6 +2,8 @@
 """Собирает RSS-ленты и пишет news.json. Только стандартная библиотека."""
 import json, re, html, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
+from html.parser import HTMLParser
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
@@ -40,6 +42,8 @@ SOURCES = [
 ]
 PER_SOURCE = 60
 TOTAL_MAX = 700  # максимум новостей в news.json
+ENRICH_N = 200   # для стольких свежих новостей собираем расширенный текст (full.json)
+FULL_MAX = 1800  # длина расширенного текста; дальше — ссылка на источник
 NS = {"media": "http://search.yahoo.com/mrss/"}
 UA = {"User-Agent": "Mozilla/5.0 (compatible; TrueNewsBot/1.0)"}
 
@@ -90,7 +94,8 @@ def fetch_url(src, url):
         tags = [clean(c.text) for c in it.findall("category") if c.text]
         out.append({
             "id": src["id"], "src": src["name"], "title": title, "link": link,
-            "text": clean(it.findtext("description"))[:300],
+            "text": "" if "news.google.com" in url else clean(it.findtext("description"))[:300],
+            "full": "" if "news.google.com" in url else feed_full(it),
             "img": find_img(it),
             "tags": tags[:6],
             "t": parse_date(it.findtext("pubDate")).isoformat(),
@@ -111,6 +116,88 @@ def fetch(src):
             last = e
             print(f"     {src['name']}: {url} -> {e}")
     raise last
+
+
+def paragraphize(raw):
+    """HTML -> чистый текст, абзацы разделены переводом строки."""
+    t = html.unescape(raw or "")
+    t = re.sub(r"(?i)</p>|<br\s*/?>|</div>|</li>", "\n", t)
+    t = re.sub(r"<[^>]*>", " ", t)
+    lines = [re.sub(r"\s+", " ", ln).strip() for ln in t.split("\n")]
+    return "\n".join(ln for ln in lines if ln)
+
+
+def trim(text, n=FULL_MAX):
+    """Обрезаем по границе предложения, чтобы текст не обрывался на полуслове."""
+    if len(text) <= n:
+        return text
+    cut = text[:n]
+    i = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "), cut.rfind("\n"))
+    if i > n * 0.5:
+        cut = cut[:i + 1]
+    return cut.rstrip() + " …"
+
+
+def feed_full(it):
+    """Полный текст, если лента его отдаёт (content:encoded, yandex:full-text и т.п.)."""
+    best = ""
+    for ch in it:
+        if isinstance(ch.tag, str) and ch.tag.split("}")[-1] in ("encoded", "full-text", "fulltext") and ch.text:
+            t = paragraphize(ch.text)
+            if len(t) > len(best):
+                best = t
+    return best
+
+
+class _Article(HTMLParser):
+    SKIP = {"script", "style", "nav", "footer", "aside", "header", "form", "noscript", "svg", "button", "iframe"}
+
+    def __init__(self):
+        super().__init__()
+        self.skip = self.art = 0
+        self.in_p = False
+        self.cur = []
+        self.a_paras, self.paras = [], []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.SKIP:
+            self.skip += 1
+        elif tag == "article":
+            self.art += 1
+        elif tag == "p" and not self.skip:
+            self.in_p, self.cur = True, []
+
+    def handle_endtag(self, tag):
+        if tag in self.SKIP:
+            self.skip = max(0, self.skip - 1)
+        elif tag == "article":
+            self.art = max(0, self.art - 1)
+        elif tag == "p" and self.in_p:
+            self.in_p = False
+            t = re.sub(r"\s+", " ", "".join(self.cur)).strip()
+            if len(t) >= 60 and not re.search(r"(?i)cookie|подписывайтесь|читайте также|все права защищены|©", t):
+                (self.a_paras if self.art else self.paras).append(t)
+
+    def handle_data(self, d):
+        if self.in_p and not self.skip:
+            self.cur.append(d)
+
+
+def page_text(link):
+    """Первые абзацы статьи со страницы источника (для расширенного просмотра)."""
+    if not link.startswith("http") or "news.google.com" in link:
+        return ""
+    try:
+        req = urllib.request.Request(link, headers=UA)
+        with urllib.request.urlopen(req, timeout=12) as r:
+            raw = r.read(900_000)
+            enc = r.headers.get_content_charset() or "utf-8"
+        parser = _Article()
+        parser.feed(raw.decode(enc, errors="replace"))
+        paras = parser.a_paras or parser.paras
+        return trim("\n".join(paras)) if paras else ""
+    except Exception:
+        return ""
 
 
 def get_json(url):
@@ -186,6 +273,30 @@ def main():
             seen.add(k)
             uniq.append(x)
     items = uniq[:TOTAL_MAX]
+
+    # ---- расширенные тексты для article.html (отдельный файл, чтобы главная не тяжелела) ----
+    try:
+        cache = json.load(open("full.json", encoding="utf-8"))
+    except Exception:
+        cache = {}
+    window = items[:ENRICH_N]
+    full_map, todo = {}, []
+    for x in window:
+        f = trim(x.get("full", ""))
+        if len(f) >= 300:
+            full_map[x["link"]] = f
+        elif x["link"] in cache:          # уже пробовали раньше (в т.ч. неудачно) — не дёргаем сайт снова
+            full_map[x["link"]] = cache[x["link"]]
+        else:
+            todo.append(x["link"])
+    if todo:
+        with ThreadPoolExecutor(max_workers=8) as ex:
+            for link, t in zip(todo, ex.map(page_text, todo)):
+                full_map[link] = t if len(t) >= 200 else ""
+        print(f"Расширенный текст: загружено {sum(1 for l in todo if full_map[l])} из {len(todo)}")
+    for x in items:
+        x.pop("full", None)
+    json.dump(full_map, open("full.json", "w", encoding="utf-8"), ensure_ascii=False)
     json.dump({"updated": datetime.now(timezone.utc).isoformat(), "items": items},
               open("news.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
