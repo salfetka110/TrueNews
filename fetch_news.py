@@ -12,19 +12,34 @@ def gn(q):
 
 
 SOURCES = [
-    {"id": "rbc",  "name": "РБК",      "urls": ["https://rssexport.rbc.ru/rbcnews/news/30/full.rss"]},
-    # Фонтанка: пробуем официальные ленты, в крайнем случае — Google News по сайту
-    {"id": "fon",  "name": "Фонтанка", "urls": ["https://www.fontanka.ru/fontanka.rss",
-                                                "https://www.fontanka.ru/rss.xml",
-                                                gn("site:fontanka.ru")]},
-    # Остальные петербургские СМИ (чтобы категория «СПБ» не пустовала)
-    {"id": "n78",  "name": "78.ru",    "urls": [gn("site:78.ru")]},
-    {"id": "moika", "name": "Мойка78", "urls": [gn("site:moika78.ru")]},
+    # Общероссийские (родная лента, при сбое — Google News по сайту)
+    {"id": "rbc",  "name": "РБК",         "urls": ["https://rssexport.rbc.ru/rbcnews/news/30/full.rss", gn("site:rbc.ru")]},
+    {"id": "tass", "name": "ТАСС",        "urls": ["https://tass.ru/rss/v2.xml", gn("site:tass.ru")]},
+    {"id": "ria",  "name": "РИА Новости", "urls": ["https://ria.ru/export/rss2/archive/index.xml", gn("site:ria.ru")]},
+    {"id": "lenta", "name": "Лента.ру",   "urls": ["https://lenta.ru/rss/news", gn("site:lenta.ru")]},
+    {"id": "kom",  "name": "Коммерсантъ", "urls": ["https://www.kommersant.ru/RSS/news.xml", gn("site:kommersant.ru")]},
+    {"id": "iz",   "name": "Известия",    "urls": ["https://iz.ru/xml/rss/all.xml", gn("site:iz.ru")]},
+    {"id": "intf", "name": "Интерфакс",   "urls": ["https://www.interfax.ru/rss.asp", gn("site:interfax.ru")]},
+    {"id": "ved",  "name": "Ведомости",   "urls": ["https://www.vedomosti.ru/rss/news", gn("site:vedomosti.ru")]},
+    {"id": "gaz",  "name": "Газета.ру",   "urls": ["https://www.gazeta.ru/export/rss/lenta.xml", gn("site:gazeta.ru")]},
+    {"id": "rt",   "name": "RT",          "urls": ["https://russian.rt.com/rss", gn("site:russian.rt.com")]},
+    {"id": "bbc",  "name": "BBC Русская служба", "urls": ["https://feeds.bbci.co.uk/russian/rss.xml"]},
+    {"id": "dzen", "name": "Дзен",        "urls": ["https://dzen.ru/news/rss"]},
+    # Петербург
+    {"id": "fon",  "name": "Фонтанка",    "urls": ["https://www.fontanka.ru/fontanka.rss",
+                                                    "https://www.fontanka.ru/rss.xml",
+                                                    gn("site:fontanka.ru")]},
+    {"id": "n78",  "name": "78.ru",       "urls": [gn("site:78.ru")]},
+    {"id": "moika", "name": "Мойка78",    "urls": [gn("site:moika78.ru")]},
     {"id": "spbd", "name": "Петербургский дневник", "urls": [gn("site:spbdnevnik.ru")]},
-    {"id": "rt",   "name": "RT",       "urls": ["https://russian.rt.com/rss"]},
-    {"id": "dzen", "name": "Дзен",     "urls": ["https://dzen.ru/news/rss"]},
+    {"id": "rosb", "name": "Росбалт",     "urls": ["https://www.rosbalt.ru/feed/", gn("site:rosbalt.ru")]},
+    {"id": "neva", "name": "Neva.Today",  "urls": [gn("site:neva.today")]},
+    # Спорт
+    {"id": "champ", "name": "Чемпионат",  "urls": ["https://www.championat.com/rss/news/", gn("site:championat.com")]},
+    {"id": "sports", "name": "Sports.ru", "urls": ["https://www.sports.ru/rss/all_news.xml", gn("site:sports.ru")]},
 ]
-PER_SOURCE = 30
+PER_SOURCE = 60
+TOTAL_MAX = 700  # максимум новостей в news.json
 NS = {"media": "http://search.yahoo.com/mrss/"}
 UA = {"User-Agent": "Mozilla/5.0 (compatible; TrueNewsBot/1.0)"}
 
@@ -163,7 +178,14 @@ def main():
             got = [x for x in old if x.get("id") == s["id"]]  # оставляем прошлые
             print(f"FAIL {s['name']}: {e} (оставлено {len(got)})")
         items += got
-    items.sort(key=lambda x: x["t"], reverse=True)
+    # убираем дубли по заголовку, свежие сначала
+    seen, uniq = set(), []
+    for x in sorted(items, key=lambda x: x["t"], reverse=True):
+        k = re.sub(r"\W+", "", x["title"].lower())
+        if k and k not in seen:
+            seen.add(k)
+            uniq.append(x)
+    items = uniq[:TOTAL_MAX]
     json.dump({"updated": datetime.now(timezone.utc).isoformat(), "items": items},
               open("news.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
