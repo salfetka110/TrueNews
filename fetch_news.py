@@ -1,16 +1,26 @@
 #!/usr/bin/env python3
 """Собирает RSS-ленты и пишет news.json. Только стандартная библиотека."""
-import json, re, html, urllib.request
+import json, re, html, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
-GN = "https://news.google.com/rss/search?q=site:fontanka.ru+when:2d&hl=ru&gl=RU&ceid=RU:ru"
+def gn(q):
+    """Лента Google News по запросу (запасной вариант, когда у сайта нет своего RSS)."""
+    return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q + " when:2d")
+            + "&hl=ru&gl=RU&ceid=RU:ru")
+
+
 SOURCES = [
     {"id": "rbc",  "name": "РБК",      "urls": ["https://rssexport.rbc.ru/rbcnews/news/30/full.rss"]},
     # Фонтанка: пробуем официальные ленты, в крайнем случае — Google News по сайту
     {"id": "fon",  "name": "Фонтанка", "urls": ["https://www.fontanka.ru/fontanka.rss",
-                                                "https://www.fontanka.ru/rss.xml", GN]},
+                                                "https://www.fontanka.ru/rss.xml",
+                                                gn("site:fontanka.ru")]},
+    # Остальные петербургские СМИ (чтобы категория «СПБ» не пустовала)
+    {"id": "n78",  "name": "78.ru",    "urls": [gn("site:78.ru")]},
+    {"id": "moika", "name": "Мойка78", "urls": [gn("site:moika78.ru")]},
+    {"id": "spbd", "name": "Петербургский дневник", "urls": [gn("site:spbdnevnik.ru")]},
     {"id": "rt",   "name": "RT",       "urls": ["https://russian.rt.com/rss"]},
     {"id": "dzen", "name": "Дзен",     "urls": ["https://dzen.ru/news/rss"]},
 ]
@@ -57,7 +67,8 @@ def fetch_url(src, url):
     for it in root.iter("item"):
         title = clean(it.findtext("title"))
         # у Google News в конце заголовка « - Название сайта»
-        title = re.sub(r"\s+-\s+Фонтанка(\.ру)?$", "", title)
+        if "news.google.com" in url:
+            title = re.sub(r"\s+-\s+[^-]{2,40}$", "", title)
         link = (it.findtext("link") or "").strip()
         if not title or not link:
             continue
