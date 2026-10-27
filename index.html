@@ -9,6 +9,7 @@
 *{box-sizing:border-box;margin:0}
 html{color-scheme:dark;background:#070912}
 body{min-height:100vh;font:16px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Display",Inter,"Segoe UI",system-ui,sans-serif;color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+[hidden]{display:none!important}
 .bg{position:fixed;inset:0;z-index:-1;overflow:hidden}
 .bg i{position:absolute;border-radius:50%;filter:blur(60px);opacity:.7;animation:drift 24s ease-in-out infinite alternate}
 .bg i:nth-child(1){width:60vmax;height:60vmax;background:#4a5cff;top:-22vmax;left:-18vmax}
@@ -69,6 +70,12 @@ header.searching #q{display:block}
 .sk::before{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 30%,rgba(255,255,255,.14) 50%,transparent 70%);transform:translateX(-100%);animation:sh 1.3s infinite}
 @keyframes sh{to{transform:translateX(100%)}}
 
+#stream{display:flex;flex-direction:column;gap:14px;padding:16px}
+#stream h3{font-size:clamp(22px,4vw,30px);line-height:1.15;letter-spacing:-.02em}
+.player{position:relative;aspect-ratio:16/9;border-radius:18px;overflow:hidden;background:#000}
+.player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.btn{align-self:flex-start;padding:12px 24px;border-radius:99px;color:var(--text);text-decoration:none;font-weight:650}
+
 nav.glass{position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);display:flex;gap:2px;padding:6px;max-width:calc(100% - 24px);overflow-x:auto;scrollbar-width:none;border-radius:99px;z-index:6}
 nav::-webkit-scrollbar{display:none}
 nav button{position:relative;z-index:1;background:none;border:0;color:var(--muted);font:inherit;font-size:14.5px;font-weight:620;padding:10px 17px;border-radius:99px;cursor:pointer;white-space:nowrap;transition:color .3s}
@@ -91,13 +98,24 @@ a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
   <p id="st"></p>
   <main id="grid"></main>
   <button id="more" class="glass" hidden>Показать ещё</button>
+
+  <!-- Вкладка «Стрим» -->
+  <section id="stream" class="glass" hidden>
+    <div class="meta"><span class="chip">Kick</span><span>jesusavgn</span></div>
+    <h3>Прямой эфир</h3>
+    <div class="player">
+      <iframe data-src="https://player.kick.com/jesusavgn" title="Стрим jesusavgn" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
+    <h3>Повторы стримов</h3>
+    <a class="btn glass" href="https://kick.com/jesusavgn/videos" target="_blank" rel="noopener">Смотреть записи на Kick</a>
+  </section>
 </div>
 <nav id="tabs" class="glass" aria-label="Категории"><span class="pill"></span></nav>
 
 <script>
 // Новости берутся из news.json, который обновляет GitHub Actions
 const DATA="news.json";
-const CATS=[{id:"all",name:"Все"},{id:"politics",name:"Политика"},{id:"incidents",name:"Происшествия"},{id:"spb",name:"СПБ"},{id:"culture",name:"Культура"},{id:"sport",name:"Спорт"}];
+const CATS=[{id:"all",name:"Все"},{id:"politics",name:"Политика"},{id:"incidents",name:"Происшествия"},{id:"spb",name:"СПБ"},{id:"culture",name:"Культура"},{id:"sport",name:"Спорт"},{id:"stream",name:"Стрим"}];
 const P=w=>new RegExp("(?<![а-яёa-z0-9])(?:"+w.join("|")+")","i");
 const RULES={
  politics:P(["путин","президент","правительств","госдум","совфед","совет федерации","министр","кремл","выбор","депутат","санкци","переговор","лавров","песков","зеленск","трамп","байден","нато","политик","губернатор","указ","законопроект","мид(?![а-я])","сво(?![а-я])","всу(?![а-я])","спецоперац","украин","евросоюз","партия","партии","мэр(?![а-я])"]),
@@ -163,6 +181,14 @@ function mark(){
 }
 async function show(id){
  cur=id;const my=++tok;mark();
+ // Вкладка «Стрим»: показываем плеер вместо ленты (при поиске — обычная лента)
+ const isS=id==="stream"&&!q;
+ $("#stream").hidden=!isS;g.hidden=isS;
+ if(isS){
+  $("#more").hidden=true;$("#st").textContent="";
+  const f=$("#stream iframe");if(!f.getAttribute("src"))f.src=f.dataset.src;
+  return;
+ }
  let res=null;const p=get(id).then(x=>res=x);
  g.classList.add("out");await wait(200);
  if(my!==tok)return;
@@ -215,6 +241,7 @@ setInterval(async()=>{
   const j=await jget(DATA+"?v="+Date.now());
   if(!UPD||!j.updated||j.updated===UPD)return;
   DB=null;
+  if(cur==="stream"&&!q)return;
   if(!q&&scrollY<150)show(cur);
   else{NEWF=true;const st=$("#st");st.textContent="Появились новые новости — нажмите, чтобы обновить";st.style.cursor="pointer"}
  }catch(e){}
