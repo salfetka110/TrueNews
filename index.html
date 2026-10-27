@@ -73,7 +73,17 @@ header.searching #q{display:block}
 #stream{display:flex;flex-direction:column;gap:14px;padding:16px}
 #stream h3{font-size:clamp(22px,4vw,30px);line-height:1.15;letter-spacing:-.02em}
 .player{position:relative;aspect-ratio:16/9;border-radius:18px;overflow:hidden;background:#000}
-.player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.player iframe,.player video{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
+.vt{font-size:14px;color:var(--muted)}
+.vh{margin-top:6px;font-size:15px;font-weight:680;color:var(--text)}
+#vods{display:flex;flex-direction:column;gap:10px}
+.vi{display:flex;align-items:center;gap:12px;width:100%;padding:10px;border-radius:20px;color:var(--text);font:inherit;text-align:left;cursor:pointer}
+.vi img{width:112px;aspect-ratio:16/9;object-fit:cover;border-radius:12px;flex:none}
+.vx{display:flex;flex-direction:column;gap:3px;min-width:0}
+.vx b{font-size:15px;line-height:1.25;font-weight:650;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.vx small{font-size:12.5px;color:var(--muted)}
+#vod{display:flex;flex-direction:column;gap:10px}
+#vod a{color:var(--text)}
 .btn{align-self:flex-start;padding:12px 24px;border-radius:99px;color:var(--text);text-decoration:none;font-weight:650}
 
 nav.glass{position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);display:flex;gap:2px;padding:6px;max-width:calc(100% - 24px);overflow-x:auto;scrollbar-width:none;border-radius:99px;z-index:6}
@@ -106,8 +116,15 @@ a:focus-visible,button:focus-visible{outline:2px solid #fff;outline-offset:2px}
     <div class="player">
       <iframe data-src="https://player.kick.com/jesusavgn" title="Стрим jesusavgn" allow="autoplay; fullscreen" allowfullscreen></iframe>
     </div>
+    <a class="btn glass" href="https://kick.com/popout/jesusavgn/chat" target="_blank" rel="noopener">Открыть чат Kick</a>
     <h3>Повторы стримов</h3>
-    <a class="btn glass" href="https://kick.com/jesusavgn/videos" target="_blank" rel="noopener">Смотреть записи на Kick</a>
+    <div id="vod" hidden>
+      <div class="player"><video id="vodv" controls playsinline></video></div>
+      <p id="vodt" class="vt"></p>
+      <p id="vodmsg" class="vt" hidden>Не удалось проиграть запись здесь. <a id="vodlk" href="#" target="_blank" rel="noopener">Смотреть на Kick</a></p>
+    </div>
+    <div id="vods"><p class="vt">Загрузка…</p></div>
+    <a class="btn glass" href="https://kick.com/jesusavgn/videos" target="_blank" rel="noopener">Все записи на Kick</a>
   </section>
 </div>
 <nav id="tabs" class="glass" aria-label="Категории"><span class="pill"></span></nav>
@@ -186,7 +203,7 @@ async function show(id){
  $("#stream").hidden=!isS;g.hidden=isS;
  if(isS){
   $("#more").hidden=true;$("#st").textContent="";
-  const f=$("#stream iframe");if(!f.getAttribute("src"))f.src=f.dataset.src;
+  const f=$("#stream iframe");if(!f.getAttribute("src"))f.src=f.dataset.src;loadVods();
   return;
  }
  let res=null;const p=get(id).then(x=>res=x);
@@ -215,6 +232,50 @@ function closeS(){hd.classList.remove("searching");sb.setAttribute("aria-label",
 sb.onclick=()=>hd.classList.contains("searching")?closeS():openS();
 let qt;qi.addEventListener("input",()=>{clearTimeout(qt);qt=setTimeout(()=>{if(qi.value.trim()!==q){q=qi.value.trim();show(cur)}},250)});
 qi.addEventListener("keydown",e=>{if(e.key==="Escape")closeS()});
+
+// Повторы стримов Kick: список берётся из videos.json (обновляет GitHub Actions)
+let VODS=null,hls=null,hlsLoading=null;
+const dur=ms=>{const s=Math.floor(ms/1e3),h=Math.floor(s/3600),m=Math.floor(s%3600/60);return h+":"+String(m).padStart(2,"0")+":"+String(s%60).padStart(2,"0")};
+function loadHls(){
+ if(window.Hls)return Promise.resolve();
+ return hlsLoading||(hlsLoading=new Promise((ok,no)=>{const s=document.createElement("script");s.src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.17/hls.min.js";s.onload=ok;s.onerror=no;document.head.append(s)}));
+}
+async function loadVods(){
+ if(VODS)return;
+ const box=$("#vods");
+ try{
+  const j=await jget("videos.json?v="+Date.now());
+  VODS=(j.videos||[]).map(v=>({...v,t:new Date(v.date)})).filter(v=>v.hls&&!isNaN(v.t)).sort((a,b)=>b.t-a.t);
+  if(!VODS.length)throw 0;
+ }catch(e){VODS=null;box.innerHTML='<p class="vt">Список повторов пока недоступен. Записи можно посмотреть на Kick по кнопке ниже.</p>';return}
+ let day="",h="";
+ VODS.forEach((v,i)=>{
+  const d=v.t.toLocaleDateString("ru-RU",{day:"numeric",month:"long",year:"numeric"});
+  if(d!==day){day=d;h+=`<h4 class="vh">${esc(d)}</h4>`}
+  h+=`<button class="vi glass" data-i="${i}">${v.thumb?`<img src="${esc(safe(v.thumb))}" alt="" loading="lazy" onerror="this.remove()">`:""}<span class="vx"><b>${esc(v.title||"Стрим")}</b><small>${v.t.toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"})} · ${dur(v.duration)} · ${nf(v.views||0,0)} просм.</small></span></button>`;
+ });
+ box.innerHTML=h;
+}
+async function playVod(v){
+ const box=$("#vod"),vid=$("#vodv"),msg=$("#vodmsg");
+ box.hidden=false;msg.hidden=true;
+ $("#vodt").textContent=(v.title||"Стрим")+" · "+v.t.toLocaleDateString("ru-RU");
+ $("#vodlk").href="https://kick.com/video/"+encodeURIComponent(v.uuid);
+ const fail=()=>{msg.hidden=false};
+ if(hls){hls.destroy();hls=null}
+ box.scrollIntoView({behavior:"smooth",block:"center"});
+ try{
+  if(vid.canPlayType("application/vnd.apple.mpegurl")){vid.src=v.hls}
+  else{
+   await loadHls();
+   if(!window.Hls||!Hls.isSupported())return fail();
+   hls=new Hls();hls.loadSource(v.hls);hls.attachMedia(vid);
+   hls.on(Hls.Events.ERROR,(_,d)=>{if(d.fatal)fail()});
+  }
+  vid.play().catch(()=>{});
+ }catch(e){fail()}
+}
+$("#vods").addEventListener("click",e=>{const b=e.target.closest(".vi");if(b&&VODS)playVod(VODS[+b.dataset.i])});
 
 // Курсы: USD/EUR (ЦБ РФ), Brent и запасные значения — из rates.json, BTC — из открытых API
 const R={usd:null,eur:null,brent:null,btc:null};
